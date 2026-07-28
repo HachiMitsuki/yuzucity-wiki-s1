@@ -169,7 +169,7 @@ body::after{
   font-size: .55rem;
   font-weight: 700;
   letter-spacing: .25em;
-  color: var(--ink);
+  color: var(--text);
   background: linear-gradient(110deg, var(--yuzu), var(--yuzu-bright));
   padding: .18rem .5rem;
   border-radius: 999px;
@@ -2061,6 +2061,89 @@ main > section{
 }
 
 /* ==============================================================
+   STORY PAGE — index only: the whole page is full-bleed chapters,
+   no sidebar, no boxed card-grid. Every section is a scroll "moment".
+   ============================================================== */
+body[data-page="index"] .app{ display: block; max-width: 100%; min-height: 0 }
+body[data-page="index"] .sidebar{ display: none }
+body[data-page="index"] .menu-toggle{ display: none }
+body[data-page="index"] main{ padding: 0; max-width: 100%; overflow: hidden }
+body[data-page="index"] section{ margin-bottom: 0 }
+
+.yc-chapter{ position: relative; width: 100%; padding: 5.5rem 1.6rem; overflow: hidden }
+.yc-chapter-inner{ max-width: 980px; margin: 0 auto; position: relative; z-index: 1 }
+.yc-chapter-inner.wide{ max-width: 1180px }
+
+/* --- Hero: full viewport --- */
+.yc-chapter-hero{
+  min-height: 100svh;
+  display: flex; flex-direction: column; justify-content: center;
+  padding: 6.5rem 1.6rem 2rem;
+  background: var(--ink);
+}
+
+/* --- Alternating chapter backgrounds for rhythm as you scroll --- */
+.yc-chapter-notice{ background: var(--ink-2); padding: 3.2rem 1.6rem }
+.yc-chapter-timeline{ background: var(--ink); padding: 6rem 1.6rem }
+
+.yc-chapter-foreword{ background: var(--text-deep); color: var(--ink-3); padding: 7rem 1.6rem }
+.yc-chapter-foreword .yc-chapter-inner{ color: var(--ink-3) }
+
+.yc-chapter-stats{ background: var(--yuzu); padding: 6rem 1.6rem }
+.yc-chapter-stats .section-title, .yc-chapter-stats .section-subtitle{ color: var(--text) }
+.yc-chapter-stats .stats{ background: transparent; border: none }
+.yc-chapter-stats .stat{ background: rgba(28,28,28,.06); border-right-color: rgba(28,28,28,.12); border-radius: var(--radius-sm) }
+.yc-chapter-stats .stat-num{ color: var(--text) }
+.yc-chapter-stats .stat-label{ color: rgba(28,28,28,.68) }
+.yc-chapter-stats .notice{ background: rgba(28,28,28,.06); border-color: rgba(28,28,28,.12); color: var(--text) }
+.yc-chapter-stats .notice-title{ color: var(--text) }
+
+.yc-chapter-features{ background: var(--ink-2); padding: 6rem 1.6rem }
+.yc-chapter-etiquette{ background: var(--ink); padding: 5.5rem 1.6rem }
+
+/* --- Wiki category chapters: big, bold, one color per category --- */
+.yc-chapter-cat{ padding: 6rem 1.6rem; color: #FDF6E6 }
+.yc-chapter-cat .section-title{ color: #FDF6E6 }
+.yc-chapter-cat .section-subtitle{ color: rgba(253,246,230,.75) }
+.yc-chapter-cat .section-header{ border-bottom-color: rgba(253,246,230,.2) }
+.yc-chapter-cat .card{ background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.16); backdrop-filter: blur(6px) }
+.yc-chapter-cat .card:hover{ background: rgba(255,255,255,.14) }
+.yc-chapter-cat .card-title{ color: #FDF6E6 }
+.yc-chapter-cat .card p{ color: rgba(253,246,230,.72) !important }
+.yc-chapter-cat .card-meta{ color: rgba(253,246,230,.5) }
+.yc-chapter-cat.cat-overview{ background: var(--text-deep) }
+.yc-chapter-cat.cat-rules{ background: #6B2019 }
+.yc-chapter-cat.cat-jobs{ background: #1F4159 }
+.yc-chapter-cat.cat-catalog{ background: #21503A }
+.yc-chapter-cat.cat-latest{ background: #7A5000 }
+.yc-chapter-cat.cat-archive{ background: var(--ink-2); color: var(--text) }
+.yc-chapter-cat.cat-archive .section-title{ color: var(--text) }
+.yc-chapter-cat.cat-archive .section-subtitle{ color: var(--text-dim) }
+.yc-chapter-cat.cat-archive .section-header{ border-bottom-color: var(--line) }
+.yc-chapter-cat.cat-archive .card{ background: var(--ink-3); border-color: var(--line); backdrop-filter: none }
+.yc-chapter-cat.cat-archive .card:hover{ background: var(--ink-4) }
+.yc-chapter-cat.cat-archive .card-title{ color: var(--text) }
+.yc-chapter-cat.cat-archive .card p{ color: var(--text-dim) !important }
+.yc-chapter-cat.cat-archive .card-meta{ color: var(--text-faint) }
+.yc-chapter-cat.cat-archive .yc-chapter-label{ color: var(--text-faint) }
+
+.yc-chapter-label{
+  font-family: var(--font-mono);
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .34em;
+  text-transform: uppercase;
+  opacity: .65;
+  margin-bottom: .6rem;
+}
+
+@media (max-width: 700px){
+  .yc-chapter, .yc-chapter-hero, .yc-chapter-notice, .yc-chapter-timeline,
+  .yc-chapter-foreword, .yc-chapter-stats, .yc-chapter-features,
+  .yc-chapter-etiquette, .yc-chapter-cat{ padding-left: 1.1rem; padding-right: 1.1rem }
+}
+
+/* ==============================================================
    SCROLL JOURNEY — index-only: bouncing scroll cue + history timeline
    ============================================================== */
 .yc-scrollcue{
@@ -2265,7 +2348,7 @@ main > section{
   font-weight: 700;
   letter-spacing: .18em;
   text-transform: uppercase;
-  color: var(--ink);
+  color: var(--text);
   background: var(--yuzu);
   padding: .42rem 1.1rem;
   border-radius: 999px;
