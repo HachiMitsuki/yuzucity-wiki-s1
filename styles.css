@@ -128,9 +128,12 @@ body::before{ content: none; }
   position: sticky;
   top: 0;
   z-index: 50;
-  background: rgba(250,250,246,.85);
-  backdrop-filter: blur(16px) saturate(1.2);
-  -webkit-backdrop-filter: blur(16px) saturate(1.2);
+  /* Plain semi-transparent panel, not a blur — backdrop-filter has to
+     recompute the blur behind this every scroll frame since it's sticky
+     and always on screen, which is disproportionately expensive on some
+     desktop GPU/driver combos (mobile handles it natively at the OS
+     level, hence "smooth on phone, heavy on PC"). */
+  background: rgba(250,250,246,.94);
   border-bottom: 1px solid var(--line);
   padding: .9rem 2rem .9rem 1.6rem;
   display: grid;
@@ -1980,7 +1983,6 @@ ul.styled-list li::before{
   font-size: 1.35rem;
   pointer-events: none;
   transition: transform .25s, background .2s, color .2s;
-  backdrop-filter: blur(6px);
 }
 .clip-card:hover .clip-play{
   transform: translate(-50%, -50%) scale(1.12);
@@ -2155,8 +2157,12 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter[data-bg] .section-title{ color: #FDF6E6 }
 .yc-chapter[data-bg] .section-subtitle{ color: rgba(253,246,230,.75) }
 .yc-chapter[data-bg] .section-header{ border-bottom-color: rgba(253,246,230,.2) }
-.yc-chapter[data-bg] .card{ background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.16); backdrop-filter: blur(6px) }
-.yc-chapter[data-bg] .card:hover{ background: rgba(255,255,255,.14) }
+/* Plain semi-transparent frame instead of a blurred glass panel — same
+   reasoning as .topbar above. Bumped opacity a bit (.08 -> .14) since
+   without the blur softening whatever photo is behind it, a flatter
+   tint reads better for text legibility. */
+.yc-chapter[data-bg] .card{ background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.22) }
+.yc-chapter[data-bg] .card:hover{ background: rgba(255,255,255,.2) }
 .yc-chapter[data-bg] .card-title{ color: #FDF6E6 }
 .yc-chapter[data-bg] .card p{ color: rgba(253,246,230,.72) !important }
 .yc-chapter[data-bg] .card-meta{ color: rgba(253,246,230,.5) }
@@ -2177,7 +2183,7 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter-cat.cat-archive .section-title{ color: var(--text) }
 .yc-chapter-cat.cat-archive .section-subtitle{ color: var(--text-dim) }
 .yc-chapter-cat.cat-archive .section-header{ border-bottom-color: var(--line) }
-.yc-chapter-cat.cat-archive .card{ background: var(--ink-3); border-color: var(--line); backdrop-filter: none }
+.yc-chapter-cat.cat-archive .card{ background: var(--ink-3); border-color: var(--line) }
 .yc-chapter-cat.cat-archive .card:hover{ background: var(--ink-4) }
 .yc-chapter-cat.cat-archive .card-title{ color: var(--text) }
 .yc-chapter-cat.cat-archive .card p{ color: var(--text-dim) !important }
