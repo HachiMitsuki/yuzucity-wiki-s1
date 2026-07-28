@@ -1422,8 +1422,14 @@ ul.styled-list li::before{
   border: 1px solid var(--line-2);
 }
 @keyframes live-pulse{
-  0%, 100%{ opacity: 1; transform: scale(1) }
-  50%    { opacity: .5; transform: scale(1.25) }
+  /* translateX(var(--dot-x, 0)) preserves the timeline dot's centering
+     offset — a bare "transform: scale(...)" here would replace (not
+     compose with) that offset for the whole animation duration, which is
+     exactly why the "now" dot used to drift off the line while pulsing.
+     Elements without --dot-x set (the plain live-status dots) fall back
+     to translateX(0), a no-op. */
+  0%, 100%{ opacity: 1; transform: translateX(var(--dot-x, 0)) scale(1) }
+  50%    { opacity: .5; transform: translateX(var(--dot-x, 0)) scale(1.25) }
 }
 
 .stream-title{
@@ -2294,8 +2300,8 @@ body[data-page="index"] section{ margin-bottom: 0 }
   box-shadow: 0 0 0 2px var(--yuzu-deep);
   z-index: 2;
 }
-.yc-timeline-item.left .yc-timeline-dot{ right: -2.2rem; transform: translateX(50%) }
-.yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; transform: translateX(-50%) }
+.yc-timeline-item.left .yc-timeline-dot{ right: -2.2rem; --dot-x: 50%; transform: translateX(var(--dot-x)) }
+.yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; --dot-x: -50%; transform: translateX(var(--dot-x)) }
 .yc-timeline-item.done .yc-timeline-dot{ background: var(--leaf) }
 .yc-timeline-item.now .yc-timeline-dot{
   background: var(--blood);
@@ -2335,7 +2341,7 @@ body[data-page="index"] section{ margin-bottom: 0 }
     text-align: left;
   }
   .yc-timeline-item.left .yc-timeline-dot,
-  .yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; right: auto; transform: translateX(-50%) }
+  .yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; right: auto; --dot-x: -50%; transform: translateX(var(--dot-x)) }
 }
 
 /* ==============================================================
