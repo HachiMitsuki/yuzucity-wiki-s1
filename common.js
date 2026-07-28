@@ -199,9 +199,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // (sorted) order, not the original document order.
   if (slug === 'index'){
     document.querySelectorAll('.yc-chapter-cat .card-grid').forEach(grid => {
-      const cards = Array.from(grid.children).filter(el => el.classList.contains('card') && el.dataset.updated);
+      const cards = Array.from(grid.children).filter(el => el.classList.contains('card'));
       if (cards.length < 2) return;
-      cards.sort((a, b) => b.dataset.updated.localeCompare(a.dataset.updated));
+      // No data-updated (still a "coming soon" placeholder, nothing posted
+      // yet) sorts as an empty string — always last, behind anything with
+      // a real date.
+      cards.sort((a, b) => (b.dataset.updated || '').localeCompare(a.dataset.updated || ''));
       cards.forEach(card => grid.appendChild(card));
     });
   }
