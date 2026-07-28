@@ -296,9 +296,9 @@ document.addEventListener('DOMContentLoaded', () => {
       gsap.timeline({
         scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: true },
       })
-        .fromTo(el, from, { ...to, ease: 'none', duration: 0.32 })
-        .to(el, { duration: 0.36 }) // hold — no-op, keeps the "to" state while in view
-        .to(el, { ...from, ease: 'none', duration: 0.32 }); // fade back out on the way past
+        .fromTo(el, from, { ...to, ease: 'none', duration: 0.2 })
+        .to(el, { duration: 0.6 }) // hold — no-op, keeps the "to" state while in view
+        .to(el, { ...from, ease: 'none', duration: 0.2 }); // fade back out on the way past
     });
 
     // Headings get their characters staggered in individually as they
@@ -343,9 +343,9 @@ document.addEventListener('DOMContentLoaded', () => {
       })
         .fromTo(charEls,
           { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y },
-          { opacity: 1, x: 0, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
-        .to(charEls, { duration: 0.36 })
-        .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.32 });
+          { opacity: 1, x: 0, y: 0, ease: 'none', stagger: 0.025, duration: 0.2 })
+        .to(charEls, { duration: 0.6 })
+        .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.2 });
     });
 
     // The chapter background photos are handled by scroll-journey.js as a
