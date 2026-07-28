@@ -90,7 +90,13 @@ a, button, .card, .pill, .s2-chip, .s2-tape, .stat, .notice, .tab, .cat-pill,
   transition: color .2s ease, background-color .2s ease, border-color .2s ease,
     box-shadow .25s ease, transform .25s var(--ease-out), opacity .2s ease;
 }
-html{scroll-behavior:smooth}
+/* overflow-x:hidden needs to be on BOTH html and body to actually suppress
+   a horizontal scrollbar — body alone doesn't stop the root scrolling
+   element from reporting extra scrollWidth when off-screen animated
+   elements (e.g. a not-yet-entered "right" direction reveal, translateX
+   past the viewport edge) sit outside the visible area. This became
+   visible once the reveal system started translating elements ±110px. */
+html{scroll-behavior:smooth; overflow-x:hidden}
 
 body{
   font-family: var(--font-body);

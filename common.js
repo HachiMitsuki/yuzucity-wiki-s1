@@ -221,7 +221,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const CYCLE_DIRECTIONS = ['left', 'right', 'up', 'scale', 'down'];
     const CYCLE_SELECTOR = '.card, .rule-item, .cmd-item, .term-item, .vehicle-card, .menu-card, ' +
       '.clip-card, .streamer-card, .social-card, .table-wrap tbody tr, .pill, .cat-pill, .stock-badge, ' +
-      '.section-header, .yc-chapter-inner, .notice';
+      '.section-header, .yc-chapter-inner, .notice, ' +
+      // .timeline-item/.stat/.tab were already in GENERIC_SELECTOR (so they
+      // faded in) but missing here, so every one of them defaulted to the
+      // same "up" — a repeated run (news.html's timeline, archive.html's
+      // stat row) reads as flat/monotone next to index's varied angles.
+      '.timeline-item, .stat, .tab, .search-result, .search-type-pill';
     let cycleIndex = 0;
     // section:not(.yc-chapter) — the index page's full-viewport chapters
     // already carry explicit data-reveal (or, for the hero, none on purpose
@@ -244,6 +249,9 @@ document.addEventListener('DOMContentLoaded', () => {
       // an explicit "up" on the index chapters; freeing them up here lets
       // them join the same left/right/up/scale/down cycle as everything else.
       '.section-header', '.yc-chapter-inner',
+      // search.html's JS-rendered result rows/filter chips weren't in any
+      // reveal list at all — they never animated.
+      '.search-result', '.search-type-pill',
     ].join(', ');
 
     // Elements with a visible left/full border (cards, notices, rule rows)
@@ -252,7 +260,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // instead of snapping in fully-formed. Includes the big panels too, so
     // their frame visibly draws in instead of just sitting there static.
     const BORDER_SELECTOR = '.card, .notice, .rule-item, .yc-timeline-card, .pill, .stock-badge, ' +
-      '.stats, .s2-foreword, .s2-cover';
+      '.stats, .s2-foreword, .s2-cover, .search-result';
 
     // Topbar and sidebar are persistent chrome, not scroll content — they
     // get a one-time entrance on load instead of a scroll trigger (there's
@@ -270,41 +278,8 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
 
-    // PV-style: every object fades IN as it enters the viewport, holds while
-    // visible, then fades back OUT as it exits past the top — instead of
-    // appearing once and staying forever. One ScrollTrigger spans the
-    // element's entire transit (bottom-of-viewport to top-of-viewport);
-    // a 3-keyframe timeline scrubs opacity/transform in as a proportional
-    // in-hold-out sequence across that whole range.
-    document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
-      if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
-      if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
-      el.dataset.gsapBound = '1';
-      const dir = el.dataset.reveal ||
-        (el.matches(CYCLE_SELECTOR) ? CYCLE_DIRECTIONS[cycleIndex++ % CYCLE_DIRECTIONS.length] : 'up');
-      const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
-      const from = { ...cfg.from };
-      const to = { ...cfg.to };
-      if (el.matches(BORDER_SELECTOR)){
-        from.borderColor = 'transparent';
-        to.borderColor = getComputedStyle(el).borderColor;
-      }
-      gsap.timeline({
-        scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
-      })
-        .fromTo(el, from, { ...to, ease: 'none', duration: 0.32 })
-        .to(el, { duration: 0.36 }) // hold — no-op, keeps the "to" state while in view
-        .to(el, { ...from, ease: 'none', duration: 0.32 }); // fade back out on the way past
-    });
-
-    // Headings get their characters staggered in individually as they
-    // scroll through, layered on top of whatever reveal their container
-    // already has — the text itself appears progressively, not just the
-    // box around it. Splitting by character (not word) because Japanese
-    // doesn't delimit words with spaces — a word-split would just produce
-    // one giant unbroken chunk for most headings.
     const HEADING_SELECTOR = '.section-title, .card-title, .notice-title, ' +
-      '.yc-timeline-title, .s2-sub, .hero-title';
+      '.yc-timeline-title, .s2-sub, .hero-title, .search-result-title';
     // Only text nodes get split into character-spans — existing element
     // children (like a .section-title-icon emoji span) are left alone.
     function splitTextNodesIntoChars(el){
@@ -322,27 +297,80 @@ document.addEventListener('DOMContentLoaded', () => {
         node.replaceWith(frag);
       });
     }
-    document.querySelectorAll(HEADING_SELECTOR).forEach(heading => {
-      if (heading.dataset.gsapSplit) return;
-      heading.dataset.gsapSplit = '1';
-      splitTextNodesIntoChars(heading);
-      const charEls = heading.querySelectorAll('.yc-char');
-      if (charEls.length < 2) return; // not worth staggering a single character
-      // Each character converges from a different side — up/down/left/right
-      // in rotation — instead of every one rising the same way, so the whole
-      // heading reads as fragments gathering in from multiple directions,
-      // then dispersing back out the same way as it scrolls past.
-      const CHAR_FROM = [{ y: 16, x: 0 }, { y: -16, x: 0 }, { x: -16, y: 0 }, { x: 16, y: 0 }];
-      const charFrom = i => CHAR_FROM[i % CHAR_FROM.length];
-      gsap.timeline({
-        scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
-      })
-        .fromTo(charEls,
-          { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y },
-          { opacity: 1, x: 0, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
-        .to(charEls, { duration: 0.36 })
-        .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.32 });
-    });
+
+    // Both scans below are wrapped in a function (instead of running once,
+    // inline) and exposed as window.__bindReveals so pages that render
+    // content asynchronously after DOMContentLoaded — currently just
+    // search.html's fetch-then-render results list — can re-run it on their
+    // newly-inserted elements. dataset.gsapBound/gsapSplit guards make
+    // repeat calls over the same (mostly already-bound) DOM cheap and safe.
+    function bindReveals(root){
+      const scope = root || document;
+      // PV-style: every object fades IN as it enters the viewport, holds
+      // while visible, then fades back OUT as it exits past the top —
+      // instead of appearing once and staying forever. One ScrollTrigger
+      // spans the element's entire transit (bottom-of-viewport to
+      // top-of-viewport); a 3-keyframe timeline scrubs opacity/transform in
+      // as a proportional in-hold-out sequence across that whole range.
+      scope.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
+        if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
+        if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
+        el.dataset.gsapBound = '1';
+        const dir = el.dataset.reveal ||
+          (el.matches(CYCLE_SELECTOR) ? CYCLE_DIRECTIONS[cycleIndex++ % CYCLE_DIRECTIONS.length] : 'up');
+        const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
+        const from = { ...cfg.from };
+        const to = { ...cfg.to };
+        if (el.matches(BORDER_SELECTOR)){
+          from.borderColor = 'transparent';
+          to.borderColor = getComputedStyle(el).borderColor;
+        }
+        gsap.timeline({
+          scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+        })
+          .fromTo(el, from, { ...to, ease: 'none', duration: 0.32 })
+          .to(el, { duration: 0.36 }) // hold — no-op, keeps the "to" state while in view
+          .to(el, { ...from, ease: 'none', duration: 0.32 }); // fade back out on the way past
+      });
+
+      // Headings get their characters staggered in individually as they
+      // scroll through, layered on top of whatever reveal their container
+      // already has — the text itself appears progressively, not just the
+      // box around it. Splitting by character (not word) because Japanese
+      // doesn't delimit words with spaces — a word-split would just produce
+      // one giant unbroken chunk for most headings.
+      scope.querySelectorAll(HEADING_SELECTOR).forEach(heading => {
+        if (heading.dataset.gsapSplit) return;
+        heading.dataset.gsapSplit = '1';
+        splitTextNodesIntoChars(heading);
+        const charEls = heading.querySelectorAll('.yc-char');
+        if (charEls.length < 2) return; // not worth staggering a single character
+        // Each character converges from a different side — up/down/left/
+        // right in rotation — instead of every one rising the same way, so
+        // the whole heading reads as fragments gathering in from multiple
+        // directions, then dispersing back out the same way as it scrolls
+        // past.
+        const CHAR_FROM = [{ y: 16, x: 0 }, { y: -16, x: 0 }, { x: -16, y: 0 }, { x: 16, y: 0 }];
+        const charFrom = i => CHAR_FROM[i % CHAR_FROM.length];
+        gsap.timeline({
+          scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+        })
+          .fromTo(charEls,
+            { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y },
+            { opacity: 1, x: 0, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
+          .to(charEls, { duration: 0.36 })
+          .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.32 });
+      });
+
+      if (root){
+        // Re-scanned after the page already settled once — new triggers'
+        // start/end need measuring against current layout, not stale ones
+        // from before this content existed.
+        requestAnimationFrame(() => ScrollTrigger.refresh());
+      }
+    }
+    bindReveals();
+    window.__bindReveals = bindReveals;
 
     // The chapter background photos are handled by scroll-journey.js as a
     // single fixed full-viewport layer that crossfades at chapter
