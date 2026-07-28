@@ -2136,60 +2136,58 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter-introdetails .s2-chip{ background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.18); color: #fff }
 .yc-chapter-introdetails .s2-chip strong{ color: var(--yuzu-bright) }
 
-/* --- Alternating chapter backgrounds for rhythm as you scroll --- */
-.yc-chapter-notice{ background: var(--ink-2); padding: 3.2rem 1.6rem }
-.yc-chapter-timeline{ background: var(--ink); padding: 6rem 1.6rem }
+/* --- Unified black backdrop: every chapter with a crossfading photo
+   (data-bg) sits on the same black base — the photo underneath is what
+   changes chapter to chapter, not the tint color, so the frame/text motion
+   is the thing that reads as "moving," not the backdrop. --- */
+.yc-chapter-notice{ padding: 3.2rem 1.6rem }
+.yc-chapter-timeline{ padding: 6rem 1.6rem }
+.yc-chapter-foreword{ padding: 7rem 1.6rem }
+.yc-chapter-stats{ padding: 6rem 1.6rem }
+.yc-chapter-features{ padding: 6rem 1.6rem }
+.yc-chapter-etiquette{ padding: 5.5rem 1.6rem }
 
-.yc-chapter-foreword{ background: var(--text-deep); color: var(--ink-3); padding: 7rem 1.6rem }
-.yc-chapter-foreword .yc-chapter-inner{ color: var(--ink-3) }
+/* --- Wiki category chapters: layout only (cat-archive has no data-bg and
+   keeps the plain light wiki theme via its own rules further down) --- */
+.yc-chapter-cat{ padding: 6rem 1.6rem; position: relative }
 
-.yc-chapter-stats{ background: var(--yuzu); padding: 6rem 1.6rem }
-.yc-chapter-stats .section-title, .yc-chapter-stats .section-subtitle{ color: var(--text) }
-.yc-chapter-stats .stats{ background: transparent; border: none }
-.yc-chapter-stats .stat{ background: rgba(28,28,28,.06); border-right-color: rgba(28,28,28,.12); border-radius: var(--radius-sm) }
-.yc-chapter-stats .stat-num{ color: var(--text) }
-.yc-chapter-stats .stat-label{ color: rgba(28,28,28,.68) }
-.yc-chapter-stats .notice{ background: rgba(28,28,28,.06); border-color: rgba(28,28,28,.12); color: var(--text) }
-.yc-chapter-stats .notice-title{ color: var(--text) }
-
-.yc-chapter-features{ background: var(--ink-2); padding: 6rem 1.6rem }
-.yc-chapter-etiquette{ background: var(--ink); padding: 5.5rem 1.6rem }
-
-/* --- Wiki category chapters: big, bold, one color per category --- */
-.yc-chapter-cat{ padding: 6rem 1.6rem; color: #FDF6E6; position: relative }
-.yc-chapter-cat::before{
+.yc-chapter[data-bg]{ background: #0A0A0A; color: #FDF6E6 }
+.yc-chapter[data-bg]::before{
   content: "";
   position: absolute; inset: -10%;
   background: radial-gradient(circle at 30% 20%, rgba(255,255,255,.10), transparent 55%);
   animation: yc-drift 16s ease-in-out infinite;
   pointer-events: none;
 }
-.yc-chapter-stats{ position: relative }
-.yc-chapter-stats::before{
-  content: "";
-  position: absolute; inset: -10%;
-  background: radial-gradient(circle at 75% 25%, rgba(255,255,255,.35), transparent 50%);
-  animation: yc-drift 14s ease-in-out infinite reverse;
-  pointer-events: none;
-}
-.yc-chapter-stats .yc-chapter-inner{ position: relative; z-index: 1 }
 .yc-scrollcue-arrow{ }
 .yc-scrollcue{ animation: yc-float 2.4s ease-in-out infinite }
-.yc-chapter-cat .section-title{ color: #FDF6E6 }
-.yc-chapter-cat .section-subtitle{ color: rgba(253,246,230,.75) }
-.yc-chapter-cat .section-header{ border-bottom-color: rgba(253,246,230,.2) }
-.yc-chapter-cat .card{ background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.16); backdrop-filter: blur(6px) }
-.yc-chapter-cat .card:hover{ background: rgba(255,255,255,.14) }
-.yc-chapter-cat .card-title{ color: #FDF6E6 }
-.yc-chapter-cat .card p{ color: rgba(253,246,230,.72) !important }
-.yc-chapter-cat .card-meta{ color: rgba(253,246,230,.5) }
+.yc-chapter[data-bg] .section-title{ color: #FDF6E6 }
+.yc-chapter[data-bg] .section-subtitle{ color: rgba(253,246,230,.75) }
+.yc-chapter[data-bg] .section-header{ border-bottom-color: rgba(253,246,230,.2) }
+.yc-chapter[data-bg] .card{ background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.16); backdrop-filter: blur(6px) }
+.yc-chapter[data-bg] .card:hover{ background: rgba(255,255,255,.14) }
+.yc-chapter[data-bg] .card-title{ color: #FDF6E6 }
+.yc-chapter[data-bg] .card p{ color: rgba(253,246,230,.72) !important }
+.yc-chapter[data-bg] .card-meta{ color: rgba(253,246,230,.5) }
+.yc-chapter[data-bg] .notice{ background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.18); color: #FDF6E6 }
+.yc-chapter[data-bg] .notice-title{ color: #FDF6E6 }
+.yc-chapter[data-bg] .stats{ background: transparent; border-color: rgba(255,255,255,.16) }
+.yc-chapter[data-bg] .stat{ background: rgba(255,255,255,.05); border-right-color: rgba(255,255,255,.14) }
+.yc-chapter[data-bg] .stat-label{ color: rgba(253,246,230,.65) }
+.yc-chapter[data-bg] .yc-timeline{ border-color: rgba(255,255,255,.18) }
+.yc-chapter[data-bg] .yc-timeline-track{ background: rgba(255,255,255,.2) }
+.yc-chapter[data-bg] .yc-timeline-card{ background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.16) }
+.yc-chapter[data-bg] .yc-timeline-title{ color: #FDF6E6 }
+.yc-chapter[data-bg] .yc-timeline-desc{ color: rgba(253,246,230,.7) }
+.yc-chapter[data-bg] ul.styled-list li{ color: #FDF6E6; border-bottom-color: rgba(255,255,255,.16) }
 /* Fallback flat colors (shown briefly before the JS bgphoto crossfade
-   layer takes over, and for anything with JS disabled). */
-.yc-chapter-cat.cat-overview{ background: #2E2A22 }
-.yc-chapter-cat.cat-rules{ background: #6B2019 }
-.yc-chapter-cat.cat-jobs{ background: #1F4159 }
-.yc-chapter-cat.cat-catalog{ background: #21503A }
-.yc-chapter-cat.cat-latest{ background: #7A5000 }
+   layer takes over, and for anything with JS disabled) — same unified
+   black as the JS layer's tint, not per-category color. */
+.yc-chapter-cat.cat-overview,
+.yc-chapter-cat.cat-rules,
+.yc-chapter-cat.cat-jobs,
+.yc-chapter-cat.cat-catalog,
+.yc-chapter-cat.cat-latest{ background: #0A0A0A }
 .yc-chapter-cat.cat-archive{ background: var(--ink-2); color: var(--text) }
 .yc-chapter-cat.cat-archive .section-title{ color: var(--text) }
 .yc-chapter-cat.cat-archive .section-subtitle{ color: var(--text-dim) }

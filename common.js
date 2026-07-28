@@ -221,7 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // lockstep from the same side.
     const CYCLE_DIRECTIONS = ['left', 'right', 'up', 'scale', 'down'];
     const CYCLE_SELECTOR = '.card, .rule-item, .cmd-item, .term-item, .vehicle-card, .menu-card, ' +
-      '.clip-card, .streamer-card, .social-card, .table-wrap tbody tr, .pill, .cat-pill, .stock-badge';
+      '.clip-card, .streamer-card, .social-card, .table-wrap tbody tr, .pill, .cat-pill, .stock-badge, ' +
+      '.section-header, .yc-chapter-inner, .notice';
     let cycleIndex = 0;
     // section:not(.yc-chapter) — the index page's full-viewport chapters
     // already carry explicit data-reveal (or, for the hero, none on purpose
@@ -240,6 +241,10 @@ document.addEventListener('DOMContentLoaded', () => {
       // The big panel-level containers — these were missing entirely before,
       // which is why they read as "not moving" next to everything else.
       '.stats', '.s2-foreword', '.s2-cover', '.yc-timeline',
+      // The frame/box that wraps a heading or notice — these were pinned to
+      // an explicit "up" on the index chapters; freeing them up here lets
+      // them join the same left/right/up/scale/down cycle as everything else.
+      '.section-header', '.yc-chapter-inner',
     ].join(', ');
 
     // Elements with a visible left/full border (cards, notices, rule rows)
@@ -324,31 +329,40 @@ document.addEventListener('DOMContentLoaded', () => {
       splitTextNodesIntoChars(heading);
       const charEls = heading.querySelectorAll('.yc-char');
       if (charEls.length < 2) return; // not worth staggering a single character
+      // Each character converges from a different side — up/down/left/right
+      // in rotation — instead of every one rising the same way, so the whole
+      // heading reads as fragments gathering in from multiple directions,
+      // then dispersing back out the same way as it scrolls past.
+      const CHAR_FROM = [{ y: 16, x: 0 }, { y: -16, x: 0 }, { x: -16, y: 0 }, { x: 16, y: 0 }];
+      const charFrom = i => CHAR_FROM[i % CHAR_FROM.length];
       gsap.timeline({
         scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
       })
-        .fromTo(charEls, { opacity: 0, y: 10 }, { opacity: 1, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
+        .fromTo(charEls,
+          { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y },
+          { opacity: 1, x: 0, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
         .to(charEls, { duration: 0.36 })
-        .to(charEls, { opacity: 0, y: 10, ease: 'none', stagger: 0.025, duration: 0.32 });
+        .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.32 });
     });
 
-    // Full-bleed photo backgrounds that crossfade in and out as you scroll
-    // through each chapter — a music-video-like wash of imagery instead of
-    // a flat color that just appears once. Declared via data-bg (+ optional
-    // data-tint) on the .yc-chapter section; the layer itself is injected
-    // here so the markup only needs two data attributes per chapter.
+    // Every chapter sits on the same unified black — the photo is a
+    // translucent wash on top of it that crossfades between images as you
+    // scroll, not a per-category tinted, zooming Ken-Burns backdrop. The
+    // black stays constant; only the photo underneath changes. Declared via
+    // data-bg on the .yc-chapter section (data-tint is intentionally not
+    // read anymore — one black tone everywhere instead of per-chapter color).
+    const YC_CHAPTER_TINT = 'rgba(6,6,6,.76)';
     document.querySelectorAll('.yc-chapter[data-bg]').forEach(ch => {
-      const tint = ch.dataset.tint || 'rgba(5,5,5,.72)';
       const bg = document.createElement('div');
       bg.className = 'yc-chapter-bgphoto';
-      bg.style.backgroundImage = `linear-gradient(${tint}, ${tint}), url('${ch.dataset.bg}')`;
+      bg.style.backgroundImage = `linear-gradient(${YC_CHAPTER_TINT}, ${YC_CHAPTER_TINT}), url('${ch.dataset.bg}')`;
       ch.insertBefore(bg, ch.firstChild);
       gsap.timeline({
         scrollTrigger: { trigger: ch, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
       })
-        .fromTo(bg, { opacity: 0, scale: 1.1 }, { opacity: 1, scale: 1.02, ease: 'none', duration: 0.3 })
-        .to(bg, { scale: 1.06, ease: 'none', duration: 0.4 }) // slow drift while held — Ken Burns
-        .to(bg, { opacity: 0, scale: 1.1, ease: 'none', duration: 0.3 });
+        .fromTo(bg, { opacity: 0 }, { opacity: 1, ease: 'none', duration: 0.3 })
+        .to(bg, { duration: 0.4 }) // hold flat — no zoom/drift, the frame/text carries the motion instead
+        .to(bg, { opacity: 0, ease: 'none', duration: 0.3 });
     });
 
     // Images (the hero logo especially) finish loading after ScrollTrigger
