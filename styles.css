@@ -3,7 +3,7 @@
    ダーク・シネマティック — 黒地×金/赤、高コントラストの開幕スクリーン
    ============================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Murecho:wght@300;400;500;700;900&display=swap');
 
 /* ---- Design tokens ---- */
 :root{
@@ -57,11 +57,11 @@
   --shadow:     0 4px 10px rgba(0,0,0,.55), 0 18px 40px rgba(0,0,0,.4);
 
   /* === Typography === */
-  --font-body:    "RocknRoll One", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
-  --font-display: "RocknRoll One", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
-  --font-fat:     "RocknRoll One", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
-  --font-mincho:  "RocknRoll One", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
-  --font-mono:    "RocknRoll One", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-body:    "Murecho", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-display: "Murecho", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-fat:     "Murecho", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-mincho:  "Murecho", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-mono:    "Murecho", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
 
   /* === Shape — sharp, not soft === */
   --radius:    2px;
