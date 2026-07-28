@@ -204,7 +204,11 @@ document.addEventListener('DOMContentLoaded', () => {
     gsap.registerPlugin(ScrollTrigger);
 
     if (typeof Lenis !== 'undefined' && !window.__lenis){
-      const lenis = new Lenis({ duration: 1.15, smoothWheel: true });
+      // Shorter duration = less time each scroll gesture spends "coasting"
+      // (still updating every ScrollTrigger on every frame) after the user
+      // stops actively scrolling — fewer total frames of that work per
+      // gesture, on top of the border-color paint fix above.
+      const lenis = new Lenis({ duration: 0.85, smoothWheel: true });
       lenis.on('scroll', ScrollTrigger.update);
       gsap.ticker.add((time) => { lenis.raf(time * 1000); });
       gsap.ticker.lagSmoothing(0);
@@ -256,14 +260,6 @@ document.addEventListener('DOMContentLoaded', () => {
       '.section-header', '.yc-chapter-inner',
     ].join(', ');
 
-    // Elements with a visible left/full border (cards, notices, rule rows)
-    // also animate that border in from transparent, on top of the
-    // opacity/transform tween — the "frame" appears as the content does
-    // instead of snapping in fully-formed. Includes the big panels too, so
-    // their frame visibly draws in instead of just sitting there static.
-    const BORDER_SELECTOR = '.card, .notice, .rule-item, .yc-timeline-card, .pill, .stock-badge, ' +
-      '.stats, .s2-foreword, .s2-cover';
-
     // Topbar and sidebar are persistent chrome, not scroll content — they
     // get a one-time entrance on load instead of a scroll trigger (there's
     // nothing to scroll "into view", they're always on screen).
@@ -293,12 +289,18 @@ document.addEventListener('DOMContentLoaded', () => {
       const dir = el.dataset.reveal ||
         (el.matches(CYCLE_SELECTOR) ? CYCLE_DIRECTIONS[cycleIndex++ % CYCLE_DIRECTIONS.length] : 'up');
       const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
+      // Copies, not direct references — DIRECTIONS entries are shared
+      // across every element using that direction, and GSAP can attach
+      // bookkeeping onto the vars objects it's given.
       const from = { ...cfg.from };
       const to = { ...cfg.to };
-      if (el.matches(BORDER_SELECTOR)){
-        from.borderColor = 'transparent';
-        to.borderColor = getComputedStyle(el).borderColor;
-      }
+      // Border color used to be interpolated alongside opacity/transform
+      // here (transparent -> its real color), but border-color forces a
+      // paint on every scroll tick — unlike transform/opacity, which the
+      // compositor handles without repainting — and with dozens of
+      // elements in transit at once that added up to real scroll jank.
+      // A statically-colored border already fades in/out for free as the
+      // element's own opacity goes 0->1->0, so nothing is lost.
       gsap.timeline({
         scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
       })
