@@ -251,29 +251,30 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
 
+    // PV-style: every object fades IN as it enters the viewport, holds while
+    // visible, then fades back OUT as it exits past the top — instead of
+    // appearing once and staying forever. One ScrollTrigger spans the
+    // element's entire transit (bottom-of-viewport to top-of-viewport);
+    // a 3-keyframe timeline scrubs opacity/transform in as a proportional
+    // in-hold-out sequence across that whole range.
     document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
       if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
       if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
       el.dataset.gsapBound = '1';
       const dir = el.dataset.reveal || 'up';
       const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
-      const isChapter = dir === 'chapter';
       const from = { ...cfg.from };
       const to = { ...cfg.to };
       if (el.matches(BORDER_SELECTOR)){
         from.borderColor = 'transparent';
         to.borderColor = getComputedStyle(el).borderColor;
       }
-      gsap.fromTo(el, from, {
-        ...to,
-        ease: 'none',
-        scrollTrigger: {
-          trigger: el,
-          start: 'top 92%',
-          end: isChapter ? 'top 45%' : 'top 62%',
-          scrub: 0.6,
-        },
-      });
+      gsap.timeline({
+        scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+      })
+        .fromTo(el, from, { ...to, ease: 'none', duration: 0.32 })
+        .to(el, { duration: 0.36 }) // hold — no-op, keeps the "to" state while in view
+        .to(el, { ...from, ease: 'none', duration: 0.32 }); // fade back out on the way past
     });
 
     // Headings get their characters staggered in individually as they
@@ -307,15 +308,31 @@ document.addEventListener('DOMContentLoaded', () => {
       splitTextNodesIntoChars(heading);
       const charEls = heading.querySelectorAll('.yc-char');
       if (charEls.length < 2) return; // not worth staggering a single character
-      gsap.fromTo(charEls, { opacity: 0, y: 10 }, {
-        opacity: 1, y: 0, ease: 'none', stagger: 0.025,
-        scrollTrigger: {
-          trigger: heading,
-          start: 'top 92%',
-          end: 'top 68%',
-          scrub: 0.6,
-        },
-      });
+      gsap.timeline({
+        scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+      })
+        .fromTo(charEls, { opacity: 0, y: 10 }, { opacity: 1, y: 0, ease: 'none', stagger: 0.025, duration: 0.32 })
+        .to(charEls, { duration: 0.36 })
+        .to(charEls, { opacity: 0, y: 10, ease: 'none', stagger: 0.025, duration: 0.32 });
+    });
+
+    // Full-bleed photo backgrounds that crossfade in and out as you scroll
+    // through each chapter — a music-video-like wash of imagery instead of
+    // a flat color that just appears once. Declared via data-bg (+ optional
+    // data-tint) on the .yc-chapter section; the layer itself is injected
+    // here so the markup only needs two data attributes per chapter.
+    document.querySelectorAll('.yc-chapter[data-bg]').forEach(ch => {
+      const tint = ch.dataset.tint || 'rgba(5,5,5,.72)';
+      const bg = document.createElement('div');
+      bg.className = 'yc-chapter-bgphoto';
+      bg.style.backgroundImage = `linear-gradient(${tint}, ${tint}), url('${ch.dataset.bg}')`;
+      ch.insertBefore(bg, ch.firstChild);
+      gsap.timeline({
+        scrollTrigger: { trigger: ch, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+      })
+        .fromTo(bg, { opacity: 0, scale: 1.1 }, { opacity: 1, scale: 1.02, ease: 'none', duration: 0.3 })
+        .to(bg, { scale: 1.06, ease: 'none', duration: 0.4 }) // slow drift while held — Ken Burns
+        .to(bg, { opacity: 0, scale: 1.1, ease: 'none', duration: 0.3 });
     });
 
     // Images (the hero logo especially) finish loading after ScrollTrigger
