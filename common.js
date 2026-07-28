@@ -186,10 +186,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // Site-wide scroll-driven animation: GSAP + ScrollTrigger, smoothed by
-  // Lenis, on every page (not just the index story page). scrub ties
-  // animation progress directly to scroll position — pauses mid-scroll,
-  // reverses on scroll-up — instead of a one-shot fade-in.
+  // Smooth scroll (Lenis) runs on every page — that's the one piece of this
+  // system that stays everywhere. The GSAP scroll-reveal system below it
+  // (fade/slide-in on scroll, character-split headings, cycling entry
+  // directions, topbar/sidebar entrance) is index.html-only: non-index
+  // wiki pages go back to plain static content, same as before this
+  // redesign, just with smoother scrolling.
   const hasGsap = typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined';
   if (hasGsap){
     gsap.registerPlugin(ScrollTrigger);
@@ -201,7 +203,8 @@ document.addEventListener('DOMContentLoaded', () => {
       gsap.ticker.lagSmoothing(0);
       window.__lenis = lenis;
     }
-
+  }
+  if (hasGsap && slug === 'index'){
     // [data-reveal="left|right|scale|pop|chapter|up"] elements (used on the
     // index story page) get their configured direction; everything else
     // that's normal wiki content gets a plain fade-up.
