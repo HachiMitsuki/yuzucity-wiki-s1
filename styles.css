@@ -2225,45 +2225,16 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-timeline-track.is-growing .yc-timeline-line{ transform: scaleY(1) }
 
 /* ==============================================================
-   SCROLL-DRIVEN ANIMATION (a.k.a. scroll-linked / "scrubbed" animation)
-   — progress is tied 1:1 to scroll position via native CSS
-   animation-timeline, instead of a JS one-shot trigger. Pauses when
-   you stop scrolling, reverses when you scroll back up. Browsers
-   without support (Safari < 26, older Firefox) silently fall back to
-   the JS IntersectionObserver one-shot reveal in common.js.
+   SCROLL-DRIVEN ANIMATION — driven by GSAP + ScrollTrigger (scroll-journey.js),
+   the industry-standard tool for this (scrub: true ties animation progress
+   directly to scroll position — pauses mid-scroll, reverses on scroll-up).
+   GSAP animates opacity/transform via inline styles at runtime, so this
+   block only sets the pre-scroll hidden baseline; no CSS @keyframes or
+   animation-timeline here to avoid two systems fighting over the same
+   properties. See scroll-journey.js for the actual per-direction tweens.
    ============================================================== */
-@supports (animation-timeline: view()){
-  [data-reveal]{
-    animation-duration: 1ms; /* actual pacing comes from the view() timeline, not this */
-    animation-fill-mode: both;
-    animation-timing-function: linear;
-    animation-timeline: view();
-    animation-range: entry 0% cover 38%;
-  }
-  [data-reveal="up"]{      animation-name: yc-reveal-up }
-  [data-reveal="left"]{    animation-name: yc-reveal-left }
-  [data-reveal="right"]{   animation-name: yc-reveal-right }
-  [data-reveal="scale"]{   animation-name: yc-reveal-scale }
-  [data-reveal="pop"]{     animation-name: yc-reveal-pop }
-  [data-reveal="chapter"]{
-    animation-name: yc-chapter-in;
-    animation-range: entry 0% cover 55%;
-  }
-
-  /* History line: scrubs across the whole time the timeline is on screen,
-     not just its entry edge, so it keeps growing as you scroll through it. */
-  .yc-timeline-line{
-    transform: scaleY(0);
-    transition: none;
-    animation: yc-line-grow linear both;
-    animation-timeline: view();
-    animation-range: cover 5% cover 95%;
-  }
-}
-@keyframes yc-line-grow{
-  from{ transform: scaleY(0) }
-  to{ transform: scaleY(1) }
-}
+[data-reveal]{ opacity: 0 }
+.yc-timeline-line{ transform: scaleY(0); transform-origin: top; transition: none }
 
 .yc-timeline-item{ position: relative; width: calc(50% - 2.2rem); margin-bottom: 2.8rem }
 .yc-timeline-item.left{ margin-right: auto; text-align: right }

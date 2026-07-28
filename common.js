@@ -186,65 +186,11 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // Scroll animation. Elements with data-reveal="left|right|scale|pop|chapter|up"
-  // are driven natively by CSS (animation-timeline: view() — see styles.css)
-  // wherever the browser supports it: progress is tied to scroll position,
-  // so it pauses mid-scroll and reverses on scroll-up. That block is a plain
-  // CSS @supports rule, nothing to wire up here.
-  //
-  // Everything below is the fallback path for browsers without scroll-driven
-  // animation support (older Firefox, Safari < 26): a one-shot
-  // IntersectionObserver reveal that can't scrub or reverse, but still
-  // animates in once. It's skipped entirely on capable browsers so the two
-  // systems never fight over the same element.
-  const SUPPORTS_SCROLL_TIMELINE = window.CSS && CSS.supports && CSS.supports('animation-timeline: view()');
-
-  if ('IntersectionObserver' in window && !SUPPORTS_SCROLL_TIMELINE){
-    const DURATIONS = { chapter: '1.1s', pop: '.9s', scale: '.85s' };
-    const io = new IntersectionObserver((entries) => {
-      entries.forEach(e => {
-        if (e.isIntersecting){
-          const el = e.target;
-          const dir = el.dataset.reveal;
-          const delay = el.dataset.revealDelay || '0s';
-          const dur = (dir && DURATIONS[dir]) || '.85s';
-          const anim = dir === 'chapter' ? 'yc-chapter-in' : (dir ? `yc-reveal-${dir}` : 'reveal');
-          el.style.animation = `${anim} ${dur} cubic-bezier(.22,.61,.36,1) ${delay} both`;
-          io.unobserve(el);
-        }
-      });
-    }, { threshold: 0.05, rootMargin: '0px 0px -10% 0px' });
-
-    // Only observe cards/sections that are below the fold on initial paint
-    setTimeout(() => {
-      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item, [data-reveal]').forEach(el => {
-        const r = el.getBoundingClientRect();
-        if (r.top > window.innerHeight * 0.85){
-          el.style.animation = 'none';
-          el.style.opacity = '0';
-          io.observe(el);
-        }
-      });
-    }, 50);
-
-    // History timeline — the connecting line grows as its section enters view
-    const timelineTrack = document.querySelector('.yc-timeline-track');
-    if (timelineTrack){
-      const lineIo = new IntersectionObserver((entries) => {
-        entries.forEach(e => {
-          if (e.isIntersecting){
-            timelineTrack.classList.add('is-growing');
-            lineIo.unobserve(e.target);
-          }
-        });
-      }, { threshold: 0.15 });
-      lineIo.observe(timelineTrack);
-    }
-  } else if ('IntersectionObserver' in window){
-    // Scroll-driven animation is native for [data-reveal] elements, but the
-    // generic selectors below (.rule-item, .cmd-item, etc. on wiki pages —
-    // none of them carry data-reveal) still need the one-shot JS fallback,
-    // since the CSS block only targets [data-reveal].
+  // One-shot fade-up reveal for plain wiki content (rule-item, cmd-item, etc).
+  // [data-reveal] elements are NOT handled here — on the index page,
+  // scroll-journey.js (GSAP + ScrollTrigger, scrub: true) owns those, tying
+  // animation progress directly to scroll position instead of firing once.
+  if ('IntersectionObserver' in window){
     const io = new IntersectionObserver((entries) => {
       entries.forEach(e => {
         if (e.isIntersecting){
@@ -255,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
     setTimeout(() => {
       document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item').forEach(el => {
-        if (el.dataset.reveal) return; // handled natively by CSS
+        if (el.dataset.reveal) return; // owned by scroll-journey.js on index
         const r = el.getBoundingClientRect();
         if (r.top > window.innerHeight){
           el.style.animation = 'none';
