@@ -2110,15 +2110,15 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter-inner{ max-width: 980px; margin: 0 auto; position: relative; z-index: 1 }
 .yc-chapter-inner.wide{ max-width: 1180px }
 
-/* --- Hero: full viewport, logo-only splash on black --- */
+/* --- Hero: full viewport, logo-only splash on black (no background photo
+   — the logo itself is the only thing here, the photo wallpaper behind it
+   was competing with it) --- */
 .yc-chapter-hero{
   min-height: 100svh;
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: 2.4rem;
   padding: 2rem 1.6rem;
-  background:
-    linear-gradient(180deg, rgba(5,5,5,.55) 0%, rgba(5,5,5,.82) 65%, #050505 100%),
-    url('images/brand/hero-bg.jpg') center 42% / cover no-repeat;
+  background: #050505;
 }
 .yc-hero-logo-wrap{ width: 100%; max-width: 760px; display: flex; justify-content: center }
 .yc-hero-logo{
