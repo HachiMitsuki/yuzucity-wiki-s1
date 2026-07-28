@@ -111,6 +111,13 @@ document.addEventListener('DOMContentLoaded', () => {
   const sidebar = document.getElementById('sidebar');
   if(sidebar){
     sidebar.innerHTML = renderSidebar(slug);
+    // Lenis (site-wide smooth scroll) hijacks wheel events for the main
+    // page scroll by default, which stops working over any element with
+    // its own internal scroll — like this sidebar's nav list, which is
+    // taller than its box and meant to scroll on its own when hovered.
+    // data-lenis-prevent opts it out so hovering it and scrolling moves
+    // the sidebar's own list natively instead of the whole page.
+    sidebar.setAttribute('data-lenis-prevent', '');
 
     // Preserve sidebar scroll position across page navigations.
     // Saved on every scroll; restored right after injection so the list
