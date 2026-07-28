@@ -202,6 +202,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const hasGsap = typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined';
   if (hasGsap){
     gsap.registerPlugin(ScrollTrigger);
+    // Lenis calls ScrollTrigger.update() from its own 'scroll' event, which
+    // can fire more than once per animation frame — limitCallbacks caps
+    // scrub onUpdate work to once per tick instead of redoing it for every
+    // extra call, cutting redundant main-thread work during fast scrolling.
+    ScrollTrigger.config({ limitCallbacks: true });
 
     if (typeof Lenis !== 'undefined' && !window.__lenis){
       // Shorter duration = less time each scroll gesture spends "coasting"
@@ -302,7 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // A statically-colored border already fades in/out for free as the
       // element's own opacity goes 0->1->0, so nothing is lost.
       gsap.timeline({
-        scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+        scrollTrigger: { trigger: el, start: 'top bottom', end: 'bottom top', scrub: true },
       })
         .fromTo(el, from, { ...to, ease: 'none', duration: 0.32 })
         .to(el, { duration: 0.36 }) // hold — no-op, keeps the "to" state while in view
@@ -347,7 +352,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const CHAR_FROM = [{ y: 16, x: 0 }, { y: -16, x: 0 }, { x: -16, y: 0 }, { x: 16, y: 0 }];
       const charFrom = i => CHAR_FROM[i % CHAR_FROM.length];
       gsap.timeline({
-        scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
+        scrollTrigger: { trigger: heading, start: 'top bottom', end: 'bottom top', scrub: true },
       })
         .fromTo(charEls,
           { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y },

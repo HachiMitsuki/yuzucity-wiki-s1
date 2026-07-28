@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             opacity: 0,
             y: -30,
             ease: 'none',
-            scrollTrigger: { trigger: heroSection, start: 'top top', end: 'bottom top', scrub: 0.6 },
+            scrollTrigger: { trigger: heroSection, start: 'top top', end: 'bottom top', scrub: true },
           });
         },
       }
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
         trigger: track,
         start: 'top 75%',
         end: 'bottom 55%',
-        scrub: 0.6,
+        scrub: true,
       },
     });
   }
