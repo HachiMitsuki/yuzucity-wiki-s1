@@ -186,20 +186,27 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // Scroll-triggered reveal — for elements outside the initial viewport
+  // Scroll-triggered reveal — for elements outside the initial viewport.
+  // Elements can opt into a direction via data-reveal="left|right|scale|pop"
+  // (defaults to the plain fade-up "reveal" keyframe used everywhere else).
   if ('IntersectionObserver' in window){
     const io = new IntersectionObserver((entries) => {
       entries.forEach(e => {
         if (e.isIntersecting){
-          e.target.style.animation = 'reveal .7s cubic-bezier(.22,.61,.36,1) both';
-          io.unobserve(e.target);
+          const el = e.target;
+          const dir = el.dataset.reveal;
+          const delay = el.dataset.revealDelay || '0s';
+          el.style.animation = dir
+            ? `yc-reveal-${dir} .8s cubic-bezier(.22,.61,.36,1) ${delay} both`
+            : `reveal .7s cubic-bezier(.22,.61,.36,1) ${delay} both`;
+          io.unobserve(el);
         }
       });
     }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
 
     // Only observe cards/sections that are below the fold on initial paint
     setTimeout(() => {
-      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item').forEach(el => {
+      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item, [data-reveal]').forEach(el => {
         const r = el.getBoundingClientRect();
         if (r.top > window.innerHeight){
           el.style.animation = 'none';
@@ -208,6 +215,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     }, 50);
+
+    // History timeline — the connecting line grows as its section enters view
+    const timelineTrack = document.querySelector('.yc-timeline-track');
+    if (timelineTrack){
+      const lineIo = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+          if (e.isIntersecting){
+            timelineTrack.classList.add('is-growing');
+            lineIo.unobserve(e.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      lineIo.observe(timelineTrack);
+    }
   }
 });
 

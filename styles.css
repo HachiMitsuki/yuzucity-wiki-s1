@@ -1145,6 +1145,29 @@ ul.styled-list li::before{
   from { opacity: 0 } to { opacity: 1 }
 }
 
+/* Direction-aware scroll reveals — used by data-reveal on the index scroll journey */
+@keyframes yc-reveal-up{
+  from { opacity: 0; transform: translateY(28px) }
+  to   { opacity: 1; transform: translateY(0) }
+}
+@keyframes yc-reveal-left{
+  from { opacity: 0; transform: translateX(-56px) }
+  to   { opacity: 1; transform: translateX(0) }
+}
+@keyframes yc-reveal-right{
+  from { opacity: 0; transform: translateX(56px) }
+  to   { opacity: 1; transform: translateX(0) }
+}
+@keyframes yc-reveal-scale{
+  from { opacity: 0; transform: scale(.88) }
+  to   { opacity: 1; transform: scale(1) }
+}
+@keyframes yc-reveal-pop{
+  0%   { opacity: 0; transform: scale(.4) }
+  65%  { opacity: 1; transform: scale(1.08) }
+  100% { opacity: 1; transform: scale(1) }
+}
+
 main > section{
   animation: reveal .8s var(--ease-out) both;
 }
@@ -2035,6 +2058,107 @@ main > section{
 
 @media (max-width: 900px){
   .clips-grid{ grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .7rem }
+}
+
+/* ==============================================================
+   SCROLL JOURNEY — index-only: bouncing scroll cue + history timeline
+   ============================================================== */
+.yc-scrollcue{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .4rem;
+  margin: -.4rem auto 2.4rem;
+  width: fit-content;
+  font-family: var(--font-mono);
+  font-size: .62rem;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+.yc-scrollcue-arrow{
+  width: 18px; height: 18px;
+  border-right: 2px solid var(--yuzu-deep);
+  border-bottom: 2px solid var(--yuzu-deep);
+  transform: rotate(45deg);
+  animation: yc-bounce 1.6s ease-in-out infinite;
+}
+@keyframes yc-bounce{
+  0%, 100%{ transform: rotate(45deg) translate(0,0) }
+  50%{ transform: rotate(45deg) translate(6px,6px) }
+}
+
+.yc-timeline{ position: relative; max-width: 760px; margin: 0 auto; padding: 1rem 0 .5rem; }
+.yc-timeline-track{
+  position: absolute; left: 50%; top: 6px; bottom: 6px; width: 3px;
+  transform: translateX(-50%);
+  background: var(--line);
+  border-radius: 999px;
+}
+.yc-timeline-line{
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, var(--yuzu) 0%, var(--blood) 100%);
+  border-radius: 999px;
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 1.8s var(--ease-out);
+}
+.yc-timeline-track.is-growing .yc-timeline-line{ transform: scaleY(1) }
+
+.yc-timeline-item{ position: relative; width: calc(50% - 2.2rem); margin-bottom: 2.8rem }
+.yc-timeline-item.left{ margin-right: auto; text-align: right }
+.yc-timeline-item.right{ margin-left: auto; text-align: left }
+.yc-timeline-dot{
+  position: absolute; top: .35rem;
+  width: 16px; height: 16px;
+  border-radius: 50%;
+  background: var(--yuzu);
+  border: 3px solid var(--ink-3);
+  box-shadow: 0 0 0 2px var(--yuzu-deep);
+  z-index: 2;
+}
+.yc-timeline-item.left .yc-timeline-dot{ right: -2.2rem; transform: translateX(50%) }
+.yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; transform: translateX(-50%) }
+.yc-timeline-item.done .yc-timeline-dot{ background: var(--leaf) }
+.yc-timeline-item.now .yc-timeline-dot{
+  background: var(--blood);
+  animation: live-pulse 1.6s ease-in-out infinite;
+}
+.yc-timeline-card{
+  display: inline-block;
+  background: var(--ink-3);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.4rem;
+  box-shadow: var(--shadow);
+}
+.yc-timeline-date{
+  font-family: var(--font-mono);
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  color: var(--blood);
+  margin-bottom: .3rem;
+}
+.yc-timeline-title{
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.15rem;
+  color: var(--text);
+  margin-bottom: .4rem;
+}
+.yc-timeline-desc{ font-size: .85rem; color: var(--text-dim); line-height: 1.75 }
+
+@media (max-width: 700px){
+  .yc-timeline-track{ left: 18px }
+  .yc-timeline-item, .yc-timeline-item.left, .yc-timeline-item.right{
+    width: calc(100% - 3rem);
+    margin-left: 3rem; margin-right: 0;
+    text-align: left;
+  }
+  .yc-timeline-item.left .yc-timeline-dot,
+  .yc-timeline-item.right .yc-timeline-dot{ left: -2.2rem; right: auto; transform: translateX(-50%) }
 }
 
 /* ==============================================================
