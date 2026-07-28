@@ -2097,15 +2097,23 @@ body[data-page="index"] main{ padding: 0; max-width: 100%; overflow: hidden }
 body[data-page="index"] section{ margin-bottom: 0 }
 
 .yc-chapter{ position: relative; width: 100%; padding: 5.5rem 1.6rem; overflow: hidden }
-/* Injected by common.js for any .yc-chapter[data-bg] — crossfades in/out
-   with scroll instead of a flat CSS background that's just always there. */
-.yc-chapter-bgphoto{
-  position: absolute; inset: -4% -4%;
+/* A single fixed full-viewport backdrop shared by the whole story page,
+   pinned behind everything — it never scrolls with the page, it only
+   crossfades between chapter photos at chapter boundaries (driven by
+   scroll-journey.js). Photo chapters (.yc-chapter[data-bg]) stay
+   transparent so this shows through; solid chapters (hero/introdetails/
+   archive) paint their own opaque background over it as normal. */
+.yc-fixed-bg{
+  position: fixed; inset: 0;
+  z-index: -1;
+  background: #0A0A0A;
+}
+.yc-fixed-bg-layer{
+  position: absolute; inset: 0;
   background-size: cover;
   background-position: center;
-  z-index: 0;
   opacity: 0;
-  pointer-events: none;
+  transition: none;
 }
 .yc-chapter-inner{ max-width: 980px; margin: 0 auto; position: relative; z-index: 1 }
 .yc-chapter-inner.wide{ max-width: 1180px }
@@ -2156,7 +2164,7 @@ body[data-page="index"] section{ margin-bottom: 0 }
    keeps the plain light wiki theme via its own rules further down) --- */
 .yc-chapter-cat{ padding: 6rem 1.6rem; position: relative }
 
-.yc-chapter[data-bg]{ background: #0A0A0A; color: #FDF6E6 }
+.yc-chapter[data-bg]{ background: transparent; color: #FDF6E6 }
 .yc-chapter[data-bg]::before{
   content: "";
   position: absolute; inset: -10%;
@@ -2185,14 +2193,8 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter[data-bg] .yc-timeline-title{ color: #FDF6E6 }
 .yc-chapter[data-bg] .yc-timeline-desc{ color: rgba(253,246,230,.7) }
 .yc-chapter[data-bg] ul.styled-list li{ color: #FDF6E6; border-bottom-color: rgba(255,255,255,.16) }
-/* Fallback flat colors (shown briefly before the JS bgphoto crossfade
-   layer takes over, and for anything with JS disabled) — same unified
-   black as the JS layer's tint, not per-category color. */
-.yc-chapter-cat.cat-overview,
-.yc-chapter-cat.cat-rules,
-.yc-chapter-cat.cat-jobs,
-.yc-chapter-cat.cat-catalog,
-.yc-chapter-cat.cat-latest{ background: #0A0A0A }
+/* cat-archive has no data-bg (not part of the fixed-photo backdrop) and
+   keeps the plain light wiki theme. */
 .yc-chapter-cat.cat-archive{ background: var(--ink-2); color: var(--text) }
 .yc-chapter-cat.cat-archive .section-title{ color: var(--text) }
 .yc-chapter-cat.cat-archive .section-subtitle{ color: var(--text-dim) }

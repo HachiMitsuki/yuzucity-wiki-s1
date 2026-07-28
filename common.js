@@ -344,25 +344,11 @@ document.addEventListener('DOMContentLoaded', () => {
         .to(charEls, { opacity: 0, x: (i) => charFrom(i).x, y: (i) => charFrom(i).y, ease: 'none', stagger: 0.025, duration: 0.32 });
     });
 
-    // Every chapter sits on the same unified black — the photo is a
-    // translucent wash on top of it that crossfades between images as you
-    // scroll, not a per-category tinted, zooming Ken-Burns backdrop. The
-    // black stays constant; only the photo underneath changes. Declared via
-    // data-bg on the .yc-chapter section (data-tint is intentionally not
-    // read anymore — one black tone everywhere instead of per-chapter color).
-    const YC_CHAPTER_TINT = 'rgba(6,6,6,.76)';
-    document.querySelectorAll('.yc-chapter[data-bg]').forEach(ch => {
-      const bg = document.createElement('div');
-      bg.className = 'yc-chapter-bgphoto';
-      bg.style.backgroundImage = `linear-gradient(${YC_CHAPTER_TINT}, ${YC_CHAPTER_TINT}), url('${ch.dataset.bg}')`;
-      ch.insertBefore(bg, ch.firstChild);
-      gsap.timeline({
-        scrollTrigger: { trigger: ch, start: 'top bottom', end: 'bottom top', scrub: 0.6 },
-      })
-        .fromTo(bg, { opacity: 0 }, { opacity: 1, ease: 'none', duration: 0.3 })
-        .to(bg, { duration: 0.4 }) // hold flat — no zoom/drift, the frame/text carries the motion instead
-        .to(bg, { opacity: 0, ease: 'none', duration: 0.3 });
-    });
+    // The chapter background photos are handled by scroll-journey.js as a
+    // single fixed full-viewport layer that crossfades at chapter
+    // boundaries — not something scrolling with each section (see that
+    // file for why: a background that scrolls along with its section reads
+    // as "flowing", which is exactly what was wrong with the old approach).
 
     // Images (the hero logo especially) finish loading after ScrollTrigger
     // has already measured the page, which leaves every trigger's start/end
