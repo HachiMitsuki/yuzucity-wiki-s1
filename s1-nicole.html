@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nicole（Beta #1 アーカイブ） | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<meta name="robots" content="noindex">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
+</head>
+<body data-page="nicole">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="s2-strip catalog"></div>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Beta #1 のアーカイブ</div>
+      Beta #1（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 1 トップへ</a>
+    </div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>Nicole</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🌹</span>Nicole</h1>
+        <p class="section-subtitle">ジョイント・食べ物・飲み物の専門ショップ</p>
+      </div>
+
+      <div class="dealer-stats">
+        <div class="dealer-stat"><div class="dealer-stat-num" id="total-count">0</div><div class="dealer-stat-label">総メニュー数</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="food-count">0</div><div class="dealer-stat-label">食べ物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="drink-count">0</div><div class="dealer-stat-label">飲み物</div></div>
+      </div>
+
+      <div class="dealer-controls">
+        <div class="dealer-search">
+          <span class="dealer-search-icon">🔍</span>
+          <input type="text" id="nicoleSearch" placeholder="メニュー名で検索…" oninput="renderNicole()">
+        </div>
+        <select class="dealer-sort" id="nicoleSort" onchange="renderNicole()">
+          <option value="price-asc">価格: 安い順</option>
+          <option value="price-desc">価格: 高い順</option>
+          <option value="name">名前順</option>
+        </select>
+        <span class="dealer-count">表示中: <strong id="display-count">0</strong> 件</span>
+      </div>
+
+      <div class="cat-filters" id="cat-filters"></div>
+      <div id="menu-grid"></div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const IMG_BASE = "images/catalog/nicole/";
+
+  const CATEGORIES = {
+    joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
+    food:  { label: "食べ物",   color: "#ff8866", icon: "🍰" },
+    drink: { label: "飲み物",   color: "#66bbff", icon: "🥤" },
+  };
+
+  // Pricing tiers from folder structure:
+  //   1つ3万 → ¥30,000
+  //   1つ5万 → ¥50,000
+  //   1つ7万 → ¥70,000
+  //   1つ9万 → ¥90,000
+  const ITEMS = [
+    // ¥30,000 ジョイント (5品)
+    { id: 1,  name: "Hand Spinner Kibori", image: "handspinner_kibori.png", category: "joint", price: 30000 },
+    { id: 2,  name: "Low Lite",            image: "low_lite.png",           category: "joint", price: 30000 },
+    { id: 3,  name: "Palosant",            image: "palosant.png",           category: "joint", price: 30000 },
+    { id: 4,  name: "Yuzu Candle",         image: "yuzu_candle.png",        category: "joint", price: 30000 },
+    { id: 5,  name: "Yuzu Cigar",          image: "yuzu_cigar.png",         category: "joint", price: 30000 },
+
+    // ¥30,000 食べ物 (3品)
+    { id: 6,  name: "Kamo Jerkey",         image: "kamojerkey.png",         category: "food",  price: 30000 },
+    { id: 7,  name: "Tea Scone",           image: "teascone.png",           category: "food",  price: 30000 },
+    { id: 8,  name: "Tokusei Chahan",      image: "tokuseicha-han.png",     category: "food",  price: 30000 },
+
+    // ¥30,000 飲み物 (3品)
+    { id: 9,  name: "Nicole Espresso",     image: "nicole_espresso.png",    category: "drink", price: 30000 },
+    { id: 10, name: "Nicole Harb Tea",     image: "nicole_harbtea.png",     category: "drink", price: 30000 },
+    { id: 11, name: "Nicole Blend Soda",   image: "nicoleblend_soda.png",   category: "drink", price: 30000 },
+
+    // ¥50,000 ジョイント (2品)
+    { id: 12, name: "Glen Citrus",         image: "glencitrus.png",         category: "joint", price: 50000 },
+    { id: 13, name: "Megane Blend",        image: "meganeblend.png",        category: "joint", price: 50000 },
+
+    // ¥70,000 ジョイント (2品)
+
+    { id: 17, name: "Colorful Cider",       image: "colorfulcider.png",       category: "joint", price: 70000 },
+
+    // ¥90,000 ジョイント (2品)
+    { id: 15, name: "Orito no Ippuku",     image: "oritonoippuku.png",      category: "joint", price: 90000 },
+    { id: 16, name: "Tequila Kanransha",   image: "tequila_kanransya.png",  category: "joint", price: 90000 },
+
+    // 追加分
+    { id: 18, name: "fishandchips",          image: "fishandchips.png",          category: "food",  price: 30000, desc: "なにかのサカナを揚げたもの、エールとも相性抜群、下の新聞には何やら、、怪しげな" },
+    { id: 19, name: "triathlon_drink",       image: "triathlon_drink.png",       category: "drink", price: 30000, desc: "トライアスロンという過酷なスポーツに最適化されたドリンク。あきらめるな、戦え。" },
+    { id: 20, name: "goodale",               image: "goodale.png",               category: "drink", price: 30000, desc: "街のどこかにある酒造所で作られた特別なビール。のど越しさわやかな一杯。" },
+    { id: 21, name: "harbtea_nicole",        image: "harbtea_nicole.png",        category: "drink", price: 30000, desc: "おすすめの茶葉を厳選してきました。優雅で穏やかな時間を演出します。" },
+    { id: 22, name: "yabu_tsubaki",          image: "yabu_tsubaki.png",          category: "joint", price: 90000, desc: "銘酒藪椿と合わせたおつまみ、葉巻。至上のリラックスした時間を過ごせる一品。" },
+    { id: 23, name: "nicole_smokeywhyskey",  image: "nicole_smokeywhyskey.png",  category: "joint", price: 70000, desc: "カットグラスに注がれたヴィンテージウイスキー。オレンジが香る贅沢な一杯。" },
+  ];
+
+  let currentCat = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatPrice(p){
+    return `¥${p.toLocaleString()}`;
+  }
+
+  function buildCatFilters(){
+    const el = document.getElementById("cat-filters");
+    const cats = ["all", ...Object.keys(CATEGORIES)];
+    el.innerHTML = cats.map(c => {
+      const info = c === "all"
+        ? { label: "すべて", color: "#f4c430", icon: "🏪" }
+        : CATEGORIES[c];
+      return `<div class="cat-pill${c === currentCat ? " active" : ""}"
+        style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
+        onclick="selectNicoleCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
+    }).join("");
+  }
+
+  window.selectNicoleCat = function(cat){
+    currentCat = cat;
+    buildCatFilters();
+    renderNicole();
+  };
+
+  function renderItemCard(it){
+    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽" };
+    return `<div class="menu-card">
+      <div class="menu-img-wrap">
+        <img
+          src="${IMG_BASE}${encodeURIComponent(it.image)}"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+          alt="${escapeHtml(it.name)}"
+          loading="lazy">
+        <div class="img-fallback">${cat.icon}</div>
+        <div class="cat-bar" style="background:${cat.color}"></div>
+      </div>
+      <div class="card-body">
+        <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
+        <div class="card-meta">
+          <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
+          <span class="card-price">${formatPrice(it.price)}</span>
+        </div>
+      </div>
+    </div>`;
+  }
+
+  window.renderNicole = function(){
+    const q = (document.getElementById("nicoleSearch").value || '').toLowerCase();
+    const sort = document.getElementById("nicoleSort").value;
+
+    let list = ITEMS.filter(it => {
+      if(currentCat !== "all" && it.category !== currentCat) return false;
+      if(q && !it.name.toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    document.getElementById("display-count").textContent = list.length;
+
+    const grid = document.getElementById("menu-grid");
+    if(list.length === 0){
+      grid.innerHTML = `<div class="menu-grid"><div class="vehicle-empty"><div class="big-icon">🔍</div><p>該当するメニューが見つかりません</p></div></div>`;
+      return;
+    }
+
+    // When searching OR sorting by name → flat alphabetical list (no price grouping).
+    // When sorting by price → price-grouped layout.
+    if(q || sort === "name"){
+      list.sort((a,b) => a.name.localeCompare(b.name));
+      grid.innerHTML = `<div class="menu-grid">${list.map(renderItemCard).join('')}</div>`;
+      return;
+    }
+
+    // Group by price, items within group sorted alphabetically.
+    const byPrice = new Map();
+    for(const it of list){
+      if(!byPrice.has(it.price)) byPrice.set(it.price, []);
+      byPrice.get(it.price).push(it);
+    }
+    for(const items of byPrice.values()){
+      items.sort((a,b) => a.name.localeCompare(b.name));
+    }
+
+    // Order price groups: descending when sort=price-desc, ascending otherwise.
+    const prices = [...byPrice.keys()].sort((a,b) => sort === "price-desc" ? b - a : a - b);
+
+    grid.innerHTML = prices.map(price => {
+      const items = byPrice.get(price);
+      return `
+        <div class="price-group-header">
+          <span class="price-group-price">${formatPrice(price)}</span>
+          <div class="price-group-line"></div>
+          <span class="price-group-count">${items.length}品</span>
+        </div>
+        <div class="menu-grid">${items.map(renderItemCard).join('')}</div>
+      `;
+    }).join('');
+  };
+
+  function initStats(){
+    document.getElementById("total-count").textContent = ITEMS.length;
+    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
+    document.getElementById("food-count").textContent  = ITEMS.filter(i => i.category === "food").length;
+    document.getElementById("drink-count").textContent = ITEMS.filter(i => i.category === "drink").length;
+  }
+
+  initStats();
+  buildCatFilters();
+  renderNicole();
+})();
+</script>
+</body>
+</html>

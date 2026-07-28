@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Icarus（Beta #1 アーカイブ） | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<meta name="robots" content="noindex">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
+</head>
+<body data-page="icarus">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="s2-strip catalog"></div>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Beta #1 のアーカイブ</div>
+      Beta #1（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 1 トップへ</a>
+    </div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>Icarus</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🍰</span>Icarus</h1>
+        <p class="section-subtitle">天空をテーマにしたメニュー・お食事 / お飲み物</p>
+      </div>
+
+      <div class="dealer-stats">
+        <div class="dealer-stat"><div class="dealer-stat-num" id="total-count">0</div><div class="dealer-stat-label">総メニュー数</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="food-count">0</div><div class="dealer-stat-label">食べ物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="drink-count">0</div><div class="dealer-stat-label">飲み物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="set-count">0</div><div class="dealer-stat-label">セット</div></div>
+      </div>
+
+      <div class="dealer-controls">
+        <div class="dealer-search">
+          <span class="dealer-search-icon">🔍</span>
+          <input type="text" id="icarusSearch" placeholder="メニュー名で検索…" oninput="renderIcarus()">
+        </div>
+        <select class="dealer-sort" id="icarusSort" onchange="renderIcarus()">
+          <option value="price-asc">価格: 安い順</option>
+          <option value="price-desc">価格: 高い順</option>
+          <option value="name">名前順</option>
+        </select>
+        <span class="dealer-count">表示中: <strong id="display-count">0</strong> 件</span>
+      </div>
+
+      <div class="cat-filters" id="cat-filters"></div>
+      <div id="menu-grid"></div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const IMG_BASE = "images/catalog/icarus/";
+
+  const CATEGORIES = {
+    food:  { label: "食べ物",   color: "#ff8866", icon: "🍰" },
+    drink: { label: "飲み物",   color: "#66bbff", icon: "🥤" },
+    joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
+    set:   { label: "セット",   color: "#f4c430", icon: "🎁" },
+  };
+
+  // Pricing rule from folder structure:
+  //   1つ3万 (individual) → ¥30,000 each
+  //   2つで6万 (set)       → ¥60,000 for any 2 of the set items
+  const ITEMS = [
+    // 食べ物 (¥30,000 each)
+    { id: 1,  name: "Angel Ikaring",         image: "AngelIkaring.png",       category: "food",  price: 30000 },
+    { id: 2,  name: "Evening Pancakes",      image: "EveningPancakes.png",    category: "food",  price: 30000 },
+    { id: 3,  name: "Midnight Parfait",      image: "MidnightParfait.png",    category: "food",  price: 30000 },
+    { id: 4,  name: "Sunrise French Toast",  image: "SunriseFrenchToast.png", category: "food",  price: 30000 },
+    { id: 13, name: "Haruty Cookie",         image: "harutycookie.png",       category: "food",  price: 30000 },
+
+    // 飲み物 (¥30,000 each)
+    { id: 5,  name: "Morning Glow Latte",    image: "MorningGlowLatte.png",   category: "drink", price: 30000 },
+    { id: 6,  name: "Morning Grows",         image: "MorningGrows.png",       category: "drink", price: 30000 },
+    { id: 7,  name: "Nightsky Cocktail",     image: "NightskyCocktail.png",   category: "drink", price: 30000 },
+    { id: 8,  name: "Nightsky Coffee",       image: "NightskyCoffee.png",     category: "drink", price: 30000 },
+    { id: 9,  name: "Sunset Soda",           image: "SunsetSoda.png",         category: "drink", price: 30000 },
+    { id: 10, name: "Twilight Highball",     image: "TwilightHighball.png",   category: "drink", price: 30000 },
+    { id: 14, name: "Haruty Juice",          image: "harutyjuice.png",        category: "drink", price: 30000 },
+    { id: 17, name: "877 MILK",              image: "877MILK.png",            category: "drink", price: 30000 },
+    { id: 18, name: "15 FLOAT",              image: "15FLOAT.png",            category: "drink", price: 30000 },
+    { id: 19, name: "004 TEA",               image: "004TEA.png",             category: "drink", price: 30000 },
+
+    // ジョイント (¥50,000 each)
+    { id: 15, name: "Haruty Candle",         image: "harutycandle.png",       category: "joint", price: 50000 },
+    { id: 16, name: "Tendousetsu no Sho",    image: "tendousetunosyo.png",    category: "joint", price: 50000 },
+
+    // 追加分 (¥30,000)
+    { id: 20, name: "TakerMont-Blanc",   image: "takerMont-Blanc.png",   category: "food",  price: 30000, desc: "中村健の大好物。雲のように軽い口当たり、香ばしい和栗の香り是非ご賞味あれ。" },
+    { id: 21, name: "MiharuCheesecake",  image: "miharucheesecake.png",  category: "food",  price: 30000, desc: "ミハル印のレアチーズケーキ。さっぱりとした酸味とチーズの風味がたまらない一品。" },
+    { id: 22, name: "BobOmeletrice",     image: "BobOmeletrice.png",     category: "food",  price: 30000, desc: "店長の得意料理オムライス。特製デミソースでふか〜いコクと上品な味わい。" },
+    { id: 23, name: "MugichiPasta",      image: "mugichipasta.png",      category: "food",  price: 30000, desc: "むーぎかわのソウルフード。ニンニク入れますか？" },
+    { id: 24, name: "Ashice",            image: "Ashice.png",            category: "food",  price: 30000, desc: "あっしゅちゃんが愛してやまない。とけるアイスに黒トリュフを添えました。" },
+    { id: 25, name: "HachimitsukiMilk",  image: "Hachimitsukimilk.png",  category: "drink", price: 30000, desc: "充希が毎日のように愛飲する蜂蜜ミルク。寝る前にほっと一息いかがですか？" },
+    { id: 26, name: "Mizu",              image: "miizu.png",             category: "drink", price: 30000, desc: "北南国が持ってきた。本人曰く路地裏の星肩入り水道水玩具氷割りらしい。" },
+    { id: 27, name: "TenkuRyokucha",     image: "Tenkuryokucha.png",     category: "drink", price: 30000, desc: "空を見ながら緑茶で一息。たまにはお休みしませんか？" },
+
+    // セット (2品で¥60,000)
+    { id: 11, name: "Cloud Milktea + Sky Teafoods",
+      images: ["CloudMilktea.png", "SkyTeafoods.png"],
+      category: "set", price: 60000, setNote: "2品セット" },
+  ];
+
+  let currentCat = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatPrice(p){
+    return `¥${p.toLocaleString()}`;
+  }
+
+  function buildCatFilters(){
+    const el = document.getElementById("cat-filters");
+    const cats = ["all", ...Object.keys(CATEGORIES)];
+    el.innerHTML = cats.map(c => {
+      const info = c === "all"
+        ? { label: "すべて", color: "#f4c430", icon: "🏪" }
+        : CATEGORIES[c];
+      return `<div class="cat-pill${c === currentCat ? " active" : ""}"
+        style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
+        onclick="selectIcarusCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
+    }).join("");
+  }
+
+  window.selectIcarusCat = function(cat){
+    currentCat = cat;
+    buildCatFilters();
+    renderIcarus();
+  };
+
+  function renderItemCard(it){
+    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽" };
+    const setBadge = it.setNote
+      ? `<span class="menu-set-badge">${escapeHtml(it.setNote)}</span>`
+      : '';
+    const imgs = Array.isArray(it.images) && it.images.length > 0 ? it.images : [it.image];
+    const pairClass = imgs.length > 1 ? ' menu-img-pair' : '';
+    const imageHtml = imgs.map(img => `
+        <img
+          src="${IMG_BASE}${encodeURIComponent(img)}"
+          onerror="this.style.display='none'"
+          alt="${escapeHtml(it.name)}"
+          loading="lazy">
+    `).join('');
+    return `<div class="menu-card${imgs.length > 1 ? ' menu-card-set' : ''}">
+      <div class="menu-img-wrap${pairClass}">
+        ${imageHtml}
+        ${setBadge}
+        <div class="cat-bar" style="background:${cat.color}"></div>
+      </div>
+      <div class="card-body">
+        <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
+        <div class="card-meta">
+          <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
+          <span class="card-price">${formatPrice(it.price)}</span>
+        </div>
+      </div>
+    </div>`;
+  }
+
+  window.renderIcarus = function(){
+    const q = (document.getElementById("icarusSearch").value || '').toLowerCase();
+    const sort = document.getElementById("icarusSort").value;
+
+    let list = ITEMS.filter(it => {
+      if(currentCat !== "all" && it.category !== currentCat) return false;
+      if(q && !it.name.toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    document.getElementById("display-count").textContent = list.length;
+
+    const grid = document.getElementById("menu-grid");
+    if(list.length === 0){
+      grid.innerHTML = `<div class="menu-grid"><div class="vehicle-empty"><div class="big-icon">🔍</div><p>該当するメニューが見つかりません</p></div></div>`;
+      return;
+    }
+
+    // When searching OR sorting by name → flat alphabetical list (no price grouping).
+    // When sorting by price → price-grouped layout.
+    if(q || sort === "name"){
+      list.sort((a,b) => a.name.localeCompare(b.name));
+      grid.innerHTML = `<div class="menu-grid">${list.map(renderItemCard).join('')}</div>`;
+      return;
+    }
+
+    // Group by price, sort items within each group by name.
+    const byPrice = new Map();
+    for(const it of list){
+      if(!byPrice.has(it.price)) byPrice.set(it.price, []);
+      byPrice.get(it.price).push(it);
+    }
+    for(const items of byPrice.values()){
+      items.sort((a,b) => a.name.localeCompare(b.name));
+    }
+
+    // Order price groups: desc when "price-desc" sort, else ascending.
+    const prices = [...byPrice.keys()].sort((a,b) => sort === "price-desc" ? b - a : a - b);
+
+    grid.innerHTML = prices.map(price => {
+      const items = byPrice.get(price);
+      const note = items.find(i => i.setNote)?.setNote;
+      const priceLabel = note ? `${formatPrice(price)} <span style="font-size:.7em;opacity:.7">(${escapeHtml(note)})</span>` : formatPrice(price);
+      return `
+        <div class="price-group-header">
+          <span class="price-group-price">${priceLabel}</span>
+          <div class="price-group-line"></div>
+          <span class="price-group-count">${items.length}品</span>
+        </div>
+        <div class="menu-grid">${items.map(renderItemCard).join('')}</div>
+      `;
+    }).join('');
+  };
+
+  function initStats(){
+    document.getElementById("total-count").textContent = ITEMS.length;
+    document.getElementById("food-count").textContent  = ITEMS.filter(i => i.category === "food").length;
+    document.getElementById("drink-count").textContent = ITEMS.filter(i => i.category === "drink").length;
+    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
+    document.getElementById("set-count").textContent   = ITEMS.filter(i => i.category === "set").length;
+  }
+
+  initStats();
+  buildCatFilters();
+  renderIcarus();
+})();
+</script>
+</body>
+</html>

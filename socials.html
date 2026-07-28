@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>住民SNS | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+</head>
+<body data-page="socials">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="s2-strip latest"></div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>住民SNS</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">𝕏</span>住民SNS</h1>
+        <p class="section-subtitle">Discord で共有された住民の X (Twitter) アカウント一覧</p>
+      </div>
+
+      <div class="twitch-meta" id="socialsMeta">
+        <span>更新: <span id="updatedAt">—</span></span>
+        <span class="meta-dot"></span>
+        <span id="countLabel">— アカウント</span>
+      </div>
+
+      <div class="socials-grid" id="socialsGrid">
+        <div class="twitch-empty" id="loadingState">
+          <h3>読み込み中…</h3>
+          <p>アカウント情報を取得しています</p>
+        </div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const grid = document.getElementById('socialsGrid');
+  const updatedAtEl = document.getElementById('updatedAt');
+  const countLabelEl = document.getElementById('countLabel');
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatJst(iso){
+    if(!iso) return '—';
+    try{
+      const d = new Date(iso);
+      const fmt = new Intl.DateTimeFormat('ja-JP',{
+        timeZone:'Asia/Tokyo',
+        year:'numeric',month:'2-digit',day:'2-digit',
+        hour:'2-digit',minute:'2-digit',
+      });
+      return fmt.format(d);
+    }catch(_){ return iso; }
+  }
+
+  function renderCard(a){
+    const handle = a.handle || '';
+    const handleAt = `@${handle}`;
+    // display_name is the X account "Name". If scraping failed, it'll be @handle —
+    // in that case suppress the duplicate second line.
+    const name = a.display_name || handleAt;
+    const showHandleRow = name !== handleAt;
+    const profileUrl = a.profile_url || `https://x.com/${encodeURIComponent(handle)}`;
+    // Primary avatar: real CDN URL from og:image if available.
+    // Fallback chain handled by chained <img onerror>: real → unavatar.io → letter.
+    const primaryAvatar = a.profile_image_url
+      || `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+    const unavatarFallback = `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+    const fallbackLetter = escapeHtml((name.replace(/^@/, '') || '?')[0]);
+    // Only chain to unavatar if the primary isn't already unavatar
+    const useUnavatarChain = !primaryAvatar.includes('unavatar.io');
+    const imgOnError = useUnavatarChain
+      ? `if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='${unavatarFallback}';}else{this.style.display='none';this.nextElementSibling.style.display='flex';}`
+      : `this.style.display='none';this.nextElementSibling.style.display='flex'`;
+    return `
+      <a href="${escapeHtml(profileUrl)}" target="_blank" rel="noopener" class="social-card">
+        <div class="social-avatar-wrap">
+          <img class="social-avatar" src="${escapeHtml(primaryAvatar)}" alt=""
+               referrerpolicy="no-referrer"
+               onerror="${imgOnError}">
+          <div class="social-avatar-fallback" style="display:none">${fallbackLetter}</div>
+        </div>
+        <div class="social-info">
+          <div class="social-name">${escapeHtml(name)}</div>
+          ${showHandleRow ? `<div class="social-handle">${escapeHtml(handleAt)}</div>` : ''}
+        </div>
+        <div class="social-arrow">→</div>
+      </a>
+    `;
+  }
+
+  function renderEmpty(){
+    return `
+      <div class="twitch-empty">
+        <h3>アカウントがまだ登録されていません</h3>
+        <p>Discord の指定チャンネルに X (Twitter) のURLを投稿すると、ここに表示されます。</p>
+      </div>
+    `;
+  }
+
+  function renderError(msg){
+    return `
+      <div class="twitch-empty">
+        <h3>取得に失敗しました</h3>
+        <p>${escapeHtml(msg || 'socials.json を読み込めませんでした')}</p>
+      </div>
+    `;
+  }
+
+  async function load(){
+    try{
+      const res = await fetch('socials.json?cb=' + Date.now(), {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const accounts = Array.isArray(data.accounts) ? data.accounts : [];
+
+      updatedAtEl.textContent = formatJst(data.updated_at);
+      countLabelEl.textContent = `${accounts.length} アカウント`;
+
+      if(accounts.length === 0){
+        grid.innerHTML = renderEmpty();
+        return;
+      }
+
+      accounts.sort((a,b) => (a.handle || '').localeCompare(b.handle || ''));
+      grid.innerHTML = accounts.map(renderCard).join('');
+    }catch(e){
+      grid.innerHTML = renderError(e.message);
+    }
+  }
+
+  load();
+  setInterval(load, 5 * 60_000);
+})();
+</script>
+</body>
+</html>

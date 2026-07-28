@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>猫カフェNAU（Beta #1 アーカイブ） | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<meta name="robots" content="noindex">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
+</head>
+<body data-page="nekocafenau">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="s2-strip catalog"></div>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Beta #1 のアーカイブ</div>
+      Beta #1（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 1 トップへ</a>
+    </div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>猫カフェNAU</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🐱</span>猫カフェNAU</h1>
+        <p class="section-subtitle">食べ物・飲み物・ジョイントの専門ショップ</p>
+      </div>
+
+      <div class="dealer-stats">
+        <div class="dealer-stat"><div class="dealer-stat-num" id="total-count">0</div><div class="dealer-stat-label">総メニュー数</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="food-count">0</div><div class="dealer-stat-label">食べ物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="drink-count">0</div><div class="dealer-stat-label">飲み物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
+      </div>
+
+      <div class="dealer-controls">
+        <div class="dealer-search">
+          <span class="dealer-search-icon">🔍</span>
+          <input type="text" id="nauSearch" placeholder="メニュー名で検索…" oninput="renderNAU()">
+        </div>
+        <select class="dealer-sort" id="nauSort" onchange="renderNAU()">
+          <option value="price-asc">価格: 安い順</option>
+          <option value="price-desc">価格: 高い順</option>
+          <option value="name">名前順</option>
+        </select>
+        <span class="dealer-count">表示中: <strong id="display-count">0</strong> 件</span>
+      </div>
+
+      <div class="cat-filters" id="cat-filters"></div>
+      <div id="menu-grid"></div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const IMG_BASE = "images/catalog/nekocafenau/";
+
+  const CATEGORIES = {
+    food:  { label: "食べ物",    color: "#ff8866", icon: "🍰" },
+    drink: { label: "飲み物",    color: "#66bbff", icon: "🥤" },
+    joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
+  };
+
+  const ITEMS = [
+    // ¥30,000 食べ物 (2品)
+    { id: 1, name: "Cookie_assorts",  image: "Cookie_assorts.png",  category: "food",  price: 30000, desc: "可愛い猫型焼き菓子がたくさん詰まった夢のBOX。" },
+    { id: 2, name: "Macaron_assorts", image: "Macaron_assorts.png", category: "food",  price: 30000, desc: "色とりどりの猫型マカロンが詰め込まれた幸せなBOXセット。" },
+
+    // ¥30,000 飲み物 (2品)
+    { id: 3, name: "cocoa_nau",   image: "cocoa_nau.png",   category: "drink", price: 30000, desc: "入店時に提供されるドリンク。猫型マシュマロが乗った可愛らしい1点。" },
+    { id: 4, name: "coffee_nau",  image: "coffee_nau.png",  category: "drink", price: 30000, desc: "猫ちゃんマークの可愛らしい持ち帰り用コーヒー。ホカホカでお届けします。" },
+
+    // ¥50,000 ジョイント (3品)
+    { id: 5, name: "pink_naucat",   image: "pink_naucat.png",   category: "joint", price: 50000, desc: "桃色の可愛らしい猫のぬいぐるみ。ぎゅっと抱くと優しい気持ちになる。" },
+    { id: 6, name: "blue_naucat",   image: "blue_naucat.png",   category: "joint", price: 50000, desc: "水色の可愛らしい猫のぬいぐるみ。他の子と並べると更に可愛い。" },
+    { id: 7, name: "orange_naucat", image: "orange_naucat.png", category: "joint", price: 50000, desc: "オレンジ色の可愛らしい猫のぬいぐるみ。他の子と柄が少し違う。" },
+  ];
+
+  let currentCat = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatPrice(p){
+    return `¥${p.toLocaleString()}`;
+  }
+
+  function buildCatFilters(){
+    const el = document.getElementById("cat-filters");
+    const cats = ["all", ...Object.keys(CATEGORIES)];
+    el.innerHTML = cats.map(c => {
+      const info = c === "all"
+        ? { label: "すべて", color: "#f4c430", icon: "🏪" }
+        : CATEGORIES[c];
+      return `<div class="cat-pill${c === currentCat ? " active" : ""}"
+        style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
+        onclick="selectNAUCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
+    }).join("");
+  }
+
+  window.selectNAUCat = function(cat){
+    currentCat = cat;
+    buildCatFilters();
+    renderNAU();
+  };
+
+  function renderItemCard(it){
+    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽️" };
+    return `<div class="menu-card">
+      <div class="menu-img-wrap">
+        <img
+          src="${IMG_BASE}${encodeURIComponent(it.image)}"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+          alt="${escapeHtml(it.name)}"
+          loading="lazy">
+        <div class="img-fallback">${cat.icon}</div>
+        <div class="cat-bar" style="background:${cat.color}"></div>
+      </div>
+      <div class="card-body">
+        <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
+        <div class="card-meta">
+          <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
+          <span class="card-price">${formatPrice(it.price)}</span>
+        </div>
+      </div>
+    </div>`;
+  }
+
+  window.renderNAU = function(){
+    const q = (document.getElementById("nauSearch").value || '').toLowerCase();
+    const sort = document.getElementById("nauSort").value;
+
+    let list = ITEMS.filter(it => {
+      if(currentCat !== "all" && it.category !== currentCat) return false;
+      if(q && !it.name.toLowerCase().includes(q) && !(it.desc||'').toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    document.getElementById("display-count").textContent = list.length;
+
+    const grid = document.getElementById("menu-grid");
+    if(list.length === 0){
+      grid.innerHTML = `<div class="menu-grid"><div class="vehicle-empty"><div class="big-icon">🔍</div><p>該当するメニューが見つかりません</p></div></div>`;
+      return;
+    }
+
+    if(q || sort === "name"){
+      list.sort((a,b) => a.name.localeCompare(b.name));
+      grid.innerHTML = `<div class="menu-grid">${list.map(renderItemCard).join('')}</div>`;
+      return;
+    }
+
+    const byPrice = new Map();
+    for(const it of list){
+      if(!byPrice.has(it.price)) byPrice.set(it.price, []);
+      byPrice.get(it.price).push(it);
+    }
+    for(const items of byPrice.values()){
+      items.sort((a,b) => a.name.localeCompare(b.name));
+    }
+
+    const prices = [...byPrice.keys()].sort((a,b) => sort === "price-desc" ? b - a : a - b);
+
+    grid.innerHTML = prices.map(price => {
+      const items = byPrice.get(price);
+      return `
+        <div class="price-group-header">
+          <span class="price-group-price">${formatPrice(price)}</span>
+          <div class="price-group-line"></div>
+          <span class="price-group-count">${items.length}品</span>
+        </div>
+        <div class="menu-grid">${items.map(renderItemCard).join('')}</div>
+      `;
+    }).join('');
+  };
+
+  function initStats(){
+    document.getElementById("total-count").textContent = ITEMS.length;
+    document.getElementById("food-count").textContent  = ITEMS.filter(i => i.category === "food").length;
+    document.getElementById("drink-count").textContent = ITEMS.filter(i => i.category === "drink").length;
+    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
+  }
+
+  initStats();
+  buildCatFilters();
+  renderNAU();
+})();
+</script>
+</body>
+</html>

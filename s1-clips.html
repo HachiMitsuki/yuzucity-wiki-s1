@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>クリップ（Beta #1 アーカイブ） | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<meta name="robots" content="noindex">
+<style>
+.clip-lightbox{
+  position:fixed; inset:0; z-index:9999;
+  display:flex; align-items:center; justify-content:center;
+  padding:20px;
+}
+.clip-lightbox[hidden]{ display:none; }
+.lightbox-backdrop{
+  position:absolute; inset:0;
+  background:rgba(0,0,0,.92);
+  cursor:pointer;
+  /* NOTE: backdrop-filter:blur(...) was removed here intentionally.
+     It forced the GPU to re-blur the page (which contains many <video>
+     thumbnails playing/buffering in the background) on every frame,
+     starving the foreground video and dropping it to ~10–15fps. */
+}
+.lightbox-content{
+  position:relative; z-index:1;
+  display:flex; flex-direction:column; gap:14px;
+  max-width:min(1280px, 92vw); width:auto;
+}
+.lightbox-close{
+  position:absolute; top:-44px; right:0;
+  background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.18);
+  color:#fff; width:36px; height:36px; border-radius:50%;
+  font-size:22px; line-height:1; cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+  transition:background .15s, transform .15s;
+}
+.lightbox-close:hover{ background:rgba(255,255,255,.18); transform:scale(1.05); }
+.lightbox-media{
+  background:#000; border-radius:10px; overflow:hidden;
+  display:flex; align-items:center; justify-content:center;
+  max-height:78vh;
+}
+.lightbox-video{
+  display:block; width:auto; height:auto;
+  max-width:min(1280px, 92vw); max-height:78vh;
+  background:#000;
+  /* Promote to its own GPU layer so decoding/compositing is hardware-accelerated
+     and not interleaved with the background page paints. */
+  transform:translateZ(0);
+  will-change:transform;
+}
+.lightbox-iframe{
+  display:block; border:0;
+  width:min(1280px, 92vw); aspect-ratio:16/9;
+  max-height:78vh; background:#000;
+}
+.lightbox-fallback{
+  padding:60px 40px; text-align:center; color:#fff;
+}
+.lightbox-fallback a{ color:#f4c430; text-decoration:underline; }
+.lightbox-info{
+  color:#fff; font-size:.9rem; line-height:1.5;
+  display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center;
+}
+.lightbox-info strong{ font-size:1.05rem; }
+.lightbox-info a{ color:#f4c430; text-decoration:underline; }
+.lightbox-info .lb-author-avatar{
+  width:24px; height:24px; border-radius:50%; vertical-align:middle; margin-right:6px;
+}
+.lightbox-info .lb-author{ display:inline-flex; align-items:center; }
+body.lightbox-open{ overflow:hidden; }
+.clip-card{ cursor:pointer; }
+.clip-card:focus-visible{ outline:2px solid #f4c430; outline-offset:2px; border-radius:8px; }
+</style>
+</head>
+<body data-page="clips">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Beta #1 のアーカイブ</div>
+      Beta #1（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 1 トップへ</a>
+    </div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>クリップ</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🎬</span>面白クリップ</h1>
+        <p class="section-subtitle">街の住民が配信から切り抜いた面白かった瞬間</p>
+      </div>
+
+      <div class="twitch-meta" id="clipsMeta">
+        <span>更新: <span id="updatedAt">—</span></span>
+        <span class="meta-dot"></span>
+        <span id="countLabel">— クリップ</span>
+      </div>
+
+      <div class="clips-filters" id="clips-filters"></div>
+
+      <div class="clips-grid" id="clips-grid">
+        <div class="vehicle-empty"><h3>読み込み中…</h3><p>クリップを取得しています</p></div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<div class="clip-lightbox" id="clipLightbox" hidden>
+  <div class="lightbox-backdrop" data-close></div>
+  <div class="lightbox-content">
+    <button class="lightbox-close" data-close aria-label="閉じる">×</button>
+    <div class="lightbox-media" id="lightboxMedia"></div>
+    <div class="lightbox-info" id="lightboxInfo"></div>
+  </div>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const grid = document.getElementById('clips-grid');
+  const updatedAtEl = document.getElementById('updatedAt');
+  const countLabelEl = document.getElementById('countLabel');
+  const filtersEl = document.getElementById('clips-filters');
+
+  const SOURCE_INFO = {
+    all:        { label: "すべて",     icon: "🎬", color: "#f4c430" },
+    twitch:     { label: "Twitch",     icon: "🟣", color: "#9146FF" },
+    youtube:    { label: "YouTube",    icon: "▶️",  color: "#FF0000" },
+    streamable: { label: "Streamable", icon: "🔵", color: "#0F90FA" },
+    discord:    { label: "Discord動画", icon: "💜", color: "#5865F2" },
+  };
+
+  let currentSource = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatJst(iso){
+    if(!iso) return '—';
+    try{
+      const d = new Date(iso);
+      const fmt = new Intl.DateTimeFormat('ja-JP',{
+        timeZone:'Asia/Tokyo',
+        year:'numeric',month:'2-digit',day:'2-digit',
+        hour:'2-digit',minute:'2-digit',
+      });
+      return fmt.format(d);
+    }catch(_){ return iso; }
+  }
+
+  function formatDuration(s){
+    if(!s || s <= 0) return '';
+    const m = Math.floor(s/60);
+    const r = s % 60;
+    return m > 0 ? `${m}:${String(r).padStart(2,'0')}` : `0:${String(r).padStart(2,'0')}`;
+  }
+
+  function buildFilters(clips){
+    const counts = {all: clips.length};
+    for(const c of clips){ counts[c.source] = (counts[c.source]||0) + 1; }
+    const sources = ['all', 'twitch', 'youtube', 'discord', 'streamable']
+      .filter(s => s === 'all' || (counts[s] || 0) > 0);
+    filtersEl.innerHTML = sources.map(s => {
+      const info = SOURCE_INFO[s];
+      const active = s === currentSource ? ' active' : '';
+      return `<div class="cat-pill${active}"
+        style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
+        onclick="selectClipSource('${s}')">${info.icon} ${escapeHtml(info.label)} <span style="opacity:.7">${counts[s]||0}</span></div>`;
+    }).join('');
+  }
+
+  window.selectClipSource = function(src){
+    currentSource = src;
+    document.querySelectorAll('.clips-filters .cat-pill').forEach((p,i,arr) => {
+      const isActive = p.textContent.trim().includes(SOURCE_INFO[src].label);
+      p.classList.toggle('active', isActive);
+    });
+    render();
+  };
+
+  let allClips = [];
+
+  function render(){
+    let list = currentSource === 'all' ? allClips : allClips.filter(c => c.source === currentSource);
+    if(list.length === 0){
+      grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><p>該当するクリップがありません</p></div>`;
+      return;
+    }
+
+    grid.innerHTML = list.map(c => {
+      const info = SOURCE_INFO[c.source] || { label: c.source, icon: "🎬", color: "#888" };
+      const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info.label} クリップ`);
+      const author = c.author_name || '匿名';
+      const dur = formatDuration(c.duration_seconds);
+
+      // Thumbnail: image for twitch/youtube/streamable, <video> for discord
+      let media;
+      if(c.source === 'discord'){
+        media = `<video class="clip-thumb-video" src="${escapeHtml(c.url)}#t=0.1" preload="metadata" muted playsinline></video>`;
+      }else if(c.thumbnail_url){
+        media = `<img class="clip-thumb-img" src="${escapeHtml(c.thumbnail_url)}" alt="" loading="lazy"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <div class="clip-thumb-fallback" style="display:none">${info.icon}</div>`;
+      }else{
+        media = `<div class="clip-thumb-fallback" style="display:flex">${info.icon}</div>`;
+      }
+
+      return `<div class="clip-card" data-clip-id="${c.id}" role="button" tabindex="0" aria-label="${escapeHtml(title)} を再生">
+        <div class="clip-thumb">
+          ${media}
+          <div class="clip-play">▶</div>
+          ${dur ? `<span class="clip-duration">${dur}</span>` : ''}
+          <span class="clip-source-badge" style="background:${info.color}">${info.icon} ${escapeHtml(info.label)}</span>
+        </div>
+        <div class="clip-body">
+          <div class="clip-title" title="${escapeHtml(title)}">${escapeHtml(title)}</div>
+          <div class="clip-meta">
+            <span class="clip-author">
+              ${c.author_avatar ? `<img src="${escapeHtml(c.author_avatar)}" class="clip-author-avatar" alt="">` : ''}
+              ${escapeHtml(author)}
+            </span>
+            <span class="clip-date">${escapeHtml(formatJst(c.posted_at))}</span>
+          </div>
+          ${c.broadcaster_name ? `<div class="clip-broadcaster">📺 ${escapeHtml(c.broadcaster_name)}</div>` : ''}
+        </div>
+      </div>`;
+    }).join('');
+
+    // Wire up card clicks to open the lightbox
+    grid.querySelectorAll('.clip-card').forEach(card => {
+      card.addEventListener('click', () => {
+        const id = Number(card.dataset.clipId);
+        const clip = allClips.find(c => c.id === id);
+        if (clip) openLightbox(clip);
+      });
+      card.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          card.click();
+        }
+      });
+    });
+  }
+
+  // -------------------- Lightbox --------------------
+
+  function lightboxMediaHtml(c){
+    if (c.source === 'discord') {
+      return `<video class="lightbox-video" src="${escapeHtml(c.url)}" controls autoplay playsinline></video>`;
+    }
+    if (c.source === 'twitch' && c.source_id) {
+      const parent = encodeURIComponent(window.location.hostname || 'localhost');
+      return `<iframe class="lightbox-iframe"
+        src="https://clips.twitch.tv/embed?clip=${encodeURIComponent(c.source_id)}&parent=${parent}&autoplay=true"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    if (c.source === 'youtube' && c.source_id) {
+      return `<iframe class="lightbox-iframe"
+        src="https://www.youtube.com/embed/${encodeURIComponent(c.source_id)}?autoplay=1"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    if (c.source === 'streamable' && c.source_id) {
+      return `<iframe class="lightbox-iframe"
+        src="https://streamable.com/e/${encodeURIComponent(c.source_id)}?autoplay=1"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    return `<div class="lightbox-fallback">
+      埋め込み再生に対応していません。<br>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">新規タブで開く →</a>
+    </div>`;
+  }
+
+  // Pause + drop the buffer of every thumbnail <video> on the page so they
+  // stop competing with the foreground player for the GPU/CPU decoder.
+  // Restored on closeLightbox.
+  function pauseThumbVideos(){
+    document.querySelectorAll('.clip-thumb-video').forEach(v => {
+      try {
+        v.pause();
+        v.dataset._origPreload = v.preload || 'metadata';
+        v.preload = 'none';
+        v.removeAttribute('src');
+        v.load();
+      } catch(_) {}
+    });
+  }
+  function resumeThumbVideos(){
+    // Re-render the grid so the thumbnails get their src back. Cheaper than
+    // tracking each element's original src.
+    render();
+  }
+
+  function openLightbox(c){
+    const lb = document.getElementById('clipLightbox');
+    const media = document.getElementById('lightboxMedia');
+    const info = document.getElementById('lightboxInfo');
+    pauseThumbVideos();
+    media.innerHTML = lightboxMediaHtml(c);
+
+    const info_info = SOURCE_INFO[c.source] || { label: c.source, icon: '🎬' };
+    const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info_info.label} クリップ`);
+    const author = c.author_name || '匿名';
+    const avatar = c.author_avatar
+      ? `<img src="${escapeHtml(c.author_avatar)}" class="lb-author-avatar" alt="">`
+      : '';
+    info.innerHTML = `
+      <strong>${escapeHtml(title)}</strong>
+      <span class="lb-author">${avatar}${escapeHtml(author)}</span>
+      <span>${escapeHtml(formatJst(c.posted_at))}</span>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">元ページを開く ↗</a>
+    `;
+
+    lb.hidden = false;
+    document.body.classList.add('lightbox-open');
+  }
+
+  function closeLightbox(){
+    const lb = document.getElementById('clipLightbox');
+    const media = document.getElementById('lightboxMedia');
+    // Clearing innerHTML stops <video>/<iframe> playback cleanly.
+    media.innerHTML = '';
+    lb.hidden = true;
+    document.body.classList.remove('lightbox-open');
+    resumeThumbVideos();
+  }
+
+  document.getElementById('clipLightbox').addEventListener('click', e => {
+    if (e.target.closest('[data-close]')) closeLightbox();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !document.getElementById('clipLightbox').hidden) closeLightbox();
+  });
+
+  async function load(){
+    try{
+      const res = await fetch('s1-clips.json?cb=' + Date.now(), {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      allClips = Array.isArray(data.clips) ? data.clips : [];
+      updatedAtEl.textContent = formatJst(data.updated_at);
+      countLabelEl.textContent = `${allClips.length} クリップ`;
+
+      if(allClips.length === 0){
+        filtersEl.innerHTML = '';
+        grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><h3>まだクリップがありません</h3><p>Discordの指定チャンネルにTwitchクリップ・YouTube動画・Streamable・動画ファイルを投稿するとここに表示されます。</p></div>`;
+        return;
+      }
+
+      buildFilters(allClips);
+      render();
+    }catch(e){
+      grid.innerHTML = `<div class="vehicle-empty"><h3>取得に失敗しました</h3><p>${escapeHtml(e.message)}</p></div>`;
+    }
+  }
+
+  load();
+  setInterval(load, 60_000);
+})();
+</script>
+</body>
+</html>

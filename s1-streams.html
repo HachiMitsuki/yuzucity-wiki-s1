@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>配信中（Beta #1 アーカイブ） | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<meta name="robots" content="noindex">
+</head>
+<body data-page="streams">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Beta #1 のアーカイブ</div>
+      Beta #1（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 1 トップへ</a>
+    </div>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>配信中</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">📺</span>配信中の住民</h1>
+        <p class="section-subtitle">Discord で共有された Twitch / YouTube チャンネルの配信状況</p>
+      </div>
+
+      <div class="twitch-meta" id="twitchMeta">
+        <span>更新: <span id="updatedAt">—</span></span>
+        <span class="meta-dot"></span>
+        <span>5分ごとに自動更新</span>
+      </div>
+
+      <div class="twitch-summary" id="twitchSummary"></div>
+
+      <div id="streamerGrid">
+        <div class="streamer-grid">
+          <div class="twitch-empty" id="loadingState">
+            <h3>読み込み中…</h3>
+            <p>配信情報を取得しています</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const grid = document.getElementById('streamerGrid');
+  const updatedAtEl = document.getElementById('updatedAt');
+  const summaryEl = document.getElementById('twitchSummary');
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatJst(iso){
+    if(!iso) return '—';
+    try{
+      const d = new Date(iso);
+      const fmt = new Intl.DateTimeFormat('ja-JP',{
+        timeZone:'Asia/Tokyo',
+        year:'numeric',month:'2-digit',day:'2-digit',
+        hour:'2-digit',minute:'2-digit',
+      });
+      return fmt.format(d);
+    }catch(_){ return iso; }
+  }
+
+  function platformBadge(p){
+    if(p === 'twitch') return '<span class="platform-tag platform-twitch">Twitch</span>';
+    if(p === 'youtube') return '<span class="platform-tag platform-youtube">YouTube</span>';
+    return '';
+  }
+
+  function twitchThumb(s){
+    if(!s.thumbnail_url) return null;
+    return s.thumbnail_url.replace('{width}','480').replace('{height}','270');
+  }
+
+  function renderCard(s){
+    const live = !!s.is_live;
+    const platform = s.platform || 'twitch';
+    const name = s.display_name || s.login || s.handle || s.channel_id || 'Unknown';
+    const channelUrl = s.channel_url || '#';
+    const liveUrl = s.live_url || s.channel_url || '#';
+    const visitUrl = live ? (s.live_url || channelUrl) : channelUrl;
+    const cls = `streamer-card ${live ? 'is-live' : 'is-offline'} platform-${platform}`;
+    const badge = live
+      ? '<span class="status-badge live">LIVE</span>'
+      : '<span class="status-badge offline">OFFLINE</span>';
+
+    const avatar = s.profile_image_url
+      ? `<img class="streamer-avatar" src="${escapeHtml(s.profile_image_url)}" alt="" loading="lazy">`
+      : `<div class="streamer-avatar streamer-avatar-fallback">${escapeHtml((name || '?')[0])}</div>`;
+
+    // Thumbnail when live: Twitch uses interpolated url, YouTube uses ytimg.
+    let thumb = '';
+    if(live){
+      let thumbUrl = null;
+      if(platform === 'twitch') thumbUrl = twitchThumb(s);
+      else if(platform === 'youtube') thumbUrl = s.thumbnail_url || null;
+      thumb = thumbUrl
+        ? `<a href="${escapeHtml(visitUrl)}" target="_blank" rel="noopener" class="card-thumb"><img src="${escapeHtml(thumbUrl)}?cb=${Date.now()}" alt="" loading="lazy"></a>`
+        : `<div class="card-thumb"><div class="card-thumb-placeholder">🎥</div></div>`;
+    }
+
+    const titleBlock = live && s.title
+      ? `<div class="stream-title">${escapeHtml(s.title)}</div>`
+      : '';
+
+    const gameBlock = live && s.game_name
+      ? `<div class="stream-game">${escapeHtml(s.game_name)}</div>`
+      : '';
+
+    const offlineMsg = !live
+      ? '<div class="offline-msg">現在オフラインです</div>'
+      : '';
+
+    return `
+      <div class="${cls}">
+        ${thumb}
+        <div class="streamer-head">
+          <a href="${escapeHtml(channelUrl)}" target="_blank" rel="noopener" class="streamer-avatar-link">${avatar}</a>
+          <div class="streamer-name-block">
+            <div class="streamer-name"><a href="${escapeHtml(channelUrl)}" target="_blank" rel="noopener">${escapeHtml(name)}</a></div>
+            <div class="streamer-platform-row">${platformBadge(platform)} ${badge}</div>
+          </div>
+        </div>
+        ${titleBlock}
+        ${gameBlock}
+        ${offlineMsg}
+        <a href="${escapeHtml(visitUrl)}" target="_blank" rel="noopener" class="btn-stream btn-${platform}">
+          ${live ? '視聴する →' : 'チャンネルを見る →'}
+        </a>
+      </div>
+    `;
+  }
+
+  function renderEmpty(){
+    return `
+      <div class="streamer-grid">
+        <div class="twitch-empty">
+          <h3>配信者がまだ登録されていません</h3>
+          <p>Discord の指定チャンネルに Twitch / YouTube の URL を投稿すると、ここに表示されます。</p>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderError(msg){
+    return `
+      <div class="streamer-grid">
+        <div class="twitch-empty">
+          <h3>取得に失敗しました</h3>
+          <p>${escapeHtml(msg || 'status.json を読み込めませんでした')}</p>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderSummary(streamers){
+    const live = streamers.filter(s => s.is_live).length;
+    const twitchN = streamers.filter(s => s.platform === 'twitch').length;
+    const youtubeN = streamers.filter(s => s.platform === 'youtube').length;
+    const parts = [`<span class="pill pill-live">🔴 LIVE ${live}</span>`];
+    if(twitchN > 0) parts.push(`<span class="pill pill-twitch">Twitch ${twitchN}</span>`);
+    if(youtubeN > 0) parts.push(`<span class="pill pill-youtube">YouTube ${youtubeN}</span>`);
+    summaryEl.innerHTML = parts.join('');
+  }
+
+  async function load(){
+    try{
+      const res = await fetch('s1-status.json?cb=' + Date.now(), {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const streamers = Array.isArray(data.streamers) ? data.streamers : [];
+
+      updatedAtEl.textContent = formatJst(data.updated_at);
+
+      if(streamers.length === 0){
+        summaryEl.innerHTML = '';
+        grid.innerHTML = renderEmpty();
+        return;
+      }
+
+      const byName = (s) => (s.display_name || s.login || s.handle || '').toLowerCase();
+      const liveSort = (a,b) => byName(a).localeCompare(byName(b));
+      const offlineSort = (a,b) => byName(a).localeCompare(byName(b));
+
+      const liveOnes = streamers.filter(s => s.is_live).sort(liveSort);
+      const offlineOnes = streamers.filter(s => !s.is_live).sort(offlineSort);
+
+      renderSummary(streamers);
+
+      const parts = [];
+      if(liveOnes.length > 0){
+        parts.push(`<div class="streams-section-header live"><span class="live-dot"></span>配信中 <span class="streams-section-count">${liveOnes.length}</span></div>`);
+        parts.push(`<div class="streamer-grid">${liveOnes.map(renderCard).join('')}</div>`);
+      }
+      if(offlineOnes.length > 0){
+        parts.push(`<div class="streams-section-header offline">オフライン <span class="streams-section-count">${offlineOnes.length}</span></div>`);
+        parts.push(`<div class="streamer-grid">${offlineOnes.map(renderCard).join('')}</div>`);
+      }
+      grid.innerHTML = parts.join('');
+    }catch(e){
+      summaryEl.innerHTML = '';
+      grid.innerHTML = renderError(e.message);
+    }
+  }
+
+  load();
+  setInterval(load, 60_000);
+})();
+</script>
+</body>
+</html>

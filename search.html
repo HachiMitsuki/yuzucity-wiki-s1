@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>検索 | Yuzu City Wiki</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css?v=s1-launch1">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.search-page-input{
+  display:flex; align-items:center; gap:.6rem;
+  background:var(--card); border:1px solid var(--border);
+  border-radius:14px; padding:.85rem 1rem;
+  margin: 0 0 1.2rem;
+  transition:border-color .15s ease, box-shadow .15s ease;
+}
+.search-page-input:focus-within{ border-color: var(--yuzu); box-shadow: 0 0 0 3px rgba(244,196,48,.18); }
+.search-page-input input{
+  flex:1; background:transparent; border:0; outline:0; color:var(--text);
+  font-size:1.05rem; font-family:inherit;
+}
+.search-page-input .icon{ font-size:1.1rem; opacity:.8 }
+.search-summary{ color:var(--text-dim); font-size:.92rem; margin-bottom:1rem }
+.search-summary strong{ color:var(--yuzu) }
+.search-type-filters{
+  display:flex; flex-wrap:wrap; gap:.4rem; margin: 0 0 1.4rem;
+}
+.search-type-pill{
+  display:inline-flex; align-items:center; gap:.35rem;
+  padding:.35rem .8rem; border-radius:999px;
+  background:var(--card); border:1px solid var(--border);
+  color:var(--text-dim); font-size:.85rem; cursor:pointer;
+  transition: all .15s ease;
+  user-select:none;
+}
+.search-type-pill:hover{ color:var(--text); border-color:var(--yuzu-shadow) }
+.search-type-pill.active{
+  background:rgba(244,196,48,.12); border-color:var(--yuzu);
+  color:var(--yuzu);
+}
+.search-type-pill .count{ opacity:.6; font-size:.78rem }
+.search-results{ display:flex; flex-direction:column; gap:.55rem }
+.search-group{ margin-bottom:1.4rem }
+.search-group-header{
+  display:flex; align-items:center; gap:.55rem;
+  margin: 0 0 .55rem; padding-bottom:.4rem;
+  border-bottom:1px solid var(--border);
+}
+.search-group-icon{ font-size:1.1rem }
+.search-group-title{ font-weight:700; color:var(--text); font-size:.95rem }
+.search-group-count{ color:var(--text-dim); font-size:.82rem; margin-left:auto }
+.search-result{
+  display:flex; gap:.85rem; padding:.7rem .9rem;
+  background:var(--card); border:1px solid var(--border);
+  border-radius:11px; text-decoration:none; color:inherit;
+  transition: border-color .15s ease, transform .15s ease, background .15s ease;
+}
+.search-result:hover{
+  border-color:var(--yuzu-shadow); transform: translateY(-1px);
+  background: rgba(244,196,48,.04);
+}
+.search-result-icon{
+  flex-shrink:0; width:38px; height:38px;
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(244,196,48,.08); border:1px solid var(--border);
+  border-radius:9px; font-size:1.15rem;
+}
+.search-result-body{ flex:1; min-width:0 }
+.search-result-title{
+  font-weight:600; color:var(--text); font-size:.98rem;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.search-result-title mark{
+  background:rgba(244,196,48,.28); color:var(--yuzu); padding: 0 .15em;
+  border-radius:3px;
+}
+.search-result-meta{
+  display:flex; align-items:center; gap:.5rem;
+  color:var(--text-dim); font-size:.82rem; margin-top:.2rem;
+}
+.search-result-source{
+  display:inline-flex; align-items:center; gap:.25rem;
+  color:var(--text-dim);
+}
+.search-result-source::after{ content:"›"; opacity:.5; margin: 0 .2rem }
+.search-result-snippet{
+  color:var(--text-dim); font-size:.85rem; margin-top:.25rem;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.search-empty{
+  text-align:center; color:var(--text-dim); padding:3rem 1rem;
+  background:var(--card); border:1px solid var(--border); border-radius:12px;
+}
+.search-empty .big-icon{ font-size:2.6rem; margin-bottom:.6rem; opacity:.5 }
+.search-loading{
+  text-align:center; color:var(--text-dim); padding:2rem; font-size:.95rem;
+}
+</style>
+</head>
+<body data-page="search">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>検索</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🔍</span>検索</h1>
+        <p class="section-subtitle">Wikiのページ・カタログ・配信・お知らせから横断検索</p>
+      </div>
+
+      <form class="search-page-input" id="searchForm" autocomplete="off">
+        <span class="icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="キーワードで検索…" autofocus>
+      </form>
+
+      <div class="search-summary" id="summary"></div>
+      <div class="search-type-filters" id="typeFilters"></div>
+      <div class="search-results" id="results">
+        <div class="search-loading">⌛ インデックスを読み込み中…</div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
+</footer>
+<script src="common.js?v=s1-launch1"></script>
+<script>
+(function(){
+  const TYPE_META = {
+    page:     { label: "ページ",      icon: "📄" },
+    item:     { label: "カタログ商品", icon: "🛒" },
+    vehicle:  { label: "車両",        icon: "🚗" },
+    timeline: { label: "お知らせ",     icon: "📢" },
+    streamer: { label: "配信者",      icon: "📺" },
+    social:   { label: "住民SNS",     icon: "𝕏" },
+    clip:     { label: "クリップ",     icon: "🎬" },
+  };
+  // Order of result groups
+  const TYPE_ORDER = ["page", "item", "vehicle", "timeline", "streamer", "social", "clip"];
+
+  let INDEX = null;
+  let currentType = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function escapeRegExp(s){
+    return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  // Highlight all case-insensitive matches of q in str (HTML-safe).
+  function highlight(str, q){
+    if(!q) return escapeHtml(str);
+    const escapedStr = escapeHtml(str);
+    const re = new RegExp(escapeRegExp(q), 'gi');
+    return escapedStr.replace(re, m => `<mark>${m}</mark>`);
+  }
+
+  function getQuery(){
+    const p = new URLSearchParams(window.location.search);
+    return (p.get('q') || '').trim();
+  }
+
+  function updateUrl(q){
+    const url = new URL(window.location.href);
+    if(q) url.searchParams.set('q', q);
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url.toString());
+  }
+
+  // Search scoring:
+  //   3 = exact title match
+  //   2 = title starts with q
+  //   1 = title contains q
+  //   0.5 = snippet/headings/category contains q
+  // Returns 0 if no match.
+  function scoreEntry(e, qLower){
+    const t = (e.title || '').toLowerCase();
+    if(t === qLower) return 3;
+    if(t.startsWith(qLower)) return 2;
+    if(t.includes(qLower)) return 1;
+    if((e.snippet || '').toLowerCase().includes(qLower)) return 0.5;
+    if((e.category || '').toLowerCase().includes(qLower)) return 0.5;
+    if(Array.isArray(e.headings) && e.headings.some(h => h.toLowerCase().includes(qLower))) return 0.5;
+    return 0;
+  }
+
+  function search(q){
+    if(!INDEX || !q) return [];
+    const qLower = q.toLowerCase();
+    const scored = [];
+    for(const e of INDEX.entries){
+      const s = scoreEntry(e, qLower);
+      if(s > 0) scored.push({ entry: e, score: s });
+    }
+    scored.sort((a, b) => b.score - a.score || a.entry.title.localeCompare(b.entry.title));
+    return scored.map(x => x.entry);
+  }
+
+  function buildTypeFilters(results, q){
+    const counts = {};
+    for(const r of results){
+      counts[r.type] = (counts[r.type] || 0) + 1;
+    }
+    const el = document.getElementById('typeFilters');
+    const pills = [
+      { type: 'all', label: 'すべて', icon: '🌐', count: results.length },
+    ];
+    for(const t of TYPE_ORDER){
+      if(!counts[t]) continue;
+      const meta = TYPE_META[t];
+      pills.push({ type: t, label: meta.label, icon: meta.icon, count: counts[t] });
+    }
+    if(pills.length === 1){
+      el.innerHTML = '';
+      return;
+    }
+    el.innerHTML = pills.map(p => `
+      <div class="search-type-pill${p.type === currentType ? ' active' : ''}"
+        onclick="window.__selectSearchType('${p.type}')">
+        <span>${p.icon}</span>
+        <span>${escapeHtml(p.label)}</span>
+        <span class="count">${p.count}</span>
+      </div>
+    `).join('');
+  }
+
+  function renderEmpty(q){
+    const el = document.getElementById('results');
+    if(!q){
+      el.innerHTML = `<div class="search-empty">
+        <div class="big-icon">🔍</div>
+        <p>キーワードを入力してください</p>
+        <p style="font-size:.85rem;margin-top:.5rem;opacity:.7">ページ・カタログ・車両・配信・お知らせなど、Wiki全体を検索します</p>
+      </div>`;
+    } else {
+      el.innerHTML = `<div class="search-empty">
+        <div class="big-icon">😕</div>
+        <p>「${escapeHtml(q)}」に一致する結果がありません</p>
+        <p style="font-size:.85rem;margin-top:.5rem;opacity:.7">別のキーワードでお試しください</p>
+      </div>`;
+    }
+  }
+
+  function renderResult(e, q){
+    const meta = TYPE_META[e.type] || { label: e.type, icon: '•' };
+    const icon = e.page_icon || meta.icon;
+    const source = e.page_title || meta.label;
+    const snippet = e.snippet || '';
+    return `<a class="search-result" href="${escapeHtml(e.url)}">
+      <div class="search-result-icon">${icon}</div>
+      <div class="search-result-body">
+        <div class="search-result-title">${highlight(e.title || '', q)}</div>
+        <div class="search-result-meta">
+          <span class="search-result-source">${meta.icon} ${escapeHtml(source)}</span>
+          <span>${escapeHtml(meta.label)}</span>
+        </div>
+        ${snippet ? `<div class="search-result-snippet">${highlight(snippet, q)}</div>` : ''}
+      </div>
+    </a>`;
+  }
+
+  function render(){
+    const q = (document.getElementById('searchInput').value || '').trim();
+    updateUrl(q);
+
+    const summary = document.getElementById('summary');
+    const resultsEl = document.getElementById('results');
+
+    if(!INDEX){
+      resultsEl.innerHTML = `<div class="search-loading">⌛ インデックスを読み込み中…</div>`;
+      summary.textContent = '';
+      return;
+    }
+
+    if(!q){
+      summary.textContent = '';
+      document.getElementById('typeFilters').innerHTML = '';
+      renderEmpty('');
+      return;
+    }
+
+    const allResults = search(q);
+    buildTypeFilters(allResults, q);
+
+    const filtered = currentType === 'all'
+      ? allResults
+      : allResults.filter(r => r.type === currentType);
+
+    summary.innerHTML = `<strong>${filtered.length}</strong> 件の結果（「${escapeHtml(q)}」）`;
+
+    if(filtered.length === 0){
+      renderEmpty(q);
+      return;
+    }
+
+    if(currentType !== 'all'){
+      // Flat list when a type is selected
+      resultsEl.innerHTML = filtered.map(e => renderResult(e, q)).join('');
+      return;
+    }
+
+    // Group by type
+    const groups = {};
+    for(const r of filtered){
+      (groups[r.type] = groups[r.type] || []).push(r);
+    }
+    const html = TYPE_ORDER.filter(t => groups[t]).map(t => {
+      const meta = TYPE_META[t];
+      // Cap each group to 50 results to keep DOM size reasonable
+      const items = groups[t];
+      const shown = items.slice(0, 50);
+      const moreCount = items.length - shown.length;
+      const moreLink = moreCount > 0
+        ? `<a class="search-result" href="#" onclick="window.__selectSearchType('${t}');return false;"
+            style="justify-content:center;color:var(--yuzu);font-weight:600;">
+            すべての${escapeHtml(meta.label)}結果を表示（残り ${moreCount} 件）→
+          </a>`
+        : '';
+      return `<div class="search-group">
+        <div class="search-group-header">
+          <span class="search-group-icon">${meta.icon}</span>
+          <span class="search-group-title">${escapeHtml(meta.label)}</span>
+          <span class="search-group-count">${items.length} 件</span>
+        </div>
+        <div class="search-results">
+          ${shown.map(e => renderResult(e, q)).join('')}
+          ${moreLink}
+        </div>
+      </div>`;
+    }).join('');
+    resultsEl.innerHTML = html;
+  }
+
+  window.__selectSearchType = function(t){
+    currentType = t;
+    render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  // Debounce search input
+  let renderTimer = 0;
+  function scheduleRender(){
+    clearTimeout(renderTimer);
+    renderTimer = setTimeout(render, 80);
+  }
+
+  async function init(){
+    const initialQ = getQuery();
+    const input = document.getElementById('searchInput');
+    input.value = initialQ;
+
+    const form = document.getElementById('searchForm');
+    form.addEventListener('submit', e => { e.preventDefault(); render(); });
+    input.addEventListener('input', () => {
+      currentType = 'all';
+      scheduleRender();
+    });
+
+    try {
+      const res = await fetch('search-index.json', { cache: 'no-cache' });
+      if(!res.ok) throw new Error('failed to load index');
+      INDEX = await res.json();
+    } catch(err){
+      document.getElementById('results').innerHTML = `<div class="search-empty">
+        <div class="big-icon">⚠️</div>
+        <p>検索インデックスの読み込みに失敗しました</p>
+        <p style="font-size:.85rem;margin-top:.5rem;opacity:.7">${escapeHtml(err.message || String(err))}</p>
+      </div>`;
+      return;
+    }
+
+    render();
+  }
+
+  init();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,805 @@
+{
+  "updated_at": "2026-06-07T11:20:58+09:00",
+  "streamers": [
+    {
+      "platform": "twitch",
+      "id": "aito_mus01",
+      "login": "aito_mus01",
+      "user_id": "807958668",
+      "display_name": "藍音です",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/aito_mus01",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "mikamo_gumi_247",
+      "login": "mikamo_gumi_247",
+      "user_id": "1236112785",
+      "display_name": "碧甘ぐみ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "rako3456",
+      "login": "rako3456",
+      "user_id": "752218059",
+      "display_name": "水野らこ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/rako3456",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ryusaki_twitch",
+      "login": "ryusaki_twitch",
+      "user_id": "828063078",
+      "display_name": "Ryusaki_twitch",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ryusaki_twitch",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yuzuki_pooh",
+      "login": "yuzuki_pooh",
+      "user_id": "908123673",
+      "display_name": "柚稀ぷー",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yuzuki_pooh",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "kiita0813",
+      "login": "kiita0813",
+      "user_id": "695506102",
+      "display_name": "つだきいた",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61aed0c5-556b-454c-9b4a-3b5c43d8208c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kiita0813",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "omchang",
+      "login": "omchang",
+      "user_id": "115369797",
+      "display_name": "omchang",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/omchang",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "sourei_2525",
+      "login": "sourei_2525",
+      "user_id": "462545245",
+      "display_name": "蒼澪",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/sourei_2525",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "umisaki3",
+      "login": "umisaki3",
+      "user_id": "155907781",
+      "display_name": "海咲ゆう",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/umisaki3",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "sakazuki_kyan",
+      "login": "sakazuki_kyan",
+      "user_id": "799815142",
+      "display_name": "酒月きゃん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/sakazuki_kyan",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "frcl_orito",
+      "login": "frcl_orito",
+      "user_id": "515772750",
+      "display_name": "frcl_orito",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/frcl_orito",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "natsuna33",
+      "login": "natsuna33",
+      "user_id": "767258529",
+      "display_name": "柚木なつな",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/natsuna33",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "kyonchi3",
+      "login": "kyonchi3",
+      "user_id": "404388083",
+      "display_name": "きょんでれ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef15f6-83c7-417e-8e3e-7e2860261406-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kyonchi3",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nekommn",
+      "login": "nekommn",
+      "user_id": "418265285",
+      "display_name": "夢見弖ねこむ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nekommn",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "k6o_minase",
+      "login": "k6o_minase",
+      "user_id": "252353132",
+      "display_name": "水無瀬九炉",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
+      "channel_url": "https://www.twitch.tv/k6o_minase",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "rukimafu",
+      "login": "rukimafu",
+      "user_id": "80742049",
+      "display_name": "rukimafu",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/rukimafu",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "sh1ronami",
+      "login": "sh1ronami",
+      "user_id": "648510288",
+      "display_name": "しろなみ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f22f6895-f99b-45cb-9388-b9c9d3a55f86-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/sh1ronami",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "kurosimamisogi",
+      "login": "kurosimamisogi",
+      "user_id": "767766270",
+      "display_name": "黒島みそぎ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kurosimamisogi",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "mugicha0926",
+      "login": "mugicha0926",
+      "user_id": "712244511",
+      "display_name": "mugicha0926",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/269f1bf0-6eef-403c-888b-673433de6cdc-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/mugicha0926",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yutaa0000",
+      "login": "yutaa0000",
+      "user_id": "1076638528",
+      "display_name": "yutaa0000",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yutaa0000",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "shizumi_yuu",
+      "login": "shizumi_yuu",
+      "user_id": "700544728",
+      "display_name": "静住ゆう",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/shizumi_yuu",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "m4k41on",
+      "login": "m4k41on",
+      "user_id": "869578479",
+      "display_name": "m4k41on",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d02a2b1-2f66-4f0d-a946-874ef06aebb8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/m4k41on",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tqkanashi_emo",
+      "login": "tqkanashi_emo",
+      "user_id": "1253224044",
+      "display_name": "小鳥遊えも",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a615f281-e58a-4795-a4b3-76a3724a470e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tqkanashi_emo",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "raionmiyabi",
+      "login": "raionmiyabi",
+      "user_id": "694904415",
+      "display_name": "雷音雅",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/raionmiyabi",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tubasa_twitch",
+      "login": "tubasa_twitch",
+      "user_id": "781722097",
+      "display_name": "つばさ___",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tubasa_twitch",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "touhou_1560",
+      "login": "touhou_1560",
+      "user_id": "432183220",
+      "display_name": "東月方璃",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/touhou_1560",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "himoo_ttvt",
+      "login": "himoo_ttvt",
+      "user_id": "1040151131",
+      "display_name": "ひもぉ0",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/himoo_ttvt",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ino_zekkyou",
+      "login": "ino_zekkyou",
+      "user_id": "967185616",
+      "display_name": "絶叫者イノ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ino_zekkyou",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ukigumo_watame",
+      "login": "ukigumo_watame",
+      "user_id": "670825009",
+      "display_name": "浮雲わたあめ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ukigumo_watame",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tadanopannda",
+      "login": "tadanopannda",
+      "user_id": "805730380",
+      "display_name": "ただノパンダ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tadanopannda",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "rindou_azuki",
+      "login": "rindou_azuki",
+      "user_id": "717079793",
+      "display_name": "竜胆小豆",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/rindou_azuki",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tokiwaharuto",
+      "login": "tokiwaharuto",
+      "user_id": "541458174",
+      "display_name": "常盤ハルト",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f19be3ce-84dd-479f-bfec-4adb1e370a2f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tokiwaharuto",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nanasenon",
+      "login": "nanasenon",
+      "user_id": "1090634845",
+      "display_name": "七瀬のん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nanasenon",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "usjkh",
+      "login": "usjkh",
+      "user_id": "727347802",
+      "display_name": "usjkh",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/usjkh",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yoiyami_noa",
+      "login": "yoiyami_noa",
+      "user_id": "890924162",
+      "display_name": "宵闇のあ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/686d0402-e607-46c1-bc09-90ca036d930e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yoiyami_noa",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "hokagekotatsuvt",
+      "login": "hokagekotatsuvt",
+      "user_id": "180554899",
+      "display_name": "火影こたつ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "necomanma81",
+      "login": "necomanma81",
+      "user_id": "1026156697",
+      "display_name": "ねこまんま81",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/necomanma81",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "248774",
+      "login": "248774",
+      "user_id": "1010848930",
+      "display_name": "伏屋ななし",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/248774",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "kuro__chan96",
+      "login": "kuro__chan96",
+      "user_id": "716375222",
+      "display_name": "黒田りと",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kuro__chan96",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "milk_black_",
+      "login": "milk_black_",
+      "user_id": "801538133",
+      "display_name": "黒苺みるく",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/milk_black_",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "todo_rimo",
+      "login": "todo_rimo",
+      "user_id": "1009292928",
+      "display_name": "藤堂リモ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8b9316-ecc8-41a4-9d51-b0e0324c194a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/todo_rimo",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nix_yuki0",
+      "login": "nix_yuki0",
+      "user_id": "731183445",
+      "display_name": "こゆきくん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nix_yuki0",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "shinonomemeu",
+      "login": "shinonomemeu",
+      "user_id": "1248753059",
+      "display_name": "東雲めう",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/shinonomemeu",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tonpuson_84",
+      "login": "tonpuson_84",
+      "user_id": "882255748",
+      "display_name": "トンちゃんねる",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tonpuson_84",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yuzumal_vtuber",
+      "login": "yuzumal_vtuber",
+      "user_id": "748435014",
+      "display_name": "琉楓",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "hakanai_459",
+      "login": "hakanai_459",
+      "user_id": "675689258",
+      "display_name": "はかない04",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/hakanai_459",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "azuma1111",
+      "login": "azuma1111",
+      "user_id": "606082439",
+      "display_name": "アズマさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/azuma1111",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "raki_vt",
+      "login": "raki_vt",
+      "user_id": "1095433260",
+      "display_name": "楽希",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/raki_vt",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "not_ahuro",
+      "login": "not_ahuro",
+      "user_id": "578173970",
+      "display_name": "子羊めぇめ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/not_ahuro",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "lil_yu__",
+      "login": "lil_yu__",
+      "user_id": "957769356",
+      "display_name": "ゆうてゃ_",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/lil_yu__",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "mitsuki_shiki",
+      "login": "mitsuki_shiki",
+      "user_id": "983886651",
+      "display_name": "海月織",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/mitsuki_shiki",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "aozoraiku",
+      "login": "aozoraiku",
+      "user_id": "479807850",
+      "display_name": "青空いく",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ff6d07a-0795-4ed0-90f4-3645d7424092-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/aozoraiku",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ockanata",
+      "login": "ockanata",
+      "user_id": "271192668",
+      "display_name": "御蔵かなた",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ockanata",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ugetsushiramine",
+      "login": "ugetsushiramine",
+      "user_id": "1298520628",
+      "display_name": "白峰ウゲツ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a3151a-e3a6-4cad-9a30-eeddf2457e81-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ugetsushiramine",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "shiro46_24",
+      "login": "shiro46_24",
+      "user_id": "547689841",
+      "display_name": "しろみそです",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/shiro46_24",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "c0gnac",
+      "login": "c0gnac",
+      "user_id": "431610189",
+      "display_name": "c0gnac",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0943dcd-d0df-48a6-b0f8-455233ec8d34-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/c0gnac",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "hakuachan__",
+      "login": "hakuachan__",
+      "user_id": "1409971719",
+      "display_name": "夢響ハクア",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ea5fcdf-34fa-4cad-917c-370a4bca05cc-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/hakuachan__",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "0401mako",
+      "login": "0401mako",
+      "user_id": "586133307",
+      "display_name": "0401mako",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f3ab4a-72cb-46e9-8b4e-8f3e26395ef6-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/0401mako",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "manmarquina",
+      "login": "manmarquina",
+      "user_id": "716754087",
+      "display_name": "917です",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/manmarquina",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tsukkyi_vl",
+      "login": "tsukkyi_vl",
+      "user_id": "747391704",
+      "display_name": "tsukkyi_vl",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tsukkyi_vl",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCvBuuc0br_wbzStIkFUTlSQ",
+      "channel_id": "UCvBuuc0br_wbzStIkFUTlSQ",
+      "handle": "@藤紫ゆん",
+      "display_name": "藤紫ゆん(Fujishi yun)",
+      "profile_image_url": "https://yt3.ggpht.com/WtcGpB47CMUSVQhD4Q5tQSMtCoS1zUB5rWkXpR6IslYUYZRXFirHRswjs1aCc660_H-lgTop=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E8%97%A4%E7%B4%AB%E3%82%86%E3%82%93",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCjtNUzbnglluVtV7ZH8lz5Q",
+      "channel_id": "UCjtNUzbnglluVtV7ZH8lz5Q",
+      "handle": "@zuu_hayasaki",
+      "display_name": "早崎ずぅ",
+      "profile_image_url": "https://yt3.ggpht.com/QRabUm0I7vRMi2DcSPYvWHyYy2n9MCYVG7z3pGo-72ic_8b4G3yS4PM0WPkNC_sGBKVg6L8ZvA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40zuu_hayasaki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC1qC9RknNaUyAf9ShCAT9Ww",
+      "channel_id": "UC1qC9RknNaUyAf9ShCAT9Ww",
+      "handle": "@crossashmare69",
+      "display_name": "Asähi -Ash- │ あっしゅちゃん",
+      "profile_image_url": "https://yt3.ggpht.com/aj2wRUB2qtJCyJGIm-vSXpUir3gX4abDYkiR0h-krdKtfF6NdX8D_oumLmCf1k1upQh7WnXg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40crossashmare69",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UClJvn9BquXxWlW_HFcFqVOQ",
+      "channel_id": "UClJvn9BquXxWlW_HFcFqVOQ",
+      "handle": "@ハクア25-1v",
+      "display_name": "夢響ハクア",
+      "profile_image_url": "https://yt3.ggpht.com/Oh3jT3wDo7T1FPIg3PRSKm5vlIlf9MsVgIu-ZHE2ONZqIs8QjhKB64A5OIIXd-MPaLb-kRMinw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%83%8F%E3%82%AF%E3%82%A225-1v",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCYB8HjSpK7jkfEc2PD2Rmow",
+      "channel_id": "UCYB8HjSpK7jkfEc2PD2Rmow",
+      "handle": "@白藍ルド",
+      "display_name": "白藍ルド　byakuran rud",
+      "profile_image_url": "https://yt3.ggpht.com/ge256EXK3dmwUcy4Oi1e42IzaMndwPezM8CsCKoEwCYE6gMmSihbfGQ0yUJwiZctdhfxBmAhhQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%99%BD%E8%97%8D%E3%83%AB%E3%83%89",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "channel_id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "handle": "@etoaosushil",
+      "display_name": "おすしえる",
+      "profile_image_url": "https://yt3.ggpht.com/6SxHBNnF1443TGrw_HzQrp0Br7Ja-RyAMUHJQ8bXMZBFOBhnmmIpB-1cy3s-QokA7MU5nIkEhw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40etoaosushil",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "channel_id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "handle": "@雷音_雅",
+      "display_name": "雷音雅",
+      "profile_image_url": "https://yt3.ggpht.com/gOEfK2lUndDvPJRXnPdJGSyZi14euSqf6Ihm5pN4Wd1IyygzKuBxY33jBcucjUE_WwLwFWU5xw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E9%9B%B7%E9%9F%B3_%E9%9B%85",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmRIK2CLLg47EBymzdUTGpQ",
+      "channel_id": "UCmRIK2CLLg47EBymzdUTGpQ",
+      "handle": "@memekohitsuzi",
+      "display_name": "子羊めぇめ",
+      "profile_image_url": "https://yt3.ggpht.com/793cqsLmOEQa4unxkxMg6LWLwliYZLRBwjZE8pULJtGrL5xtFX-34CBiqUyqaWcGbyohT8J0cQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40memekohitsuzi",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmWWYhl0o7rYL-tf-PJo1NA",
+      "channel_id": "UCmWWYhl0o7rYL-tf-PJo1NA",
+      "handle": "@hanakozombch",
+      "display_name": "樺音ハナコ",
+      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_nVPY0Ujc6pcJJpVwyFfGvq8R8GgLih30zclDshNuWSbQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40hanakozombch",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCqo20kZACOTNu28QHyLaMmQ",
+      "channel_id": "UCqo20kZACOTNu28QHyLaMmQ",
+      "handle": "@三庭雪彦",
+      "display_name": "三庭雪彦-MitsuniwaYukihiko-",
+      "profile_image_url": "https://yt3.ggpht.com/xCw6ZyePOakfO0EuglOGNZ6WDsVu4uYu3SDN6hD0jPQzpI1gp40luksJtLSVwJrn5lt1cVsZ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E4%B8%89%E5%BA%AD%E9%9B%AA%E5%BD%A6",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCLfCajF6YSvQWawno86QZAw",
+      "channel_id": "UCLfCajF6YSvQWawno86QZAw",
+      "handle": "@結雲みる",
+      "display_name": "結雲みる🧸立ち絵公開チャレンジ中",
+      "profile_image_url": "https://yt3.ggpht.com/77L6HygEKbD5gZe0pPyDSiav2HV7iHavLmFrpSfO7EnSnA3maJfUyIK5j5D2gcn3tYl0qayiPx4=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%B5%90%E9%9B%B2%E3%81%BF%E3%82%8B",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
+      "channel_id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
+      "handle": "@miui_babu",
+      "display_name": "宝幼ばぶ",
+      "profile_image_url": "https://yt3.ggpht.com/NGGlQ9CWfRO2gkwdZhdbgAI-Hwe_iTCO1VyZ29PBtr2-8ndcwhKDqRvsmC48u5fmEuKwTULk=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40miui_babu",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
+      "channel_id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
+      "handle": "@kqzkuk1",
+      "display_name": "一ノ瀬和輝🐙🥂",
+      "profile_image_url": "https://yt3.ggpht.com/HTODHMzyIiho07LeiY_AXyIWdQLDjqJ6d4wGtBnwhiewtolBuxSO_1mXbYNihAPUhHnHzwLa=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kqzkuk1",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
+      "channel_id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
+      "handle": "@舞鶴びき",
+      "display_name": "舞鶴びき",
+      "profile_image_url": "https://yt3.ggpht.com/WqBCnT8QXd1zc1XrHBFHjaeZySMRLuXPPjU5ZU4eUM0POfaO6yzWWuIRgALjlFnz5TfG07Aq=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E8%88%9E%E9%B6%B4%E3%81%B3%E3%81%8D",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "channel_id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "handle": "@komugisui",
+      "display_name": "Komugisui",
+      "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40komugisui",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
+      "channel_id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
+      "handle": "@ringt-tougenvt",
+      "display_name": "透玄凛音 ｰトウゲン リントｰ",
+      "profile_image_url": "https://yt3.ggpht.com/pRcl13o_0tzjukphXEPI4l4W2rSAzpHPEtt62B-n9MHhUkHwENQRnA69nBKzbmjOZIe-FlWRNZI=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40ringt-tougenvt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmIUqEv4JaJQniS6OddFXog",
+      "channel_id": "UCmIUqEv4JaJQniS6OddFXog",
+      "handle": "@yonerun1",
+      "display_name": "よねるん",
+      "profile_image_url": "https://yt3.ggpht.com/-5sjK8AakqdkP49bQNDrBktclIYKvHTm3FRs_D0H4rKo-zGqzhdkFi0o1RQGB7K1AmUhWLn8s14=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yonerun1",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCwf1bfMSGSayEuz-GtaBzOw",
+      "channel_id": "UCwf1bfMSGSayEuz-GtaBzOw",
+      "handle": "@orino_in_uhho",
+      "display_name": "折野中しょへ.🦍",
+      "profile_image_url": "https://yt3.ggpht.com/VOy89BjZ8N1yfG-S4054JZBoPnhqCGoE5jnXbpAW4ekrIwU9ZSAK8mYQ-qJ7xxVze6ph7Ca6Jw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40orino_in_uhho",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCsODWntiXNzUv40belojcUw",
+      "channel_id": "UCsODWntiXNzUv40belojcUw",
+      "handle": "@momo_v7uber",
+      "display_name": "🐺Mo²🦊",
+      "profile_image_url": "https://yt3.ggpht.com/xW57GYijE3lOuh53Z_J5shr07fJYyDiCwVgAM9SjbwMNIK5-QKQNvqTo-qUA38Nt6itta1gQKw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40momo_v7uber",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCdqWvkjGh-UfWpdOUYEsRMA",
+      "channel_id": "UCdqWvkjGh-UfWpdOUYEsRMA",
+      "handle": "@umizuki.nagi0715",
+      "display_name": "なぎげーむず",
+      "profile_image_url": "https://yt3.ggpht.com/78e-dpqQXs0r1FpUnv6eiPRdJ6nifGftYvc1BV_uj_UVFc6F_aWRAMxCXplTtqOzGFxpZaLrYw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40umizuki.nagi0715",
+      "is_live": false
+    }
+  ]
+}
