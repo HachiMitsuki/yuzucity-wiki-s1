@@ -3,7 +3,7 @@
    ダーク・シネマティック — 黒地×金/赤、高コントラストの開幕スクリーン
    ============================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Shippori+Mincho+B1:wght@400;500;600;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap');
 
 /* ---- Design tokens ---- */
 :root{
@@ -58,10 +58,10 @@
 
   /* === Typography === */
   --font-body:    "Zen Kaku Gothic New", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
-  --font-display: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", sans-serif;
-  --font-fat:     "Bebas Neue", "Zen Kaku Gothic New", sans-serif;
-  --font-mincho:  "Shippori Mincho B1", "Hiragino Mincho ProN", "Yu Mincho", serif;
-  --font-mono:    "IBM Plex Mono", "SF Mono", Consolas, monospace;
+  --font-display: "Zen Kaku Gothic New", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-fat:     "Zen Kaku Gothic New", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-mincho:  "Zen Kaku Gothic New", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
+  --font-mono:    "Zen Kaku Gothic New", -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif;
 
   /* === Shape — sharp, not soft === */
   --radius:    2px;
@@ -557,7 +557,7 @@ main p{ color: var(--text); line-height: 1.85 }
 .hero-title{
   font-family: var(--font-fat);
   font-size: clamp(2rem, 5vw, 3rem);
-  font-weight: 400;
+  font-weight: 900;
   letter-spacing: .01em;
   background: linear-gradient(155deg, var(--yuzu-soft) 0%, var(--yuzu) 48%, var(--sakura) 115%);
   -webkit-background-clip: text;
@@ -744,7 +744,7 @@ a.card:hover::after{ color: var(--yuzu); transform: translateX(4px) }
 .stat-num{
   font-family: var(--font-fat);
   font-size: 1.42rem;
-  font-weight: 400;
+  font-weight: 900;
   color: var(--yuzu-bright);
   letter-spacing: 0;
   line-height: 1.15;
@@ -1566,7 +1566,7 @@ main > section{
 .dealer-stat-num{
   font-family: var(--font-fat);
   font-size: 1.32rem;
-  font-weight: 400;
+  font-weight: 900;
   color: var(--yuzu-bright);
   letter-spacing: 0;
   text-shadow: 0 0 14px rgba(232,185,63,.3);
@@ -1769,7 +1769,7 @@ main > section{
 .menu-card .card-price{
   font-family: var(--font-fat);
   font-size: 1.05rem;
-  font-weight: 400;
+  font-weight: 900;
   color: var(--yuzu);
   letter-spacing: 0;
   text-shadow: 0 0 12px rgba(232,185,63,.25);
@@ -1893,7 +1893,7 @@ main > section{
 .price-group-price{
   font-family: var(--font-fat);
   font-size: 1.18rem;
-  font-weight: 400;
+  font-weight: 900;
   color: var(--yuzu-bright);
   letter-spacing: 0;
   text-shadow: 0 0 14px rgba(232,185,63,.3);
@@ -2131,7 +2131,7 @@ main > section{
 }
 .s2-wordmark{
   font-family: var(--font-fat);
-  font-weight: 400;
+  font-weight: 900;
   font-size: clamp(3.4rem, 10vw, 7.5rem);
   line-height: .92;
   letter-spacing: .04em;
