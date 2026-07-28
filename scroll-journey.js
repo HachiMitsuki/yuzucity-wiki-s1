@@ -1,27 +1,11 @@
-// Index-only scroll-driven animation, powered by GSAP + ScrollTrigger —
-// the standard tool for this on real-world sites (used under the hood by
-// most agency/campaign "things appear as you scroll" pages). scrub ties
-// animation progress directly to scroll position: pause mid-scroll and the
-// motion pauses, scroll back up and it plays in reverse.
+// Index-only extras that don't exist on any other page: the logo splash
+// and the history timeline's connecting line. Everything else (Lenis setup,
+// [data-reveal] scroll-scrubbed reveals) is handled site-wide by common.js
+// — this file must not duplicate that or elements would get double-bound.
 document.addEventListener('DOMContentLoaded', () => {
   if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
-  gsap.registerPlugin(ScrollTrigger);
-
-  // Lenis — smooths the raw mouse-wheel/trackpad input into inertia-based
-  // scrolling instead of the browser's default per-notch jump. Wired into
-  // GSAP's ticker so ScrollTrigger recalculates on every smoothed frame
-  // instead of the (jumpier) native scroll event.
-  if (typeof Lenis !== 'undefined'){
-    const lenis = new Lenis({ duration: 1.15, smoothWheel: true });
-    lenis.on('scroll', ScrollTrigger.update);
-    gsap.ticker.add((time) => { lenis.raf(time * 1000); });
-    gsap.ticker.lagSmoothing(0);
-    window.__lenis = lenis; // exposed for debugging (lenis.scrollTo, lenis.destroy, etc.)
-  }
 
   // Logo intro — plays once automatically on page load, NOT tied to scroll.
-  // Everything else on the page (starting with the intro-details chapter
-  // right after the hero) only appears once you start scrolling.
   const logo = document.querySelector('.yc-hero-logo');
   if (logo){
     gsap.fromTo(logo,
@@ -29,31 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
       { opacity: 1, scale: 1, y: 0, duration: 1.3, ease: 'power3.out', delay: .15 }
     );
   }
-
-  const DIRECTIONS = {
-    up:      { from: { opacity: 0, y: 64 },                          to: { opacity: 1, y: 0 } },
-    left:    { from: { opacity: 0, x: -110, rotate: -2 },            to: { opacity: 1, x: 0, rotate: 0 } },
-    right:   { from: { opacity: 0, x: 110, rotate: 2 },              to: { opacity: 1, x: 0, rotate: 0 } },
-    scale:   { from: { opacity: 0, scale: .7 },                      to: { opacity: 1, scale: 1 } },
-    pop:     { from: { opacity: 0, scale: .3, rotate: -6 },          to: { opacity: 1, scale: 1, rotate: 0 } },
-    chapter: { from: { opacity: 0, y: 40, scale: .985 },             to: { opacity: 1, y: 0, scale: 1 } },
-  };
-
-  document.querySelectorAll('[data-reveal]').forEach(el => {
-    const dir = el.dataset.reveal;
-    const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
-    const isChapter = dir === 'chapter';
-    gsap.fromTo(el, cfg.from, {
-      ...cfg.to,
-      ease: 'none',
-      scrollTrigger: {
-        trigger: el,
-        start: 'top 92%',
-        end: isChapter ? 'top 45%' : 'top 62%',
-        scrub: 0.6,
-      },
-    });
-  });
 
   // History timeline connecting line — grows/shrinks with scroll through
   // the whole timeline section, not just its entry edge.

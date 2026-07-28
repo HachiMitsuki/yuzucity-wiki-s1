@@ -186,30 +186,54 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // One-shot fade-up reveal for plain wiki content (rule-item, cmd-item, etc).
-  // [data-reveal] elements are NOT handled here — on the index page,
-  // scroll-journey.js (GSAP + ScrollTrigger, scrub: true) owns those, tying
-  // animation progress directly to scroll position instead of firing once.
-  if ('IntersectionObserver' in window){
-    const io = new IntersectionObserver((entries) => {
-      entries.forEach(e => {
-        if (e.isIntersecting){
-          e.target.style.animation = 'reveal .7s cubic-bezier(.22,.61,.36,1) both';
-          io.unobserve(e.target);
-        }
+  // Site-wide scroll-driven animation: GSAP + ScrollTrigger, smoothed by
+  // Lenis, on every page (not just the index story page). scrub ties
+  // animation progress directly to scroll position — pauses mid-scroll,
+  // reverses on scroll-up — instead of a one-shot fade-in.
+  const hasGsap = typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined';
+  if (hasGsap){
+    gsap.registerPlugin(ScrollTrigger);
+
+    if (typeof Lenis !== 'undefined' && !window.__lenis){
+      const lenis = new Lenis({ duration: 1.15, smoothWheel: true });
+      lenis.on('scroll', ScrollTrigger.update);
+      gsap.ticker.add((time) => { lenis.raf(time * 1000); });
+      gsap.ticker.lagSmoothing(0);
+      window.__lenis = lenis;
+    }
+
+    // [data-reveal="left|right|scale|pop|chapter|up"] elements (used on the
+    // index story page) get their configured direction; everything else
+    // that's normal wiki content gets a plain fade-up.
+    const DIRECTIONS = {
+      up:      { from: { opacity: 0, y: 64 },                to: { opacity: 1, y: 0 } },
+      left:    { from: { opacity: 0, x: -110, rotate: -2 },  to: { opacity: 1, x: 0, rotate: 0 } },
+      right:   { from: { opacity: 0, x: 110, rotate: 2 },    to: { opacity: 1, x: 0, rotate: 0 } },
+      scale:   { from: { opacity: 0, scale: .7 },            to: { opacity: 1, scale: 1 } },
+      pop:     { from: { opacity: 0, scale: .3, rotate: -6 },to: { opacity: 1, scale: 1, rotate: 0 } },
+      chapter: { from: { opacity: 0, y: 40, scale: .985 },   to: { opacity: 1, y: 0, scale: 1 } },
+    };
+    const GENERIC_SELECTOR = 'section, .card, .stat, .menu-card, .vehicle-card, .clip-card, ' +
+      '.streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item, ' +
+      '.notice, .table-wrap tbody tr, .hero';
+
+    document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
+      if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
+      el.dataset.gsapBound = '1';
+      const dir = el.dataset.reveal || 'up';
+      const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
+      const isChapter = dir === 'chapter';
+      gsap.fromTo(el, cfg.from, {
+        ...cfg.to,
+        ease: 'none',
+        scrollTrigger: {
+          trigger: el,
+          start: 'top 92%',
+          end: isChapter ? 'top 45%' : 'top 62%',
+          scrub: 0.6,
+        },
       });
-    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
-    setTimeout(() => {
-      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item').forEach(el => {
-        if (el.dataset.reveal) return; // owned by scroll-journey.js on index
-        const r = el.getBoundingClientRect();
-        if (r.top > window.innerHeight){
-          el.style.animation = 'none';
-          el.style.opacity = '0';
-          io.observe(el);
-        }
-      });
-    }, 50);
+    });
   }
 });
 
