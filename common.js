@@ -217,15 +217,39 @@ document.addEventListener('DOMContentLoaded', () => {
     // already carry explicit data-reveal (or, for the hero, none on purpose
     // since it's handled by scroll-journey.js's logo intro) and must not
     // also get caught by this generic fallback meant for plain wiki pages.
-    const GENERIC_SELECTOR = 'section:not(.yc-chapter), .card, .stat, .menu-card, .vehicle-card, ' +
-      '.clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, ' +
-      '.timeline-item, .notice, .table-wrap tbody tr, .hero';
+    // This is deliberately broad — every visual unit on the page, not just
+    // the big container-level cards/sections.
+    const GENERIC_SELECTOR = [
+      'section:not(.yc-chapter)', '.card', '.stat', '.menu-card', '.vehicle-card',
+      '.clip-card', '.streamer-card', '.social-card', '.rule-item', '.cmd-item', '.term-item',
+      '.timeline-item', '.notice', '.table-wrap', '.table-wrap tbody tr', '.table-wrap thead th',
+      '.hero', 'footer', '.page-nav', '.breadcrumb',
+      '.pill', '.cat-pill', '.stock-badge', '.platform-tag', '.status-badge', '.menu-set-badge',
+      '.tab', '.btn-stream', '.shop-tab', '.dealer-sort', '.dealer-stat', '.price-group-header',
+      'main img:not(.yc-hero-logo)',
+    ].join(', ');
 
     // Elements with a visible left/full border (cards, notices, rule rows)
     // also animate that border in from transparent, on top of the
     // opacity/transform tween — the "frame" appears as the content does
     // instead of snapping in fully-formed.
-    const BORDER_SELECTOR = '.card, .notice, .rule-item, .yc-timeline-card';
+    const BORDER_SELECTOR = '.card, .notice, .rule-item, .yc-timeline-card, .pill, .stock-badge';
+
+    // Topbar and sidebar are persistent chrome, not scroll content — they
+    // get a one-time entrance on load instead of a scroll trigger (there's
+    // nothing to scroll "into view", they're always on screen).
+    const topbarEl = document.getElementById('topbar');
+    if (topbarEl){
+      gsap.fromTo(topbarEl, { opacity: 0, y: -24 }, { opacity: 1, y: 0, duration: .7, ease: 'power2.out', delay: .1 });
+    }
+    const sidebarEl = document.getElementById('sidebar');
+    if (sidebarEl){
+      gsap.fromTo(sidebarEl, { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: .6, ease: 'power2.out', delay: .15 });
+      const navLinkEls = sidebarEl.querySelectorAll('.nav-link');
+      if (navLinkEls.length){
+        gsap.fromTo(navLinkEls, { opacity: 0, x: -12 }, { opacity: 1, x: 0, duration: .4, ease: 'power2.out', stagger: 0.015, delay: .25 });
+      }
+    }
 
     document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
       if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
