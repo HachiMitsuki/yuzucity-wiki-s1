@@ -193,34 +193,19 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // Smooth scroll (Lenis) runs on every page — that's the one piece of this
-  // system that stays everywhere. The GSAP scroll-reveal system below it
-  // (fade/slide-in on scroll, character-split headings, cycling entry
-  // directions, topbar/sidebar entrance) is index.html-only: non-index
-  // wiki pages go back to plain static content, same as before this
-  // redesign, just with smoother scrolling.
+  // Lenis (JS-driven smooth scroll) has been removed. Every tuning pass on
+  // it (duration, then lerp, then limitCallbacks) still left a noticeable
+  // input-to-response lag on desktop mouse-wheel scrolling, because that's
+  // inherent to how it works: it has to intercept the wheel event, run its
+  // own JS, and manually drive the scroll position every frame, putting JS
+  // in between the physical input and the visual response. Native browser
+  // scrolling has no such step — it's handled by the compositor thread
+  // directly — and modern browsers already interpolate wheel input
+  // reasonably smoothly on their own. GSAP's ScrollTrigger doesn't need
+  // Lenis either; it listens to native scroll natively.
   const hasGsap = typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined';
   if (hasGsap){
     gsap.registerPlugin(ScrollTrigger);
-    // Lenis calls ScrollTrigger.update() from its own 'scroll' event, which
-    // can fire more than once per animation frame — limitCallbacks caps
-    // scrub onUpdate work to once per tick instead of redoing it for every
-    // extra call, cutting redundant main-thread work during fast scrolling.
-    ScrollTrigger.config({ limitCallbacks: true });
-
-    if (typeof Lenis !== 'undefined' && !window.__lenis){
-      // No explicit "duration" — that puts Lenis into a fixed-length
-      // eased-animation-per-scroll-event mode, which is what made scrolling
-      // feel like it was catching up over a set number of seconds. Using
-      // "lerp" instead continuously interpolates toward wherever the
-      // latest input says to go, so it responds immediately and just takes
-      // the jump/jitter out of raw wheel deltas — smoothing, not delay.
-      const lenis = new Lenis({ lerp: 0.1, smoothWheel: true });
-      lenis.on('scroll', ScrollTrigger.update);
-      gsap.ticker.add((time) => { lenis.raf(time * 1000); });
-      gsap.ticker.lagSmoothing(0);
-      window.__lenis = lenis;
-    }
   }
   if (hasGsap && slug === 'index'){
     // [data-reveal="left|right|scale|pop|chapter|up"] elements (used on the
