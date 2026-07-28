@@ -207,12 +207,22 @@ document.addEventListener('DOMContentLoaded', () => {
     // that's normal wiki content gets a plain fade-up.
     const DIRECTIONS = {
       up:      { from: { opacity: 0, y: 80, scale: .96 },    to: { opacity: 1, y: 0, scale: 1 } },
+      down:    { from: { opacity: 0, y: -80, scale: .96 },   to: { opacity: 1, y: 0, scale: 1 } },
       left:    { from: { opacity: 0, x: -110, rotate: -2 },  to: { opacity: 1, x: 0, rotate: 0 } },
       right:   { from: { opacity: 0, x: 110, rotate: 2 },    to: { opacity: 1, x: 0, rotate: 0 } },
       scale:   { from: { opacity: 0, scale: .7 },            to: { opacity: 1, scale: 1 } },
       pop:     { from: { opacity: 0, scale: .3, rotate: -6 },to: { opacity: 1, scale: 1, rotate: 0 } },
       chapter: { from: { opacity: 0, y: 120, scale: .82 },   to: { opacity: 1, y: 0, scale: 1 } },
     };
+    // Elements that typically repeat in grids/lists (cards, rule rows,
+    // pills...) and have no explicit data-reveal authored on them: instead
+    // of defaulting every single one to the same "up", cycle through a
+    // spread of entry angles so a run of siblings doesn't all rise in
+    // lockstep from the same side.
+    const CYCLE_DIRECTIONS = ['left', 'right', 'up', 'scale', 'down'];
+    const CYCLE_SELECTOR = '.card, .rule-item, .cmd-item, .term-item, .vehicle-card, .menu-card, ' +
+      '.clip-card, .streamer-card, .social-card, .table-wrap tbody tr, .pill, .cat-pill, .stock-badge';
+    let cycleIndex = 0;
     // section:not(.yc-chapter) — the index page's full-viewport chapters
     // already carry explicit data-reveal (or, for the hero, none on purpose
     // since it's handled by scroll-journey.js's logo intro) and must not
@@ -266,7 +276,8 @@ document.addEventListener('DOMContentLoaded', () => {
       if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
       if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
       el.dataset.gsapBound = '1';
-      const dir = el.dataset.reveal || 'up';
+      const dir = el.dataset.reveal ||
+        (el.matches(CYCLE_SELECTOR) ? CYCLE_DIRECTIONS[cycleIndex++ % CYCLE_DIRECTIONS.length] : 'up');
       const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
       const from = { ...cfg.from };
       const to = { ...cfg.to };
