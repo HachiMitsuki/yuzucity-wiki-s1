@@ -187,28 +187,29 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
   // Scroll-triggered reveal — for elements outside the initial viewport.
-  // Elements can opt into a direction via data-reveal="left|right|scale|pop"
+  // Elements can opt into a direction via data-reveal="left|right|scale|pop|chapter"
   // (defaults to the plain fade-up "reveal" keyframe used everywhere else).
   if ('IntersectionObserver' in window){
+    const DURATIONS = { chapter: '1.1s', pop: '.9s', scale: '.85s' };
     const io = new IntersectionObserver((entries) => {
       entries.forEach(e => {
         if (e.isIntersecting){
           const el = e.target;
           const dir = el.dataset.reveal;
           const delay = el.dataset.revealDelay || '0s';
-          el.style.animation = dir
-            ? `yc-reveal-${dir} .8s cubic-bezier(.22,.61,.36,1) ${delay} both`
-            : `reveal .7s cubic-bezier(.22,.61,.36,1) ${delay} both`;
+          const dur = (dir && DURATIONS[dir]) || '.85s';
+          const anim = dir === 'chapter' ? 'yc-chapter-in' : (dir ? `yc-reveal-${dir}` : 'reveal');
+          el.style.animation = `${anim} ${dur} cubic-bezier(.22,.61,.36,1) ${delay} both`;
           io.unobserve(el);
         }
       });
-    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+    }, { threshold: 0.05, rootMargin: '0px 0px -10% 0px' });
 
     // Only observe cards/sections that are below the fold on initial paint
     setTimeout(() => {
       document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item, [data-reveal]').forEach(el => {
         const r = el.getBoundingClientRect();
-        if (r.top > window.innerHeight){
+        if (r.top > window.innerHeight * 0.85){
           el.style.animation = 'none';
           el.style.opacity = '0';
           io.observe(el);
