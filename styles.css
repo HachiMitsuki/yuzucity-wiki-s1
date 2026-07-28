@@ -2520,14 +2520,12 @@ body[data-page="index"] section{ margin-bottom: 0 }
   background-image: repeating-linear-gradient(180deg, rgba(255,255,255,.03) 0 1px, transparent 1px 5px);
 }
 .s2-foreword-img::after{
-  content: "柚";
-  position: relative;
+  content: "";
+  position: absolute; inset: 0;
   z-index: 1;
-  font-family: var(--font-mincho);
-  font-size: 4.6rem;
-  font-weight: 700;
-  color: var(--yuzu);
-  text-shadow: 0 0 44px rgba(240,164,0,.5);
+  margin: 2.2rem;
+  background: url('images/brand/yuzucity-logo-season1.png') center / contain no-repeat;
+  filter: drop-shadow(0 0 30px rgba(240,164,0,.35));
 }
 
 /* --- Section banner bands: diagonal bunting ribbon, tinted per category --- */
