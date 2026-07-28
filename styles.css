@@ -90,13 +90,17 @@ a, button, .card, .pill, .s2-chip, .s2-tape, .stat, .notice, .tab, .cat-pill,
   transition: color .2s ease, background-color .2s ease, border-color .2s ease,
     box-shadow .25s ease, transform .25s var(--ease-out), opacity .2s ease;
 }
-/* overflow-x:hidden needs to be on BOTH html and body to actually suppress
-   a horizontal scrollbar — body alone doesn't stop the root scrolling
-   element from reporting extra scrollWidth when off-screen animated
-   elements (e.g. a not-yet-entered "right" direction reveal, translateX
-   past the viewport edge) sit outside the visible area. This became
-   visible once the reveal system started translating elements ±110px. */
-html{scroll-behavior:smooth; overflow-x:hidden}
+/* NOTE: don't add overflow-x:hidden here (or on body). Setting only one
+   overflow axis forces the other to compute as "auto" (CSS overflow
+   computed-value rule), which turns html/body into their own scroll
+   containers — that breaks position:sticky on .sidebar (it starts
+   sticking relative to the wrong scrolling ancestor and scrolls away
+   instead of staying put). Horizontal clipping for the reveal system's
+   off-screen transforms is handled locally instead: .yc-chapter and
+   body[data-page="index"] main both already have their own
+   overflow:hidden, which is index-only anyway since non-index pages
+   don't transform anything off-screen. */
+html{scroll-behavior:smooth}
 
 body{
   font-family: var(--font-body);
@@ -105,7 +109,6 @@ body{
   line-height: 1.8;
   font-size: 15px;
   font-weight: 400;
-  overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
