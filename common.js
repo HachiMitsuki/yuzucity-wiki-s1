@@ -25,6 +25,7 @@ const NAV = [
     {slug:"rules-mechanic", label:"メカニックルール", icon:"🔧"},
     {slug:"rules-food", label:"飲食店ルール", icon:"🍔"},
     {slug:"rules-crime", label:"犯罪ルール", icon:"💀"},
+    {slug:"rules-gang", label:"ギャングルール", icon:"🔫"},
   ]},
   {title:"職業", links:[
     {slug:"job-pd", label:"警察 (PD)", icon:"🚓"},
