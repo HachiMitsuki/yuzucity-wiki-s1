@@ -212,7 +212,6 @@ document.addEventListener('DOMContentLoaded', () => {
       right:   { from: { opacity: 0, x: 110, rotate: 2 },    to: { opacity: 1, x: 0, rotate: 0 } },
       scale:   { from: { opacity: 0, scale: .7 },            to: { opacity: 1, scale: 1 } },
       pop:     { from: { opacity: 0, scale: .3, rotate: -6 },to: { opacity: 1, scale: 1, rotate: 0 } },
-      chapter: { from: { opacity: 0, y: 120, scale: .82 },   to: { opacity: 1, y: 0, scale: 1 } },
     };
     // Elements that typically repeat in grids/lists (cards, rule rows,
     // pills...) and have no explicit data-reveal authored on them: instead

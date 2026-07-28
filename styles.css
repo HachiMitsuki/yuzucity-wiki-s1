@@ -2085,6 +2085,11 @@ ul.styled-list li::before{
    STORY PAGE — index only: the whole page is full-bleed chapters,
    no sidebar, no boxed card-grid. Every section is a scroll "moment".
    ============================================================== */
+/* Safety net: the story page must never show a flash of the site's
+   normal light body color between chapters (e.g. mid-scroll-position
+   load, or any future transform on a full-bleed section) — everything
+   on this page is dark, so the page itself should be too. */
+body[data-page="index"]{ background: #0A0A0A }
 body[data-page="index"] .app{ display: block; max-width: 100%; min-height: 0 }
 body[data-page="index"] .sidebar{ display: none }
 body[data-page="index"] .menu-toggle{ display: none }
