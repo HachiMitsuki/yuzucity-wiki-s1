@@ -115,27 +115,6 @@ body{
 
 body::before{ content: none; }
 
-/* Vertical right rail — quiet campaign wordmark, no grain/neon */
-body::after{
-  content: "祝  ／  Y U Z U   C I T Y   S E A S O N  01  ／  正 式 オ ー プ ン";
-  position: fixed;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-  writing-mode: vertical-rl;
-  font-family: var(--font-mono);
-  font-size: .6rem;
-  font-weight: 700;
-  letter-spacing: .42em;
-  color: var(--line-bright);
-  opacity: .5;
-  pointer-events: none;
-  z-index: 90;
-  text-transform: uppercase;
-}
-
-@media (max-width: 1100px){ body::after{ display:none } }
-
 ::-webkit-scrollbar{width:8px;height:8px}
 ::-webkit-scrollbar-track{background:var(--ink-2)}
 ::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:8px}
@@ -272,22 +251,6 @@ body::after{
   position: relative;
 }
 
-/* Decorative oversized season mark behind content */
-.app::before{
-  content: "祝";
-  position: absolute;
-  right: 1.6rem;
-  top: .6rem;
-  font-family: var(--font-fat);
-  font-size: 5rem;
-  color: transparent;
-  -webkit-text-stroke: 1px var(--ink-5);
-  letter-spacing: -.02em;
-  pointer-events: none;
-  z-index: 0;
-  user-select: none;
-}
-@media (max-width: 1100px){ .app::before{ display:none } }
 
 .sidebar{
   position: sticky;
