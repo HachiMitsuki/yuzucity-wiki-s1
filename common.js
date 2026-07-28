@@ -221,6 +221,12 @@ document.addEventListener('DOMContentLoaded', () => {
       '.clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, ' +
       '.timeline-item, .notice, .table-wrap tbody tr, .hero';
 
+    // Elements with a visible left/full border (cards, notices, rule rows)
+    // also animate that border in from transparent, on top of the
+    // opacity/transform tween — the "frame" appears as the content does
+    // instead of snapping in fully-formed.
+    const BORDER_SELECTOR = '.card, .notice, .rule-item, .yc-timeline-card';
+
     document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
       if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
       if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
@@ -228,13 +234,61 @@ document.addEventListener('DOMContentLoaded', () => {
       const dir = el.dataset.reveal || 'up';
       const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
       const isChapter = dir === 'chapter';
-      gsap.fromTo(el, cfg.from, {
-        ...cfg.to,
+      const from = { ...cfg.from };
+      const to = { ...cfg.to };
+      if (el.matches(BORDER_SELECTOR)){
+        from.borderColor = 'transparent';
+        to.borderColor = getComputedStyle(el).borderColor;
+      }
+      gsap.fromTo(el, from, {
+        ...to,
         ease: 'none',
         scrollTrigger: {
           trigger: el,
           start: 'top 92%',
           end: isChapter ? 'top 45%' : 'top 62%',
+          scrub: 0.6,
+        },
+      });
+    });
+
+    // Headings get their characters staggered in individually as they
+    // scroll through, layered on top of whatever reveal their container
+    // already has — the text itself appears progressively, not just the
+    // box around it. Splitting by character (not word) because Japanese
+    // doesn't delimit words with spaces — a word-split would just produce
+    // one giant unbroken chunk for most headings.
+    const HEADING_SELECTOR = '.section-title, .card-title, .notice-title, ' +
+      '.yc-timeline-title, .s2-sub, .hero-title';
+    // Only text nodes get split into character-spans — existing element
+    // children (like a .section-title-icon emoji span) are left alone.
+    function splitTextNodesIntoChars(el){
+      Array.from(el.childNodes).forEach(node => {
+        if (node.nodeType !== Node.TEXT_NODE || !node.textContent.trim()) return;
+        const frag = document.createDocumentFragment();
+        Array.from(node.textContent).forEach(ch => {
+          if (/\s/.test(ch)){ frag.appendChild(document.createTextNode(ch)); return; }
+          const span = document.createElement('span');
+          span.className = 'yc-char';
+          span.style.display = 'inline-block';
+          span.textContent = ch;
+          frag.appendChild(span);
+        });
+        node.replaceWith(frag);
+      });
+    }
+    document.querySelectorAll(HEADING_SELECTOR).forEach(heading => {
+      if (heading.dataset.gsapSplit) return;
+      heading.dataset.gsapSplit = '1';
+      splitTextNodesIntoChars(heading);
+      const charEls = heading.querySelectorAll('.yc-char');
+      if (charEls.length < 2) return; // not worth staggering a single character
+      gsap.fromTo(charEls, { opacity: 0, y: 10 }, {
+        opacity: 1, y: 0, ease: 'none', stagger: 0.025,
+        scrollTrigger: {
+          trigger: heading,
+          start: 'top 92%',
+          end: 'top 68%',
           scrub: 0.6,
         },
       });

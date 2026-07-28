@@ -79,6 +79,17 @@
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
+
+/* Baseline smoothing for anything stateful that doesn't already declare its
+   own transition — color/background/border/shadow/transform changes (hover,
+   focus, active) should always ease instead of snapping. More specific
+   rules elsewhere override this per-component as needed. */
+a, button, .card, .pill, .s2-chip, .s2-tape, .stat, .notice, .tab, .cat-pill,
+.dealer-sort, .shop-tab, .btn-stream, .status-badge, .platform-tag,
+.menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card{
+  transition: color .2s ease, background-color .2s ease, border-color .2s ease,
+    box-shadow .25s ease, transform .25s var(--ease-out), opacity .2s ease;
+}
 html{scroll-behavior:smooth}
 
 body{
