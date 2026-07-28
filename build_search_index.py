@@ -39,9 +39,6 @@ PAGE_META = {
     "job-mechanic": ("メカニック", "職業", "🔧"),
     "job-food": ("飲食店", "職業", "🍔"),
     "job-crime": ("犯罪", "職業", "💀"),
-    "dealer": ("ディーラー", "カタログ", "🚗"),
-    "nekocafenau": ("猫カフェNAU", "カタログ", "🐱"),
-    "burgershot": ("BurgerShot", "カタログ", "🍔"),
     "news": ("お知らせ", "最新情報", "📢"),
     "updates": ("機能変更", "最新情報", "🔄"),
     "streams": ("配信中", "最新情報", "📺"),
@@ -303,12 +300,12 @@ def build_page_entries() -> list[dict]:
 def main():
     entries = []
     entries.extend(build_page_entries())
-    # S2: catalogs are coming-soon. Re-add shop slugs here once their pages
-    # publish ITEMS arrays again (e.g. "nekocafenau", "burgershot").
-    for slug in ():
-        entries.extend(extract_catalog_items(slug))
-    # S2: dealer is coming-soon; vehicles_data.js still holds the S1 lineup.
-    # Re-enable once the S2 vehicle catalog is published.
+    # S1's current catalog (dealer/nekocafenau/burgershot) was removed
+    # entirely, not just left "coming soon" — extract_catalog_items() is
+    # still here for the archived Beta pages (icarus/jointshop/nicole/etc,
+    # called separately from the s1-* archive if it's ever wired back in).
+    # vehicles_data.js still holds the S1 vehicle lineup; re-enable if a
+    # dealer page returns.
     INDEX_VEHICLES = False
     if INDEX_VEHICLES:
         entries.extend(extract_vehicles())

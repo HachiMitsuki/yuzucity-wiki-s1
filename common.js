@@ -12,6 +12,11 @@ const NAV = [
     {slug:"commands", label:"コマンド一覧", icon:"⌨️"},
     {slug:"terms", label:"配信用語集", icon:"💬"},
   ]},
+  {title:"最新情報", links:[
+    {slug:"streams", label:"配信中", icon:"📺"},
+    {slug:"socials", label:"住民SNS", icon:"𝕏"},
+    {slug:"clips", label:"クリップ", icon:"🎬"},
+  ]},
   {title:"ルール", links:[
     {slug:"rules-general", label:"一般ルール", icon:"📜"},
     {slug:"rules-rp", label:"RPルール", icon:"🎭"},
@@ -32,16 +37,6 @@ const NAV = [
     {slug:"job-mechanic", label:"メカニック", icon:"🔧"},
     {slug:"job-food", label:"飲食店", icon:"🍔"},
     {slug:"job-crime", label:"犯罪", icon:"💀"},
-  ]},
-  {title:"カタログ", links:[
-    {slug:"dealer", label:"ディーラー", icon:"🚗"},
-    {slug:"nekocafenau", label:"猫カフェNAU", icon:"🐱"},
-    {slug:"burgershot", label:"BurgerShot", icon:"🍔"},
-  ]},
-  {title:"最新情報", links:[
-    {slug:"streams", label:"配信中", icon:"📺"},
-    {slug:"socials", label:"住民SNS", icon:"𝕏"},
-    {slug:"clips", label:"クリップ", icon:"🎬"},
   ]},
   {title:"外部リンク", links:[
     {url:"https://x.com/yuzu_server", label:"公式 Twitter", icon:"𝕏"},
@@ -192,6 +187,24 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
+
+  // Cards within each index.html category chapter are ordered by how
+  // recently their target page was last updated (data-updated="YYYY-MM-DD"
+  // on the card), not by a fixed position — this only reorders cards
+  // WITHIN one category's own grid, never which category chapter comes
+  // before another. To surface a page's card above its category siblings,
+  // bump that card's data-updated when the page's content changes; nothing
+  // else needs to change by hand. Runs before the GSAP reveal binding below
+  // so the left/right/up cycle and stagger delays line up with the final
+  // (sorted) order, not the original document order.
+  if (slug === 'index'){
+    document.querySelectorAll('.yc-chapter-cat .card-grid').forEach(grid => {
+      const cards = Array.from(grid.children).filter(el => el.classList.contains('card') && el.dataset.updated);
+      if (cards.length < 2) return;
+      cards.sort((a, b) => b.dataset.updated.localeCompare(a.dataset.updated));
+      cards.forEach(card => grid.appendChild(card));
+    });
+  }
 
   // Lenis (JS-driven smooth scroll) has been removed. Every tuning pass on
   // it (duration, then lerp, then limitCallbacks) still left a noticeable
