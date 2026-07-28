@@ -2109,7 +2109,9 @@ body[data-page="index"] section{ margin-bottom: 0 }
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: 2.4rem;
   padding: 2rem 1.6rem;
-  background: #050505;
+  background:
+    linear-gradient(180deg, rgba(5,5,5,.55) 0%, rgba(5,5,5,.82) 65%, #050505 100%),
+    url('images/brand/hero-bg.jpg') center 42% / cover no-repeat;
 }
 .yc-hero-logo-wrap{ width: 100%; max-width: 760px; display: flex; justify-content: center }
 .yc-hero-logo{
@@ -2179,11 +2181,21 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter-cat .card-title{ color: #FDF6E6 }
 .yc-chapter-cat .card p{ color: rgba(253,246,230,.72) !important }
 .yc-chapter-cat .card-meta{ color: rgba(253,246,230,.5) }
-.yc-chapter-cat.cat-overview{ background: var(--text-deep) }
-.yc-chapter-cat.cat-rules{ background: #6B2019 }
-.yc-chapter-cat.cat-jobs{ background: #1F4159 }
-.yc-chapter-cat.cat-catalog{ background: #21503A }
-.yc-chapter-cat.cat-latest{ background: #7A5000 }
+.yc-chapter-cat.cat-overview{
+  background: linear-gradient(rgba(46,42,34,.84), rgba(46,42,34,.84)), url('images/brand/chapters/overview-peaktowers.jpg') center 35% / cover no-repeat;
+}
+.yc-chapter-cat.cat-rules{
+  background: linear-gradient(rgba(107,32,25,.82), rgba(107,32,25,.82)), url('images/brand/chapters/rules-courtroom.jpg') center 30% / cover no-repeat;
+}
+.yc-chapter-cat.cat-jobs{
+  background: linear-gradient(rgba(31,65,89,.82), rgba(31,65,89,.82)), url('images/brand/chapters/jobs-police.jpg') center 40% / cover no-repeat;
+}
+.yc-chapter-cat.cat-catalog{
+  background: linear-gradient(rgba(33,80,58,.84), rgba(33,80,58,.84)), url('images/brand/chapters/catalog-hospital.jpg') center 35% / cover no-repeat;
+}
+.yc-chapter-cat.cat-latest{
+  background: linear-gradient(rgba(122,80,0,.84), rgba(122,80,0,.84)), url('images/brand/chapters/latest-community.jpg') center 30% / cover no-repeat;
+}
 .yc-chapter-cat.cat-archive{ background: var(--ink-2); color: var(--text) }
 .yc-chapter-cat.cat-archive .section-title{ color: var(--text) }
 .yc-chapter-cat.cat-archive .section-subtitle{ color: var(--text-dim) }
