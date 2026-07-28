@@ -74,7 +74,7 @@
           <div class="yc-timeline-track"><div class="yc-timeline-line"></div></div>
 
           <div class="yc-timeline-item left done" data-reveal="left">
-            <div class="yc-timeline-dot"></div>
+            <div class="yc-timeline-dot" data-reveal="pop"></div>
             <div class="yc-timeline-card">
               <div class="yc-timeline-date">2026.05.01 – 05.31</div>
               <div class="yc-timeline-title">Beta #1</div>
@@ -83,7 +83,7 @@
           </div>
 
           <div class="yc-timeline-item right done" data-reveal="right">
-            <div class="yc-timeline-dot"></div>
+            <div class="yc-timeline-dot" data-reveal="pop"></div>
             <div class="yc-timeline-card">
               <div class="yc-timeline-date">2026.07.01 – 07.15</div>
               <div class="yc-timeline-title">Beta #2</div>
@@ -92,7 +92,7 @@
           </div>
 
           <div class="yc-timeline-item left now" data-reveal="left">
-            <div class="yc-timeline-dot"></div>
+            <div class="yc-timeline-dot" data-reveal="pop"></div>
             <div class="yc-timeline-card">
               <div class="yc-timeline-date">2026.08 〜</div>
               <div class="yc-timeline-title">Season 1（正式オープン）</div>
@@ -139,7 +139,7 @@
           <div class="stat" data-reveal="pop" data-reveal-delay=".3s"><div class="stat-num">正式</div><div class="stat-label">シーズン区分</div></div>
         </div>
 
-        <div class="notice notice-info">
+        <div class="notice notice-info" data-reveal="up">
           <div class="notice-title">サーバー接続について</div>
           運営の入国面接を通過した方のみ街に参加可能です。接続情報は審査通過後に Discord 内でご案内されます。
           開放時間・運営対応時間などの Season 1 の運用は、確定し次第このページを更新します。
@@ -188,10 +188,10 @@
         </div>
         <div class="card" data-reveal="scale">
           <ul class="styled-list">
-            <li>モラルを持った行動を心がけましょう</li>
-            <li>相手のRPを壊す行動は控えましょう</li>
-            <li>ルールは事前に確認しましょう</li>
-            <li>暴言・煽り・迷惑行為はやめましょう</li>
+            <li data-reveal="left" data-reveal-delay="0s">モラルを持った行動を心がけましょう</li>
+            <li data-reveal="left" data-reveal-delay=".08s">相手のRPを壊す行動は控えましょう</li>
+            <li data-reveal="left" data-reveal-delay=".16s">ルールは事前に確認しましょう</li>
+            <li data-reveal="left" data-reveal-delay=".24s">暴言・煽り・迷惑行為はやめましょう</li>
           </ul>
         </div>
       </div>
@@ -298,10 +298,10 @@
       </div>
     </section>
 
-    <div id="pageNav" style="max-width:980px;margin:0 auto;padding:0 1.6rem 3rem"></div>
+    <div id="pageNav" style="max-width:980px;margin:0 auto;padding:0 1.6rem 3rem" data-reveal="up"></div>
   </main>
 </div>
-<footer>
+<footer data-reveal="up">
   <strong>Yuzu City Wiki</strong> · 非公式ガイド ／
   <a href="https://x.com/yuzu_server" target="_blank">𝕏 @YUZU_SERVER</a>
   <div style="margin-top:1.2rem;font-size:.55rem;letter-spacing:.4em;color:var(--text-deep)">YUZU CITY ／ SEASON 01 ／ 編集部</div>
@@ -309,6 +309,7 @@
 <script src="common.js?v=s1-launch1"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
-<script src="scroll-journey.js?v=1"></script>
+<script src="https://unpkg.com/lenis@1.1.18/dist/lenis.min.js"></script>
+<script src="scroll-journey.js?v=2"></script>
 </body>
 </html>

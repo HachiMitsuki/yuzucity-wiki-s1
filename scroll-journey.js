@@ -7,6 +7,18 @@ document.addEventListener('DOMContentLoaded', () => {
   if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
   gsap.registerPlugin(ScrollTrigger);
 
+  // Lenis — smooths the raw mouse-wheel/trackpad input into inertia-based
+  // scrolling instead of the browser's default per-notch jump. Wired into
+  // GSAP's ticker so ScrollTrigger recalculates on every smoothed frame
+  // instead of the (jumpier) native scroll event.
+  if (typeof Lenis !== 'undefined'){
+    const lenis = new Lenis({ duration: 1.15, smoothWheel: true });
+    lenis.on('scroll', ScrollTrigger.update);
+    gsap.ticker.add((time) => { lenis.raf(time * 1000); });
+    gsap.ticker.lagSmoothing(0);
+    window.__lenis = lenis; // exposed for debugging (lenis.scrollTo, lenis.destroy, etc.)
+  }
+
   // Logo intro — plays once automatically on page load, NOT tied to scroll.
   // Everything else on the page (starting with the intro-details chapter
   // right after the hero) only appears once you start scrolling.
