@@ -209,11 +209,13 @@ document.addEventListener('DOMContentLoaded', () => {
     ScrollTrigger.config({ limitCallbacks: true });
 
     if (typeof Lenis !== 'undefined' && !window.__lenis){
-      // Shorter duration = less time each scroll gesture spends "coasting"
-      // (still updating every ScrollTrigger on every frame) after the user
-      // stops actively scrolling — fewer total frames of that work per
-      // gesture, on top of the border-color paint fix above.
-      const lenis = new Lenis({ duration: 0.85, smoothWheel: true });
+      // No explicit "duration" — that puts Lenis into a fixed-length
+      // eased-animation-per-scroll-event mode, which is what made scrolling
+      // feel like it was catching up over a set number of seconds. Using
+      // "lerp" instead continuously interpolates toward wherever the
+      // latest input says to go, so it responds immediately and just takes
+      // the jump/jitter out of raw wheel deltas — smoothing, not delay.
+      const lenis = new Lenis({ lerp: 0.1, smoothWheel: true });
       lenis.on('scroll', ScrollTrigger.update);
       gsap.ticker.add((time) => { lenis.raf(time * 1000); });
       gsap.ticker.lagSmoothing(0);
