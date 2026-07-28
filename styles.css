@@ -1197,21 +1197,13 @@ ul.styled-list li::before{
   100%{ transform: translate(0,0) scale(1) }
 }
 
-main > section{
-  animation: reveal .8s var(--ease-out) both;
-}
-.hero{ animation: reveal 1s var(--ease-out) both; animation-delay: .05s }
-.section-header{ animation: reveal .7s var(--ease-out) both; animation-delay: .15s }
-.card-grid > *{ animation: reveal .65s var(--ease-out) both }
-.card-grid > *:nth-child(1){ animation-delay: .15s }
-.card-grid > *:nth-child(2){ animation-delay: .2s }
-.card-grid > *:nth-child(3){ animation-delay: .25s }
-.card-grid > *:nth-child(4){ animation-delay: .3s }
-.card-grid > *:nth-child(5){ animation-delay: .35s }
-.card-grid > *:nth-child(6){ animation-delay: .4s }
-.card-grid > *:nth-child(7){ animation-delay: .45s }
-.card-grid > *:nth-child(8){ animation-delay: .5s }
-.stats{ animation: reveal .8s var(--ease-out) both; animation-delay: .25s }
+/* NOTE: this used to be a blanket on-load "animation: reveal ... both"
+   applied to main > section / .hero / .section-header / .card-grid
+   children / .stats — all now superseded by the GSAP scroll-scrub system
+   in common.js. Left in place, those CSS animations would win over GSAP's
+   inline style changes for the same properties (opacity/transform),
+   silently freezing those elements at their post-load state regardless
+   of scroll position. Removed entirely; common.js now owns all of it.
 
 /* ==============================================================
    MOBILE
@@ -2253,7 +2245,10 @@ body[data-page="index"] section{ margin-bottom: 0 }
   50%{ transform: rotate(45deg) translate(6px,6px) }
 }
 
-.yc-timeline{ position: relative; max-width: 760px; margin: 0 auto; padding: 1rem 0 .5rem; }
+.yc-timeline{
+  position: relative; max-width: 760px; margin: 0 auto; padding: 2rem 2.4rem 1.5rem;
+  border: 1px solid var(--line-2); border-radius: var(--radius);
+}
 .yc-timeline-track{
   position: absolute; left: 50%; top: 6px; bottom: 6px; width: 3px;
   transform: translateX(-50%);
@@ -2353,7 +2348,6 @@ body[data-page="index"] section{ margin-bottom: 0 }
   align-items: stretch;
   background: var(--ink-3);
   box-shadow: var(--shadow);
-  animation: reveal 1s var(--ease-out) both;
 }
 .s2-cover-bg{
   position: absolute; inset: 0;
