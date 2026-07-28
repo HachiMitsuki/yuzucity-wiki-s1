@@ -213,12 +213,17 @@ document.addEventListener('DOMContentLoaded', () => {
       pop:     { from: { opacity: 0, scale: .3, rotate: -6 },to: { opacity: 1, scale: 1, rotate: 0 } },
       chapter: { from: { opacity: 0, y: 40, scale: .985 },   to: { opacity: 1, y: 0, scale: 1 } },
     };
-    const GENERIC_SELECTOR = 'section, .card, .stat, .menu-card, .vehicle-card, .clip-card, ' +
-      '.streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item, ' +
-      '.notice, .table-wrap tbody tr, .hero';
+    // section:not(.yc-chapter) — the index page's full-viewport chapters
+    // already carry explicit data-reveal (or, for the hero, none on purpose
+    // since it's handled by scroll-journey.js's logo intro) and must not
+    // also get caught by this generic fallback meant for plain wiki pages.
+    const GENERIC_SELECTOR = 'section:not(.yc-chapter), .card, .stat, .menu-card, .vehicle-card, ' +
+      '.clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, ' +
+      '.timeline-item, .notice, .table-wrap tbody tr, .hero';
 
     document.querySelectorAll(`[data-reveal], ${GENERIC_SELECTOR}`).forEach(el => {
       if (el.dataset.gsapBound) return; // avoid double-binding if selectors overlap
+      if (el.classList.contains('yc-chapter-hero')) return; // logo intro owns this, not scroll
       el.dataset.gsapBound = '1';
       const dir = el.dataset.reveal || 'up';
       const cfg = DIRECTIONS[dir] || DIRECTIONS.up;
@@ -234,6 +239,12 @@ document.addEventListener('DOMContentLoaded', () => {
         },
       });
     });
+
+    // Images (the hero logo especially) finish loading after ScrollTrigger
+    // has already measured the page, which leaves every trigger's start/end
+    // slightly wrong until a refresh. Recalculate once everything has
+    // settled instead of leaving those stale.
+    window.addEventListener('load', () => ScrollTrigger.refresh());
   }
 });
 
