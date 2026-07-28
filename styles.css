@@ -2092,13 +2092,34 @@ body[data-page="index"] section{ margin-bottom: 0 }
 .yc-chapter-inner{ max-width: 980px; margin: 0 auto; position: relative; z-index: 1 }
 .yc-chapter-inner.wide{ max-width: 1180px }
 
-/* --- Hero: full viewport --- */
+/* --- Hero: full viewport, logo-only splash on black --- */
 .yc-chapter-hero{
   min-height: 100svh;
-  display: flex; flex-direction: column; justify-content: center;
-  padding: 6.5rem 1.6rem 2rem;
-  background: var(--ink);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 2.4rem;
+  padding: 2rem 1.6rem;
+  background: #050505;
 }
+.yc-hero-logo-wrap{ width: 100%; max-width: 760px; display: flex; justify-content: center }
+.yc-hero-logo{
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 24px 60px rgba(0,0,0,.65));
+}
+
+/* --- Intro details: scroll-revealed, continues the hero's black backdrop --- */
+.yc-chapter-introdetails{ background: #050505; padding: 0 1.6rem 5rem }
+.yc-chapter-introdetails .s2-cover{
+  background: transparent; border: none; box-shadow: none; min-height: 0;
+}
+.yc-chapter-introdetails .s2-cover-bg{ opacity: .6 }
+.yc-chapter-introdetails .s2-cover::before,
+.yc-chapter-introdetails .s2-cover::after,
+.yc-chapter-introdetails .s2-cover-content::after{ content: none }
+.yc-chapter-introdetails .s2-kicker{ color: var(--yuzu-bright) }
+.yc-chapter-introdetails .s2-sub{ color: rgba(255,255,255,.82) }
+.yc-chapter-introdetails .s2-chip{ background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.18); color: #fff }
+.yc-chapter-introdetails .s2-chip strong{ color: var(--yuzu-bright) }
 
 /* --- Alternating chapter backgrounds for rhythm as you scroll --- */
 .yc-chapter-notice{ background: var(--ink-2); padding: 3.2rem 1.6rem }

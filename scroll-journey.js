@@ -7,6 +7,17 @@ document.addEventListener('DOMContentLoaded', () => {
   if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
   gsap.registerPlugin(ScrollTrigger);
 
+  // Logo intro — plays once automatically on page load, NOT tied to scroll.
+  // Everything else on the page (starting with the intro-details chapter
+  // right after the hero) only appears once you start scrolling.
+  const logo = document.querySelector('.yc-hero-logo');
+  if (logo){
+    gsap.fromTo(logo,
+      { opacity: 0, scale: .82, y: 26 },
+      { opacity: 1, scale: 1, y: 0, duration: 1.3, ease: 'power3.out', delay: .15 }
+    );
+  }
+
   const DIRECTIONS = {
     up:      { from: { opacity: 0, y: 64 },                          to: { opacity: 1, y: 0 } },
     left:    { from: { opacity: 0, x: -110, rotate: -2 },            to: { opacity: 1, x: 0, rotate: 0 } },
