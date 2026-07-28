@@ -19,10 +19,6 @@ const NAV = [
   ]},
   {title:"ルール", links:[
     {slug:"rules-general", label:"一般ルール", icon:"📜"},
-    {slug:"rules-rp", label:"RPルール", icon:"🎭"},
-    {slug:"rules-combat", label:"戦闘ルール", icon:"⚔️"},
-    {slug:"rules-vehicle", label:"車両ルール", icon:"🚗"},
-    {slug:"rules-relationship", label:"恋愛RP", icon:"💕"},
     {slug:"rules-pd", label:"警察ルール", icon:"🚓"},
     {slug:"rules-ems", label:"救急隊ルール", icon:"🚑"},
     {slug:"rules-doctor", label:"個人医・闇医者ルール", icon:"⚕️"},
