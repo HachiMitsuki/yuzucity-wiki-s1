@@ -2224,6 +2224,47 @@ body[data-page="index"] section{ margin-bottom: 0 }
 }
 .yc-timeline-track.is-growing .yc-timeline-line{ transform: scaleY(1) }
 
+/* ==============================================================
+   SCROLL-DRIVEN ANIMATION (a.k.a. scroll-linked / "scrubbed" animation)
+   — progress is tied 1:1 to scroll position via native CSS
+   animation-timeline, instead of a JS one-shot trigger. Pauses when
+   you stop scrolling, reverses when you scroll back up. Browsers
+   without support (Safari < 26, older Firefox) silently fall back to
+   the JS IntersectionObserver one-shot reveal in common.js.
+   ============================================================== */
+@supports (animation-timeline: view()){
+  [data-reveal]{
+    animation-duration: 1ms; /* actual pacing comes from the view() timeline, not this */
+    animation-fill-mode: both;
+    animation-timing-function: linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 38%;
+  }
+  [data-reveal="up"]{      animation-name: yc-reveal-up }
+  [data-reveal="left"]{    animation-name: yc-reveal-left }
+  [data-reveal="right"]{   animation-name: yc-reveal-right }
+  [data-reveal="scale"]{   animation-name: yc-reveal-scale }
+  [data-reveal="pop"]{     animation-name: yc-reveal-pop }
+  [data-reveal="chapter"]{
+    animation-name: yc-chapter-in;
+    animation-range: entry 0% cover 55%;
+  }
+
+  /* History line: scrubs across the whole time the timeline is on screen,
+     not just its entry edge, so it keeps growing as you scroll through it. */
+  .yc-timeline-line{
+    transform: scaleY(0);
+    transition: none;
+    animation: yc-line-grow linear both;
+    animation-timeline: view();
+    animation-range: cover 5% cover 95%;
+  }
+}
+@keyframes yc-line-grow{
+  from{ transform: scaleY(0) }
+  to{ transform: scaleY(1) }
+}
+
 .yc-timeline-item{ position: relative; width: calc(50% - 2.2rem); margin-bottom: 2.8rem }
 .yc-timeline-item.left{ margin-right: auto; text-align: right }
 .yc-timeline-item.right{ margin-left: auto; text-align: left }

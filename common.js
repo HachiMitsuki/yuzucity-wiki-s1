@@ -186,10 +186,20 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
 
-  // Scroll-triggered reveal — for elements outside the initial viewport.
-  // Elements can opt into a direction via data-reveal="left|right|scale|pop|chapter"
-  // (defaults to the plain fade-up "reveal" keyframe used everywhere else).
-  if ('IntersectionObserver' in window){
+  // Scroll animation. Elements with data-reveal="left|right|scale|pop|chapter|up"
+  // are driven natively by CSS (animation-timeline: view() — see styles.css)
+  // wherever the browser supports it: progress is tied to scroll position,
+  // so it pauses mid-scroll and reverses on scroll-up. That block is a plain
+  // CSS @supports rule, nothing to wire up here.
+  //
+  // Everything below is the fallback path for browsers without scroll-driven
+  // animation support (older Firefox, Safari < 26): a one-shot
+  // IntersectionObserver reveal that can't scrub or reverse, but still
+  // animates in once. It's skipped entirely on capable browsers so the two
+  // systems never fight over the same element.
+  const SUPPORTS_SCROLL_TIMELINE = window.CSS && CSS.supports && CSS.supports('animation-timeline: view()');
+
+  if ('IntersectionObserver' in window && !SUPPORTS_SCROLL_TIMELINE){
     const DURATIONS = { chapter: '1.1s', pop: '.9s', scale: '.85s' };
     const io = new IntersectionObserver((entries) => {
       entries.forEach(e => {
@@ -230,6 +240,30 @@ document.addEventListener('DOMContentLoaded', () => {
       }, { threshold: 0.15 });
       lineIo.observe(timelineTrack);
     }
+  } else if ('IntersectionObserver' in window){
+    // Scroll-driven animation is native for [data-reveal] elements, but the
+    // generic selectors below (.rule-item, .cmd-item, etc. on wiki pages —
+    // none of them carry data-reveal) still need the one-shot JS fallback,
+    // since the CSS block only targets [data-reveal].
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting){
+          e.target.style.animation = 'reveal .7s cubic-bezier(.22,.61,.36,1) both';
+          io.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+    setTimeout(() => {
+      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item').forEach(el => {
+        if (el.dataset.reveal) return; // handled natively by CSS
+        const r = el.getBoundingClientRect();
+        if (r.top > window.innerHeight){
+          el.style.animation = 'none';
+          el.style.opacity = '0';
+          io.observe(el);
+        }
+      });
+    }, 50);
   }
 });
 
