@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T01:05:47+09:00",
+  "updated_at": "2026-08-03T01:15:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,11 +109,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー 二枠目  一日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T12:11:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -567,11 +563,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#初見さん大歓迎】がちで初心者です！よろしくお願いします！【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T10:36:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
