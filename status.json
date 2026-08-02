@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:15:52+09:00",
+  "updated_at": "2026-08-02T23:20:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,7 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】day1 #ゆず鯖 #YCGTA #FiveM  →【 #第五人格 】街再起の時間つぶしに第五人格",
-      "game_name": "Identity V",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T11:42:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -513,7 +513,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】新たな出会い、新たな物語 #1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T14:15:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
