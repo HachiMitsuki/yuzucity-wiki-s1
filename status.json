@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:25:45+09:00",
+  "updated_at": "2026-08-03T02:26:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -865,6 +865,16 @@
       "display_name": "しょこらんVTuber",
       "profile_image_url": "https://yt3.ggpht.com/1NhAxYLWYxHmIqlgo9e35OtMz6-RD7hP1ntSXDaTqmJ9_d4ZuANnjWGIzjU9M4Ls2aurqAzz=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40syokoraaanvtuber",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCpGtrJLOb8FwTzIDG1v24wQ",
+      "channel_id": "UCpGtrJLOb8FwTzIDG1v24wQ",
+      "handle": "@hakurouurufu",
+      "display_name": "白狼 うるふ",
+      "profile_image_url": "https://yt3.ggpht.com/Y6Do_AZCxSeOEXZd3ozl-yaN2WAb1f9RVBdrdPOZbDzWvFIRCKoLR51hEtbFfibL3v07fshL=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40hakurouurufu",
       "is_live": false
     }
   ]
