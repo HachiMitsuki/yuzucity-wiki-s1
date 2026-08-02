@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:55:45+09:00",
+  "updated_at": "2026-08-03T03:00:45+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,11 +59,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】day1 #ゆず鯖 #YCGTA #FiveM  →【 #第五人格 】街再起の時間つぶしに第五人格",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T11:42:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
