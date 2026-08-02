@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:45:46+09:00",
+  "updated_at": "2026-08-02T23:48:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -646,6 +646,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T13:20:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "inukuma_ryou",
+      "login": "inukuma_ryou",
+      "user_id": "241837732",
+      "display_name": "伊貫隈怜",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/inukuma_ryou",
+      "is_live": true,
+      "title": "【 #YuzuCity 】久しぶりにFiveM GTA やるど～！ #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:49:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
