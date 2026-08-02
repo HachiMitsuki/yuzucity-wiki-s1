@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-06-27T18:08:03+09:00",
+  "updated_at": "2026-08-02T23:08:08+09:00",
   "streamers": [
-    {
-      "platform": "twitch",
-      "id": "aito_mus01",
-      "login": "aito_mus01",
-      "user_id": "807958668",
-      "display_name": "藍音です",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "mikamo_gumi_247",
-      "login": "mikamo_gumi_247",
-      "user_id": "1236112785",
-      "display_name": "碧甘ぐみ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "rako3456",
-      "login": "rako3456",
-      "user_id": "752218059",
-      "display_name": "水野らこ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": false
-    },
     {
       "platform": "twitch",
       "id": "ryusaki_twitch",
@@ -49,17 +19,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "kiita0813",
-      "login": "kiita0813",
-      "user_id": "695506102",
-      "display_name": "つだきいた",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61aed0c5-556b-454c-9b4a-3b5c43d8208c-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/kiita0813",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity] 兎葉 柚白 day1 今日からまた #新人Vtuber #valorant募集",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:44:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -73,41 +37,25 @@
     },
     {
       "platform": "twitch",
-      "id": "sourei_2525",
-      "login": "sourei_2525",
-      "user_id": "462545245",
-      "display_name": "蒼澪",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "umisaki3",
-      "login": "umisaki3",
-      "user_id": "155907781",
-      "display_name": "海咲ゆう",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
       "id": "sakazuki_kyan",
       "login": "sakazuki_kyan",
       "user_id": "799815142",
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day1 ～Re:Start～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:33:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
       "id": "frcl_orito",
       "login": "frcl_orito",
       "user_id": "515772750",
-      "display_name": "frcl_orito",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
+      "display_name": "おりとさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
       "is_live": false
     },
@@ -119,37 +67,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "kyonchi3",
-      "login": "kyonchi3",
-      "user_id": "404388083",
-      "display_name": "きょんでれ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef15f6-83c7-417e-8e3e-7e2860261406-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/kyonchi3",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "nekommn",
-      "login": "nekommn",
-      "user_id": "418265285",
-      "display_name": "夢見弖ねこむ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "k6o_minase",
-      "login": "k6o_minase",
-      "user_id": "252353132",
-      "display_name": "水無瀬九炉",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
-      "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】day1 #ゆず鯖 #YCGTA #FiveM  →【 #第五人格 】街再起の時間つぶしに第五人格",
+      "game_name": "Identity V",
+      "started_at": "2026-08-02T11:42:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -159,17 +81,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "sh1ronami",
-      "login": "sh1ronami",
-      "user_id": "648510288",
-      "display_name": "しろなみ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f22f6895-f99b-45cb-9388-b9c9d3a55f86-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/sh1ronami",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日からまたあそぶぞ～！！！  #1.5【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:35:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -183,53 +99,17 @@
     },
     {
       "platform": "twitch",
-      "id": "mugicha0926",
-      "login": "mugicha0926",
-      "user_id": "712244511",
-      "display_name": "mugicha0926",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/269f1bf0-6eef-403c-888b-673433de6cdc-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/mugicha0926",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
       "id": "yutaa0000",
       "login": "yutaa0000",
       "user_id": "1076638528",
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "shizumi_yuu",
-      "login": "shizumi_yuu",
-      "user_id": "700544728",
-      "display_name": "静住ゆう",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "m4k41on",
-      "login": "m4k41on",
-      "user_id": "869578479",
-      "display_name": "m4k41on",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d02a2b1-2f66-4f0d-a946-874ef06aebb8-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/m4k41on",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "tqkanashi_emo",
-      "login": "tqkanashi_emo",
-      "user_id": "1253224044",
-      "display_name": "小鳥遊えも",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a615f281-e58a-4795-a4b3-76a3724a470e-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/tqkanashi_emo",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー 二枠目  一日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T12:11:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -239,57 +119,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "tubasa_twitch",
-      "login": "tubasa_twitch",
-      "user_id": "781722097",
-      "display_name": "つばさ___",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/tubasa_twitch",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "touhou_1560",
-      "login": "touhou_1560",
-      "user_id": "432183220",
-      "display_name": "東月方璃",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "himoo_ttvt",
-      "login": "himoo_ttvt",
-      "user_id": "1040151131",
-      "display_name": "ひもぉ0",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "ino_zekkyou",
-      "login": "ino_zekkyou",
-      "user_id": "967185616",
-      "display_name": "絶叫者イノ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "ukigumo_watame",
-      "login": "ukigumo_watame",
-      "user_id": "670825009",
-      "display_name": "浮雲わたあめ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】今日からお世話になります！！ 初日【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:26:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -299,7 +133,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２  PD生活新人脱出編２１話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T12:29:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -313,123 +151,17 @@
     },
     {
       "platform": "twitch",
-      "id": "tokiwaharuto",
-      "login": "tokiwaharuto",
-      "user_id": "541458174",
-      "display_name": "常盤ハルト",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f19be3ce-84dd-479f-bfec-4adb1e370a2f-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/tokiwaharuto",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "nanasenon",
-      "login": "nanasenon",
-      "user_id": "1090634845",
-      "display_name": "七瀬のん",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "usjkh",
-      "login": "usjkh",
-      "user_id": "727347802",
-      "display_name": "usjkh",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "yoiyami_noa",
-      "login": "yoiyami_noa",
-      "user_id": "890924162",
-      "display_name": "宵闇のあ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/686d0402-e607-46c1-bc09-90ca036d930e-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/yoiyami_noa",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "hokagekotatsuvt",
-      "login": "hokagekotatsuvt",
-      "user_id": "180554899",
-      "display_name": "火影こたつ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "necomanma81",
-      "login": "necomanma81",
-      "user_id": "1026156697",
-      "display_name": "ねこまんま81",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "248774",
-      "login": "248774",
-      "user_id": "1010848930",
-      "display_name": "伏屋ななし",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/248774",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "kuro__chan96",
-      "login": "kuro__chan96",
-      "user_id": "716375222",
-      "display_name": "黒田りと",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "milk_black_",
-      "login": "milk_black_",
-      "user_id": "801538133",
-      "display_name": "黒苺みるく",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/milk_black_",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "todo_rimo",
-      "login": "todo_rimo",
-      "user_id": "1009292928",
-      "display_name": "藤堂リモ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8b9316-ecc8-41a4-9d51-b0e0324c194a-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/todo_rimo",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
       "id": "nix_yuki0",
       "login": "nix_yuki0",
       "user_id": "731183445",
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "shinonomemeu",
-      "login": "shinonomemeu",
-      "user_id": "1248753059",
-      "display_name": "東雲めう",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/shinonomemeu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day1 懐かしのあの街へ降り立つ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:30:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -439,7 +171,11 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": false
+      "is_live": true,
+      "title": "［#YuzuCity S1］Day1 祇十李 だん ニート長男職探しの旅",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:08:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -447,82 +183,8 @@
       "login": "yuzumal_vtuber",
       "user_id": "748435014",
       "display_name": "琉楓",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "hakanai_459",
-      "login": "hakanai_459",
-      "user_id": "675689258",
-      "display_name": "はかない04",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "azuma1111",
-      "login": "azuma1111",
-      "user_id": "606082439",
-      "display_name": "アズマさん",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "raki_vt",
-      "login": "raki_vt",
-      "user_id": "1095433260",
-      "display_name": "楽希",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "not_ahuro",
-      "login": "not_ahuro",
-      "user_id": "578173970",
-      "display_name": "子羊めぇめ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/not_ahuro",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "lil_yu__",
-      "login": "lil_yu__",
-      "user_id": "957769356",
-      "display_name": "ゆうてゃ_",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】無事、延命寺は内定をもらえるのか？！＃5",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-27T07:09:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
-    },
-    {
-      "platform": "twitch",
-      "id": "mitsuki_shiki",
-      "login": "mitsuki_shiki",
-      "user_id": "983886651",
-      "display_name": "海月織",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "aozoraiku",
-      "login": "aozoraiku",
-      "user_id": "479807850",
-      "display_name": "青空いく",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ff6d07a-0795-4ed0-90f4-3645d7424092-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/aozoraiku",
       "is_live": false
     },
     {
@@ -533,57 +195,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "ugetsushiramine",
-      "login": "ugetsushiramine",
-      "user_id": "1298520628",
-      "display_name": "白峰ウゲツ",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a3151a-e3a6-4cad-9a30-eeddf2457e81-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/ugetsushiramine",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "shiro46_24",
-      "login": "shiro46_24",
-      "user_id": "547689841",
-      "display_name": "しろみそです",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "c0gnac",
-      "login": "c0gnac",
-      "user_id": "431610189",
-      "display_name": "c0gnac",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0943dcd-d0df-48a6-b0f8-455233ec8d34-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/c0gnac",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "hakuachan__",
-      "login": "hakuachan__",
-      "user_id": "1409971719",
-      "display_name": "夢響ハクア",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ea5fcdf-34fa-4cad-917c-370a4bca05cc-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/hakuachan__",
-      "is_live": false
-    },
-    {
-      "platform": "twitch",
-      "id": "0401mako",
-      "login": "0401mako",
-      "user_id": "586133307",
-      "display_name": "0401mako",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f3ab4a-72cb-46e9-8b4e-8f3e26395ef6-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/0401mako",
-      "is_live": false
+      "is_live": true,
+      "title": "街ぶら一般人 #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:51:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -591,29 +207,435 @@
       "login": "manmarquina",
       "user_id": "716754087",
       "display_name": "917です",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
+      "is_live": true,
+      "title": "yuzucity １日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:21:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "senshi_bankou",
+      "login": "senshi_bankou",
+      "user_id": "800789832",
+      "display_name": "千紫万紅",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/senshi_bankou",
       "is_live": false
     },
     {
       "platform": "twitch",
-      "id": "tsukkyi_vl",
-      "login": "tsukkyi_vl",
-      "user_id": "747391704",
-      "display_name": "tsukkyi_vl",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
-      "channel_url": "https://www.twitch.tv/tsukkyi_vl",
+      "id": "makotomo_twitch",
+      "login": "makotomo_twitch",
+      "user_id": "772603538",
+      "display_name": "makotomo_twitch",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/makotomo_twitch",
       "is_live": false
     },
     {
-      "platform": "youtube",
-      "id": "UCvBuuc0br_wbzStIkFUTlSQ",
-      "channel_id": "UCvBuuc0br_wbzStIkFUTlSQ",
-      "handle": "@藤紫ゆん",
-      "display_name": "藤紫ゆん(Fujishi yun)",
-      "profile_image_url": "https://yt3.ggpht.com/WtcGpB47CMUSVQhD4Q5tQSMtCoS1zUB5rWkXpR6IslYUYZRXFirHRswjs1aCc660_H-lgTop=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E8%97%A4%E7%B4%AB%E3%82%86%E3%82%93",
+      "platform": "twitch",
+      "id": "error__twitch",
+      "login": "error__twitch",
+      "user_id": "1092223934",
+      "display_name": "えらーのげーむ部屋",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
+      "channel_url": "https://www.twitch.tv/error__twitch",
+      "is_live": true,
+      "title": "【YuzuCity】またギャングなるか#1日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T11:21:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "relly_o_ttv",
+      "login": "relly_o_ttv",
+      "user_id": "140311122",
+      "display_name": "レイざえもん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/relly_o_ttv",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "suzune4nori",
+      "login": "suzune4nori",
+      "user_id": "1330461208",
+      "display_name": "鈴音しのり",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/suzune4nori",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yoshipon9",
+      "login": "yoshipon9",
+      "user_id": "491776753",
+      "display_name": "ヨシポン_ココいま",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yoshipon9",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "tosshi2532",
+      "login": "tosshi2532",
+      "user_id": "942807425",
+      "display_name": "tosshi2532",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tosshi2532",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "i_minatoboshi",
+      "login": "i_minatoboshi",
+      "user_id": "167633002",
+      "display_name": "湊星いぐれ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/i_minatoboshi",
+      "is_live": true,
+      "title": "【 #yuzucity 】 1日目 まずは道を決めないとね【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:02:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "tonsato",
+      "login": "tonsato",
+      "user_id": "655351758",
+      "display_name": "とんさと",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
+      "channel_url": "https://www.twitch.tv/tonsato",
+      "is_live": true,
+      "title": "【YuzuCity】DAY1 なにするでしょうか/豚平 智",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:43:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "totsugi_yu",
+      "login": "totsugi_yu",
+      "user_id": "797323986",
+      "display_name": "十一月祐",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/totsugi_yu",
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 一日目 ぎゃんぐすんぞ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:06:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "opan_tyuu2",
+      "login": "opan_tyuu2",
+      "user_id": "1238022629",
+      "display_name": "おぱんおじさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/opan_tyuu2",
+      "is_live": true,
+      "title": "【初日】Yuzu City 新しい街がはっじまっるよー 再開",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:02:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "nestayuu59",
+      "login": "nestayuu59",
+      "user_id": "614484147",
+      "display_name": "ネスタゆぅ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nestayuu59",
+      "is_live": true,
+      "title": "【Yuzucity】1日目！この街では清く正しく誠実に生きる！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:17:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "soranagishigure",
+      "login": "soranagishigure",
+      "user_id": "1378725370",
+      "display_name": "空凪紫雨",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/soranagishigure",
+      "is_live": true,
+      "title": "Yuzucityday1 千代田紫雨",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T11:59:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "ebi_tabetayo",
+      "login": "ebi_tabetayo",
+      "user_id": "698409484",
+      "display_name": "甘生ゑび",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ebi_tabetayo",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "warm_kntr",
+      "login": "warm_kntr",
+      "user_id": "517553691",
+      "display_name": "わぁむっぽいなにか",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/warm_kntr",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nekohayukemuri",
+      "login": "nekohayukemuri",
+      "user_id": "929650711",
+      "display_name": "猫羽ゆけむり",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nekohayukemuri",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "channel_yoshi",
+      "login": "channel_yoshi",
+      "user_id": "826477534",
+      "display_name": "よっしー_チャンネル",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/channel_yoshi",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "live_zer0",
+      "login": "live_zer0",
+      "user_id": "900246329",
+      "display_name": "live_zer0",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/live_zer0",
+      "is_live": true,
+      "title": "YuzuCity  シーズン1 黒市民で活動するぞ#1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:01:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "xsettyanx",
+      "login": "xsettyanx",
+      "user_id": "1112894507",
+      "display_name": "一色刹那",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/xsettyanx",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "karagenki0011",
+      "login": "karagenki0011",
+      "user_id": "1384158286",
+      "display_name": "クレイジーパンダ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
+      "channel_url": "https://www.twitch.tv/karagenki0011",
+      "is_live": true,
+      "title": "【#雀魂】軽くうつだけだよー",
+      "game_name": "Mahjong Soul",
+      "started_at": "2026-08-02T13:48:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "kumish11",
+      "login": "kumish11",
+      "user_id": "650166912",
+      "display_name": "Kumish11",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kumish11",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "has_man_ch",
+      "login": "has_man_ch",
+      "user_id": "882785632",
+      "display_name": "はすまん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/has_man_ch",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "koruuna",
+      "login": "koruuna",
+      "user_id": "752285437",
+      "display_name": "こるぅな",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/koruuna",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ohigames14",
+      "login": "ohigames14",
+      "user_id": "1317670669",
+      "display_name": "はまりんさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ohigames14",
+      "is_live": true,
+      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-02T14:06:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "akagamiglass",
+      "login": "akagamiglass",
+      "user_id": "483988497",
+      "display_name": "あかがみぐらす",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/akagamiglass",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "limesan_ttv",
+      "login": "limesan_ttv",
+      "user_id": "118631684",
+      "display_name": "らいむさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/limesan_ttv",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "momotarou_vt",
+      "login": "momotarou_vt",
+      "user_id": "415624926",
+      "display_name": "ももたろうさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/momotarou_vt",
+      "is_live": true,
+      "title": "【YuzuCity】１日目！【ここここしここし/ももたろう】",
+      "game_name": "Apex",
+      "started_at": "2026-08-02T13:02:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "kuronatu_3367",
+      "login": "kuronatu_3367",
+      "user_id": "697378249",
+      "display_name": "黒夏クロ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kuronatu_3367",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "mutsukimaki",
+      "login": "mutsukimaki",
+      "user_id": "220673842",
+      "display_name": "睦月舞綺",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/mutsukimaki",
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ  ＃1【始まりの街】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:00:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "imwint4r",
+      "login": "imwint4r",
+      "user_id": "1101478750",
+      "display_name": "うぃんたです",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/imwint4r",
+      "is_live": true,
+      "title": "【YuzuCity】さぁこれからたのしみますかぁ！day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T12:31:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "samebxs",
+      "login": "samebxs",
+      "user_id": "614366756",
+      "display_name": "水嶺さめ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/samebxs",
+      "is_live": true,
+      "title": "【#初見さん大歓迎】がちで初心者です！よろしくお願いします！【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:36:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "takurusu8",
+      "login": "takurusu8",
+      "user_id": "888315278",
+      "display_name": "たくるす",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/takurusu8",
+      "is_live": true,
+      "title": "【 #YuzuCity 】#1-2 はじめまして！ | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T13:02:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "kashuker_spg",
+      "login": "kashuker_spg",
+      "user_id": "162145012",
+      "display_name": "カシュケア",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kashuker_spg",
+      "is_live": true,
+      "title": "[#YuzuCity]キャラクリから行くやで（FVC⇔yuzu）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:25:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "ponchan15",
+      "login": "ponchan15",
+      "user_id": "437673437",
+      "display_name": "ぽんちゃんだよぉ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ponchan15",
+      "is_live": true,
+      "title": "【#YCGTA】初参戦です！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:41:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "syokoraaan_channel",
+      "login": "syokoraaan_channel",
+      "user_id": "689159284",
+      "display_name": "しょこらんらん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/syokoraaan_channel",
+      "is_live": true,
+      "title": "無職です！ 初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:01:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
@@ -627,42 +649,12 @@
     },
     {
       "platform": "youtube",
-      "id": "UC1qC9RknNaUyAf9ShCAT9Ww",
-      "channel_id": "UC1qC9RknNaUyAf9ShCAT9Ww",
-      "handle": "@crossashmare69",
-      "display_name": "Asähi -Ash- │ あっしゅちゃん",
-      "profile_image_url": "https://yt3.ggpht.com/aj2wRUB2qtJCyJGIm-vSXpUir3gX4abDYkiR0h-krdKtfF6NdX8D_oumLmCf1k1upQh7WnXg=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40crossashmare69",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UClJvn9BquXxWlW_HFcFqVOQ",
-      "channel_id": "UClJvn9BquXxWlW_HFcFqVOQ",
-      "handle": "@ハクア25-1v",
-      "display_name": "夢響ハクア",
-      "profile_image_url": "https://yt3.ggpht.com/Oh3jT3wDo7T1FPIg3PRSKm5vlIlf9MsVgIu-ZHE2ONZqIs8QjhKB64A5OIIXd-MPaLb-kRMinw=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E3%83%8F%E3%82%AF%E3%82%A225-1v",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCYB8HjSpK7jkfEc2PD2Rmow",
-      "channel_id": "UCYB8HjSpK7jkfEc2PD2Rmow",
-      "handle": "@白藍ルド",
-      "display_name": "白藍ルド　byakuran rud",
-      "profile_image_url": "https://yt3.ggpht.com/ge256EXK3dmwUcy4Oi1e42IzaMndwPezM8CsCKoEwCYE6gMmSihbfGQ0yUJwiZctdhfxBmAhhQ=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E7%99%BD%E8%97%8D%E3%83%AB%E3%83%89",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
       "id": "UCF_jPkJBlWxpvTgSt6PUALw",
       "channel_id": "UCF_jPkJBlWxpvTgSt6PUALw",
-      "handle": "@etoaosushil",
+      "handle": "@おすしえる_etoa",
       "display_name": "おすしえる",
       "profile_image_url": "https://yt3.ggpht.com/6SxHBNnF1443TGrw_HzQrp0Br7Ja-RyAMUHJQ8bXMZBFOBhnmmIpB-1cy3s-QokA7MU5nIkEhw=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40etoaosushil",
+      "channel_url": "https://www.youtube.com/%40%E3%81%8A%E3%81%99%E3%81%97%E3%81%88%E3%82%8B_etoa",
       "is_live": false
     },
     {
@@ -677,92 +669,12 @@
     },
     {
       "platform": "youtube",
-      "id": "UCmRIK2CLLg47EBymzdUTGpQ",
-      "channel_id": "UCmRIK2CLLg47EBymzdUTGpQ",
-      "handle": "@memekohitsuzi",
-      "display_name": "子羊めぇめ",
-      "profile_image_url": "https://yt3.ggpht.com/793cqsLmOEQa4unxkxMg6LWLwliYZLRBwjZE8pULJtGrL5xtFX-34CBiqUyqaWcGbyohT8J0cQ=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40memekohitsuzi",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCmWWYhl0o7rYL-tf-PJo1NA",
-      "channel_id": "UCmWWYhl0o7rYL-tf-PJo1NA",
-      "handle": "@hanakozombch",
-      "display_name": "樺音ハナコ",
-      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_nVPY0Ujc6pcJJpVwyFfGvq8R8GgLih30zclDshNuWSbQ=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40hanakozombch",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCqo20kZACOTNu28QHyLaMmQ",
-      "channel_id": "UCqo20kZACOTNu28QHyLaMmQ",
-      "handle": "@三庭雪彦",
-      "display_name": "三庭雪彦-MitsuniwaYukihiko-",
-      "profile_image_url": "https://yt3.ggpht.com/xCw6ZyePOakfO0EuglOGNZ6WDsVu4uYu3SDN6hD0jPQzpI1gp40luksJtLSVwJrn5lt1cVsZ=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E4%B8%89%E5%BA%AD%E9%9B%AA%E5%BD%A6",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCLfCajF6YSvQWawno86QZAw",
-      "channel_id": "UCLfCajF6YSvQWawno86QZAw",
-      "handle": "@結雲みる",
-      "display_name": "結雲みる🧸立ち絵公開チャレンジ中",
-      "profile_image_url": "https://yt3.ggpht.com/77L6HygEKbD5gZe0pPyDSiav2HV7iHavLmFrpSfO7EnSnA3maJfUyIK5j5D2gcn3tYl0qayiPx4=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E7%B5%90%E9%9B%B2%E3%81%BF%E3%82%8B",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
-      "channel_id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
-      "handle": "@miui_babu",
-      "display_name": "宝幼ばぶ",
-      "profile_image_url": "https://yt3.ggpht.com/NGGlQ9CWfRO2gkwdZhdbgAI-Hwe_iTCO1VyZ29PBtr2-8ndcwhKDqRvsmC48u5fmEuKwTULk=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40miui_babu",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
-      "channel_id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
-      "handle": "@kqzkuk1",
-      "display_name": "一ノ瀬和輝🐙🥂",
-      "profile_image_url": "https://yt3.ggpht.com/HTODHMzyIiho07LeiY_AXyIWdQLDjqJ6d4wGtBnwhiewtolBuxSO_1mXbYNihAPUhHnHzwLa=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40kqzkuk1",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
-      "channel_id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
-      "handle": "@舞鶴びき",
-      "display_name": "舞鶴びき",
-      "profile_image_url": "https://yt3.ggpht.com/WqBCnT8QXd1zc1XrHBFHjaeZySMRLuXPPjU5ZU4eUM0POfaO6yzWWuIRgALjlFnz5TfG07Aq=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40%E8%88%9E%E9%B6%B4%E3%81%B3%E3%81%8D",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
       "id": "UCsRxwj50vO9V4ue01qpiHlA",
       "channel_id": "UCsRxwj50vO9V4ue01qpiHlA",
       "handle": "@komugisui",
       "display_name": "Komugisui",
       "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40komugisui",
-      "is_live": false
-    },
-    {
-      "platform": "youtube",
-      "id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
-      "channel_id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
-      "handle": "@ringt-tougenvt",
-      "display_name": "透玄凛音 ｰトウゲン リントｰ",
-      "profile_image_url": "https://yt3.ggpht.com/pRcl13o_0tzjukphXEPI4l4W2rSAzpHPEtt62B-n9MHhUkHwENQRnA69nBKzbmjOZIe-FlWRNZI=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40ringt-tougenvt",
       "is_live": false
     },
     {
@@ -777,32 +689,192 @@
     },
     {
       "platform": "youtube",
-      "id": "UCwf1bfMSGSayEuz-GtaBzOw",
-      "channel_id": "UCwf1bfMSGSayEuz-GtaBzOw",
-      "handle": "@orino_in_uhho",
-      "display_name": "折野中しょへ.🦍",
-      "profile_image_url": "https://yt3.ggpht.com/VOy89BjZ8N1yfG-S4054JZBoPnhqCGoE5jnXbpAW4ekrIwU9ZSAK8mYQ-qJ7xxVze6ph7Ca6Jw=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40orino_in_uhho",
+      "id": "UCmYiRtMNElbau1ZMpWmMdfQ",
+      "channel_id": "UCmYiRtMNElbau1ZMpWmMdfQ",
+      "handle": "@tsukkyi_vl",
+      "display_name": "つっきぃ",
+      "profile_image_url": "https://yt3.ggpht.com/d2HkKgTtmAUevO2BJCB6-fqCCGRqEUYXV9BSjeKwmX2vFkKrixkrglcfMcXCcUip4Z3mIVKGH8k=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40tsukkyi_vl",
       "is_live": false
     },
     {
       "platform": "youtube",
-      "id": "UCsODWntiXNzUv40belojcUw",
-      "channel_id": "UCsODWntiXNzUv40belojcUw",
-      "handle": "@momo_v7uber",
-      "display_name": "🐺Mo²🦊",
-      "profile_image_url": "https://yt3.ggpht.com/xW57GYijE3lOuh53Z_J5shr07fJYyDiCwVgAM9SjbwMNIK5-QKQNvqTo-qUA38Nt6itta1gQKw=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40momo_v7uber",
+      "id": "UCUJONHCbKcqlm0CRy8Rl3mA",
+      "channel_id": "UCUJONHCbKcqlm0CRy8Rl3mA",
+      "handle": "@komori_riko",
+      "display_name": "KomoRiko Ch.　狐杜りこ【演劇系Vtuber】",
+      "profile_image_url": "https://yt3.ggpht.com/yCRjJqgXsX0qczhFSihM6aPRU8WYPIb1l94_FiTB2EZ1VdiNYaPREPQ32FnUUO77ZxiioQPpMw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40komori_riko",
       "is_live": false
     },
     {
       "platform": "youtube",
-      "id": "UCdqWvkjGh-UfWpdOUYEsRMA",
-      "channel_id": "UCdqWvkjGh-UfWpdOUYEsRMA",
-      "handle": "@umizuki.nagi0715",
-      "display_name": "なぎげーむず",
-      "profile_image_url": "https://yt3.ggpht.com/78e-dpqQXs0r1FpUnv6eiPRdJ6nifGftYvc1BV_uj_UVFc6F_aWRAMxCXplTtqOzGFxpZaLrYw=s800-c-k-c0x00ffffff-no-rj",
-      "channel_url": "https://www.youtube.com/%40umizuki.nagi0715",
+      "id": "UCbFu5DDaiZZ9VeZQUnU4cWA",
+      "channel_id": "UCbFu5DDaiZZ9VeZQUnU4cWA",
+      "handle": "@白狼るな-0131",
+      "display_name": "白狼るな",
+      "profile_image_url": "https://yt3.ggpht.com/KU3rDUbo1KzqBO4qUGDMtpbr-xBTbg0R-sMGxMQQLz5EifOMJDg67a-s8UDP3BkDnyC_pr1y=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%99%BD%E7%8B%BC%E3%82%8B%E3%81%AA-0131",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCHMmSdcdC4JwSw04eyRg6KA",
+      "channel_id": "UCHMmSdcdC4JwSw04eyRg6KA",
+      "handle": "@ひつじのあーしぇ",
+      "display_name": "ひつじのあーしぇ",
+      "profile_image_url": "https://yt3.ggpht.com/429ssJfL6ePCYzYvFC2N3hQbfpBf4FAvj379F3z4uqb8SkCJwyu2RcmM6Y4xOV1MDp5Rl-BMfg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%81%B2%E3%81%A4%E3%81%98%E3%81%AE%E3%81%82%E3%83%BC%E3%81%97%E3%81%87",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCWYyxAiljvdBjUeyS4dGf8Q",
+      "channel_id": "UCWYyxAiljvdBjUeyS4dGf8Q",
+      "handle": "@-amahariru-",
+      "display_name": "甘羽 りる -Amaha Riru-",
+      "profile_image_url": "https://yt3.ggpht.com/DBTsRi5DI5U9aVukyyL6F-Mshmf65VNCCNaUO4xgQU4zoPmOfggkux0ACBSuoMiUyav5v8EFJjg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40-amahariru-",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCgCPVSwNG-zHFf7Z3FBUgUg",
+      "channel_id": "UCgCPVSwNG-zHFf7Z3FBUgUg",
+      "handle": "@ゔぃて-ココからいまから",
+      "display_name": "ココからいまからch【ゔぃて】",
+      "profile_image_url": "https://yt3.ggpht.com/LI88t97MvtQKqHMQ0k80s2EPZyonT8CGm6224bOOU5nsA4VLARJmtRf4B3QBEyNwTmq36KdAzA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%82%94%E3%81%83%E3%81%A6-%E3%82%B3%E3%82%B3%E3%81%8B%E3%82%89%E3%81%84%E3%81%BE%E3%81%8B%E3%82%89",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCkOB0wASbtiJWMMAbXm2NBw",
+      "channel_id": "UCkOB0wASbtiJWMMAbXm2NBw",
+      "handle": "@gaja_rico",
+      "display_name": "がじゃり子。",
+      "profile_image_url": "https://yt3.ggpht.com/rlB0c0zlOuJiOr5HHW_-7EEkBS2QMVbohU6DNazHt7vuwHLR6XV5IrjFiMTYi9Y6h5KpRhAVTHE=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40gaja_rico",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC0U8iCjkCl3y_BWZy4ny2tg",
+      "channel_id": "UC0U8iCjkCl3y_BWZy4ny2tg",
+      "handle": "@imokenpi_10",
+      "display_name": "佐々和けんぴ",
+      "profile_image_url": "https://yt3.ggpht.com/z3P8BeFCX-d8Y_smspgxLtb-dZHpIDRA4nQNRyBErBA0gjQsOU02SQkXo_NUVSAr2rOaG3QWrQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40imokenpi_10",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCU42ChDSTs1Lv6kQuDegw7A",
+      "channel_id": "UCU42ChDSTs1Lv6kQuDegw7A",
+      "handle": "@狐糸さと877",
+      "display_name": "狐糸さと / Koito Sato",
+      "profile_image_url": "https://yt3.ggpht.com/CQZNtqyzjNxnlic-7uW3blisyIVLWc_jVouRzLixnPIHjS8faYqMQEra3l53M5Qn0GoZ09Nt=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%8B%90%E7%B3%B8%E3%81%95%E3%81%A8877",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCpFA557kzFg6YHIEieKWCdQ",
+      "channel_id": "UCpFA557kzFg6YHIEieKWCdQ",
+      "handle": "@yzpom陽葵ゆず",
+      "display_name": "陽葵ゆず🌼ひまりゆず",
+      "profile_image_url": "https://yt3.ggpht.com/KcojntmT0KqpnZ3oiY0B0eOynV5vpDIsk6spBaGa1dx5W2pUb3zgQTP8w-E-op_10DL6byCw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yzpom%E9%99%BD%E8%91%B5%E3%82%86%E3%81%9A",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC-0gx_jvPU_ugSl43Kox7kg",
+      "channel_id": "UC-0gx_jvPU_ugSl43Kox7kg",
+      "handle": "@tefuyu-0627",
+      "display_name": "蝶夢.VTuber.offcial",
+      "profile_image_url": "https://yt3.ggpht.com/Bq-iZ9-Eo6RLP3uq46PloXEYbTCP4-nME5FA433PIEsdX3T8gHwS-yiPFe7hPXQCkscdPNe5VA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40tefuyu-0627",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCg7Unu9Ke5_Uc-NVaWkbhfQ",
+      "channel_id": "UCg7Unu9Ke5_Uc-NVaWkbhfQ",
+      "handle": "@setsuna.issiki",
+      "display_name": "setsuna ch. 一色刹那",
+      "profile_image_url": "https://yt3.ggpht.com/2qe-5NBnmVc_XuUSF_R1vS1DuuE8rJCOrfa7GS-XocwbZu1wNlkztnqBD0QM0Wk5CRB-RmaJLwU=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40setsuna.issiki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCx5x7Rw6pbn7Fze0aYR-5Pw",
+      "channel_id": "UCx5x7Rw6pbn7Fze0aYR-5Pw",
+      "handle": "@who_404_ch",
+      "display_name": "who ch.",
+      "profile_image_url": "https://yt3.ggpht.com/ADak2EvRswnBUCvktVg582EwjJ2kKwr7w2orlRBUPY18DWuWX3kXu-FDLp__d0l3g6SnNTCDD6w=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40who_404_ch",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCj4JYT7vlgl-ujPkyafGWcA",
+      "channel_id": "UCj4JYT7vlgl-ujPkyafGWcA",
+      "handle": "@lalala_fujinkun",
+      "display_name": "富士さなえ",
+      "profile_image_url": "https://yt3.ggpht.com/Bj5tsaLZ8Sr8lmu69IOEPvy7ApvQ3bSHAu9Y_2QzRSYxZGjwJ4iGpuEwZL6ypmAwu0szKwb3pQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40lalala_fujinkun",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC6J1TM3Fskzol-ZmBZ-W9kg",
+      "channel_id": "UC6J1TM3Fskzol-ZmBZ-W9kg",
+      "handle": "@kisaragi6791",
+      "display_name": "如月 Kisaragi",
+      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_k1hICWUbjkDrNPVpNFzUR6qmmOIH6hh2R6ERdZN2LcqA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kisaragi6791",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCnrRpT8zUpvTvwpiMtdQzEg",
+      "channel_id": "UCnrRpT8zUpvTvwpiMtdQzEg",
+      "handle": "@momotarou_vt",
+      "display_name": "ももたろう",
+      "profile_image_url": "https://yt3.ggpht.com/F_KG2hmPmbHW-qcOQnBnMHBkc5yJ5Ap47AKX6BJvKPUYghKiJHUVrMmKmaAIFL5cbCPLtQihRw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40momotarou_vt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCk2-9PBTueAh29RXk38SNIA",
+      "channel_id": "UCk2-9PBTueAh29RXk38SNIA",
+      "handle": "@takurusu8",
+      "display_name": "たくるす Ch.",
+      "profile_image_url": "https://yt3.ggpht.com/tiTHs86USI4xqBxsXs5abSusxcsJ2RwrApEcL-5qn-3AzkUMO6bD7aP4AJDrE9qlbH1hJ_fuBhw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40takurusu8",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCNpLKFr3w41u6iUY-KeG6-g",
+      "channel_id": "UCNpLKFr3w41u6iUY-KeG6-g",
+      "handle": "@dolohololo",
+      "display_name": "DoloHololo",
+      "profile_image_url": "https://yt3.ggpht.com/47HDK9DQm-FPPKKZAGs36u1HAXqiZ69XvC67mG8yzHPnxaVlS55Ly1sjQoT-OgKiTm9-Fg5_hg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40dolohololo",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCdjcwYo1yxH1AZY_b8nf3-A",
+      "channel_id": "UCdjcwYo1yxH1AZY_b8nf3-A",
+      "handle": "@syokoraaanvtuber",
+      "display_name": "しょこらんVTuber",
+      "profile_image_url": "https://yt3.ggpht.com/1NhAxYLWYxHmIqlgo9e35OtMz6-RD7hP1ntSXDaTqmJ9_d4ZuANnjWGIzjU9M4Ls2aurqAzz=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40syokoraaanvtuber",
       "is_live": false
     }
   ]
