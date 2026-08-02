@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T03:03:45+09:00",
+  "updated_at": "2026-08-03T03:50:44+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -457,11 +457,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】新たな出会い、新たな物語 #1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T16:48:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
