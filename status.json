@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:50:44+09:00",
+  "updated_at": "2026-08-03T02:55:45+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -185,11 +185,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucity １日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T13:21:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -219,11 +215,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【YuzuCity】またギャングなるか#1日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T11:21:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -511,11 +503,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#ゆず鯖】月ノ瀬 マキナ  ＃1【始まりの街】/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T10:00:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
