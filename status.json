@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:48:08+09:00",
+  "updated_at": "2026-08-03T00:00:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,7 +57,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_season1_day1 はじまり",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T14:56:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -660,6 +664,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T13:49:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "96a_kuroa",
+      "login": "96a_kuroa",
+      "user_id": "127603554",
+      "display_name": "くろあだよ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/96a_kuroa",
+      "is_live": true,
+      "title": "[ #YuzuCity ]新たな街で新たな生活",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T14:57:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
