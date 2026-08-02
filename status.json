@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T03:00:45+09:00",
+  "updated_at": "2026-08-03T03:03:45+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,11 +303,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【初日】Yuzu City 新しい街がはっじまっるよー 再開",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T13:02:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -475,11 +471,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【YuzuCity】１日目！【ここここしここし/ももたろう】",
-      "game_name": "Apex",
-      "started_at": "2026-08-02T13:02:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -606,6 +598,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T14:57:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "koucyanec0319",
+      "login": "koucyanec0319",
+      "user_id": "1319161750",
+      "display_name": "紅茶猫",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/koucyanec0319",
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】茶ねこの観測記録 1日目【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T14:00:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
