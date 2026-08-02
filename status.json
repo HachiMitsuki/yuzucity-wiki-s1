@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T01:20:47+09:00",
+  "updated_at": "2026-08-03T01:35:45+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -195,11 +195,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "街ぶら一般人 #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T13:51:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
