@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:00:45+09:00",
+  "updated_at": "2026-08-03T02:10:45+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -91,11 +91,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ゆず鯖GTA】自由に生きる 伊吹俊一日目【初見歓迎】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T14:24:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -579,11 +575,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]キャラクリから行くやで（FVC⇔yuzu）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-02T10:25:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
