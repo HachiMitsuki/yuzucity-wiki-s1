@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T19:16:21+09:00",
+  "updated_at": "2026-08-03T19:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,7 +145,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day２ 仲間を集めよう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T10:30:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
