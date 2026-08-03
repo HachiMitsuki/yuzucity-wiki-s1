@@ -1,4 +1,1139 @@
 {
-  "updated_at": "2026-06-11T00:00:00+09:00",
-  "accounts": []
+  "updated_at": "2026-08-03T14:26:47+09:00",
+  "accounts": [
+    {
+      "platform": "x",
+      "handle": "ugetsushiramine",
+      "display_name": "白峰ウゲツ🪄🎷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019204612251869184/cA7vlYXb_400x400.jpg",
+      "profile_url": "https://x.com/ugetsushiramine"
+    },
+    {
+      "platform": "x",
+      "handle": "reizaemon00",
+      "display_name": "🐿レイざえもん👑🌹✖️🍳👾💤🥞💫🍒✨",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1920091963287830528/7A6PJ9fP_400x400.jpg",
+      "profile_url": "https://x.com/reizaemon00"
+    },
+    {
+      "platform": "x",
+      "handle": "dec29_25",
+      "display_name": "炬白(こはく)😼💜",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039257177098248194/7OxR7YU5_400x400.jpg",
+      "profile_url": "https://x.com/dec29_25"
+    },
+    {
+      "platform": "x",
+      "handle": "m4k41on",
+      "display_name": "m4k41on【マカロン】Twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1804859500958232576/T9AJogHB_400x400.jpg",
+      "profile_url": "https://x.com/m4k41on"
+    },
+    {
+      "platform": "x",
+      "handle": "rito_mqru",
+      "display_name": "💎りとまる🎙💙️V Liver/ぺしゃ丸",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2011843819550228482/A-5yooe2_400x400.jpg",
+      "profile_url": "https://x.com/rito_mqru"
+    },
+    {
+      "platform": "x",
+      "handle": "cognac__ttv",
+      "display_name": "CogNac",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1850917093778300930/3h2whyNi_400x400.jpg",
+      "profile_url": "https://x.com/cognac__ttv"
+    },
+    {
+      "platform": "x",
+      "handle": "kannagi_rui",
+      "display_name": "神薙るい@Fivem開発見習い",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1988606642691489792/YUBnQzan_400x400.jpg",
+      "profile_url": "https://x.com/kannagi_rui"
+    },
+    {
+      "platform": "x",
+      "handle": "takutakuenjo",
+      "display_name": "たくくん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1901654128641892354/Vtl5rAIF_400x400.jpg",
+      "profile_url": "https://x.com/takutakuenjo"
+    },
+    {
+      "platform": "x",
+      "handle": "rukimafu",
+      "display_name": "るきまふ🐰",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1944642270134755328/HGxanv9Y_400x400.jpg",
+      "profile_url": "https://x.com/rukimafu"
+    },
+    {
+      "platform": "x",
+      "handle": "ryusakigamech",
+      "display_name": "龍咲",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051873626585260032/RtB5cGxO_400x400.jpg",
+      "profile_url": "https://x.com/ryusakigamech"
+    },
+    {
+      "platform": "x",
+      "handle": "natsuna_ch",
+      "display_name": "柚木なつな🌻",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1899701968039501824/QeRguiqF_400x400.jpg",
+      "profile_url": "https://x.com/natsuna_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "yy_on613",
+      "display_name": "ゆの*お仕事募集中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763393604914176000/39Q4wjFY_400x400.jpg",
+      "profile_url": "https://x.com/yy_on613"
+    },
+    {
+      "platform": "x",
+      "handle": "rakomr_3",
+      "display_name": "水野らこ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2081327604783833088/nAaenyzx_400x400.jpg",
+      "profile_url": "https://x.com/rakomr_3"
+    },
+    {
+      "platform": "x",
+      "handle": "rtsn_2",
+      "display_name": "KIE_早崎 ずぅ🌼🐥",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1906923389715181568/Mfep1PLF_400x400.jpg",
+      "profile_url": "https://x.com/rtsn_2"
+    },
+    {
+      "platform": "x",
+      "handle": "rindou_azuki",
+      "display_name": "竜胆小豆",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1886339347835977728/1NRpeQ2L_400x400.jpg",
+      "profile_url": "https://x.com/rindou_azuki"
+    },
+    {
+      "platform": "x",
+      "handle": "shiro46_ny",
+      "display_name": "しろみそ@眠い",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006394605747785728/AmB29Pxx_400x400.jpg",
+      "profile_url": "https://x.com/shiro46_ny"
+    },
+    {
+      "platform": "x",
+      "handle": "komugisui",
+      "display_name": "Komugisui🌟小麦 彗",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2047280786601086976/D-jjQGHW_400x400.jpg",
+      "profile_url": "https://x.com/komugisui"
+    },
+    {
+      "platform": "x",
+      "handle": "kota_nosukemaru",
+      "display_name": "戌丸こた🐶💜🥟newばーじょん！",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2067435075462135808/_s5SEkZl_400x400.jpg",
+      "profile_url": "https://x.com/kota_nosukemaru"
+    },
+    {
+      "platform": "x",
+      "handle": "marl__kuro",
+      "display_name": "黒田りと🧸♔",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2028076171003588608/XzgG-L_j_400x400.jpg",
+      "profile_url": "https://x.com/marl__kuro"
+    },
+    {
+      "platform": "x",
+      "handle": "himari_yuzu_",
+      "display_name": "陽葵ゆず✿︎個人VTuber🌻🍊",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044027804707397632/FbwzVD22_400x400.jpg",
+      "profile_url": "https://x.com/himari_yuzu_"
+    },
+    {
+      "platform": "x",
+      "handle": "yukana38",
+      "display_name": "闇＆ゆーん 神龍＆鞄 ゆなばーちゃん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1667568443380600832/1rVjfbFP_400x400.jpg",
+      "profile_url": "https://x.com/yukana38"
+    },
+    {
+      "platform": "x",
+      "handle": "koito_sato35",
+      "display_name": "狐糸さと🍌",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1809402591098605568/O5PTEp6x_400x400.jpg",
+      "profile_url": "https://x.com/koito_sato35"
+    },
+    {
+      "platform": "x",
+      "handle": "mitora_shino",
+      "display_name": "三虎しの",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2043212032145854464/n_zR9Gup_400x400.jpg",
+      "profile_url": "https://x.com/mitora_shino"
+    },
+    {
+      "platform": "x",
+      "handle": "tomoeru_",
+      "display_name": "ともえる4ページ🧪📖",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1989708144722022400/tzBNTq1t_400x400.jpg",
+      "profile_url": "https://x.com/tomoeru_"
+    },
+    {
+      "platform": "x",
+      "handle": "muiff14s2",
+      "display_name": "むむいばっとえんど",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1791691026606014464/vQxKd1Wg_400x400.jpg",
+      "profile_url": "https://x.com/muiff14s2"
+    },
+    {
+      "platform": "x",
+      "handle": "nix_yuki0",
+      "display_name": "こゆきくん❄*.+ﾟ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1546074130734231552/jW3Ry5I2_400x400.jpg",
+      "profile_url": "https://x.com/nix_yuki0"
+    },
+    {
+      "platform": "x",
+      "handle": "otonagi_riu",
+      "display_name": "音和りうVtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1836055570341851137/MqyThSes_400x400.jpg",
+      "profile_url": "https://x.com/otonagi_riu"
+    },
+    {
+      "platform": "x",
+      "handle": "airu031",
+      "display_name": "あいるーちゃん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1929574047119212544/uMKw20XP_400x400.jpg",
+      "profile_url": "https://x.com/airu031"
+    },
+    {
+      "platform": "x",
+      "handle": "gekka_shigure",
+      "display_name": "月下時雨🌘☂",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2008873911665283072/rZ_HYIcm_400x400.jpg",
+      "profile_url": "https://x.com/gekka_shigure"
+    },
+    {
+      "platform": "x",
+      "handle": "sourei_2525",
+      "display_name": "蒼澪@Vstreamer",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2066205828726902784/7u-qwset_400x400.jpg",
+      "profile_url": "https://x.com/sourei_2525"
+    },
+    {
+      "platform": "x",
+      "handle": "mitsuniwa_vt",
+      "display_name": "三庭雪彦@6/6シニカルナイトプラン歌ってみた投稿",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063247659385917440/KTgQ9D6Q_400x400.jpg",
+      "profile_url": "https://x.com/mitsuniwa_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "56s_",
+      "display_name": "Liphaly/りふぁりー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1995984679074398208/AQ-1efIF_400x400.jpg",
+      "profile_url": "https://x.com/56s_"
+    },
+    {
+      "platform": "x",
+      "handle": "frcl_orito",
+      "display_name": "おりと",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070826163984011264/NSXzIFug_400x400.jpg",
+      "profile_url": "https://x.com/frcl_orito"
+    },
+    {
+      "platform": "x",
+      "handle": "nekkopan",
+      "display_name": "ねころんぱん🐾",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1801899906703220736/j_skeqNn_400x400.jpg",
+      "profile_url": "https://x.com/nekkopan"
+    },
+    {
+      "platform": "x",
+      "handle": "zero11046968",
+      "display_name": "ZERO. なかまさ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1549783480774447104/M8jUbHIY_400x400.jpg",
+      "profile_url": "https://x.com/zero11046968"
+    },
+    {
+      "platform": "x",
+      "handle": "asahimukuto",
+      "display_name": "浅緋椋蕃(むくと)",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2069382437336174592/2XlccuPc_400x400.jpg",
+      "profile_url": "https://x.com/asahimukuto"
+    },
+    {
+      "platform": "x",
+      "handle": "yuzuriha_012",
+      "display_name": "🍃ユズリハ🍃",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2065614816329523200/6oWtT8Qj_400x400.jpg",
+      "profile_url": "https://x.com/yuzuriha_012"
+    },
+    {
+      "platform": "x",
+      "handle": "f774_005",
+      "display_name": "伏屋 ななし🦈🍶🎮",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040359038672842752/JbBi8lyq_400x400.jpg",
+      "profile_url": "https://x.com/f774_005"
+    },
+    {
+      "platform": "x",
+      "handle": "omchang1217",
+      "display_name": "omchang（おむちゃん）🦾⚡",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2025168288196763648/XFqWcWu8_400x400.jpg",
+      "profile_url": "https://x.com/omchang1217"
+    },
+    {
+      "platform": "x",
+      "handle": "mugimugi230926",
+      "display_name": "むぎち",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1807005346730565632/AQW8J3Dg_400x400.jpg",
+      "profile_url": "https://x.com/mugimugi230926"
+    },
+    {
+      "platform": "x",
+      "handle": "cambrh88",
+      "display_name": "かめりあ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1774416426188918784/VDSABRKN_400x400.jpg",
+      "profile_url": "https://x.com/cambrh88"
+    },
+    {
+      "platform": "x",
+      "handle": "yonerun1",
+      "display_name": "よねるん＠新人Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2058555692437680130/fqK_Firi_400x400.jpg",
+      "profile_url": "https://x.com/yonerun1"
+    },
+    {
+      "platform": "x",
+      "handle": "haizuki_rou",
+      "display_name": "灰月ロウ🌙🐺/声良VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009244622846038016/EU0xYKTD_400x400.jpg",
+      "profile_url": "https://x.com/haizuki_rou"
+    },
+    {
+      "platform": "x",
+      "handle": "sxyhxy_",
+      "display_name": "あんちゃん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1153415194464247809/oYSkz4BI_400x400.jpg",
+      "profile_url": "https://x.com/sxyhxy_"
+    },
+    {
+      "platform": "x",
+      "handle": "yamirnn",
+      "display_name": "やみるん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1990867602944790528/Y0QmWmaG_400x400.jpg",
+      "profile_url": "https://x.com/yamirnn"
+    },
+    {
+      "platform": "x",
+      "handle": "tomosava0919",
+      "display_name": "ともサバ ＠Twitch Vstreamer",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1648144041455030273/SnXHP5dK_400x400.jpg",
+      "profile_url": "https://x.com/tomosava0919"
+    },
+    {
+      "platform": "x",
+      "handle": "0401_mako_",
+      "display_name": "Mako a.k.a 瑠唯",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1732264893792092160/qGKS-bb0_400x400.jpg",
+      "profile_url": "https://x.com/0401_mako_"
+    },
+    {
+      "platform": "x",
+      "handle": "kimkim_teitalk",
+      "display_name": "きむそん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2067703302209601536/T5w2cJRa_400x400.jpg",
+      "profile_url": "https://x.com/kimkim_teitalk"
+    },
+    {
+      "platform": "x",
+      "handle": "gohan_twitch",
+      "display_name": "_ごはん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1965191177013264384/fOn9QAKC_400x400.jpg",
+      "profile_url": "https://x.com/gohan_twitch"
+    },
+    {
+      "platform": "x",
+      "handle": "mega31500123",
+      "display_name": "MEGAちゃんねる_お気楽配信者",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2018722316818296832/myJPDUR2_400x400.jpg",
+      "profile_url": "https://x.com/mega31500123"
+    },
+    {
+      "platform": "x",
+      "handle": "akagamiglass",
+      "display_name": "あか🪓🦉AKAGAMIGLASS+",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1623745237100408832/H8NDgF0m_400x400.jpg",
+      "profile_url": "https://x.com/akagamiglass"
+    },
+    {
+      "platform": "x",
+      "handle": "mitsuki_shiki_",
+      "display_name": "海月 織 Tw🪼VTuber準備中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1982838573918228480/aYhAxU2b_400x400.jpg",
+      "profile_url": "https://x.com/mitsuki_shiki_"
+    },
+    {
+      "platform": "x",
+      "handle": "pupiru_",
+      "display_name": "ぷぴる🐺‎‎🤍",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039347632615878656/4qb0fkg5_400x400.jpg",
+      "profile_url": "https://x.com/pupiru_"
+    },
+    {
+      "platform": "x",
+      "handle": "issiki_setsuna_",
+      "display_name": "一色刹那🎧♦️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2049859798041243649/QnHtFoJM_400x400.jpg",
+      "profile_url": "https://x.com/issiki_setsuna_"
+    },
+    {
+      "platform": "x",
+      "handle": "imokenpi_nico",
+      "display_name": "佐々和 けんぴ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2046999636213436417/1y5BgB5l_400x400.jpg",
+      "profile_url": "https://x.com/imokenpi_nico"
+    },
+    {
+      "platform": "x",
+      "handle": "kaineman_",
+      "display_name": "三依カイネ@スト鯖Rust主催",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1798645369112612864/evO4-h8V_400x400.jpg",
+      "profile_url": "https://x.com/kaineman_"
+    },
+    {
+      "platform": "x",
+      "handle": "hakurou_runa",
+      "display_name": "白狼るな🐺❄︎🌌VTuber準備中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2014301868508479488/oTYXmVrj_400x400.jpg",
+      "profile_url": "https://x.com/hakurou_runa"
+    },
+    {
+      "platform": "x",
+      "handle": "opan_tyuu2",
+      "display_name": "おぱんおじさん@配信",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1904409559848165376/cZEmhgm9_400x400.jpg",
+      "profile_url": "https://x.com/opan_tyuu2"
+    },
+    {
+      "platform": "x",
+      "handle": "ginjyo_nagi",
+      "display_name": "銀条ナギ🎮🎶高音Voice系個人配信者＆Music Creator",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009980068815351809/FwkF-dKv_400x400.jpg",
+      "profile_url": "https://x.com/ginjyo_nagi"
+    },
+    {
+      "platform": "x",
+      "handle": "ashe_sheepvt",
+      "display_name": "ひつじのあーしぇ＠REQUIEM OF LITTLE MONSTERS",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2068242328943554560/nv6vlVYZ_400x400.jpg",
+      "profile_url": "https://x.com/ashe_sheepvt"
+    },
+    {
+      "platform": "x",
+      "handle": "gaja_rico_twi",
+      "display_name": "がじゃり子。@配信者のすがた🥔🍠🎙",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039184402782240768/Wl4FXRNQ_400x400.jpg",
+      "profile_url": "https://x.com/gaja_rico_twi"
+    },
+    {
+      "platform": "x",
+      "handle": "sheepdayop",
+      "display_name": "ぽっかぽんた",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2034332921235202048/PiME6mjV_400x400.jpg",
+      "profile_url": "https://x.com/sheepdayop"
+    },
+    {
+      "platform": "x",
+      "handle": "tftf__1212",
+      "display_name": "てふてふ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2065081658823606272/V59wY1Sw_400x400.jpg",
+      "profile_url": "https://x.com/tftf__1212"
+    },
+    {
+      "platform": "x",
+      "handle": "sakeshirorei",
+      "display_name": "酒白レイ(ｻｹｼﾛﾚｲ)🍾🤍お酒に呑まれる清楚系",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051946857035923456/vY40Vev8_400x400.jpg",
+      "profile_url": "https://x.com/sakeshirorei"
+    },
+    {
+      "platform": "x",
+      "handle": "yayoi_mitumata",
+      "display_name": "三叉弥生＠V化しました！",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2061425835073286145/QG96HfIH_400x400.jpg",
+      "profile_url": "https://x.com/yayoi_mitumata"
+    },
+    {
+      "platform": "x",
+      "handle": "takanashi_kuu_",
+      "display_name": "小鳥遊くぅ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1867418043737157633/f65TBzSe_400x400.jpg",
+      "profile_url": "https://x.com/takanashi_kuu_"
+    },
+    {
+      "platform": "x",
+      "handle": "crazypanda0_1",
+      "display_name": "CrazyPanda",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2049533564010844160/8VMxzrzT_400x400.jpg",
+      "profile_url": "https://x.com/crazypanda0_1"
+    },
+    {
+      "platform": "x",
+      "handle": "lalala_fujinkun",
+      "display_name": "富士さなえ(ふじん)😈🍷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2068409667546652672/W55M3A12_400x400.jpg",
+      "profile_url": "https://x.com/lalala_fujinkun"
+    },
+    {
+      "platform": "x",
+      "handle": "lunasorami",
+      "display_name": "宙見ルナ 【だっぴちゅう】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063939206809104384/-omrHHYT_400x400.jpg",
+      "profile_url": "https://x.com/lunasorami"
+    },
+    {
+      "platform": "x",
+      "handle": "ronronxvtuber",
+      "display_name": "ろんろん@あるめると🌟🫠所属",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1640162399893471233/fEfEwU0g_400x400.jpg",
+      "profile_url": "https://x.com/ronronxvtuber"
+    },
+    {
+      "platform": "x",
+      "handle": "komori_riko_zp",
+      "display_name": "狐杜りこ🦊🩹🫖",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039359493130289152/Oa1HQ1p0_400x400.jpg",
+      "profile_url": "https://x.com/komori_riko_zp"
+    },
+    {
+      "platform": "x",
+      "handle": "who4reu400",
+      "display_name": "who",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063883030633328640/TgMevBy5_400x400.jpg",
+      "profile_url": "https://x.com/who4reu400"
+    },
+    {
+      "platform": "x",
+      "handle": "gekiamachannnn",
+      "display_name": "激甘ちゃん💘",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044098512330338306/9f1pxCi0_400x400.jpg",
+      "profile_url": "https://x.com/gekiamachannnn"
+    },
+    {
+      "platform": "x",
+      "handle": "toaru_eriko",
+      "display_name": "とある えりーこ/ゆめと",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044453668687376384/tSxkt_vq_400x400.jpg",
+      "profile_url": "https://x.com/toaru_eriko"
+    },
+    {
+      "platform": "x",
+      "handle": "kon_ruki",
+      "display_name": "狐野るき",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1991164189390561280/3CtKHuPN_400x400.jpg",
+      "profile_url": "https://x.com/kon_ruki"
+    },
+    {
+      "platform": "x",
+      "handle": "kuromo_aone",
+      "display_name": "蒼音くろも🐺",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006328492842184704/KxX3OMAX_400x400.jpg",
+      "profile_url": "https://x.com/kuromo_aone"
+    },
+    {
+      "platform": "x",
+      "handle": "ohiroom1412",
+      "display_name": "浜凛おーひ@はまりんさん。",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1957463085289291776/Meo8CdtD_400x400.jpg",
+      "profile_url": "https://x.com/ohiroom1412"
+    },
+    {
+      "platform": "x",
+      "handle": "watanuki_krh",
+      "display_name": "綿貫紅葉🌸🍁",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2057276127320952832/VhEKpPY5_400x400.jpg",
+      "profile_url": "https://x.com/watanuki_krh"
+    },
+    {
+      "platform": "x",
+      "handle": "senshi_bankou62",
+      "display_name": "🎲☕千紫 万紅【メイド探索者系VTuber】🎲☕",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1719369233694707712/tFLooOok_400x400.jpg",
+      "profile_url": "https://x.com/senshi_bankou62"
+    },
+    {
+      "platform": "x",
+      "handle": "vt_aoiyukina",
+      "display_name": "蒼井ゆきな",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1747095688062918657/v3ZQxtBi_400x400.jpg",
+      "profile_url": "https://x.com/vt_aoiyukina"
+    },
+    {
+      "platform": "x",
+      "handle": "y_m_xoxo",
+      "display_name": "ネスタゆぅ♠",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2029104756137050112/oe6l80vo_400x400.jpg",
+      "profile_url": "https://x.com/y_m_xoxo"
+    },
+    {
+      "platform": "x",
+      "handle": "natsuhatsuna27",
+      "display_name": "夏葉つな🌻@１人２役で歌う人",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1700505773040914432/F-ylaDI__400x400.jpg",
+      "profile_url": "https://x.com/natsuhatsuna27"
+    },
+    {
+      "platform": "x",
+      "handle": "haresan07",
+      "display_name": "はれさん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2023745057753624576/kh231fjY_400x400.jpg",
+      "profile_url": "https://x.com/haresan07"
+    },
+    {
+      "platform": "x",
+      "handle": "naroten_asari71",
+      "display_name": "なつ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019244212362117120/xnJXhgAU_400x400.jpg",
+      "profile_url": "https://x.com/naroten_asari71"
+    },
+    {
+      "platform": "x",
+      "handle": "toyo_tancory",
+      "display_name": "トヨたんこりー【天狐りー】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2012861759988678657/EldLxY0W_400x400.jpg",
+      "profile_url": "https://x.com/toyo_tancory"
+    },
+    {
+      "platform": "x",
+      "handle": "ku6u2",
+      "display_name": "くろう𓆩☠︎𓆪ぷれぴぽ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2004839418872680448/e-PtVgGT_400x400.jpg",
+      "profile_url": "https://x.com/ku6u2"
+    },
+    {
+      "platform": "x",
+      "handle": "yonjoruuu",
+      "display_name": "よんじょる",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2020647745531633664/ncN-4r0D_400x400.jpg",
+      "profile_url": "https://x.com/yonjoruuu"
+    },
+    {
+      "platform": "x",
+      "handle": "totugiyu_vtuber",
+      "display_name": "十一月祐Vtuber👹👓",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1774639409578848256/f2Bwvaqu_400x400.jpg",
+      "profile_url": "https://x.com/totugiyu_vtuber"
+    },
+    {
+      "platform": "x",
+      "handle": "suzune4nori",
+      "display_name": "鈴音しのり ✦ 一旦おやすみ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2060688839187091457/hRucoHcZ_400x400.jpg",
+      "profile_url": "https://x.com/suzune4nori"
+    },
+    {
+      "platform": "x",
+      "handle": "gimlet_game1029",
+      "display_name": "ぎむれっと。Twitch💚🍷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1939272484437590016/NKYXamM3_400x400.jpg",
+      "profile_url": "https://x.com/gimlet_game1029"
+    },
+    {
+      "platform": "x",
+      "handle": "mh_kabi_master",
+      "display_name": "青カビちゃんねる🧀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1431208844139515910/E2k12D39_400x400.jpg",
+      "profile_url": "https://x.com/mh_kabi_master"
+    },
+    {
+      "platform": "x",
+      "handle": "_tok4x",
+      "display_name": "とーか🐟",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1908826723208384512/mGAlg9Rt_400x400.jpg",
+      "profile_url": "https://x.com/_tok4x"
+    },
+    {
+      "platform": "x",
+      "handle": "runaa_khn_",
+      "display_name": "月街 るな @ Li:start 💫🐈‍⬛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2014678185711955968/v2f073Eq_400x400.jpg",
+      "profile_url": "https://x.com/runaa_khn_"
+    },
+    {
+      "platform": "x",
+      "handle": "kumishi0715",
+      "display_name": "Kumish1🐺🎯",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2064939155914993665/t-Z4qaAt_400x400.jpg",
+      "profile_url": "https://x.com/kumishi0715"
+    },
+    {
+      "platform": "x",
+      "handle": "runaf_f",
+      "display_name": "F'ルナール✨🦊",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1834928800771325954/r962Iinr_400x400.jpg",
+      "profile_url": "https://x.com/runaf_f"
+    },
+    {
+      "platform": "x",
+      "handle": "errorgame_05",
+      "display_name": "えらー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040561724773048320/UM6D4V1k_400x400.jpg",
+      "profile_url": "https://x.com/errorgame_05"
+    },
+    {
+      "platform": "x",
+      "handle": "kanade_amasaki",
+      "display_name": "天咲 奏✩.*˚新人Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2012504248412778496/N3RJcpeu_400x400.jpg",
+      "profile_url": "https://x.com/kanade_amasaki"
+    },
+    {
+      "platform": "x",
+      "handle": "syouta_vl41",
+      "display_name": "Syouta",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2066730870749503488/5uYiG6QK_400x400.jpg",
+      "profile_url": "https://x.com/syouta_vl41"
+    },
+    {
+      "platform": "x",
+      "handle": "limesan_1120",
+      "display_name": "らいむさん🐉🎮⚾️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2011646471360393216/2I2sdn0X_400x400.jpg",
+      "profile_url": "https://x.com/limesan_1120"
+    },
+    {
+      "platform": "x",
+      "handle": "digitama_belias",
+      "display_name": "【心はいつでも】でじたま【HQ】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1748173610009944064/1jIU-mYH_400x400.png",
+      "profile_url": "https://x.com/digitama_belias"
+    },
+    {
+      "platform": "x",
+      "handle": "shin_v0_0v0729",
+      "display_name": "信介",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1021984910905630721/qomOJBue_400x400.jpg",
+      "profile_url": "https://x.com/shin_v0_0v0729"
+    },
+    {
+      "platform": "x",
+      "handle": "tenshino_hane57",
+      "display_name": "天使乃はね💌✨️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2067256741432274944/4lfXbId1_400x400.jpg",
+      "profile_url": "https://x.com/tenshino_hane57"
+    },
+    {
+      "platform": "x",
+      "handle": "tonchannel46",
+      "display_name": "トンちゃん🚬🐷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1991423570883624960/yuyPE5nD_400x400.jpg",
+      "profile_url": "https://x.com/tonchannel46"
+    },
+    {
+      "platform": "x",
+      "handle": "toto_tox2",
+      "display_name": "ととりお🎩🪶",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1635961318967758849/k7DE1IM8_400x400.jpg",
+      "profile_url": "https://x.com/toto_tox2"
+    },
+    {
+      "platform": "x",
+      "handle": "kiki_tempus",
+      "display_name": "@KiKi🥒💤",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2071941492826914816/JZ4rps_w_400x400.jpg",
+      "profile_url": "https://x.com/kiki_tempus"
+    },
+    {
+      "platform": "x",
+      "handle": "misao_1090",
+      "display_name": "今給黎 操 ゲームしてる人",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1800580052800966656/MKhz-ded_400x400.jpg",
+      "profile_url": "https://x.com/misao_1090"
+    },
+    {
+      "platform": "x",
+      "handle": "yuzuki_hidaka_v",
+      "display_name": "飛鷹悠月🐥🌙*ﾟ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2065037596846399488/h3VBBoRt_400x400.jpg",
+      "profile_url": "https://x.com/yuzuki_hidaka_v"
+    },
+    {
+      "platform": "x",
+      "handle": "tennnnx_",
+      "display_name": "羽雲てん☁️ 休止中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009521785956597760/ZrvwwqEd_400x400.jpg",
+      "profile_url": "https://x.com/tennnnx_"
+    },
+    {
+      "platform": "x",
+      "handle": "11sghaz",
+      "display_name": "鈴の森雄一郎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1821127041711783936/IFucY5ZM_400x400.jpg",
+      "profile_url": "https://x.com/11sghaz"
+    },
+    {
+      "platform": "x",
+      "handle": "tsukira_nico",
+      "display_name": "月羅☪︎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039360574195429376/-DBJVosD_400x400.jpg",
+      "profile_url": "https://x.com/tsukira_nico"
+    },
+    {
+      "platform": "x",
+      "handle": "u_udr22",
+      "display_name": "【GTTQ】u.👶🏼",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2005618711810691072/9PWMIhN-_400x400.jpg",
+      "profile_url": "https://x.com/u_udr22"
+    },
+    {
+      "platform": "x",
+      "handle": "hibiki_scatlive",
+      "display_name": "紅音ひびき🌹🎤元刑務官系Vライバー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1728307924496445440/AhhJVohY_400x400.jpg",
+      "profile_url": "https://x.com/hibiki_scatlive"
+    },
+    {
+      "platform": "x",
+      "handle": "cocoa_yy",
+      "display_name": "猫羽心々愛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006652870373089280/d2SHvruV_400x400.jpg",
+      "profile_url": "https://x.com/cocoa_yy"
+    },
+    {
+      "platform": "x",
+      "handle": "yogiriyua",
+      "display_name": "夜霧ゆあ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2047963482256207872/3Q-Oa8m6_400x400.jpg",
+      "profile_url": "https://x.com/yogiriyua"
+    },
+    {
+      "platform": "x",
+      "handle": "4isak18_8",
+      "display_name": "宵崎レオ-Reo Yoisaki-",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1987701487208980480/FqaZycU7_400x400.jpg",
+      "profile_url": "https://x.com/4isak18_8"
+    },
+    {
+      "platform": "x",
+      "handle": "momose__yukina",
+      "display_name": "桃瀬ゆきな🎀👑",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2021022673506361344/HRYcTLbZ_400x400.jpg",
+      "profile_url": "https://x.com/momose__yukina"
+    },
+    {
+      "platform": "x",
+      "handle": "tefutefu_0627",
+      "display_name": "≪ARX≫ 蝶 夢 Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2053718772280877056/glr3kqgd_400x400.jpg",
+      "profile_url": "https://x.com/tefutefu_0627"
+    },
+    {
+      "platform": "x",
+      "handle": "murokk66",
+      "display_name": "むろおじいちゃん/66☁➿個人勢Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039982931465404416/Gqw2tcOa_400x400.jpg",
+      "profile_url": "https://x.com/murokk66"
+    },
+    {
+      "platform": "x",
+      "handle": "tonsato_10310",
+      "display_name": "とんさと🐽",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875874750280704000/qqDtHBvL_400x400.jpg",
+      "profile_url": "https://x.com/tonsato_10310"
+    },
+    {
+      "platform": "x",
+      "handle": "ebi_tabetayo",
+      "display_name": "甘生ゑび🍤🧚‍♀️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006278624304050176/HsFtxHnC_400x400.jpg",
+      "profile_url": "https://x.com/ebi_tabetayo"
+    },
+    {
+      "platform": "x",
+      "handle": "koruuna",
+      "display_name": "こるぅな(2026年冷凍食品禁止中)",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1912486157889249280/cJCRE07h_400x400.jpg",
+      "profile_url": "https://x.com/koruuna"
+    },
+    {
+      "platform": "x",
+      "handle": "nekohayukemuri",
+      "display_name": "猫羽ゆけむり",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063171697189236736/mD3SKHVT_400x400.jpg",
+      "profile_url": "https://x.com/nekohayukemuri"
+    },
+    {
+      "platform": "x",
+      "handle": "quina_king",
+      "display_name": "917",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2031062996534046720/_iaNx_V4_400x400.jpg",
+      "profile_url": "https://x.com/quina_king"
+    },
+    {
+      "platform": "x",
+      "handle": "jura_nano",
+      "display_name": "🦕樹空💭",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1775682448791310336/RrTZSjXv_400x400.jpg",
+      "profile_url": "https://x.com/jura_nano"
+    },
+    {
+      "platform": "x",
+      "handle": "shiratonao",
+      "display_name": "白兎なお🐰🎮🎙",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1677288995414482945/VXZ0KS_s_400x400.jpg",
+      "profile_url": "https://x.com/shiratonao"
+    },
+    {
+      "platform": "x",
+      "handle": "siyau_game",
+      "display_name": "紫夜雨-siyau-",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1973310574571429898/vgJznIry_400x400.jpg",
+      "profile_url": "https://x.com/siyau_game"
+    },
+    {
+      "platform": "x",
+      "handle": "yamatan5m",
+      "display_name": "やまたん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1969976706581905409/szXggluE_400x400.jpg",
+      "profile_url": "https://x.com/yamatan5m"
+    },
+    {
+      "platform": "x",
+      "handle": "ayaya1hp",
+      "display_name": "綾",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2035108895342174208/_zr2Tvrb_400x400.jpg",
+      "profile_url": "https://x.com/ayaya1hp"
+    },
+    {
+      "platform": "x",
+      "handle": "zakisaragi",
+      "display_name": "如月",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1380507046605295617/6l67IIdc_400x400.jpg",
+      "profile_url": "https://x.com/zakisaragi"
+    },
+    {
+      "platform": "x",
+      "handle": "yuranunusu",
+      "display_name": "ゆらぬぬす",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1981815800165027840/WZpEdJyY_400x400.jpg",
+      "profile_url": "https://x.com/yuranunusu"
+    },
+    {
+      "platform": "x",
+      "handle": "farm_chel",
+      "display_name": "ちぇるほわいと",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1531589093267996673/2kOjq1ss_400x400.jpg",
+      "profile_url": "https://x.com/farm_chel"
+    },
+    {
+      "platform": "x",
+      "handle": "syarurannsu",
+      "display_name": "ハーメルン",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1041325561161777152/fBBX3LWM_400x400.jpg",
+      "profile_url": "https://x.com/syarurannsu"
+    },
+    {
+      "platform": "x",
+      "handle": "kame2game",
+      "display_name": "カメつ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2078094319861592064/P4LsNaYp_400x400.jpg",
+      "profile_url": "https://x.com/kame2game"
+    },
+    {
+      "platform": "x",
+      "handle": "ae_86_5801",
+      "display_name": "おかず",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2037376664989241344/gdkCLoEw_400x400.jpg",
+      "profile_url": "https://x.com/ae_86_5801"
+    },
+    {
+      "platform": "x",
+      "handle": "takurusu8",
+      "display_name": "たくるす（Takurusu）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2083392672501559296/vlLOFS7W_400x400.jpg",
+      "profile_url": "https://x.com/takurusu8"
+    },
+    {
+      "platform": "x",
+      "handle": "kioca_snht314",
+      "display_name": "希於佳/kioca",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1687628674248650754/BGZ3iLqP_400x400.jpg",
+      "profile_url": "https://x.com/kioca_snht314"
+    },
+    {
+      "platform": "x",
+      "handle": "kitunebana_san",
+      "display_name": "狐花 かさね🦊✿",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1969603206134317062/9jP66JBC_400x400.jpg",
+      "profile_url": "https://x.com/kitunebana_san"
+    },
+    {
+      "platform": "x",
+      "handle": "tani_taso0817",
+      "display_name": "TANI‎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1991551309334683648/nEK9YkM__400x400.jpg",
+      "profile_url": "https://x.com/tani_taso0817"
+    },
+    {
+      "platform": "x",
+      "handle": "mochioyade",
+      "display_name": "もちお",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051637518307819520/6bfSHEq6_400x400.jpg",
+      "profile_url": "https://x.com/mochioyade"
+    },
+    {
+      "platform": "x",
+      "handle": "hakurou_urufu",
+      "display_name": "白狼 うるふ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2082543755639570433/dQZJ7TcC_400x400.jpg",
+      "profile_url": "https://x.com/hakurou_urufu"
+    },
+    {
+      "platform": "x",
+      "handle": "atom_0049",
+      "display_name": "あとむ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2007482237915394049/laeCyF-X_400x400.jpg",
+      "profile_url": "https://x.com/atom_0049"
+    },
+    {
+      "platform": "x",
+      "handle": "mutsukimaki",
+      "display_name": "CRE 睦月 舞綺💙⚔🌹",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1921857883009900544/a7XZVWkz_400x400.jpg",
+      "profile_url": "https://x.com/mutsukimaki"
+    },
+    {
+      "platform": "x",
+      "handle": "takepapa1103",
+      "display_name": "タケシ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2002875478324170752/ZtxQM_Zf_400x400.jpg",
+      "profile_url": "https://x.com/takepapa1103"
+    },
+    {
+      "platform": "x",
+      "handle": "thanatos4090",
+      "display_name": "たなとす",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2077709373946892288/9ybus12T_400x400.jpg",
+      "profile_url": "https://x.com/thanatos4090"
+    },
+    {
+      "platform": "x",
+      "handle": "ku_ronatu_777",
+      "display_name": "黒夏クロ@Twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2007028528072830976/qOMTB97B_400x400.jpg",
+      "profile_url": "https://x.com/ku_ronatu_777"
+    },
+    {
+      "platform": "x",
+      "handle": "yumekuiminato",
+      "display_name": "夢喰みなと💤@新人vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1932988832783425536/8kgk1NOa_400x400.jpg",
+      "profile_url": "https://x.com/yumekuiminato"
+    },
+    {
+      "platform": "x",
+      "handle": "wint4r__",
+      "display_name": "うぃんた",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2061146521597509632/JkP7vGDd_400x400.jpg",
+      "profile_url": "https://x.com/wint4r__"
+    },
+    {
+      "platform": "x",
+      "handle": "koinunanika66",
+      "display_name": "琥戌ナニカ 🐶👾321",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039207624810618880/7zV5Jvt5_400x400.jpg",
+      "profile_url": "https://x.com/koinunanika66"
+    },
+    {
+      "platform": "x",
+      "handle": "alwaysfunboy",
+      "display_name": "たやちゃん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2076353083559620608/rZ8RCNGU_400x400.jpg",
+      "profile_url": "https://x.com/alwaysfunboy"
+    },
+    {
+      "platform": "x",
+      "handle": "ashnyaaaaan",
+      "display_name": "甘噛あしゅりぃ🍭🍀💤＠α波ボイス系Vstreamer",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1655482971535847425/3ndUuSEP_400x400.jpg",
+      "profile_url": "https://x.com/ashnyaaaaan"
+    },
+    {
+      "platform": "x",
+      "handle": "oki_zp",
+      "display_name": "沖（おき）@ゴルふぁ〜",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1285594558693138436/jHXkW5ir_400x400.jpg",
+      "profile_url": "https://x.com/oki_zp"
+    },
+    {
+      "platform": "x",
+      "handle": "samebxs",
+      "display_name": "水嶺さめ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2083136557972860928/jV6o4ar5_400x400.jpg",
+      "profile_url": "https://x.com/samebxs"
+    },
+    {
+      "platform": "x",
+      "handle": "yumegasaki_vt",
+      "display_name": "夢ヶ咲 よう☀️🪐",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2001551824793538560/dwhAs15t_400x400.jpg",
+      "profile_url": "https://x.com/yumegasaki_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "chaya_2_trpg",
+      "display_name": "kasaya/白緑ネム",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2079822075980902400/Zuk7GHDE_400x400.jpg",
+      "profile_url": "https://x.com/chaya_2_trpg"
+    },
+    {
+      "platform": "x",
+      "handle": "rumd4rk",
+      "display_name": "RUMD4rk（ラムダーク）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1977969522729783296/-mwt6m_v_400x400.jpg",
+      "profile_url": "https://x.com/rumd4rk"
+    },
+    {
+      "platform": "x",
+      "handle": "koucya_12cat7",
+      "display_name": "紅茶猫(koucyaneco)🐈️☕",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643620785838342145/9S6y71G7_400x400.jpg",
+      "profile_url": "https://x.com/koucya_12cat7"
+    },
+    {
+      "platform": "x",
+      "handle": "dolohololo",
+      "display_name": "DoloHololo",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1966206661569437696/yIuhf8Sa_400x400.jpg",
+      "profile_url": "https://x.com/dolohololo"
+    },
+    {
+      "platform": "x",
+      "handle": "sikinodori2142",
+      "display_name": "しきのどり",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2030344945333346304/DJqkUeyv_400x400.jpg",
+      "profile_url": "https://x.com/sikinodori2142"
+    },
+    {
+      "platform": "x",
+      "handle": "syokoraaan",
+      "display_name": "しょこらん/VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040035621939650562/bqYgjRCn_400x400.jpg",
+      "profile_url": "https://x.com/syokoraaan"
+    },
+    {
+      "platform": "x",
+      "handle": "rariteyan_game",
+      "display_name": "薑らりて🫚💜",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2061827201553858560/FX2FPTNE_400x400.jpg",
+      "profile_url": "https://x.com/rariteyan_game"
+    },
+    {
+      "platform": "x",
+      "handle": "ranokaku_u",
+      "display_name": "架空らの",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2005603254433189888/atlzjD7n_400x400.jpg",
+      "profile_url": "https://x.com/ranokaku_u"
+    },
+    {
+      "platform": "x",
+      "handle": "usagi9639",
+      "display_name": "兎月_佐賀県VTuber🐰🌙",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1888473644135010304/xyuJka6p_400x400.jpg",
+      "profile_url": "https://x.com/usagi9639"
+    }
+  ]
 }
