@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T04:36:18+09:00",
+  "updated_at": "2026-08-04T05:01:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】まだ慣れないけどがんばるぞ～  #2【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T08:03:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -507,11 +503,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#2-2 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T15:11:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -521,11 +513,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]EMS体験2日目やで",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T19:01:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
