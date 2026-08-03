@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T20:36:29+09:00",
+  "updated_at": "2026-08-03T20:37:41+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -553,11 +553,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#2 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T09:44:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -605,7 +601,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 02 金策 #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T11:36:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -664,6 +664,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-03T11:19:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "ashnyaaaaan",
+      "login": "ashnyaaaaan",
+      "user_id": "139557012",
+      "display_name": "甘噛あしゅりぃ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ashnyaaaaan",
+      "is_live": true,
+      "title": "【Yuzucity/天音あしゅ】よちよち街歩き #1 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T11:35:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
