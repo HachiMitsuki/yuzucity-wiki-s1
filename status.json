@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T00:41:29+09:00",
+  "updated_at": "2026-08-04T00:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -173,11 +173,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#YUZUCITY 】夢咲 琉楓 DAY1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T12:11:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -187,7 +183,11 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "飲食希望フィットネス人生#ゆずシティ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T15:44:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -429,11 +429,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T12:41:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -647,7 +643,11 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": false
+      "is_live": true,
+      "title": "[ #YuzuCity ]闇の世界へ一歩踏み入れようか #2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T15:44:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
