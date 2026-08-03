@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T02:49:44+09:00",
+  "updated_at": "2026-08-04T03:07:53+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -287,6 +287,13 @@
       "display_name": "かめりあ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1774416426188918784/VDSABRKN_400x400.jpg",
       "profile_url": "https://x.com/cambrh88"
+    },
+    {
+      "platform": "x",
+      "handle": "mashiro_rai",
+      "display_name": "魔白らい😈🌩️/悪魔系VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2055184455170703360/PejKru27_400x400.jpg",
+      "profile_url": "https://x.com/mashiro_rai"
     },
     {
       "platform": "x",
