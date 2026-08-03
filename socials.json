@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T03:07:53+09:00",
+  "updated_at": "2026-08-04T03:14:21+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1155,6 +1155,13 @@
       "display_name": "しのかな🌈🌐💫＠有償依頼受付中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2054561565844873217/kVJkA1wu_400x400.jpg",
       "profile_url": "https://x.com/4no383"
+    },
+    {
+      "platform": "x",
+      "handle": "kuroa132",
+      "display_name": "🐺96A / くろあ♟",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2025804194553503744/lENQq-nT_400x400.jpg",
+      "profile_url": "https://x.com/kuroa132"
     }
   ]
 }
