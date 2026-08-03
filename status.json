@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T20:22:54+09:00",
+  "updated_at": "2026-08-03T20:25:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -939,6 +939,16 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://yt3.ggpht.com/il5O6kkZ7XM2yzWilkwJm9YV9SpxU9W1oBFPrD1K-1n8tE-WuWTjO9qeCUkmYBFs9FQPK-n03w=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40touhou1582",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCPe5Yz15QpDCkhnRbRy65fA",
+      "channel_id": "UCPe5Yz15QpDCkhnRbRy65fA",
+      "handle": "@yuke_vt",
+      "display_name": "天詩ユーク ",
+      "profile_image_url": "https://yt3.ggpht.com/IARnYNUQSYd4eWuTKbBpasn0x3F-SCMRx3KA0HjK5RIPnFR6c2V7b3nPnlQK5vMCM8rMorgXl_M=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yuke_vt",
       "is_live": false
     }
   ]
