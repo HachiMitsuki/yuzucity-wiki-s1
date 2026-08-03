@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T17:06:16+09:00",
+  "updated_at": "2026-08-03T17:11:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -831,6 +831,16 @@
       "display_name": "ReyParukaCh  レイパルカリーパー",
       "profile_image_url": "https://yt3.ggpht.com/8CMiJwK3CmazcEQrXsnuyrRUxXFs6uLb_7TNwLQ1hpCM8vtsKkdfhdeMRrxHnf9EMq50r7hdEw=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40reyparukach1763",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC30iCoWXTSj_XGEyxpG9RWg",
+      "channel_id": "UC30iCoWXTSj_XGEyxpG9RWg",
+      "handle": "@setuka_imaboku_wolf",
+      "display_name": "せつか@いまぼく",
+      "profile_image_url": "https://yt3.ggpht.com/yJLqWCKV0l81S1ZnkhF86UTsUivVQV3xyM2i_NpK4fUK5nHRSQypftB-b6qq6DAuQps_FhnwrUQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40setuka_imaboku_wolf",
       "is_live": false
     }
   ]
