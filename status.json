@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T19:31:25+09:00",
+  "updated_at": "2026-08-03T19:32:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -907,6 +907,16 @@
       "display_name": "せつか@いまぼく",
       "profile_image_url": "https://yt3.ggpht.com/yJLqWCKV0l81S1ZnkhF86UTsUivVQV3xyM2i_NpK4fUK5nHRSQypftB-b6qq6DAuQps_FhnwrUQ=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40setuka_imaboku_wolf",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCvRt3mO6leLaHR1uCVjNM8w",
+      "channel_id": "UCvRt3mO6leLaHR1uCVjNM8w",
+      "handle": "@touhou1582",
+      "display_name": "東月方璃",
+      "profile_image_url": "https://yt3.ggpht.com/il5O6kkZ7XM2yzWilkwJm9YV9SpxU9W1oBFPrD1K-1n8tE-WuWTjO9qeCUkmYBFs9FQPK-n03w=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40touhou1582",
       "is_live": false
     }
   ]
