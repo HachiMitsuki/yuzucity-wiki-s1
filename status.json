@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T00:31:31+09:00",
+  "updated_at": "2026-08-04T00:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,11 +119,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】PD緊張するね 2日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T10:52:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -685,11 +681,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【Yuzu City】楽しいを見つけに行こう【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T11:19:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
