@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:11:24+09:00",
+  "updated_at": "2026-08-03T18:21:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -371,7 +371,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】#11 テストサーバーを経て正式サーバーで遊んでく！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T09:20:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -481,7 +485,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity #2】ギャングメンバー探しや",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T09:20:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
