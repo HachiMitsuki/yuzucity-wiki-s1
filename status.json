@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T19:56:26+09:00",
+  "updated_at": "2026-08-03T20:22:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,7 +471,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity 2日め !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T11:21:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -642,6 +646,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-03T10:14:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "eclail_faronn",
+      "login": "eclail_faronn",
+      "user_id": "753219109",
+      "display_name": "おかずいずふぁっと",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/eclail_faronn",
+      "is_live": true,
+      "title": "【Yuzu City】楽しいを見つけに行こう【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T11:19:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
