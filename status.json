@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T21:16:29+09:00",
+  "updated_at": "2026-08-03T21:21:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -64,8 +64,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】day2 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
+      "title": "🔴LIVE【 #YCGTA 】day2 #ゆず鯖 #YCGTA #FiveM →【 #第五人格 】ランク",
+      "game_name": "Identity V",
       "started_at": "2026-08-03T08:24:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -183,7 +183,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "街ぶら商人 #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T12:16:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
