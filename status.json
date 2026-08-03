@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T22:06:30+09:00",
+  "updated_at": "2026-08-03T22:26:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,7 +57,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_season1_day2 まずは一歩目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-03T13:23:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -581,11 +585,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#初見さん大歓迎】本日は郵便局員になります。🐈【#にゃんこ郵便局】",
-      "game_name": "Cat Mail Co.",
-      "started_at": "2026-08-03T11:46:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
