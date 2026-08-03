@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T14:26:47+09:00",
+  "updated_at": "2026-08-03T18:31:47+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1134,6 +1134,13 @@
       "display_name": "兎月_佐賀県VTuber🐰🌙",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1888473644135010304/xyuJka6p_400x400.jpg",
       "profile_url": "https://x.com/usagi9639"
+    },
+    {
+      "platform": "x",
+      "handle": "nagihanasaika2",
+      "display_name": "凪華さいか🌟🦊🌟",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1898315986086084608/MWzILT5g_400x400.jpg",
+      "profile_url": "https://x.com/nagihanasaika2"
     }
   ]
 }
