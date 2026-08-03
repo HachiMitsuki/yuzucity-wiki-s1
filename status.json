@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T01:06:26+09:00",
+  "updated_at": "2026-08-04T01:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[YuzuCity] 兎葉 柚白 day2 チルタイムj#新人Vtuber #ゆず鯖#YCGTA#yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-03T13:00:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -271,11 +267,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【DBD】",
-      "game_name": "Dead by Daylight",
-      "started_at": "2026-08-03T13:47:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
