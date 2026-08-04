@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T02:36:33+09:00",
+  "updated_at": "2026-08-05T03:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#YCGTA】就職先予定が募集締め切ってたので喫茶店で働くことにした次元超越者ワイ、活舌が悪すぎて会話がままならない",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T08:00:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -43,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day3 〜とってもHot～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T08:19:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -169,11 +161,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#YUZUCITY 】夢咲 琉楓 DAY2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T11:05:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -287,11 +275,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】 3日目 いぐれボスやるってよ【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T08:50:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -409,11 +393,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T13:07:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -651,11 +631,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】3日目：仮研修医として最後の1日【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T10:03:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -729,11 +705,7 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": true,
-      "title": "【Yuzucity】まだまだ研修医【Day３】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T09:01:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
