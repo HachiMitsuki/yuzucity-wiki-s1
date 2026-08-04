@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:41:26+09:00",
+  "updated_at": "2026-08-04T17:46:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -661,6 +661,16 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "sammy__vtuber",
+      "login": "sammy__vtuber",
+      "user_id": "765534222",
+      "display_name": "さみぃくん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/sammy__vtuber",
       "is_live": false
     },
     {
