@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:36:27+09:00",
+  "updated_at": "2026-08-04T17:01:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】就職先予定が募集締め切ってたので喫茶店で働くことにした次元超越者ワイ、活舌が悪すぎて会話がままならない",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T08:00:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -340,7 +344,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": true,
-      "title": "【 VALORANT 】病み上がり",
+      "title": "【 VALORANT 】病み上がり / 20歳酒ヤニパチ好きお姉さん",
       "game_name": "VALORANT",
       "started_at": "2026-08-04T07:32:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
@@ -534,9 +538,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
       "is_live": true,
-      "title": "208toppa！ 初見さん◎ROM◎Drops◎",
-      "game_name": "Vampir",
-      "started_at": "2026-08-04T05:59:00Z",
+      "title": "ぎゃんぐすたーのお通りだ。 初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T07:59:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
