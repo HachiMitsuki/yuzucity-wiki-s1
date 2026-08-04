@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T22:26:31+09:00",
+  "updated_at": "2026-08-04T22:31:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -333,7 +333,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】DAY3 これからについて悩み事ありけり/豚平 智",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T13:29:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
