@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T23:46:31+09:00",
+  "updated_at": "2026-08-04T23:51:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -381,11 +381,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "Yuzucityday1 千代田紫雨",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T12:18:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
