@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:56:27+09:00",
+  "updated_at": "2026-08-04T18:11:17+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -688,6 +688,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-04T08:46:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "yudedori_0410",
+      "login": "yudedori_0410",
+      "user_id": "1504606436",
+      "display_name": "ゆでどり",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yudedori_0410",
+      "is_live": true,
+      "title": "【Yuzucity】まだまだ研修医【Day３】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T09:01:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
