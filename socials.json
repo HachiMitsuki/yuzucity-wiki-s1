@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:16:43+09:00",
+  "updated_at": "2026-08-04T22:26:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1176,6 +1176,13 @@
       "display_name": "戎-EBIS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2083475684685729792/geRR0aZm_400x400.jpg",
       "profile_url": "https://x.com/ebis_77"
+    },
+    {
+      "platform": "x",
+      "handle": "kiitan_ttv",
+      "display_name": "きぃたん @Twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2072958561198743552/Yomj0fOL_400x400.jpg",
+      "profile_url": "https://x.com/kiitan_ttv"
     }
   ]
 }
