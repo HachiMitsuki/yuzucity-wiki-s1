@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T03:01:24+09:00",
+  "updated_at": "2026-08-05T03:06:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー  3日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T08:51:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -305,11 +301,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【3日目】Yuzu City そろそろ銃撃戦が始まってきそう",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T09:41:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -319,11 +311,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【Yuzucity】3日目！激ローでやってくよん",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T14:15:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -531,11 +519,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#3 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T14:13:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -607,11 +591,7 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": true,
-      "title": "[ #YuzuCity ]脊髄プレイヤーくろあ #3",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T11:28:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
