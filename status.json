@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:46:47+09:00",
+  "updated_at": "2026-08-04T17:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -171,7 +171,11 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "飲食希望フィットネス人生#ゆずシティ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T08:50:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -275,7 +279,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】 3日目 いぐれボスやるってよ【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T08:50:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -671,7 +679,11 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA ]釣り人生[#VTuber]",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T08:46:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
