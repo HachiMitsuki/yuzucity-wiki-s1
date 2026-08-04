@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T21:56:29+09:00",
+  "updated_at": "2026-08-04T22:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity] 兎葉 柚白 day3 そろそろ#新人Vtuber #ゆず鯖#YCGTA#yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T12:56:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -205,7 +209,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "街ぶら商人 #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T12:59:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
