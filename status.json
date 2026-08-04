@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T00:51:27+09:00",
+  "updated_at": "2026-08-05T00:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,11 +57,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_season1_day3 真っすぐ２歩目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T13:53:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -119,11 +115,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】犯罪おきねーかな 3日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T11:35:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -657,11 +649,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】久しぶりにFiveM GTA やるど～！2日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T15:03:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
