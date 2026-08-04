@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T03:21:23+09:00",
+  "updated_at": "2026-08-05T03:41:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -133,11 +133,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day３ そろそろ悪いことしたくね？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T10:37:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
