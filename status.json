@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T01:31:26+09:00",
+  "updated_at": "2026-08-05T01:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -241,11 +241,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【YuzuCity】またギャングなるか#1日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T11:38:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -323,11 +319,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 三日目 ぎゃんぐすんぞ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T09:47:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
