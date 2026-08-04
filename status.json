@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T00:56:27+09:00",
+  "updated_at": "2026-08-05T01:11:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -707,7 +707,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity/天音あしゅ】生活安全課のお仕事💭 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-04T16:08:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -771,11 +775,7 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": true,
-      "title": "【GTAV】犯罪マシマシ 3日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-04T10:56:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
