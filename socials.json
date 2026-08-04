@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T22:26:59+09:00",
+  "updated_at": "2026-08-05T00:22:20+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1183,6 +1183,13 @@
       "display_name": "きぃたん @Twitch",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2072958561198743552/Yomj0fOL_400x400.jpg",
       "profile_url": "https://x.com/kiitan_ttv"
+    },
+    {
+      "platform": "x",
+      "handle": "me_9n_vt",
+      "display_name": "みーくん㊗️活動一周年！",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2079892918199087104/rduns8VC_400x400.jpg",
+      "profile_url": "https://x.com/me_9n_vt"
     }
   ]
 }
