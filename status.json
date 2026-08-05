@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:11:34+09:00",
+  "updated_at": "2026-08-05T23:16:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,7 +99,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【パルワールド】そろそろハードボスじゃない？ｗ希望千【初見歓迎】",
+      "game_name": "Palworld",
+      "started_at": "2026-08-05T14:11:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -824,8 +828,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
       "is_live": true,
-      "title": "【YuzuCity #1】Rumcafe２号店開店準備とかもろもろ",
-      "game_name": "Grand Theft Auto V",
+      "title": "【D1：SOLO】ちょっと",
+      "game_name": "VALORANT",
       "started_at": "2026-08-05T12:58:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
