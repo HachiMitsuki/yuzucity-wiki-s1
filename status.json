@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T20:21:29+09:00",
+  "updated_at": "2026-08-05T20:31:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -507,11 +507,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【ONE TOWN #1】定住できそうな町を探して",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T09:10:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -573,7 +569,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]EMS体験4日目やで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T11:27:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -769,7 +769,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTARP】逢坂 戎｜#YuzuCity｜Day.3|個人医なっちゃった",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T11:28:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
