@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T01:21:29+09:00",
+  "updated_at": "2026-08-06T01:26:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -701,11 +701,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】犯罪！釣り！その他！！【4日目】※鳩×",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T10:13:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
