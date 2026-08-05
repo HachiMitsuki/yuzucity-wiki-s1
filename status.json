@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T05:01:18+09:00",
+  "updated_at": "2026-08-06T05:06:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】🔰卒業！ATM強盗してる悪い人を許すなあああ！！！  #4【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T08:02:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -521,11 +517,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]EMS体験4日目やで",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T11:27:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -545,11 +537,7 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": true,
-      "title": "金だ！素材！色々やるど！ 初見さん◎ROM◎Drops◎",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T08:02:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -649,11 +637,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【#YuzuCity】人人人人人・・・ 2日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T08:34:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
