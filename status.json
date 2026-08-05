@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:31:31+09:00",
+  "updated_at": "2026-08-05T21:36:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -377,11 +377,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【Overwatch】戻していけ！？",
-      "game_name": "Overwatch",
-      "started_at": "2026-08-05T11:08:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
