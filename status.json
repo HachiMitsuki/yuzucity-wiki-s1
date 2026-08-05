@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:26:27+09:00",
+  "updated_at": "2026-08-05T17:36:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -603,11 +603,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【Arknights】そろそろ本腰を入れる鋒矢突破の攻略【ゲーム雑談】",
-      "game_name": "Arknights",
-      "started_at": "2026-08-05T06:01:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -657,7 +653,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YuzuCity】人人人人人・・・ 2日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T08:34:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
