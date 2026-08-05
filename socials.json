@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T00:22:20+09:00",
+  "updated_at": "2026-08-05T10:23:42+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -245,6 +245,13 @@
       "display_name": "ZERO. なかまさ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1549783480774447104/M8jUbHIY_400x400.jpg",
       "profile_url": "https://x.com/zero11046968"
+    },
+    {
+      "platform": "x",
+      "handle": "rose_mary412",
+      "display_name": "忘零 輝🦇🩸NTEの情報部",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2075539854713307136/WdS4docx_400x400.jpg",
+      "profile_url": "https://x.com/rose_mary412"
     },
     {
       "platform": "x",
