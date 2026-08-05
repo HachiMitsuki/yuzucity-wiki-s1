@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:06:34+09:00",
+  "updated_at": "2026-08-05T23:11:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -661,11 +661,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】久しぶりにFiveM GTA やるど～！3日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T11:18:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -775,11 +771,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#YCGTA ]釣り日誌#2[#VTuber]",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T09:35:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
