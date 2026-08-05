@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:36:29+09:00",
+  "updated_at": "2026-08-05T17:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -603,7 +603,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】4日目：EMS正式出勤1日目【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T08:37:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
