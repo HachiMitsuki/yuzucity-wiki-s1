@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T00:01:36+09:00",
+  "updated_at": "2026-08-06T00:21:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -485,11 +485,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【Minecraft】大くん主催！マイクラ人狼！！",
-      "game_name": "Minecraft",
-      "started_at": "2026-08-05T12:10:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -805,11 +801,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTARP】逢坂 戎｜#YuzuCity｜Day.3|個人医なっちゃった",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T11:28:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
