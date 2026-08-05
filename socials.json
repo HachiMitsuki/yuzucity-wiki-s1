@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:23:42+09:00",
+  "updated_at": "2026-08-06T01:01:38+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1197,6 +1197,13 @@
       "display_name": "みーくん㊗️活動一周年！",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2079892918199087104/rduns8VC_400x400.jpg",
       "profile_url": "https://x.com/me_9n_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "mikurim_tw4038",
+      "display_name": "実熊りむ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019803033513992193/4tLjazMy_400x400.jpg",
+      "profile_url": "https://x.com/mikurim_tw4038"
     }
   ]
 }
