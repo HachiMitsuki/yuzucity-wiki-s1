@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:53:53+09:00",
+  "updated_at": "2026-08-05T22:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -381,7 +381,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】＃１ こんにちは、わむ男です。",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T12:59:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -807,7 +811,11 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity #1】Rumcafe２号店開店準備とかもろもろ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T12:58:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
