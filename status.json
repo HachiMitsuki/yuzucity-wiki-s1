@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T20:41:31+09:00",
+  "updated_at": "2026-08-05T21:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -659,11 +659,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】4日目：EMS正式出勤1日目【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T08:37:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -673,7 +669,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】楽しいを見つけに行こう【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T12:00:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
