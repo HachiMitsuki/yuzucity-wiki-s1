@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:06:30+09:00",
+  "updated_at": "2026-08-05T21:11:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -461,7 +461,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【Minecraft】大くん主催！マイクラ人狼！！",
+      "game_name": "Minecraft",
+      "started_at": "2026-08-05T12:10:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
