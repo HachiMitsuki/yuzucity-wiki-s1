@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T03:31:27+09:00",
+  "updated_at": "2026-08-06T03:36:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,11 +297,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【4日目】Yuzu City 客船来たらしい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T10:42:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -567,11 +563,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 04 ファームしましょう #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-05T12:05:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
