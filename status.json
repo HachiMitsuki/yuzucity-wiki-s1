@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T20:31:29+09:00",
+  "updated_at": "2026-08-05T20:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -241,7 +241,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【LienCity】犯罪でギャング資金稼ぎ#9",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-05T11:36:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
