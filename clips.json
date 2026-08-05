@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-05T18:18:32+09:00",
+  "updated_at": "2026-08-05T22:59:46+09:00",
   "clips": [
+    {
+      "id": 274,
+      "source": "twitch",
+      "source_id": "EntertainingCourteousMallardSoBayed-KSWhpkDoel7c4ZPa",
+      "url": "https://www.twitch.tv/sakazuki_kyan/clip/EntertainingCourteousMallardSoBayed-KSWhpkDoel7c4ZPa",
+      "embed_url": "https://clips.twitch.tv/embed?clip=EntertainingCourteousMallardSoBayed-KSWhpkDoel7c4ZPa",
+      "title": "お散歩日和のポッター",
+      "description": "https://www.twitch.tv/sakazuki_kyan/clip/EntertainingCourteousMallardSoBayed-KSWhpkDoel7c4ZPa",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/237562d9-770a-4c38-abce-5b8b31466fed/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 24,
+      "broadcaster_name": "酒月きゃん",
+      "author_name": "酒月きゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/802022260868907050/3e9ba8b4c4beb70f4ecabda1034fcae2.png?size=128",
+      "posted_at": "2026-08-05T22:59:46+09:00"
+    },
     {
       "id": 273,
       "source": "discord",
