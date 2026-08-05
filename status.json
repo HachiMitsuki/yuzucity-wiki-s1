@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:46:30+09:00",
+  "updated_at": "2026-08-05T21:53:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -798,6 +798,16 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-05T11:28:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "rumd4rk_ttv",
+      "login": "rumd4rk_ttv",
+      "user_id": "74591877",
+      "display_name": "ラムダーク",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
+      "is_live": false
     },
     {
       "platform": "youtube",
