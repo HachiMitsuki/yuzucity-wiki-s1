@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T02:41:24+09:00",
+  "updated_at": "2026-08-07T03:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day5 〜しゃぶしゃぶ食べ放題～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T12:01:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -97,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー  5日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T17:28:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -141,11 +133,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day５ 今日はなにしよっかな～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T10:46:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -165,11 +153,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#YUZUCITY 】夢咲 琉楓 DAY3 犯罪したり農家したり？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T12:03:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -331,11 +315,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【Yuzucity】5日目！今日もまったりやるよん",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T10:45:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -696,7 +676,7 @@
       "is_live": true,
       "title": "【#YuzuCity】人人人人人・・・ 3日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T14:53:23Z",
+      "started_at": "2026-08-06T17:54:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
@@ -717,11 +697,7 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": true,
-      "title": "【Yuzucity】事件対応れつご【Day５】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T12:58:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
