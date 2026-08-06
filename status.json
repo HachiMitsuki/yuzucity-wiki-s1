@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T02:21:26+09:00",
+  "updated_at": "2026-08-07T02:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -100,7 +100,7 @@
       "is_live": true,
       "title": "ゆずシティー  5日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T13:15:53Z",
+      "started_at": "2026-08-06T17:28:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
@@ -523,11 +523,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】緑ギャング予定「Oblivion」活動開始！！day4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T15:39:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -599,11 +595,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 05 なにしましょ #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T12:52:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
