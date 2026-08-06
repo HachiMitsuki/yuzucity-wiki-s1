@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T18:11:26+09:00",
+  "updated_at": "2026-08-06T18:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -381,7 +381,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】#13 今日こそは釣りとブースティング！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-06T09:16:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
