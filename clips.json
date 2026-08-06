@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-06T00:13:05+09:00",
+  "updated_at": "2026-08-06T12:59:43+09:00",
   "clips": [
+    {
+      "id": 276,
+      "source": "youtube",
+      "source_id": "mElcQCVvCno",
+      "url": "https://youtube.com/shorts/mElcQCVvCno",
+      "embed_url": "https://www.youtube.com/embed/mElcQCVvCno",
+      "title": null,
+      "description": "https://youtube.com/shorts/mElcQCVvCno?si=Z5Olj7j1WMr_dW9a",
+      "thumbnail_url": "https://i.ytimg.com/vi/mElcQCVvCno/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "天詩ユーク",
+      "author_avatar": "https://cdn.discordapp.com/avatars/772521494697345074/4fc38783fa2df54b51a8e895a3b4b0a2.png?size=128",
+      "posted_at": "2026-08-06T12:59:43+09:00"
+    },
     {
       "id": 275,
       "source": "youtube",
