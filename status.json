@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T19:06:31+09:00",
+  "updated_at": "2026-08-06T19:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -111,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】夢見た景色は未だ見えず 5日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-06T10:07:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
