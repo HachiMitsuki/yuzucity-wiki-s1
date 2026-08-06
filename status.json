@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T16:31:31+09:00",
+  "updated_at": "2026-08-06T16:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -499,7 +499,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #WASU夏MC 】 #3 旅人職頑張るぞ！| WASURENE.マインクラフトストリーマーサーバー【初見さん・コメント・ROM専大歓迎・JP/EN】",
+      "game_name": "Minecraft",
+      "started_at": "2026-08-06T07:31:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
