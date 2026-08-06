@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T22:01:29+09:00",
+  "updated_at": "2026-08-06T22:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -445,7 +445,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu city",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-06T13:03:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
