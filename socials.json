@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T12:22:11+09:00",
+  "updated_at": "2026-08-06T16:28:34+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1218,6 +1218,13 @@
       "display_name": "斜(ﾅﾅﾒ)🌷🫖@VTuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1798620909894508544/G8qJnRIQ_400x400.jpg",
       "profile_url": "https://x.com/n4x2_me"
+    },
+    {
+      "platform": "x",
+      "handle": "yozakura_39ff",
+      "display_name": "夜桜　咲",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2016141442889220096/gXZrxQun_400x400.jpg",
+      "profile_url": "https://x.com/yozakura_39ff"
     }
   ]
 }
