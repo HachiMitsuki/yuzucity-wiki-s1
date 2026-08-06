@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T06:41:21+09:00",
+  "updated_at": "2026-08-07T07:00:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -679,6 +679,16 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yuzrihq",
+      "login": "yuzrihq",
+      "user_id": "1207984459",
+      "display_name": "ユズリハよ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yuzrihq",
       "is_live": false
     },
     {
