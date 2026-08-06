@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T19:01:25+09:00",
+  "updated_at": "2026-08-06T19:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -229,11 +229,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【栄冠ナイン】アスタ高校甲子園どこまでいけるんだ！？#3",
-      "game_name": "Powerful Pro Yakyuu 2026-2027",
-      "started_at": "2026-08-06T07:56:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -635,7 +631,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】5日目：本日もまったりすごすEMS2日目【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-06T10:01:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
