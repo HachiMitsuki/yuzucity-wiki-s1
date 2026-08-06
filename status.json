@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T22:31:28+09:00",
+  "updated_at": "2026-08-06T22:41:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -75,11 +75,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】day5 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T11:02:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -511,7 +507,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-06T13:39:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -561,7 +561,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃5【店員とファーム】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-06T13:40:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
