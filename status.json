@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:01:28+09:00",
+  "updated_at": "2026-08-07T01:06:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -191,11 +191,7 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": true,
-      "title": "飲食しながらフィットネス人生#ゆずシティ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T09:08:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
