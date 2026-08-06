@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T22:56:28+09:00",
+  "updated_at": "2026-08-06T23:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -503,11 +503,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-06T13:39:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -807,7 +803,7 @@
       "channel_url": "https://www.twitch.tv/ebis77",
       "is_live": true,
       "title": "【GTARP】逢坂 戎｜#YuzuCity｜Day.4|個人医ってなにするの？ｗ",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "League of Legends",
       "started_at": "2026-08-06T12:43:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
