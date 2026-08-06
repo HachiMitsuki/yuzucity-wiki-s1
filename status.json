@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:31:29+09:00",
+  "updated_at": "2026-08-07T01:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -203,11 +203,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucity 本番5日目 副署長の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-06T13:10:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -471,7 +467,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【Valorant】ピッカピカの一年生によるバロ。こそれん。",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-06T16:32:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
