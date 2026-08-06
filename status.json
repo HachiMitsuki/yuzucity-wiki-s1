@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T16:21:25+09:00",
+  "updated_at": "2026-08-06T16:31:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -553,7 +553,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #エンフィ 】ストーリー進める【#個人V #Vtuber】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-08-06T07:30:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
