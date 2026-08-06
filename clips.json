@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-06T12:59:43+09:00",
+  "updated_at": "2026-08-07T00:05:50+09:00",
   "clips": [
+    {
+      "id": 277,
+      "source": "discord",
+      "source_id": "1534940561117679856",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1534940561117679856/VID_20260807000405913.mp4?ex=6a75f44b&is=6a74a2cb&hm=b85ca70999e34d9d26007f28d5f5cd01c8f030ceb1d4fd5946db77d80f5901be&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "ロウ･ディア cv.灰月ロウ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1290992103236702232/15cec16ce931f1a92912ac7077a696b2.png?size=128",
+      "posted_at": "2026-08-07T00:05:47+09:00"
+    },
     {
       "id": 276,
       "source": "youtube",
