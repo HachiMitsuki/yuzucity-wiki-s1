@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T08:10:13+09:00",
+  "updated_at": "2026-08-06T12:22:11+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1211,6 +1211,13 @@
       "display_name": "快楽天 祟徳",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2034381992763215872/Bu82Bnx4_400x400.jpg",
       "profile_url": "https://x.com/k4ir4ku"
+    },
+    {
+      "platform": "x",
+      "handle": "n4x2_me",
+      "display_name": "斜(ﾅﾅﾒ)🌷🫖@VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1798620909894508544/G8qJnRIQ_400x400.jpg",
+      "profile_url": "https://x.com/n4x2_me"
     }
   ]
 }
