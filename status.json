@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:01:30+09:00",
+  "updated_at": "2026-08-07T19:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -383,7 +383,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "YuzuCity  シーズン1 黒市民で活動するぞ #5",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T10:06:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
