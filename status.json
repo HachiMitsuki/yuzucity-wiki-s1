@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:26:32+09:00",
+  "updated_at": "2026-08-07T21:36:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity 本番6日目 副署長の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T12:35:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -673,7 +677,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【RET City】警察の俺【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T12:34:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -773,7 +781,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOL】底辺プレイヤーが行く！RANKマッチ｜アイアンⅣ LP0ｗｗ",
+      "game_name": "League of Legends",
+      "started_at": "2026-08-07T12:31:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -824,7 +836,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
       "is_live": true,
-      "title": "【Fivem】すこしだけやる@PD上官【神薙るい】",
+      "title": "【Fivem】すこしだけやる@PD上官 #YCGTA day1【神薙るい】",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-07T12:00:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
