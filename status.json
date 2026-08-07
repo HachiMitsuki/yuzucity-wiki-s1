@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T00:06:33+09:00",
+  "updated_at": "2026-08-08T00:11:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -115,11 +115,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#星の翼】ベイビーと一緒に【#vtuber /雷音雅】",
-      "game_name": "StarWard",
-      "started_at": "2026-08-07T11:59:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -129,7 +125,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２   闇にはまだ行かない２４話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T15:07:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
