@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T17:26:28+09:00",
+  "updated_at": "2026-08-07T17:26:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -728,6 +728,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-07T07:56:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "veryiplu",
+      "login": "veryiplu",
+      "user_id": "605084082",
+      "display_name": "べりぃぷる",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/veryiplu",
+      "is_live": true,
+      "title": "yuzucity #2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T08:22:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
