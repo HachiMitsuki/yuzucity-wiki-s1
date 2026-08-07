@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T02:00:17+09:00",
+  "updated_at": "2026-08-08T02:05:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,11 +129,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２   闇にはまだ行かない２４話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T15:07:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -731,11 +727,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#YCGTA ]あなた釣りやりませんか？[#VTuber]",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T16:55:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
