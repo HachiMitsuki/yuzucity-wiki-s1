@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:26:30+09:00",
+  "updated_at": "2026-08-07T19:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -604,7 +604,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
       "is_live": true,
-      "title": "[ #YuzuCity ]お金が欲しい半グレ #4",
+      "title": "[ #YuzuCity ]お金が欲しい半グレ #5",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-07T09:59:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
@@ -771,11 +771,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【YuzuCity / スト鯖GTA】＃1日目 目指せ脱ニート",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T07:56:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -785,11 +781,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "yuzucity #2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T08:22:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
