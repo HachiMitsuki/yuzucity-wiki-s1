@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T22:51:37+09:00",
+  "updated_at": "2026-08-07T23:06:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -587,7 +587,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #WASU夏MC 】 #5 拠点に施設を増築したい！| WASURENE.マインクラフトストリーマーサーバー【初見さん・コメント・ROM専大歓迎・JP/EN】",
+      "game_name": "Minecraft",
+      "started_at": "2026-08-07T14:04:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -691,11 +695,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】６日目：短めEMS3日目【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T09:14:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
