@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:31:43+09:00",
+  "updated_at": "2026-08-07T16:52:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1239,6 +1239,13 @@
       "display_name": "狐月 シリウス🦊🟣🏹＠脳筋パティシエ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2080525019944509440/zbwX3pjH_400x400.jpg",
       "profile_url": "https://x.com/sirius_38fox"
+    },
+    {
+      "platform": "x",
+      "handle": "mikami_ollmu",
+      "display_name": "御神オルム🐍🍀@新人Vストリーマー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2074116815715004416/w2XtwmQn_400x400.jpg",
+      "profile_url": "https://x.com/mikami_ollmu"
     }
   ]
 }
