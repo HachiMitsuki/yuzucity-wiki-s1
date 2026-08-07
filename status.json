@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T05:16:19+09:00",
+  "updated_at": "2026-08-08T06:41:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -209,11 +209,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【栄冠ナイン】アスタ高校二年目新チームで甲子園目指す！#4",
-      "game_name": "Powerful Pro Yakyuu 2026-2027",
-      "started_at": "2026-08-07T17:18:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
