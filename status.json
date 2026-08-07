@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:16:33+09:00",
+  "updated_at": "2026-08-07T21:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -689,7 +689,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】新たなファーム？？犯罪も！？！？！？【？日目】※鳩×",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T12:19:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
