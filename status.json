@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:56:28+09:00",
+  "updated_at": "2026-08-07T17:02:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -538,9 +538,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
       "is_live": true,
-      "title": "皆戦力どのくらい？初見さん◎ROM◎Drops◎",
-      "game_name": "Vampir",
-      "started_at": "2026-08-07T06:32:01Z",
+      "title": "スロットに向けて軍資金貯める！！ 初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T07:59:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
@@ -702,6 +702,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzrihq",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "murasaki_orumu",
+      "login": "murasaki_orumu",
+      "user_id": "1205418621",
+      "display_name": "御神オルム",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/murasaki_orumu",
+      "is_live": true,
+      "title": "【YuzuCity / スト鯖GTA】＃1日目 目指せ脱ニート",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T07:56:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
