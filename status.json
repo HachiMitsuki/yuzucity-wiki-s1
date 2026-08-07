@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:31:32+09:00",
+  "updated_at": "2026-08-07T19:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -279,7 +279,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】 5日目 ALTIOR ボス【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T10:46:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -289,7 +293,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】DAY4 豚平智/さてどうしようか",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T10:46:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -771,7 +779,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity / スト鯖GTA】＃1日目 目指せ脱ニート",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T10:49:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
