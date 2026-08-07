@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T17:36:29+09:00",
+  "updated_at": "2026-08-07T18:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -677,7 +677,11 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】究明 糾明 救命【Day６】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T08:59:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
