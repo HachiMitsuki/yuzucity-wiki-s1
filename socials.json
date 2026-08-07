@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:52:59+09:00",
+  "updated_at": "2026-08-07T19:29:08+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1246,6 +1246,13 @@
       "display_name": "御神オルム🐍🍀@新人Vストリーマー",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2074116815715004416/w2XtwmQn_400x400.jpg",
       "profile_url": "https://x.com/mikami_ollmu"
+    },
+    {
+      "platform": "x",
+      "handle": "kudouxd",
+      "display_name": "工藤ディマ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1977373703622283264/KUaR_rNF_400x400.jpg",
+      "profile_url": "https://x.com/kudouxd"
     }
   ]
 }
