@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:06:35+09:00",
+  "updated_at": "2026-08-07T23:36:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -61,11 +61,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "がじゃり子。卓[うそつきだれだ]ミヤモリ様作",
-      "game_name": "Just Chatting",
-      "started_at": "2026-08-07T12:55:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -437,11 +433,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T12:07:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -472,8 +464,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
       "is_live": true,
-      "title": "【Valorant】今宵は大コラボ祭りじゃい！下手なのは勘弁！",
-      "game_name": "VALORANT",
+      "title": "【めっちゃかめレオン】に変更",
+      "game_name": "MECCHA CHAMELEON",
       "started_at": "2026-08-07T13:40:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
@@ -667,11 +659,7 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": true,
-      "title": "[ #YuzuCity ]お金が欲しい半グレ #5",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T09:59:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
