@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T00:11:34+09:00",
+  "updated_at": "2026-08-08T00:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -589,7 +589,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]腹痛と尿路結石やで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T15:16:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -637,11 +641,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】久しぶりにFiveM GTA やるど～！４日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-07T13:46:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -765,7 +765,11 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】究明 糾明 救命【Day６】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-07T15:20:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -789,11 +793,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】底辺プレイヤーが行く！RANKマッチ｜アイアンⅣ LP0ｗｗ",
-      "game_name": "League of Legends",
-      "started_at": "2026-08-07T12:31:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
