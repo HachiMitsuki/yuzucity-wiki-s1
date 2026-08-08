@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:11:38+09:00",
+  "updated_at": "2026-08-08T22:21:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,7 +23,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[めっちゃカメレオン] 大人数コラボ！",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-08-08T13:16:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -508,7 +512,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
       "is_live": true,
-      "title": "【yuzucity】本気で金を稼ぎに行く",
+      "title": "【Yuzucity】本気で金を稼ぎに行く",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-08T13:09:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
@@ -757,7 +761,11 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】ログインボーナス回収【Day７】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-08T13:18:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
