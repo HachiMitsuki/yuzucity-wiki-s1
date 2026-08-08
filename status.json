@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T02:31:28+09:00",
+  "updated_at": "2026-08-09T02:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -483,11 +483,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【どろぼうノーム】怪盗はまりん参上！！盗みまくるぜ",
-      "game_name": "Burglin' Gnomes",
-      "started_at": "2026-08-08T14:26:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
