@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:46:31+09:00",
+  "updated_at": "2026-08-08T21:51:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -739,11 +739,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#YCGTA]釣り？いやいやスロットでしょ[#VTuber]",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-08T08:12:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
