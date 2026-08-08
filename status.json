@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T04:01:22+09:00",
+  "updated_at": "2026-08-09T04:21:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -757,11 +757,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【Yuzucity】警察官vlog 実は#4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-08T08:20:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
