@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:30:47+09:00",
+  "updated_at": "2026-08-08T19:36:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -385,11 +385,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【NOKORIB!パルワールド】#1 知識ないからついていく！",
-      "game_name": "Palworld",
-      "started_at": "2026-08-08T05:04:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
