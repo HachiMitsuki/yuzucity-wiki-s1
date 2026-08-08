@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T01:46:32+09:00",
+  "updated_at": "2026-08-09T01:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -769,11 +769,7 @@
       "display_name": "ゆでどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/830a205d-a6c1-4b80-81f1-fc53adfaf62f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yudedori_0410",
-      "is_live": true,
-      "title": "【Yuzucity】ログインボーナス回収【Day７】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-08T13:18:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yudedori_0410-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
