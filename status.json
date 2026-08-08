@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T02:26:28+09:00",
+  "updated_at": "2026-08-09T02:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -555,11 +555,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】本日は何の日でしょう？！day6",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-08T12:44:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
