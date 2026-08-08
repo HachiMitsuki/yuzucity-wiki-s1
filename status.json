@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:11:22+09:00",
+  "updated_at": "2026-08-08T14:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,7 +349,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【NOKORIB!パルワールド】#1 知識ないからついていく！",
+      "game_name": "Palworld",
+      "started_at": "2026-08-08T05:04:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -644,8 +648,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
       "is_live": true,
-      "title": "[#作業雑 ]作業してるとこ、見てく？[#VTuber]",
-      "game_name": "Just Chatting",
+      "title": "[#VALORANT ]VALORANTやるわ？[#VTuber]",
+      "game_name": "VALORANT",
       "started_at": "2026-08-08T03:54:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
