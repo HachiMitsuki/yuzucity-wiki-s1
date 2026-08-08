@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T00:21:32+09:00",
+  "updated_at": "2026-08-09T00:56:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -65,7 +65,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_season1_day7 part2プレオープン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-08T15:53:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -716,7 +720,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【ACRGTA】ちるめかの日常💭  @ashnyaaaaan 🍭",
+      "title": "【Yuzucity/天音あしゅ】牢屋の天使のおしごと🍀 @ashnyaaaaan 🍭",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-08T11:28:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
