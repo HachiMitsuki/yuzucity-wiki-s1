@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T14:25:04+09:00",
+  "updated_at": "2026-08-10T05:56:16+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1274,6 +1274,13 @@
       "display_name": "月(きらり)🐱🌙",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2086140108114427904/EgMo7aDE_400x400.jpg",
       "profile_url": "https://x.com/kirarichanda"
+    },
+    {
+      "platform": "x",
+      "handle": "tanimondx",
+      "display_name": "たにもん@twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1743733987460444160/EdGDV3YL_400x400.jpg",
+      "profile_url": "https://x.com/tanimondx"
     }
   ]
 }
