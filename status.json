@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T02:31:24+09:00",
+  "updated_at": "2026-08-10T02:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,11 +63,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】day6#ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T11:53:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -101,11 +97,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー  9日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T12:59:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
