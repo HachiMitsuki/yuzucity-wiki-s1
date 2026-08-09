@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:16:25+09:00",
+  "updated_at": "2026-08-09T19:39:40+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -78,9 +78,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
-      "title": "【めちゃカメ】24時間企画にお邪魔するよ！【コラボ】",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-08-09T09:22:48Z",
+      "title": "【Yuzu City】今日は何が起きるかな～ #8.5【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T10:35:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
@@ -812,6 +812,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "lied0307",
+      "login": "lied0307",
+      "user_id": "516235832",
+      "display_name": "リートです",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/lied0307",
+      "is_live": true,
+      "title": "【Yuzu City】more交流、more友達",
+      "game_name": "",
+      "started_at": "2026-08-09T10:31:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
