@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T00:06:30+09:00",
+  "updated_at": "2026-08-10T00:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -511,7 +511,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】姑息であろうと目的のために",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T15:07:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
