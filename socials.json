@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:34:10+09:00",
+  "updated_at": "2026-08-09T14:25:04+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1267,6 +1267,13 @@
       "display_name": "佐伯悠真/限界サラリーマンVtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2086154527322066944/RbB6XGVU_400x400.jpg",
       "profile_url": "https://x.com/yumasaeki1996"
+    },
+    {
+      "platform": "x",
+      "handle": "kirarichanda",
+      "display_name": "月(きらり)🐱🌙",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2086140108114427904/EgMo7aDE_400x400.jpg",
+      "profile_url": "https://x.com/kirarichanda"
     }
   ]
 }
