@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T04:16:17+09:00",
+  "updated_at": "2026-08-10T05:01:17+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,11 +263,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】 7日目 ALTIOR ボス【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T08:03:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -497,11 +493,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#初見さん大歓迎】初手遅刻。飲食バイトしながら！#7【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T13:04:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -555,11 +547,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 08 車のための金策 #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T15:37:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
