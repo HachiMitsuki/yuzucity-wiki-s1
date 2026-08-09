@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:41:34+09:00",
+  "updated_at": "2026-08-09T22:56:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２   ３歩進んで３歩下がった今２６話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T13:51:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -595,7 +599,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#6 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T13:55:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
