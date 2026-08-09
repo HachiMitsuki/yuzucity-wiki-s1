@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T00:46:36+09:00",
+  "updated_at": "2026-08-10T00:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[YuzuCity] 兎葉 柚白 day7 犯罪するかも",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T13:25:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -779,11 +775,7 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": true,
-      "title": "【GTAV】お金ないみたい 8日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T09:38:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
