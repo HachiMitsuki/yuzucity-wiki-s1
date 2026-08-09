@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:39:40+09:00",
+  "updated_at": "2026-08-09T19:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,7 +57,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_season1_day8 オープン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T10:54:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -175,7 +179,11 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "飲食しながらフィットネス人生#ゆずシティ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T10:53:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -781,7 +789,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "少し街イヌ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T10:55:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
