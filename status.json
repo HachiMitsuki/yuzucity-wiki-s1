@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T14:01:22+09:00",
+  "updated_at": "2026-08-09T15:11:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,11 +349,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【マインクラフト】#1 整地ばっかりやってたやつが初エンドラ討伐挑戦‼",
-      "game_name": "Minecraft",
-      "started_at": "2026-08-09T01:09:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
