@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T00:16:29+09:00",
+  "updated_at": "2026-08-10T00:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -413,7 +413,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】#16 釣りとブースティングとEFL!",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T15:37:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -631,7 +635,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 08 車のための金策 #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T15:37:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
