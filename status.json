@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:26:33+09:00",
+  "updated_at": "2026-08-09T18:41:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -715,7 +715,11 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAV】お金ないみたい 8日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T09:38:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -799,11 +803,7 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": true,
-      "title": "【GTA5RP鯖】YuzuCityで新たな生活を！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T07:59:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
