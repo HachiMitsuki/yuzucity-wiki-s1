@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:01:32+09:00",
+  "updated_at": "2026-08-09T17:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日は何が起きるかな～  #8【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T08:04:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -259,7 +263,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】 7日目 ALTIOR ボス【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T08:03:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -703,7 +711,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity / スト鯖GTA】3日目 目指せドミネーターのフルカスタム【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-09T08:01:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
