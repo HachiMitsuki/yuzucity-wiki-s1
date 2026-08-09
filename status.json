@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T03:01:24+09:00",
+  "updated_at": "2026-08-10T03:06:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -133,11 +133,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day８ お金稼ぐぞい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T08:30:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -368,7 +364,7 @@
       "is_live": true,
       "title": "【yuzucity】#16 釣りとブースティングとEFL!",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T15:37:21Z",
+      "started_at": "2026-08-09T18:03:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
@@ -523,11 +519,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#6 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T13:55:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -605,11 +597,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】7日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T14:34:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -673,11 +661,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【#YuzuCity】チームのことを考えよう 6日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T14:10:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
