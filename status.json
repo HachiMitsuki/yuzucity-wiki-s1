@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T02:41:24+09:00",
+  "updated_at": "2026-08-10T02:46:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -191,11 +191,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucity 本番8日目 副署長の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T13:09:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -431,11 +427,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［yuzucity］開演！悪役『セメトル・ジュース』4日目 出勤！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-09T11:28:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
