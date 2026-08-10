@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T02:01:24+09:00",
+  "updated_at": "2026-08-11T02:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -411,11 +411,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#ストグラFV】唐 弦貴の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T15:38:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -435,11 +431,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［yuzucity］開演！悪役『セメトル・ジュース』5日目 出勤！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T12:48:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
