@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T00:06:29+09:00",
+  "updated_at": "2026-08-11T00:21:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -773,11 +773,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTAV】逢坂 戎｜#YuzuCity｜Day.5｜個人じゃなく組織になったてよ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T11:25:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
