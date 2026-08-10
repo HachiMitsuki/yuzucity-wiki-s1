@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T01:46:25+09:00",
+  "updated_at": "2026-08-11T01:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#YCGTA】LoLなんてやるわけねーだろ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T12:33:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -545,7 +541,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】のんのんびより…？#8【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T16:47:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
