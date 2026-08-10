@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:21:39+09:00",
+  "updated_at": "2026-08-10T23:26:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -559,7 +559,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#7 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T14:25:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -570,7 +574,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
       "is_live": true,
-      "title": "[#YuzuCity]旅行前のワンオペ出勤やで",
+      "title": "[#YuzuCity]旅行から帰ってきたやで",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-10T13:48:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
@@ -835,11 +839,7 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": true,
-      "title": "【GTA5RP鯖】YuzuCityで新たな生活を！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T12:05:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
