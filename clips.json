@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-10T13:41:16+09:00",
+  "updated_at": "2026-08-11T05:11:26+09:00",
   "clips": [
+    {
+      "id": 282,
+      "source": "youtube",
+      "source_id": "bxRvIn5CaAk",
+      "url": "https://youtu.be/bxRvIn5CaAk",
+      "embed_url": "https://www.youtube.com/embed/bxRvIn5CaAk",
+      "title": null,
+      "description": "https://youtu.be/bxRvIn5CaAk",
+      "thumbnail_url": "https://i.ytimg.com/vi/bxRvIn5CaAk/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "ヴァルハラタンプルプ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1334699305046638654/fcae7cb9b1865cfc3e5bfaa481d9550d.png?size=128",
+      "posted_at": "2026-08-11T05:11:25+09:00"
+    },
     {
       "id": 281,
       "source": "twitch",
