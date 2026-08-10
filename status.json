@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T00:46:29+09:00",
+  "updated_at": "2026-08-11T01:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -629,11 +629,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】久しぶりにFiveM GTA やるど～！５日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T14:15:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -656,7 +652,7 @@
       "is_live": true,
       "title": "【ゆず鯖/GTA】8日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T14:41:53Z",
+      "started_at": "2026-08-10T15:59:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
