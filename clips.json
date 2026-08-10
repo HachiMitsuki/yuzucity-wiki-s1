@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-09T22:21:15+09:00",
+  "updated_at": "2026-08-10T13:38:36+09:00",
   "clips": [
+    {
+      "id": 280,
+      "source": "twitch",
+      "source_id": "JollyFairGerbilMcaT-4mtRixlzbAtnaZ_2",
+      "url": "https://www.twitch.tv/tanimondx/clip/JollyFairGerbilMcaT-4mtRixlzbAtnaZ_2",
+      "embed_url": "https://clips.twitch.tv/embed?clip=JollyFairGerbilMcaT-4mtRixlzbAtnaZ_2",
+      "title": "歩流夢真楠(ぼるむまくす)爆誕",
+      "description": "https://www.twitch.tv/tanimondx/clip/JollyFairGerbilMcaT-4mtRixlzbAtnaZ_2",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/05f485e4-d8ff-4cf3-a26c-2bc2fe65d1cb/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 14,
+      "broadcaster_name": "たにもん",
+      "author_name": "たにもん(Tanimon)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/571309852694020096/29a997cb05e56256741e602c3c67cebb.png?size=128",
+      "posted_at": "2026-08-10T13:38:35+09:00"
+    },
     {
       "id": 279,
       "source": "twitch",
