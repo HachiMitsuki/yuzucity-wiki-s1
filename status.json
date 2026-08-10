@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:11:29+09:00",
+  "updated_at": "2026-08-10T19:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day9 〜いつも夜ご飯悩む～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T10:24:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -197,7 +201,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#BloodshiftCityRP】紫 紅華45日目【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T10:25:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -799,7 +807,11 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA5RP鯖】YuzuCityで新たな生活を！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T10:25:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
