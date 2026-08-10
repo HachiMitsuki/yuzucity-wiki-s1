@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:52:59+09:00",
+  "updated_at": "2026-08-10T15:27:06+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1288,6 +1288,13 @@
       "display_name": "イカ焼き太郎ch🦑🔥 7/2〜進撃・事務所イベ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2039363329542733825/TQFInDEv_400x400.jpg",
       "profile_url": "https://x.com/ikayakitarou1"
+    },
+    {
+      "platform": "x",
+      "handle": "you_sera_",
+      "display_name": "瀬良よう🌙🔮🪄魔女Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1995188472047607808/uJNqLupv_400x400.jpg",
+      "profile_url": "https://x.com/you_sera_"
     }
   ]
 }
