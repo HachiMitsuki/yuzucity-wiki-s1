@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T02:36:24+09:00",
+  "updated_at": "2026-08-11T02:46:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -319,11 +319,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】9日目！いまだに昇進できないから転職を悩む男",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T12:13:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -557,11 +553,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]旅行から帰ってきたやで",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T13:48:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
