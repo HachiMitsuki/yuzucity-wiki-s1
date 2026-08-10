@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-10T13:38:36+09:00",
+  "updated_at": "2026-08-10T13:41:16+09:00",
   "clips": [
+    {
+      "id": 281,
+      "source": "twitch",
+      "source_id": "AnnoyingLightBibimbapMcaT-cvRHunwQxnRuTJHG",
+      "url": "https://www.twitch.tv/tanimondx/clip/AnnoyingLightBibimbapMcaT-cvRHunwQxnRuTJHG",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AnnoyingLightBibimbapMcaT-cvRHunwQxnRuTJHG",
+      "title": "一発芸とウケなかった制裁",
+      "description": "https://www.twitch.tv/tanimondx/clip/AnnoyingLightBibimbapMcaT-cvRHunwQxnRuTJHG",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/369ef571-e1f2-47be-9aa6-abb8fa73823f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 39,
+      "broadcaster_name": "たにもん",
+      "author_name": "たにもん(Tanimon)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/571309852694020096/29a997cb05e56256741e602c3c67cebb.png?size=128",
+      "posted_at": "2026-08-10T13:41:15+09:00"
+    },
     {
       "id": 280,
       "source": "twitch",
