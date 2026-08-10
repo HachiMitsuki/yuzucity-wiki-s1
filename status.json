@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:46:22+09:00",
+  "updated_at": "2026-08-10T17:51:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -571,11 +571,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Escape from Tarkov】リハビリタルコフ #1 (61)",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-08-10T07:30:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
