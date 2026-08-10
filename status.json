@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T18:56:24+09:00",
+  "updated_at": "2026-08-10T19:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,7 +183,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity 本番9日目 副署長の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T09:59:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -499,7 +503,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】犯罪回すぞー！day8",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T09:56:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
