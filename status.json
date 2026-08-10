@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:31:31+09:00",
+  "updated_at": "2026-08-10T22:36:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【NATOWN】ギャング初日｜この街で成り上がる",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T13:33:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -567,11 +571,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #WASU夏MC 】 #8 建築物2つの完成を目指す！| WASURENE.マインクラフトストリーマーサーバー【初見さん・コメント・ROM専大歓迎・JP/EN】",
-      "game_name": "Minecraft",
-      "started_at": "2026-08-10T08:01:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
