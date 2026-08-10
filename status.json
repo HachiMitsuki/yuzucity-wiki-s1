@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T12:36:21+09:00",
+  "updated_at": "2026-08-10T13:16:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -333,7 +333,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Overwatch】少しだけ昼活",
+      "game_name": "Overwatch",
+      "started_at": "2026-08-10T04:15:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -644,8 +648,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
       "is_live": true,
-      "title": "[#YCGTA]今日もいい釣り日和です[#VTuber]",
-      "game_name": "Grand Theft Auto V",
+      "title": "[#LOL]ろるる[#VTuber]",
+      "game_name": "League of Legends",
       "started_at": "2026-08-10T03:33:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
