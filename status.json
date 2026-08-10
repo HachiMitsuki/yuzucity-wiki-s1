@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:16:20+09:00",
+  "updated_at": "2026-08-10T14:21:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -377,7 +377,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "AM3TYARust鯖",
+      "game_name": "Rust",
+      "started_at": "2026-08-10T05:18:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
