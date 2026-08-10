@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:46:29+09:00",
+  "updated_at": "2026-08-10T22:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,11 +199,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucity 本番9日目 副署長の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-10T09:59:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -577,7 +573,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]旅行前のワンオペ出勤やで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-10T13:48:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
