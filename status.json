@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T12:16:21+09:00",
+  "updated_at": "2026-08-11T13:06:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -493,7 +493,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】新人社員が来てくれました。【#にゃんこ郵便局】",
+      "game_name": "Cat Mail Co.",
+      "started_at": "2026-08-11T04:02:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -644,8 +648,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
       "is_live": true,
-      "title": "[#YCGTA]金属探知機だったり釣だったり、悪い事だったり[#VTuber]",
-      "game_name": "Grand Theft Auto V",
+      "title": "[#LOL]ろるるる[#VTuber]",
+      "game_name": "League of Legends",
       "started_at": "2026-08-11T03:15:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
