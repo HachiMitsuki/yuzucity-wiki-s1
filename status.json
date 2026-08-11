@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:51:29+09:00",
+  "updated_at": "2026-08-11T20:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【NATOWN】ギャング2日目｜この街で成り上がる",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-11T11:55:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -771,11 +775,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【YuzuCity / スト鯖GTA】5日目 寝坊しちゃったー【占い師Vtuber / 御神オルム】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T11:37:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
