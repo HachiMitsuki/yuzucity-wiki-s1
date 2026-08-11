@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:26:28+09:00",
+  "updated_at": "2026-08-11T22:31:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -339,7 +339,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】10日目！今日から待機画面でオリソン流れるようになったPD",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-11T13:26:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
