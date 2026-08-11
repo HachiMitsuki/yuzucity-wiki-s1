@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:06:30+09:00",
+  "updated_at": "2026-08-11T23:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -639,7 +639,11 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": false
+      "is_live": true,
+      "title": "[ #ストグラFV ]黒山狼亜 Day92",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-11T14:08:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -669,11 +673,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【RET City】新型Vネック【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T11:32:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -722,7 +722,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【#YuzuCity】悔い改めて 7日目",
+      "title": "【#YuzuCity】フリーカしたりファームしたり ８日目",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-11T14:03:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
