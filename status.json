@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T02:41:22+09:00",
+  "updated_at": "2026-08-12T02:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -315,11 +315,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】10日目！今日から待機画面でオリソン流れるようになったPD",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T13:26:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -423,11 +419,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［yuzucity］開演！悪役『セメトル・ジュース』6日目 出勤！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T12:03:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -579,11 +571,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 10 素材そろそろ売りたいね #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T12:21:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -627,11 +615,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】9日目：早めに予定が終わっちゃったので街ブラの予定【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T14:36:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -675,11 +659,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活6 日目 PDイベント楽しむぞ！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T12:11:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
