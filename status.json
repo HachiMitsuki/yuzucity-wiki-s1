@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T00:26:27+09:00",
+  "updated_at": "2026-08-12T00:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,11 +125,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 新しい車買いたい ２７話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T13:54:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -400,7 +396,7 @@
       "is_live": true,
       "title": "【yuzucity】#18 いつも通りの生活!",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T15:19:00Z",
+      "started_at": "2026-08-11T15:28:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
