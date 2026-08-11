@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:31:31+09:00",
+  "updated_at": "2026-08-11T22:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity] 兎葉 柚白 day8 仲間と一緒に",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-11T13:44:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -273,11 +277,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【NATOWN】ギャング2日目｜この街で成り上がる",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T11:55:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
