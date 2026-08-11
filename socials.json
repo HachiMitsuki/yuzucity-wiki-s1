@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T05:44:59+09:00",
+  "updated_at": "2026-08-11T17:15:31+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1302,6 +1302,13 @@
       "display_name": "燈華るき🦇୨୧＠新人VTuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2058647835395096576/i_rG68PE_400x400.jpg",
       "profile_url": "https://x.com/toka_ruki"
+    },
+    {
+      "platform": "x",
+      "handle": "usagi_s4n",
+      "display_name": "兎知まる🐰🎀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2047864738957443073/Bea3SEJu_400x400.jpg",
+      "profile_url": "https://x.com/usagi_s4n"
     }
   ]
 }
