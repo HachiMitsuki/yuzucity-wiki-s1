@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T15:01:22+09:00",
+  "updated_at": "2026-08-11T15:21:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -333,7 +333,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Escape from Tarkov】匍匐前進タルコフ部",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-08-11T06:16:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
