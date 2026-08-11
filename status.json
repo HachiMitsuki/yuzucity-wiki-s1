@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T01:51:24+09:00",
+  "updated_at": "2026-08-12T02:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -325,11 +325,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【10日目】Yuzu City 萎えから脱却を模索する",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-11T08:24:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
