@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T19:56:26+09:00",
+  "updated_at": "2026-08-11T20:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,11 +125,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "たまにはほのぼのしたいよね ほの暮しの庭",
-      "game_name": "Village in the Shade",
-      "started_at": "2026-08-11T08:02:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -383,7 +379,11 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": false
+      "is_live": true,
+      "title": "【 VALORANT 】ぴーす / 20歳酒ヤニパチ好きお姉さん",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-11T11:00:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
