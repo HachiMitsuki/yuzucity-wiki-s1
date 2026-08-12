@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T23:31:29+09:00",
+  "updated_at": "2026-08-12T23:46:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,11 +471,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "VRCでチルタイム",
-      "game_name": "VRChat",
-      "started_at": "2026-08-12T13:27:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -751,7 +747,11 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA]わるいことやっちゃおうかな[#VTuber]",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T14:44:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -796,8 +796,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
       "is_live": true,
-      "title": "【SOLO:D1】ひさびさびさびさひさびさ",
-      "game_name": "VALORANT",
+      "title": "【YuzuCity #3】トーク力０の店長",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-12T13:36:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
