@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-13T01:12:28+09:00",
+  "updated_at": "2026-08-13T02:39:57+09:00",
   "clips": [
+    {
+      "id": 290,
+      "source": "youtube",
+      "source_id": "NcxWXx7yH34",
+      "url": "https://youtube.com/shorts/NcxWXx7yH34",
+      "embed_url": "https://www.youtube.com/embed/NcxWXx7yH34",
+      "title": null,
+      "description": "https://youtube.com/shorts/NcxWXx7yH34?si=xyntsuq82CX-NhgX",
+      "thumbnail_url": "https://i.ytimg.com/vi/NcxWXx7yH34/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "天詩ユーク",
+      "author_avatar": "https://cdn.discordapp.com/avatars/772521494697345074/4fc38783fa2df54b51a8e895a3b4b0a2.png?size=128",
+      "posted_at": "2026-08-13T02:39:57+09:00"
+    },
     {
       "id": 289,
       "source": "twitch",
