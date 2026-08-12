@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:11:31+09:00",
+  "updated_at": "2026-08-13T00:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,11 +23,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[VALORANT] 街不調につき急遽VALO ソロで行くよ",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-12T13:10:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
