@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T23:16:32+09:00",
+  "updated_at": "2026-08-12T23:26:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -329,7 +329,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【11日目】Yuzu City ブラック労働環境の中さぼる😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T14:21:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
