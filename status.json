@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:36:18+09:00",
+  "updated_at": "2026-08-13T04:56:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_season1_day11 気分がいいから深夜営業",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T18:01:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -369,11 +365,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#19 釣りショップ移転!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T13:45:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -795,11 +787,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Yuzu City】緑青隼人 3日目 半グレ組織正式加入！ 【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T10:05:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
