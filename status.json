@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T17:16:32+09:00",
+  "updated_at": "2026-08-12T17:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,7 +99,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】求めた楽園は遥か彼方 １０日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T08:18:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -129,7 +133,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day11 早く車ほしいから貯金しよう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T08:19:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -719,7 +727,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity / スト鯖GTA】6日目 チルファームでお金稼ぐよ【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T08:19:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
