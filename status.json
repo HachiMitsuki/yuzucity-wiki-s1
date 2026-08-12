@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:36:30+09:00",
+  "updated_at": "2026-08-13T00:46:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -169,11 +169,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#AM3TYARUST】酔っ払いが行く 今日は短め/w  DAY４",
-      "game_name": "Rust",
-      "started_at": "2026-08-12T13:23:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -647,7 +643,11 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": false
+      "is_live": true,
+      "title": "[ #YuzuCity ]数日ぶりに起きようか #6",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T15:44:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
