@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-11T13:51:10+09:00",
+  "updated_at": "2026-08-12T15:41:00+09:00",
   "clips": [
+    {
+      "id": 286,
+      "source": "twitch",
+      "source_id": "YawningTenuousCheesecakeBCouch-8wn3Tm2O7dEfByRj",
+      "url": "https://twitch.tv/toka_ruki/clip/YawningTenuousCheesecakeBCouch-8wn3Tm2O7dEfByRj",
+      "embed_url": "https://clips.twitch.tv/embed?clip=YawningTenuousCheesecakeBCouch-8wn3Tm2O7dEfByRj",
+      "title": "リードが必要かもしれない一匹狼🐺ｗｗｗ",
+      "description": "https://twitch.tv/toka_ruki/clip/YawningTenuousCheesecakeBCouch-8wn3Tm2O7dEfByRj",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0daade85-3215-4407-b6a0-26066e2fdcd3/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 57,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-08-12T15:40:59+09:00"
+    },
     {
       "id": 285,
       "source": "twitch",
