@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-13T01:10:36+09:00",
+  "updated_at": "2026-08-13T01:12:28+09:00",
   "clips": [
+    {
+      "id": 289,
+      "source": "twitch",
+      "source_id": "SmokyTsundereReindeerM4xHeh-s0c4DH1jD9wU42TE",
+      "url": "https://www.twitch.tv/kuro__chan96/clip/SmokyTsundereReindeerM4xHeh-s0c4DH1jD9wU42TE",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SmokyTsundereReindeerM4xHeh-s0c4DH1jD9wU42TE",
+      "title": "あ",
+      "description": "舞鶴びき (maizurubiki): https://www.twitch.tv/kuro__chan96/clip/SmokyTsundereReindeerM4xHeh-s0c4DH1jD9wU42TE",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7b7a1ae4-c3b5-429a-8fe3-7566bcdc9bac/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "黒田りと",
+      "author_name": "黒田りと",
+      "author_avatar": "https://cdn.discordapp.com/avatars/701091288862294037/edff146f12bd589a9f119c3d34493b38.png?size=128",
+      "posted_at": "2026-08-13T01:12:28+09:00"
+    },
     {
       "id": 288,
       "source": "twitch",
