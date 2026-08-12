@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:46:29+09:00",
+  "updated_at": "2026-08-12T21:51:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】水曜日ということでね",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T12:48:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -425,7 +429,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "AM3TYARust鯖",
+      "game_name": "Rust",
+      "started_at": "2026-08-12T12:47:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
