@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:31:30+09:00",
+  "updated_at": "2026-08-13T00:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -33,11 +33,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#LoL】街の調子が悪かったので切り替え",
-      "game_name": "League of Legends",
-      "started_at": "2026-08-12T12:58:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -378,8 +374,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": true,
-      "title": "【YuzuCity→メンテ明けまでタルコフ】＃２ 帰省前なので顔見せに行きます！今のところ無職！",
-      "game_name": "Escape from Tarkov",
+      "title": "【YuzuCity】＃２ 帰省前なので顔見せに行きます！今のところ無職！",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-12T13:21:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
@@ -575,7 +571,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#9-2 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T15:32:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
