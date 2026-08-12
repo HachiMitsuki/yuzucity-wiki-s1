@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:51:29+09:00",
+  "updated_at": "2026-08-12T21:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,7 +53,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "タルコフPvEリハビリマン",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-08-12T11:59:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -551,7 +555,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #R.E.P.O. 】 目指せレベル10！ | ねおクラ参加者コラボ第5弾 | たくるす【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-08-12T12:00:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -651,11 +659,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】10日目：短いけれども色々成長したいお医者さん【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T08:06:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
