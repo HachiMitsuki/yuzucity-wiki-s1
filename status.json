@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:26:29+09:00",
+  "updated_at": "2026-08-13T01:28:44+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -413,11 +413,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "AM3TYARust鯖",
-      "game_name": "Rust",
-      "started_at": "2026-08-12T12:47:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1153,6 +1149,16 @@
       "display_name": "天詩ユーク ",
       "profile_image_url": "https://yt3.ggpht.com/IARnYNUQSYd4eWuTKbBpasn0x3F-SCMRx3KA0HjK5RIPnFR6c2V7b3nPnlQK5vMCM8rMorgXl_M=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40yuke_vt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC_JN5jV0vxiFh2fSHzyJVAQ",
+      "channel_id": "UC_JN5jV0vxiFh2fSHzyJVAQ",
+      "handle": "@turen_",
+      "display_name": "妬蓮.つれん",
+      "profile_image_url": "https://yt3.ggpht.com/W0-G0_HtIGNczOG754VdLBUU3_SEaYAiD7MR_EQIpx1PmiBKj-qXeqsAzzL6rjdjP0Rjh6xQtw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40turen_",
       "is_live": false
     }
   ]
