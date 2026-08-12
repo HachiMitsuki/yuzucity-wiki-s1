@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:56:29+09:00",
+  "updated_at": "2026-08-12T20:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -553,7 +553,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]めっさ眠い",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T11:01:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -587,7 +591,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 11 釣り再び #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-12T11:01:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
