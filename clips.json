@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-12T15:53:58+09:00",
+  "updated_at": "2026-08-13T01:10:36+09:00",
   "clips": [
+    {
+      "id": 288,
+      "source": "twitch",
+      "source_id": "NastyVibrantPorpoiseFeelsBadMan-eOf6TyAoMQskY9zA",
+      "url": "https://www.twitch.tv/totsugi_yu/clip/NastyVibrantPorpoiseFeelsBadMan-eOf6TyAoMQskY9zA",
+      "embed_url": "https://clips.twitch.tv/embed?clip=NastyVibrantPorpoiseFeelsBadMan-eOf6TyAoMQskY9zA",
+      "title": "えぐい抜かれ方",
+      "description": "https://www.twitch.tv/totsugi_yu/clip/NastyVibrantPorpoiseFeelsBadMan-eOf6TyAoMQskY9zA",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/63e27d74-e91b-4b83-bedc-1b5104beb2b3/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "十一月祐",
+      "author_name": "一々祐/十一月祐（旧　祐月）",
+      "author_avatar": "https://cdn.discordapp.com/avatars/979170810994503710/fd2c6c7f6b68ce92ed061ced71d9a3fd.png?size=128",
+      "posted_at": "2026-08-13T01:10:36+09:00"
+    },
     {
       "id": 287,
       "source": "twitch",
