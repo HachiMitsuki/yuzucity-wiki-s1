@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:31:31+09:00",
+  "updated_at": "2026-08-12T22:36:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -85,11 +85,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】あああああ #11【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T09:28:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -299,11 +295,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】 10日目 ALTIOR ボス【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T08:13:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -351,11 +343,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】11日目！まったりやるか",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T12:44:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -386,8 +374,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": true,
-      "title": "【YuzuCity】＃２ 帰省前なので顔見せに行きます！今のところ無職！",
-      "game_name": "Grand Theft Auto V",
+      "title": "【YuzuCity→メンテ明けまでタルコフ】＃２ 帰省前なので顔見せに行きます！今のところ無職！",
+      "game_name": "Escape from Tarkov",
       "started_at": "2026-08-12T13:21:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
@@ -787,11 +775,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【Yuzu City #3】配信向きではない配信",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-12T13:21:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
