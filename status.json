@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T00:31:28+09:00",
+  "updated_at": "2026-08-14T00:46:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -447,11 +447,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#パルワールド】たしか2 日目？",
-      "game_name": "Palworld",
-      "started_at": "2026-08-13T13:47:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
