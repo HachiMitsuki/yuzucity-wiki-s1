@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T16:51:25+09:00",
+  "updated_at": "2026-08-13T17:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,7 +349,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】#19 釣りショップ移転!",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T08:00:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,7 +463,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "コスモ➔20：00～漆黒極マウント集め",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-08-13T07:57:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -763,7 +771,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】緑青隼人 4日目 17時5時ファーム【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T07:59:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
