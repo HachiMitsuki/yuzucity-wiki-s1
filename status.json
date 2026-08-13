@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T17:01:23+09:00",
+  "updated_at": "2026-08-13T17:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,11 +349,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#19 釣りショップ移転!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-13T08:00:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
