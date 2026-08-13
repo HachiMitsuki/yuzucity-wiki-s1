@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:26:28+09:00",
+  "updated_at": "2026-08-13T21:31:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -473,7 +473,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity何日目？ !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T12:26:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -603,7 +607,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 12 お金欲しい #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T12:30:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -697,7 +705,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#VALORANT】よちよちヴァロ部 w/狐雪さん",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-13T12:28:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
