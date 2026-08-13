@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:36:27+09:00",
+  "updated_at": "2026-08-13T22:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -323,7 +323,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 11日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T13:36:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -347,7 +351,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】12日目！今日は撃ち合いの対応に行けるのかな…？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T13:40:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
