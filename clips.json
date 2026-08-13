@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-13T19:42:08+09:00",
+  "updated_at": "2026-08-14T01:09:09+09:00",
   "clips": [
+    {
+      "id": 294,
+      "source": "twitch",
+      "source_id": "BovineAssiduousHumanSMOrc-_A7UFr66DQbCxJIx",
+      "url": "https://www.twitch.tv/tanimondx/clip/BovineAssiduousHumanSMOrc-_A7UFr66DQbCxJIx",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BovineAssiduousHumanSMOrc-_A7UFr66DQbCxJIx",
+      "title": "おしくらまんじゅう",
+      "description": "https://www.twitch.tv/tanimondx/clip/BovineAssiduousHumanSMOrc-_A7UFr66DQbCxJIx",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/597614df-182c-40bf-a943-e0459f816099/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 25,
+      "broadcaster_name": "たにもん",
+      "author_name": "たにもん(Tanimon)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/571309852694020096/29a997cb05e56256741e602c3c67cebb.png?size=128",
+      "posted_at": "2026-08-14T01:09:08+09:00"
+    },
     {
       "id": 293,
       "source": "discord",
