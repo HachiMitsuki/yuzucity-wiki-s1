@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T17:51:24+09:00",
+  "updated_at": "2026-08-13T18:33:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -804,6 +804,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-13T07:59:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "lunamomizi",
+      "login": "lunamomizi",
+      "user_id": "471925647",
+      "display_name": "もみじるな",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/lunamomizi",
+      "is_live": true,
+      "title": "【#ゆずシティ】ちょっと旅に来ましたよSeason1Day1【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T09:05:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
