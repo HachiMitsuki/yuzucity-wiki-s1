@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-13T17:17:34+09:00",
+  "updated_at": "2026-08-13T18:39:47+09:00",
   "clips": [
+    {
+      "id": 292,
+      "source": "twitch",
+      "source_id": "AgitatedPhilanthropicBeanPMSTwin-rvSmoiGak7oPzriz",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/AgitatedPhilanthropicBeanPMSTwin-rvSmoiGak7oPzriz",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AgitatedPhilanthropicBeanPMSTwin-rvSmoiGak7oPzriz",
+      "title": "あまりにも情けない落ち方",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/AgitatedPhilanthropicBeanPMSTwin-rvSmoiGak7oPzriz",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7c131f41-ef82-4532-9c48-5e635b5ac293/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-08-13T18:39:47+09:00"
+    },
     {
       "id": 291,
       "source": "twitch",
