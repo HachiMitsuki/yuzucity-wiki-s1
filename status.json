@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:11:26+09:00",
+  "updated_at": "2026-08-13T21:21:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】めちゃ眠いけどowはしたい！ライバルブロンズ、シルバー【初見歓迎】",
+      "game_name": "Overwatch",
+      "started_at": "2026-08-13T12:18:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -655,7 +659,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity/天音あしゅ】牢屋の天使はぽしゃけのんでぽやぽやだぞ🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T12:20:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
