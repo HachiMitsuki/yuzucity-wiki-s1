@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-14T02:45:57+09:00",
+  "updated_at": "2026-08-14T07:35:43+09:00",
   "clips": [
+    {
+      "id": 298,
+      "source": "twitch",
+      "source_id": "MoldyDeliciousSharkRuleFive-I2jzelionAGlQxI4",
+      "url": "https://www.twitch.tv/rukimafu/clip/MoldyDeliciousSharkRuleFive-I2jzelionAGlQxI4",
+      "embed_url": "https://clips.twitch.tv/embed?clip=MoldyDeliciousSharkRuleFive-I2jzelionAGlQxI4",
+      "title": "車で惹かれた後蹴られたんだよなあ～ｗｗ",
+      "description": "https://www.twitch.tv/rukimafu/clip/MoldyDeliciousSharkRuleFive-I2jzelionAGlQxI4",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cf42e4bf-5f92-4ee5-90fd-ecf8f46275dc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 16,
+      "broadcaster_name": "rukimafu",
+      "author_name": "るきまふ🐰 / 入野 るき",
+      "author_avatar": "https://cdn.discordapp.com/avatars/293775930407780363/ee1c517ce469cb7c8b5a747ef62f08dc.png?size=128",
+      "posted_at": "2026-08-14T07:35:43+09:00"
+    },
     {
       "id": 297,
       "source": "twitch",
