@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:21:30+09:00",
+  "updated_at": "2026-08-13T22:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity] 兎葉 柚白 day9 頑張ってお金ためる",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T13:33:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -145,7 +149,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day12 今日も金稼ぐぞ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-13T13:33:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
