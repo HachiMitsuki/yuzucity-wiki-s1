@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-13T18:39:47+09:00",
+  "updated_at": "2026-08-13T19:42:08+09:00",
   "clips": [
+    {
+      "id": 293,
+      "source": "discord",
+      "source_id": "1537410920454815784",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1537410920454815784/kinko.mp4?ex=6a7ef0ff&is=6a7d9f7f&hm=aa4bf5d56e117129008f7b3e36e8dafcef42e4e377a99020800a03d7bca42caf&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "岡崎りる",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1151103059351588914/6b22442337fad8c3df0addfd3082d82d.png?size=128",
+      "posted_at": "2026-08-13T19:42:07+09:00"
+    },
     {
       "id": 292,
       "source": "twitch",
