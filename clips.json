@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-14T01:16:05+09:00",
+  "updated_at": "2026-08-14T02:45:57+09:00",
   "clips": [
+    {
+      "id": 297,
+      "source": "twitch",
+      "source_id": "NurturingPolishedToothBuddhaBar-UqLP_6PKyneGcgwT",
+      "url": "https://www.twitch.tv/sakazuki_kyan/clip/NurturingPolishedToothBuddhaBar-UqLP_6PKyneGcgwT",
+      "embed_url": "https://clips.twitch.tv/embed?clip=NurturingPolishedToothBuddhaBar-UqLP_6PKyneGcgwT",
+      "title": "違う、それじゃないｗｗｗ",
+      "description": "https://www.twitch.tv/sakazuki_kyan/clip/NurturingPolishedToothBuddhaBar-UqLP_6PKyneGcgwT?range=7d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3383c12c-b3ac-493a-9aea-fa84bc4b9fe5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 49,
+      "broadcaster_name": "酒月きゃん",
+      "author_name": "酒月きゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/802022260868907050/3e9ba8b4c4beb70f4ecabda1034fcae2.png?size=128",
+      "posted_at": "2026-08-14T02:45:57+09:00"
+    },
     {
       "id": 296,
       "source": "twitch",
