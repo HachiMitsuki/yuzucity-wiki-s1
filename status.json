@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:46:28+09:00",
+  "updated_at": "2026-08-14T20:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -225,7 +225,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【LienCity】Ignis今日はオイルリグ行きたいな#13",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T11:04:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -539,7 +543,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #Chained Together 】 懐かしい人たちとコラボ！ | たくるす【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Chained Together",
+      "started_at": "2026-08-14T11:01:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
