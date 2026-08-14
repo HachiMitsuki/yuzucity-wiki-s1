@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:33:02+09:00",
+  "updated_at": "2026-08-14T18:21:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1337,6 +1337,13 @@
       "display_name": "くるむ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1989192441598271488/5D3XLVfc_400x400.jpg",
       "profile_url": "https://x.com/kurumu_007"
+    },
+    {
+      "platform": "x",
+      "handle": "hiorirost",
+      "display_name": "氷折ロスト🐏🧊Vtuber準備中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1820689046005301248/AFamr9bW_400x400.jpg",
+      "profile_url": "https://x.com/hiorirost"
     }
   ]
 }
