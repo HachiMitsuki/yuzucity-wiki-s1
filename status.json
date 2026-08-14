@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:01:19+09:00",
+  "updated_at": "2026-08-14T11:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,7 +459,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "拠点を桜で埋め尽くそう",
+      "game_name": "Minecraft",
+      "started_at": "2026-08-14T02:33:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
