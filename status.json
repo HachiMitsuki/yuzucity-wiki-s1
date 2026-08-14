@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T16:56:24+09:00",
+  "updated_at": "2026-08-14T16:59:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1073,6 +1073,16 @@
       "display_name": "妬蓮.つれん",
       "profile_image_url": "https://yt3.ggpht.com/W0-G0_HtIGNczOG754VdLBUU3_SEaYAiD7MR_EQIpx1PmiBKj-qXeqsAzzL6rjdjP0Rjh6xQtw=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40turen_",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCRNnzg-WVZ_hsmh_9oE9B1A",
+      "channel_id": "UCRNnzg-WVZ_hsmh_9oE9B1A",
+      "handle": "@have_vt",
+      "display_name": "はぶちゃん",
+      "profile_image_url": "https://yt3.ggpht.com/z3bihyqvYQZljT2TBuitdFLjdIDqgR2RRqfoG3KyQNnh0nrKgYLGRg916FMQyhF24a2icPq36c4=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40have_vt",
       "is_live": false
     }
   ]
