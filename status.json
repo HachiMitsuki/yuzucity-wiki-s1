@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:36:29+09:00",
+  "updated_at": "2026-08-15T02:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -783,11 +783,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【YuzuCity #4】ラムダーク成長日記",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-14T12:23:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -911,7 +907,7 @@
       "channel_url": "https://www.twitch.tv/hiori_rost",
       "is_live": true,
       "title": "【チル配信/初見大歓迎】本当に何したらいいかわからん  day1【 #YuzuCity 】#HioriRost_LIVE",
-      "game_name": "Apex Legends",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-14T14:19:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
