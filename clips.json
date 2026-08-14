@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-15T04:38:06+09:00",
+  "updated_at": "2026-08-15T04:53:06+09:00",
   "clips": [
+    {
+      "id": 304,
+      "source": "youtube",
+      "source_id": "yWoYvvID6U4",
+      "url": "https://youtu.be/yWoYvvID6U4",
+      "embed_url": "https://www.youtube.com/embed/yWoYvvID6U4",
+      "title": null,
+      "description": "https://youtu.be/yWoYvvID6U4",
+      "thumbnail_url": "https://i.ytimg.com/vi/yWoYvvID6U4/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "ふじくん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/950342390479220766/8e26fc1bc35bb5a00505b6b49ccdc199.png?size=128",
+      "posted_at": "2026-08-15T04:53:06+09:00"
+    },
     {
       "id": 303,
       "source": "twitch",
