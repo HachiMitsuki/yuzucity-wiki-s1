@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-14T17:21:14+09:00",
+  "updated_at": "2026-08-15T04:38:06+09:00",
   "clips": [
+    {
+      "id": 303,
+      "source": "twitch",
+      "source_id": "GeniusBrightCasettePeteZaroll-YgewThHZCLcXl1YL",
+      "url": "https://www.twitch.tv/hiori_rost/clip/GeniusBrightCasettePeteZaroll-YgewThHZCLcXl1YL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=GeniusBrightCasettePeteZaroll-YgewThHZCLcXl1YL",
+      "title": "シャアの偽物",
+      "description": "今日飛来のシャア\nhttps://www.twitch.tv/hiori_rost/clip/GeniusBrightCasettePeteZaroll-YgewThHZCLcXl1YL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a27f2d61-79d7-423d-87d5-599334987ec5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 10,
+      "broadcaster_name": "氷折ロスト",
+      "author_name": "Dolo",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1379702144629870593/296206e8999be9f8c46998ecb3437415.png?size=128",
+      "posted_at": "2026-08-15T04:38:05+09:00"
+    },
     {
       "id": 302,
       "source": "twitch",
