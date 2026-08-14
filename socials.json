@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:48:43+09:00",
+  "updated_at": "2026-08-14T15:33:02+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1330,6 +1330,13 @@
       "display_name": "アレイス・V・ファンクタルム@個人Vライバー＆Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1801225207174332416/mm2kZabz_400x400.jpg",
       "profile_url": "https://x.com/araithvfunkturm"
+    },
+    {
+      "platform": "x",
+      "handle": "kurumu_007",
+      "display_name": "くるむ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1989192441598271488/5D3XLVfc_400x400.jpg",
+      "profile_url": "https://x.com/kurumu_007"
     }
   ]
 }
