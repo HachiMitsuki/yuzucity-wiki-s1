@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:16:33+09:00",
+  "updated_at": "2026-08-14T22:26:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -412,8 +412,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
       "is_live": true,
-      "title": "今夜もタスク進めていきたいと思います！",
-      "game_name": "Escape from Tarkov",
+      "title": "今夜もタスク進めていきたいと思います！ ちょっとVALO",
+      "game_name": "VALORANT",
       "started_at": "2026-08-14T12:04:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
@@ -897,7 +897,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】頑張って覚えていこうSeason1Day2【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T13:24:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
