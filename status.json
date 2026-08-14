@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:06:26+09:00",
+  "updated_at": "2026-08-14T18:09:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -818,6 +818,16 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-14T08:56:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "fox_lyc0ris",
+      "login": "fox_lyc0ris",
+      "user_id": "1085223579",
+      "display_name": "狐花かさね",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3607847-5394-459d-bc31-cde40da9bb54-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/fox_lyc0ris",
+      "is_live": false
     },
     {
       "platform": "youtube",
