@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:46:36+09:00",
+  "updated_at": "2026-08-14T23:01:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -659,7 +659,11 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": false
+      "is_live": true,
+      "title": "[ #TGSOBT ]TGSのOBTに参加するぞ!! #1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T13:56:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
