@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:16:31+09:00",
+  "updated_at": "2026-08-14T21:21:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 12日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T12:18:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -537,7 +541,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】ロシアでキャリーされます。そして立ち絵が少し動くようになったよ【#タルコフ】",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-08-14T12:18:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
