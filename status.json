@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:01:21+09:00",
+  "updated_at": "2026-08-15T05:06:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -103,11 +103,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】狂犬、降臨 １２日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-14T09:05:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -545,11 +541,7 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": true,
-      "title": "初見歓迎！来てみなよ！ 初見さん◎ROM◎Drops◎",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-14T08:07:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -579,11 +571,7 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": true,
-      "title": "[ パルワールド ]平成ギャグ★ボンバーズにするために",
-      "game_name": "Palworld",
-      "started_at": "2026-08-14T18:23:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -819,7 +807,7 @@
       "channel_url": "https://www.twitch.tv/hiori_rost",
       "is_live": true,
       "title": "【チル配信/初見大歓迎】本当に何したらいいかわからん  day1【 #YuzuCity 】#HioriRost_LIVE",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "Just Chatting",
       "started_at": "2026-08-14T14:19:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
