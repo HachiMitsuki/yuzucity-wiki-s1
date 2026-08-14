@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:06:26+09:00",
+  "updated_at": "2026-08-14T17:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】あああああ #13【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T08:07:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -533,7 +537,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "初見歓迎！来てみなよ！ 初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T08:07:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
