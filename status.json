@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:01:33+09:00",
+  "updated_at": "2026-08-14T22:16:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -733,7 +733,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Phasmophobia】ホラゲー部でファーズモ w/ユタさん ポポランタンユキヒメさん 初叉心猫さん",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-14T13:14:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
