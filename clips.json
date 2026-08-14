@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-14T17:05:10+09:00",
+  "updated_at": "2026-08-14T17:21:14+09:00",
   "clips": [
+    {
+      "id": 302,
+      "source": "twitch",
+      "source_id": "FlaccidQuaintPuppyChocolateRain-FDJJIA3vCpDLq_GO",
+      "url": "https://www.twitch.tv/n4x2_me/clip/FlaccidQuaintPuppyChocolateRain-FDJJIA3vCpDLq_GO",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FlaccidQuaintPuppyChocolateRain-FDJJIA3vCpDLq_GO",
+      "title": "ﾔﾊﾞｲｯ",
+      "description": "⬆️の斜視点\nナビスコさんごめん✌️\nhttps://www.twitch.tv/n4x2_me/clip/FlaccidQuaintPuppyChocolateRain-FDJJIA3vCpDLq_GO",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0359b36b-031d-472f-87e4-98e2c853aff0/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 20,
+      "broadcaster_name": "斜さん",
+      "author_name": "斜(ﾅﾅﾒ)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/860854341341282361/1f801606547dc2a09e5cbb3886181674.png?size=128",
+      "posted_at": "2026-08-14T17:21:13+09:00"
+    },
     {
       "id": 301,
       "source": "twitch",
