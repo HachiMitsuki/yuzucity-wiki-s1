@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-14T07:36:46+09:00",
+  "updated_at": "2026-08-14T15:43:44+09:00",
   "clips": [
+    {
+      "id": 300,
+      "source": "twitch",
+      "source_id": "PowerfulFunLegPeteZaroll-x6tjnCczklUK6_88",
+      "url": "https://twitch.tv/toka_ruki/clip/PowerfulFunLegPeteZaroll-x6tjnCczklUK6_88",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PowerfulFunLegPeteZaroll-x6tjnCczklUK6_88",
+      "title": "PON！ｗｗｗ",
+      "description": "https://twitch.tv/toka_ruki/clip/PowerfulFunLegPeteZaroll-x6tjnCczklUK6_88",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f3c1ea14-585d-45da-96e3-edd5613b1cdf/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 46,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-08-14T15:43:44+09:00"
+    },
     {
       "id": 299,
       "source": "twitch",
