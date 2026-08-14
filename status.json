@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:11:20+09:00",
+  "updated_at": "2026-08-15T08:16:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -709,11 +709,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "東京５日目❗️",
-      "game_name": "Just Chatting",
-      "started_at": "2026-08-14T22:10:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
