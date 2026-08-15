@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:41:29+09:00",
+  "updated_at": "2026-08-15T21:46:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -447,7 +447,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "［yuzucity］開演！悪役『セメトル・ジュース』10日目 出勤！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T12:45:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -539,7 +543,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】車購入までの道のりday13",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T12:45:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
