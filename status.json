@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:11:25+09:00",
+  "updated_at": "2026-08-15T18:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -50,8 +50,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
       "is_live": true,
-      "title": "yuzucity_season1_day13 遅い時間は何かが",
-      "game_name": "Grand Theft Auto V",
+      "title": "その前にリハビリタルコフマン←yuzucity_season1_day14",
+      "game_name": "Escape from Tarkov",
       "started_at": "2026-08-15T09:09:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -149,7 +149,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【TGSOBT】Day2 たくさん助ける",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T09:15:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -487,7 +491,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "ボズヤやらコスモエクスプローラーやら",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-08-15T09:14:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
