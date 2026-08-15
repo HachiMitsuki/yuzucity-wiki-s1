@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:16:24+09:00",
+  "updated_at": "2026-08-15T18:21:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 13日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T09:17:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -845,7 +849,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【参加◎/初見大歓迎】今日は3本立て 【Apex Legends】#HioriRost_LIVE",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-15T09:19:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
