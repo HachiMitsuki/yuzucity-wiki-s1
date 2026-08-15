@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-15T17:56:10+09:00",
+  "updated_at": "2026-08-16T01:03:22+09:00",
   "clips": [
+    {
+      "id": 306,
+      "source": "twitch",
+      "source_id": "WanderingSmoothYakArgieB8-faYsylX3Tu_HUffb",
+      "url": "https://www.twitch.tv/sakazuki_kyan/clip/WanderingSmoothYakArgieB8-faYsylX3Tu_HUffb",
+      "embed_url": "https://clips.twitch.tv/embed?clip=WanderingSmoothYakArgieB8-faYsylX3Tu_HUffb",
+      "title": "金持ちスーパーヤンキーエントリー",
+      "description": "https://www.twitch.tv/sakazuki_kyan/clip/WanderingSmoothYakArgieB8-faYsylX3Tu_HUffb",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1ef59435-2489-44a5-95cc-fc5259e82e06/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 37,
+      "broadcaster_name": "酒月きゃん",
+      "author_name": "酒月きゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/802022260868907050/3e9ba8b4c4beb70f4ecabda1034fcae2.png?size=128",
+      "posted_at": "2026-08-16T01:03:22+09:00"
+    },
     {
       "id": 305,
       "source": "twitch",
