@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T00:21:29+09:00",
+  "updated_at": "2026-08-16T00:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -505,11 +505,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【ラフシティ】お祭り！【ここここしここし/ももたろう】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-15T12:01:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
