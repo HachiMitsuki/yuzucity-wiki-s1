@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:26:25+09:00",
+  "updated_at": "2026-08-15T17:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -533,7 +533,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]久々に17時代からおはよう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T08:33:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
