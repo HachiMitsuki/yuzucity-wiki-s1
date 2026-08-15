@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T13:26:21+09:00",
+  "updated_at": "2026-08-15T14:16:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【マインクラフト】エンダードラゴン倒しに行くらしい…w斉藤ジオ、ミリP【初見歓迎】",
+      "game_name": "Minecraft",
+      "started_at": "2026-08-15T05:15:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
