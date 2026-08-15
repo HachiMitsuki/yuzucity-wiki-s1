@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:41:30+09:00",
+  "updated_at": "2026-08-15T22:56:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -515,11 +515,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "ボズヤやらコスモエクスプローラーやら",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-08-15T09:14:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
