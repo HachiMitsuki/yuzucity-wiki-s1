@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:31:31+09:00",
+  "updated_at": "2026-08-15T23:36:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -567,11 +567,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #ボダタウ 】#9 メカニック店長：セバスチャン・ブラックウッド｜BorderTownsRound3（GTARPスト鯖） 【たくるす】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-15T12:00:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -901,7 +897,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【チル配信/初見大歓迎】どうやらギャングの申請が始まったらしい day2【 #YuzuCity 】#HioriRost_LIVE",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T14:32:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
