@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:36:29+09:00",
+  "updated_at": "2026-08-15T21:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,7 +23,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity] 兎葉 柚白 day10 金属探知機ー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-15T12:39:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
