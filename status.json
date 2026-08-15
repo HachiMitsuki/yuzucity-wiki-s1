@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T01:11:27+09:00",
+  "updated_at": "2026-08-16T01:31:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -787,11 +787,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【YuzuCity #5】ラムダーク成長日記",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-15T13:33:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
