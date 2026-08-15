@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:21:41+09:00",
+  "updated_at": "2026-08-15T17:44:52+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1344,6 +1344,13 @@
       "display_name": "氷折ロスト🐏🧊Vtuber準備中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1820689046005301248/AFamr9bW_400x400.jpg",
       "profile_url": "https://x.com/hiorirost"
+    },
+    {
+      "platform": "x",
+      "handle": "kilin_fuzino",
+      "display_name": "藤乃きりん@6年目の駄妖狐",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039211498468433920/6-m-Ertu_400x400.jpg",
+      "profile_url": "https://x.com/kilin_fuzino"
     }
   ]
 }
