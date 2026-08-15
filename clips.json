@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-15T04:53:06+09:00",
+  "updated_at": "2026-08-15T17:56:10+09:00",
   "clips": [
+    {
+      "id": 305,
+      "source": "twitch",
+      "source_id": "AbrasiveSweetSwallowPraiseIt-0v-HbYbsZSa8velX",
+      "url": "https://www.twitch.tv/tsukira_0415/clip/AbrasiveSweetSwallowPraiseIt-0v-HbYbsZSa8velX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AbrasiveSweetSwallowPraiseIt-0v-HbYbsZSa8velX",
+      "title": "紫ギャング／共有エモート誤爆",
+      "description": "https://www.twitch.tv/tsukira_0415/clip/AbrasiveSweetSwallowPraiseIt-0v-HbYbsZSa8velX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f068bbb6-bdec-4737-be20-c69d3e60e26d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 51,
+      "broadcaster_name": "tsukira_0415",
+      "author_name": "月羅☪",
+      "author_avatar": "https://cdn.discordapp.com/avatars/403859290084868097/67d3f7b352a5066add54edf45865f965.png?size=128",
+      "posted_at": "2026-08-15T17:56:09+09:00"
+    },
     {
       "id": 304,
       "source": "youtube",
