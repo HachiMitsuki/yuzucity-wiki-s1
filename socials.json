@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:36:59+09:00",
+  "updated_at": "2026-08-17T00:00:24+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1358,6 +1358,13 @@
       "display_name": "椛 琉那@旅人系VStreamer",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1983327114339463172/DNlj7RDW_400x400.jpg",
       "profile_url": "https://x.com/lunamomizivt"
+    },
+    {
+      "platform": "x",
+      "handle": "mizuno_tamaki1",
+      "display_name": "🫧水乃珠🫧",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1906913980247134209/f1JPvKti_400x400.jpg",
+      "profile_url": "https://x.com/mizuno_tamaki1"
     }
   ]
 }
