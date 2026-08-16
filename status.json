@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:06:25+09:00",
+  "updated_at": "2026-08-17T03:21:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -261,11 +261,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【モンハンライズ】フルパで狩りに出かけます/youziroo、ばいす、ごまぽん",
-      "game_name": "Monster Hunter Rise",
-      "started_at": "2026-08-16T12:39:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
