@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:00:24+09:00",
+  "updated_at": "2026-08-17T00:35:38+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1365,6 +1365,13 @@
       "display_name": "🫧水乃珠🫧",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1906913980247134209/f1JPvKti_400x400.jpg",
       "profile_url": "https://x.com/mizuno_tamaki1"
+    },
+    {
+      "platform": "x",
+      "handle": "teto__vtuber",
+      "display_name": "てと！@狼系Vtuber🐺🍀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1780309376403898368/yCw18JrZ_400x400.jpg",
+      "profile_url": "https://x.com/teto__vtuber"
     }
   ]
 }
