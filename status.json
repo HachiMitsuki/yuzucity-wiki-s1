@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:21:25+09:00",
+  "updated_at": "2026-08-16T17:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -266,7 +266,7 @@
       "is_live": true,
       "title": "【 #yuzucity 】 14日目 ALTIOR ボス どうなるかね【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta @i_minatoboshi @i_minatoboshi",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T08:20:28Z",
+      "started_at": "2026-08-16T08:25:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
@@ -611,7 +611,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】14日目：二週間目のEMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T08:28:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
