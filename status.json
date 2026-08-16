@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:51:31+09:00",
+  "updated_at": "2026-08-16T23:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -92,7 +92,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
       "is_live": true,
-      "title": "…【OW】OWダメージ認定終わってないね目標シルバー２！D,VAも練習したい【初見歓迎】",
+      "title": "…【OW】OWダメージ認定終わってないね目標シルバー２！D,VAも練習したい(アドバイスOK)【初見歓迎】",
       "game_name": "Overwatch",
       "started_at": "2026-08-16T12:14:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
@@ -139,7 +139,11 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "APEXがやりたい",
+      "game_name": "",
+      "started_at": "2026-08-16T13:59:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -754,7 +758,7 @@
       "is_live": true,
       "title": "Yuzu City 生活8日目 今日からAR解禁！",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T12:43:16Z",
+      "started_at": "2026-08-16T13:59:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
