@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:51:28+09:00",
+  "updated_at": "2026-08-16T22:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -429,7 +429,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "AM3TYARust鯖",
+      "game_name": "Rust",
+      "started_at": "2026-08-16T13:00:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -573,7 +577,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】だいぶ慣れた#14【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T12:57:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -911,7 +919,11 @@
       "display_name": "狐花かさね",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3607847-5394-459d-bc31-cde40da9bb54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/fox_lyc0ris",
-      "is_live": false
+      "is_live": true,
+      "title": "【FFXIV】初見ヴァイパーの行く黄金のレガシー Part.1【狐花かさね】",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-08-16T12:56:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fox_lyc0ris-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
