@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:11:32+09:00",
+  "updated_at": "2026-08-17T00:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,11 +119,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】街は平和です １４日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T05:53:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -671,7 +667,11 @@
       "display_name": "くろあだよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a18d7503-e527-43ba-a243-70e08c054a89-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/96a_kuroa",
-      "is_live": false
+      "is_live": true,
+      "title": "[ #TGSOBT ]最終日!! #3",
+      "game_name": "Palworld",
+      "started_at": "2026-08-16T15:23:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_96a_kuroa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -817,11 +817,7 @@
       "display_name": "ユズリハよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzrihq",
-      "is_live": true,
-      "title": "[YuzuCity]「ぷるぷ視点」ロスサントスの闇を…",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T12:27:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzrihq-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
