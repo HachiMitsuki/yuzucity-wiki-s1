@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T18:36:26+09:00",
+  "updated_at": "2026-08-16T18:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -501,7 +501,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃15【お盆は最後らしい】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T09:43:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -563,7 +567,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】今日ものんびりやってくよ【ストロ・べリオ】#10",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T09:46:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
