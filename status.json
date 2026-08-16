@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:11:29+09:00",
+  "updated_at": "2026-08-16T22:26:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -591,11 +591,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #WASU夏MC 】 #13 そろそろ討伐とかも？ | WASURENE.マインクラフトストリーマーサーバー【初見さん・コメント・ROM専大歓迎・JP/EN】",
-      "game_name": "Minecraft",
-      "started_at": "2026-08-16T09:30:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
