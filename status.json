@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:26:28+09:00",
+  "updated_at": "2026-08-17T00:31:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "ほどほどに～5日目～【龍咲】【#YCGTA #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T12:27:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -757,7 +753,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzu City】今日は何しようかな 11日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T15:29:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
