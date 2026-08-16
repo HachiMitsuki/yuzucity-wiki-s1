@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T02:56:26+09:00",
+  "updated_at": "2026-08-17T03:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_season1_day15 遅番マン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T15:08:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -307,11 +303,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 14日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T12:31:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -331,11 +323,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】15日目！ 今日はボーナス日！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T12:12:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -505,11 +493,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃15【お盆は最後らしい】/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T09:43:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -519,11 +503,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】お金を稼ぎましょう！day14",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T07:57:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -599,11 +579,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 15 予定は未定 #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T13:07:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
