@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:51:24+09:00",
+  "updated_at": "2026-08-16T16:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -337,7 +337,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【League of Legends】ADCの鍛錬を積む、そう、心の鋼である。",
+      "game_name": "League of Legends",
+      "started_at": "2026-08-16T07:33:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -467,11 +471,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "装備が不足してるから狩りまくる",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-08-16T03:52:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
