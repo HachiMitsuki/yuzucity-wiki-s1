@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-16T01:03:22+09:00",
+  "updated_at": "2026-08-16T13:35:58+09:00",
   "clips": [
+    {
+      "id": 307,
+      "source": "twitch",
+      "source_id": "SmallUgliestCrabRitzMitz--ZT0ElwtWM27bv0q",
+      "url": "https://www.twitch.tv/lied0307/clip/SmallUgliestCrabRitzMitz--ZT0ElwtWM27bv0q",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SmallUgliestCrabRitzMitz--ZT0ElwtWM27bv0q",
+      "title": "争いのレベル",
+      "description": "https://www.twitch.tv/lied0307/clip/SmallUgliestCrabRitzMitz--ZT0ElwtWM27bv0q",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f2eb64ff-6305-4e7c-8d61-fc9a7fa3c39d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 51,
+      "broadcaster_name": "リートです",
+      "author_name": "リート",
+      "author_avatar": "https://cdn.discordapp.com/avatars/364427898503036928/c3246c859ddb7ee290444637e415c920.png?size=128",
+      "posted_at": "2026-08-16T13:35:58+09:00"
+    },
     {
       "id": 306,
       "source": "twitch",
