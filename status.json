@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:26:28+09:00",
+  "updated_at": "2026-08-16T21:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "ほどほどに～5日目～【龍咲】【#YCGTA #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T12:27:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -789,7 +793,11 @@
       "display_name": "ユズリハよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzrihq",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity]「ぷるぷ視点」ロスサントスの闇を…",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T12:27:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzrihq-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
