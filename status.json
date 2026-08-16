@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T01:21:25+09:00",
+  "updated_at": "2026-08-17T01:26:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -731,11 +731,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活8日目 今日からAR解禁！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T13:59:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
