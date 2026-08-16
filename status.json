@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T20:41:26+09:00",
+  "updated_at": "2026-08-16T20:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -333,7 +333,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "mikumikuBBAcustomw/ゆかちゃん、しめじ",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-16T11:50:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
