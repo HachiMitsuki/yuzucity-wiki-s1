@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:31:25+09:00",
+  "updated_at": "2026-08-16T17:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -645,7 +645,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】今日でお盆休みが終わる ※鳩×",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T08:32:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -745,11 +749,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "【 ｶｵﾅｼ 】久しぶりのｳﾞｧﾛくんの気持ちを確かめる",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-16T06:39:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
