@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T16:51:24+09:00",
+  "updated_at": "2026-08-16T17:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -100,8 +100,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
-      "title": "【#星の翼】義務ランクとキャラ練習【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "title": "【#ゆず鯖 】街は平和です １４日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-16T05:53:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -293,7 +293,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【15日目】Yuzu City 窓際中間管理職出勤出勤😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T08:00:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -487,7 +491,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】お金を稼ぎましょう！day14",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T07:57:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -538,9 +546,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
       "is_live": true,
-      "title": "rdyyyyy  初見さん◎ROM◎Drops◎",
-      "game_name": "Vampir",
-      "started_at": "2026-08-16T06:11:27Z",
+      "title": "愛車の為に働く！  初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-16T08:00:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
@@ -591,11 +599,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【EFT】タルコフくんどうした？何があった？【ゲーム雑談】",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-08-16T05:49:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
