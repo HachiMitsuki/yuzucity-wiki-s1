@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:46:30+09:00",
+  "updated_at": "2026-08-16T22:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -413,11 +413,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#21 実家より帰還!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-16T08:12:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -455,11 +451,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#Minecraft #リフレ鯖】いまここから始まる Crazy Panda視点 【1日目】",
-      "game_name": "Minecraft",
-      "started_at": "2026-08-16T11:13:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
