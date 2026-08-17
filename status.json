@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:56:23+09:00",
+  "updated_at": "2026-08-17T17:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】あああああ #16【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T08:04:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,11 +463,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "装備も装飾品も不足しとるんじゃ",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-08-17T03:58:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
