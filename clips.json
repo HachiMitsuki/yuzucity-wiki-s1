@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T00:34:43+09:00",
+  "updated_at": "2026-08-18T03:57:05+09:00",
   "clips": [
+    {
+      "id": 312,
+      "source": "twitch",
+      "source_id": "BlatantExquisiteMangoPlanking-bOBJP30mHkFYGEjO",
+      "url": "https://www.twitch.tv/thanatos4090/clip/BlatantExquisiteMangoPlanking-bOBJP30mHkFYGEjO",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BlatantExquisiteMangoPlanking-bOBJP30mHkFYGEjO",
+      "title": "【Yuzu City】視界外からの突撃 #YuzuCity #YCGTA",
+      "description": "https://www.twitch.tv/thanatos4090/clip/BlatantExquisiteMangoPlanking-bOBJP30mHkFYGEjO",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/706ae176-fe15-4a3d-be24-a5aaddb1d134/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 47,
+      "broadcaster_name": "thanatos4090",
+      "author_name": "たなとす/Thanatos_Al",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "posted_at": "2026-08-18T03:57:04+09:00"
+    },
     {
       "id": 311,
       "source": "twitch",
