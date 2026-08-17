@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:01:26+09:00",
+  "updated_at": "2026-08-17T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -461,7 +461,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】実は結構進んでて～ww",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T12:03:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -639,11 +643,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】15日目：ヘリに慣れてきたEMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T09:56:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -809,7 +809,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】警察官vlog #3",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T12:03:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -873,7 +877,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【参加◎/初見大歓迎】教育実習の準備終わってないんだよね【Apex Legends】#HioriRost_LIVE",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-17T12:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
