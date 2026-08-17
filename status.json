@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:41:24+09:00",
+  "updated_at": "2026-08-18T01:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -461,11 +461,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【YuzuCity】実は結構進んでて～ww",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T12:03:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -793,11 +789,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "最後に少し足掻く",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T11:38:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
