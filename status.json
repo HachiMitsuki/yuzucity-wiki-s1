@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:56:24+09:00",
+  "updated_at": "2026-08-18T02:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -78,9 +78,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
-      "title": "【Yuzu City】あああああ #16【鳩禁止】",
+      "title": "【Yuzu City】ああああああ #16【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T08:04:00Z",
+      "started_at": "2026-08-17T17:00:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
@@ -845,11 +845,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#ゆずシティ】Season1Day5【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T10:53:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
