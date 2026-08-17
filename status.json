@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:46:23+09:00",
+  "updated_at": "2026-08-17T19:01:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -607,7 +607,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】15日目：ヘリに慣れてきたEMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T09:56:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -739,7 +743,7 @@
       "channel_url": "https://www.twitch.tv/veryiplu",
       "is_live": true,
       "title": "最後に少し足掻いて街ｲﾝ",
-      "game_name": "VALORANT",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-17T07:51:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
