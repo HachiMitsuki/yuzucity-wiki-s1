@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T02:46:23+09:00",
+  "updated_at": "2026-08-18T03:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,11 +87,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "…【OWアンランク→ゆずシティ予定】OWアンランク→取り敢えずお金稼ぎ…伊吹俊三日目【初見歓迎】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T12:54:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -463,11 +459,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【YuzuCity】お金がないんじゃ！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T14:35:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
