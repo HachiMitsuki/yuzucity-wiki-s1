@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:26:25+09:00",
+  "updated_at": "2026-08-17T21:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -753,7 +753,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOL】RANK/ｗあきみつか",
+      "game_name": "League of Legends",
+      "started_at": "2026-08-17T12:28:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
