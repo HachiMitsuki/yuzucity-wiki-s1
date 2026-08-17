@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:11:24+09:00",
+  "updated_at": "2026-08-17T20:21:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,7 +149,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day１６ 久しぶりの犯罪だ！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T11:20:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
