@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:26:23+09:00",
+  "updated_at": "2026-08-17T17:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,7 +63,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】お久しぶりです day7#ゆず鯖 #YCGTA #FiveM",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T08:34:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
