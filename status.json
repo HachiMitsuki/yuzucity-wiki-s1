@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:26:27+09:00",
+  "updated_at": "2026-08-17T22:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -417,11 +417,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#22 街散歩!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T10:58:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -774,7 +770,7 @@
       "is_live": true,
       "title": "【YuzuCity】薬があああ15日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T10:33:54Z",
+      "started_at": "2026-08-17T13:26:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
     },
     {
