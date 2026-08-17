@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-17T23:07:43+09:00",
+  "updated_at": "2026-08-18T00:34:43+09:00",
   "clips": [
+    {
+      "id": 311,
+      "source": "twitch",
+      "source_id": "OriginalGiftedSwordFunRun-zriDhtxI9xKtz5LU",
+      "url": "https://www.twitch.tv/tonsato/clip/OriginalGiftedSwordFunRun-zriDhtxI9xKtz5LU",
+      "embed_url": "https://clips.twitch.tv/embed?clip=OriginalGiftedSwordFunRun-zriDhtxI9xKtz5LU",
+      "title": "yuzu 宝石",
+      "description": "https://www.twitch.tv/tonsato/clip/OriginalGiftedSwordFunRun-zriDhtxI9xKtz5LU",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/35b9bad4-904b-4599-9ab8-9b7012767b83/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 10,
+      "broadcaster_name": "とんさと",
+      "author_name": "とんさと",
+      "author_avatar": "https://cdn.discordapp.com/avatars/704661124335009843/2a7491ac4167cf9608876da95f5024d0.png?size=128",
+      "posted_at": "2026-08-18T00:34:43+09:00"
+    },
     {
       "id": 310,
       "source": "twitch",
