@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:21:23+09:00",
+  "updated_at": "2026-08-17T20:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -781,7 +781,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "最後に少し足掻いて街ｲﾝ #2",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-17T11:38:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
