@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:41:27+09:00",
+  "updated_at": "2026-08-17T22:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -325,7 +325,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】DAY7 豚平智/のんびり犯罪しましょか～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T13:52:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -930,8 +934,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
       "is_live": true,
-      "title": "【参加◎/初見大歓迎】教育実習の準備終わってないんだよね【Apex Legends】#HioriRost_LIVE",
-      "game_name": "Apex Legends",
+      "title": "【チル配信/初見大歓迎】やる人がいるならエペに戻る day4【 #YuzuCity 】#HioriRost_LIVE",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-17T12:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
