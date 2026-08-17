@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:36:22+09:00",
+  "updated_at": "2026-08-17T17:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -191,7 +191,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity16日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-17T08:38:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
