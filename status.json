@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:16:24+09:00",
+  "updated_at": "2026-08-18T01:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -152,7 +152,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１６ 久しぶりの犯罪だ！！",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T11:20:08Z",
+      "started_at": "2026-08-17T16:36:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
@@ -309,11 +309,7 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": true,
-      "title": "【Yuzucity】DAY7 豚平智/のんびり犯罪しましょか～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-17T13:52:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -798,7 +794,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
       "is_live": true,
-      "title": "最後に少し足掻いて街ｲﾝ #2",
+      "title": "最後に少し足掻く",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-17T11:38:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
