@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-17T11:44:47+09:00",
+  "updated_at": "2026-08-17T23:07:43+09:00",
   "clips": [
+    {
+      "id": 310,
+      "source": "twitch",
+      "source_id": "BoringPricklyKoalaPoooound-qbh0Lufnm2xhY5yM",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/BoringPricklyKoalaPoooound-qbh0Lufnm2xhY5yM",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BoringPricklyKoalaPoooound-qbh0Lufnm2xhY5yM",
+      "title": "そんなことある？？？",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/BoringPricklyKoalaPoooound-qbh0Lufnm2xhY5yM",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/45a7317b-6076-4fac-b027-c10bb3349cb8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 28,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-08-17T23:07:41+09:00"
+    },
     {
       "id": 309,
       "source": "youtube",
