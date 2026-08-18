@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:36:29+09:00",
+  "updated_at": "2026-08-18T22:41:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -113,7 +113,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "あ【#vtuber /雷音雅】",
-      "game_name": "",
+      "game_name": "StarWard",
       "started_at": "2026-08-18T11:55:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -405,11 +405,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#23 B帯まだ行けないかな？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-18T09:28:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
