@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:18:02+09:00",
+  "updated_at": "2026-08-19T02:48:35+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1379,6 +1379,13 @@
       "display_name": "橘花しんじ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2083912498160476160/fcIRK1Pc_400x400.jpg",
       "profile_url": "https://x.com/kikka_shinji"
+    },
+    {
+      "platform": "x",
+      "handle": "warm_ytac",
+      "display_name": "わぁむっぽい何か!!!",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1989190902221524992/uzntDcg2_400x400.jpg",
+      "profile_url": "https://x.com/warm_ytac"
     }
   ]
 }
