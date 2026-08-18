@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:51:30+09:00",
+  "updated_at": "2026-08-18T22:56:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -465,11 +465,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【APEX】スクリムの勝ち方？気合と根性",
-      "game_name": "Apex Legends",
-      "started_at": "2026-08-18T11:53:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
