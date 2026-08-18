@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:41:27+09:00",
+  "updated_at": "2026-08-18T20:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "あ【#vtuber /雷音雅】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-08-18T11:55:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -217,7 +221,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【LienCity】Ignis今日は俺らのホームグラウンド客船！！！#16",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-18T11:52:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -429,7 +437,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】スクリムの勝ち方？気合と根性",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-18T11:53:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
