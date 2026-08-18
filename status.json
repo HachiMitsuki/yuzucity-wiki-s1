@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T13:01:21+09:00",
+  "updated_at": "2026-08-18T14:16:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,7 +119,11 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "APEX rank 寝起き",
+      "game_name": "",
+      "started_at": "2026-08-18T05:11:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
