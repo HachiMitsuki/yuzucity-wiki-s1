@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T17:11:11+09:00",
+  "updated_at": "2026-08-18T17:49:34+09:00",
   "clips": [
+    {
+      "id": 316,
+      "source": "twitch",
+      "source_id": "FaithfulCheerfulDurianPJSalt-vUVGXJLo0L-j-svy",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/FaithfulCheerfulDurianPJSalt-vUVGXJLo0L-j-svy",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FaithfulCheerfulDurianPJSalt-vUVGXJLo0L-j-svy",
+      "title": "コントのようなやり取りに大喜び",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/FaithfulCheerfulDurianPJSalt-vUVGXJLo0L-j-svy",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/163fad98-3e28-444c-9ed2-ce41e6cc4126/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-08-18T17:49:33+09:00"
+    },
     {
       "id": 315,
       "source": "twitch",
