@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:21:26+09:00",
+  "updated_at": "2026-08-18T20:26:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -517,7 +517,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】お金貯めるぞ。#15【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-18T11:24:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
