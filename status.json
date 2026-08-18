@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:11:30+09:00",
+  "updated_at": "2026-08-18T21:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 16日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-18T12:16:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -527,7 +531,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】俺たちはギャングになれるのでしょうか！day16",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-18T12:14:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
