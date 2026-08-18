@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T01:21:32+09:00",
+  "updated_at": "2026-08-19T02:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -528,7 +528,7 @@
       "is_live": true,
       "title": "【#初見さん大歓迎】お金貯めるぞ。#15【#YCGTA】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-18T11:24:06Z",
+      "started_at": "2026-08-18T16:50:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
@@ -563,11 +563,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日ものんびりやってくよ【ストロ・べリオ】#11",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-18T12:01:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
