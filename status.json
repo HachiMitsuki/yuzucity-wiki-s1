@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T00:36:28+09:00",
+  "updated_at": "2026-08-19T00:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,11 +107,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "あ【#vtuber /雷音雅】",
-      "game_name": "StarWard",
-      "started_at": "2026-08-18T11:55:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -671,7 +667,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity/天音あしゅ】牢屋の天使はお疲れもーど🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-18T15:45:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
