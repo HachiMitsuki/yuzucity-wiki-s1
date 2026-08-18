@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T11:17:32+09:00",
+  "updated_at": "2026-08-18T14:27:49+09:00",
   "clips": [
+    {
+      "id": 314,
+      "source": "twitch",
+      "source_id": "CrowdedTawdryHawkArsonNoSexy-iiILVTSxksM94x1Q",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/CrowdedTawdryHawkArsonNoSexy-iiILVTSxksM94x1Q",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CrowdedTawdryHawkArsonNoSexy-iiILVTSxksM94x1Q",
+      "title": "【ゆず鯖】パンクとスクーターとタイヤとワタシ【紅茶猫/Koucyaneco】",
+      "description": "https://www.twitch.tv/koucyanec0319/clip/CrowdedTawdryHawkArsonNoSexy-iiILVTSxksM94x1Q",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b6b258fb-4d7c-4212-961c-2d2f752aae2a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/efb4aed2c826e3b2dc9bb7ad1092ddcc.png?size=128",
+      "posted_at": "2026-08-18T14:27:44+09:00"
+    },
     {
       "id": 313,
       "source": "youtube",
