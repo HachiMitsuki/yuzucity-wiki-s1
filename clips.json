@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T14:27:49+09:00",
+  "updated_at": "2026-08-18T17:11:11+09:00",
   "clips": [
+    {
+      "id": 315,
+      "source": "twitch",
+      "source_id": "AlertAliveMagpiePeteZarollTie-CwNwy5fVFHl4ABxy",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/AlertAliveMagpiePeteZarollTie-CwNwy5fVFHl4ABxy",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AlertAliveMagpiePeteZarollTie-CwNwy5fVFHl4ABxy",
+      "title": "BOSSの助手席を取り合う人質",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/AlertAliveMagpiePeteZarollTie-CwNwy5fVFHl4ABxy",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b428f9be-67f9-4b4d-9691-501d51f7e97d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 53,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-08-18T17:11:10+09:00"
+    },
     {
       "id": 314,
       "source": "twitch",
