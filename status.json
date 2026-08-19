@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:36:26+09:00",
+  "updated_at": "2026-08-19T18:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -671,7 +671,11 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA]新しい仕事増えたらしい[#VTuber]",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-19T09:37:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -801,7 +805,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】Season1Day7【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-19T09:40:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
