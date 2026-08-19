@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T17:36:24+09:00",
+  "updated_at": "2026-08-19T17:42:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -826,6 +826,16 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
+      "platform": "twitch",
+      "id": "ynym0o",
+      "login": "ynym0o",
+      "user_id": "706047272",
+      "display_name": "ユノチヤン",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ynym0o",
+      "is_live": false
+    },
+    {
       "platform": "youtube",
       "id": "UCjtNUzbnglluVtV7ZH8lz5Q",
       "channel_id": "UCjtNUzbnglluVtV7ZH8lz5Q",
@@ -1133,6 +1143,16 @@
       "display_name": "はぶちゃん",
       "profile_image_url": "https://yt3.ggpht.com/z3bihyqvYQZljT2TBuitdFLjdIDqgR2RRqfoG3KyQNnh0nrKgYLGRg916FMQyhF24a2icPq36c4=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40have_vt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCECThLJPKejtqebOAWBJV9w",
+      "channel_id": "UCECThLJPKejtqebOAWBJV9w",
+      "handle": "@yy_on613",
+      "display_name": "ゆの* / Yn_O*channel",
+      "profile_image_url": "https://yt3.ggpht.com/cfrjm-BdYiv2QyFF9zVqEGsSL2MIh20iUTBUxAJXO6tEuFNC20eQ7BJePITQ6CbC3uWARvlg8A=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yy_on613",
       "is_live": false
     }
   ]
