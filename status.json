@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:51:29+09:00",
+  "updated_at": "2026-08-19T22:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -397,11 +397,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#24 今日もレベリング!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-19T09:10:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
