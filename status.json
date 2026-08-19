@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T06:46:19+09:00",
+  "updated_at": "2026-08-19T10:51:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,7 +479,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "スキンかっこよすぎて始めました。",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-19T01:48:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -601,7 +605,7 @@
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
       "title": "【Yuzucity/天音あしゅ】牢屋の天使はお疲れもーど🍀➡仕事終わりのおば部 @ashnyaaaaan 🍭",
-      "game_name": "Overwatch",
+      "game_name": "Just Chatting",
       "started_at": "2026-08-18T15:45:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
