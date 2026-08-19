@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T21:05:01+09:00",
+  "updated_at": "2026-08-19T11:35:07+09:00",
   "clips": [
+    {
+      "id": 318,
+      "source": "twitch",
+      "source_id": "HeadstrongVibrantLeopardTwitchRaid-oavMRoz41fyRErLL",
+      "url": "https://www.twitch.tv/toka_ruki/clip/HeadstrongVibrantLeopardTwitchRaid-oavMRoz41fyRErLL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HeadstrongVibrantLeopardTwitchRaid-oavMRoz41fyRErLL",
+      "title": "「元気出してお兄ちゃん♡」※妹ボイスに観測者も喜んでました",
+      "description": "https://www.twitch.tv/toka_ruki/clip/HeadstrongVibrantLeopardTwitchRaid-oavMRoz41fyRErLL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d8b685c3-2315-4f39-b39e-fa7055735c58/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-08-19T11:35:06+09:00"
+    },
     {
       "id": 317,
       "source": "youtube",
