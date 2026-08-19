@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T01:31:26+09:00",
+  "updated_at": "2026-08-20T01:45:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1193,6 +1193,16 @@
       "display_name": "ゆの* / Yn_O*channel",
       "profile_image_url": "https://yt3.ggpht.com/cfrjm-BdYiv2QyFF9zVqEGsSL2MIh20iUTBUxAJXO6tEuFNC20eQ7BJePITQ6CbC3uWARvlg8A=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40yy_on613",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCgkWTQYYIbzY9Kghm9t7BxQ",
+      "channel_id": "UCgkWTQYYIbzY9Kghm9t7BxQ",
+      "handle": "@koa0402",
+      "display_name": "廃人こあ",
+      "profile_image_url": "https://yt3.ggpht.com/XPEbvv8Nb-tKWAUfRTFBBfunfA37goecRBU8hBDbOtTNRiVWNYrtlmjZl2k7LhM-TjCRnMtlQhg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40koa0402",
       "is_live": false
     }
   ]
