@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:01:30+09:00",
+  "updated_at": "2026-08-19T21:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,7 +145,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day１8 たまにはチルく生きよう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-19T12:03:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -311,7 +315,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 17日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-19T12:05:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -483,7 +491,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【MKRust】先生！教わったこと頑張るよ！",
+      "game_name": "Rust",
+      "started_at": "2026-08-19T12:03:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -817,7 +829,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】週の真ん中は交流だろって話",
+      "game_name": "",
+      "started_at": "2026-08-19T12:05:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -875,7 +891,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】17日目 ひとりじかんのすごしかた",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-19T12:01:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
