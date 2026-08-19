@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T02:48:35+09:00",
+  "updated_at": "2026-08-20T02:27:45+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1386,6 +1386,13 @@
       "display_name": "わぁむっぽい何か!!!",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1989190902221524992/uzntDcg2_400x400.jpg",
       "profile_url": "https://x.com/warm_ytac"
+    },
+    {
+      "platform": "x",
+      "handle": "tadanoemu_game",
+      "display_name": "唯乃えむ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2076368646679789568/yTHDblje_400x400.jpg",
+      "profile_url": "https://x.com/tadanoemu_game"
     }
   ]
 }
