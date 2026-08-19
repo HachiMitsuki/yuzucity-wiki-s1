@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:01:32+09:00",
+  "updated_at": "2026-08-19T22:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "初見すぎるRust【龍咲】【#MKRust】",
+      "game_name": "Rust",
+      "started_at": "2026-08-19T13:17:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
