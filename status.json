@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:26:32+09:00",
+  "updated_at": "2026-08-20T23:31:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -533,7 +533,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃19【いってぇ】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T14:26:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -773,11 +777,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTAV】逢坂 戎｜#YuzuCity｜Day.5｜久々",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T12:18:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
