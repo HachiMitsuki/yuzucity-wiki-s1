@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:56:30+09:00",
+  "updated_at": "2026-08-21T00:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -841,11 +841,7 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": true,
-      "title": "【Yuzu City】今日はチルいらしい",
-      "game_name": "",
-      "started_at": "2026-08-20T10:45:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
