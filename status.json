@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:31:37+09:00",
+  "updated_at": "2026-08-20T23:41:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -85,11 +85,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】あいうえお #19【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T08:19:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
