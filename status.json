@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:01:29+09:00",
+  "updated_at": "2026-08-21T03:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_season1_day19 幽霊店舗がないEATS",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T08:03:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -817,11 +813,7 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": true,
-      "title": "【チル配信/初見大歓迎】エペしないとなのに day7【 #YuzuCity 】#HioriRost_LIVE",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T13:11:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
