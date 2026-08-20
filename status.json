@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:41:32+09:00",
+  "updated_at": "2026-08-20T23:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -481,11 +481,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "yuzucity何日目 !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T12:35:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -620,7 +616,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
       "is_live": true,
-      "title": "【Yuzu City】Day 19 釣り人 #YuzuCity #YCGTA",
+      "title": "【ストグラFV Casual】 Day 118 未定 #ストグラFV_CASUAL ←【Yuzu City】Day 19 釣り人 #YuzuCity #YCGTA",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-20T12:37:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
@@ -739,11 +735,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#YCGTA]アラサーになってみた[#VTuber]",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T10:10:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
