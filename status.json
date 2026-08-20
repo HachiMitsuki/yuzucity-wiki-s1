@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T02:06:28+09:00",
+  "updated_at": "2026-08-21T02:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "何も分からないが楽しい【龍咲】【#MKRust】",
-      "game_name": "Rust",
-      "started_at": "2026-08-20T11:44:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -467,11 +463,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【MKRust】農業が過酷だと！？いや！俺は料理マスターになる！",
-      "game_name": "Rust",
-      "started_at": "2026-08-20T11:56:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
