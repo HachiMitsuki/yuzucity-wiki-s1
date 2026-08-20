@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:51:32+09:00",
+  "updated_at": "2026-08-20T23:56:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -237,11 +237,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【LienCity】Ignis１億の借金を抱えたけど犯罪やります#18",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T11:39:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -343,11 +339,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【MKRust】1日遅れで開始！今日が俺の初日だ！",
-      "game_name": "Rust",
-      "started_at": "2026-08-20T13:06:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -471,7 +463,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-20T14:51:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
