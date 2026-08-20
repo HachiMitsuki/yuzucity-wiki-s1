@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:11:35+09:00",
+  "updated_at": "2026-08-20T22:16:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -151,7 +151,11 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "APEX rank 眠いが遊びたい",
+      "game_name": "",
+      "started_at": "2026-08-20T13:11:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -539,11 +543,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "本日、無職になった独身ハンター",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-08-20T09:32:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -929,7 +929,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【チル配信/初見大歓迎】エペしないとなのに day7【 #YuzuCity 】#HioriRost_LIVE",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T13:11:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
