@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:01:24+09:00",
+  "updated_at": "2026-08-21T04:31:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,11 +263,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】 18日目 ALTIORボス 【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T11:24:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
