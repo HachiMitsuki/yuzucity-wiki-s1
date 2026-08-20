@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:52:46+09:00",
+  "updated_at": "2026-08-21T08:20:25+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -77,6 +77,13 @@
       "display_name": "柚木なつな🌻",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1899701968039501824/QeRguiqF_400x400.jpg",
       "profile_url": "https://x.com/natsuna_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "toshio300",
+      "display_name": "とんしお@twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2049900609038671872/tuC4DJvY_400x400.png",
+      "profile_url": "https://x.com/toshio300"
     },
     {
       "platform": "x",
