@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:36:35+09:00",
+  "updated_at": "2026-08-20T22:56:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,11 +99,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【OW】ライバル今日もフレンズと！！勝ちてぇーーー！【初見歓迎】",
-      "game_name": "Overwatch",
-      "started_at": "2026-08-20T12:08:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -689,11 +685,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【RET City】残業確定【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T12:36:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
