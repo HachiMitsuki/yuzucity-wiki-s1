@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:56:36+09:00",
+  "updated_at": "2026-08-20T22:11:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -351,7 +351,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【MKRust】1日遅れで開始！今日が俺の初日だ！",
+      "game_name": "Rust",
+      "started_at": "2026-08-20T13:06:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
