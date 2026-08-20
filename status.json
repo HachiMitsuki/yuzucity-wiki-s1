@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:16:31+09:00",
+  "updated_at": "2026-08-20T21:21:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -398,7 +398,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
       "is_live": true,
-      "title": "【yuzucity】#24 今日もレベリング!",
+      "title": "【yuzucity】#25 B帯やりたい！！!",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-20T09:22:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
@@ -571,7 +571,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#17 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T12:20:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -761,7 +765,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAV】逢坂 戎｜#YuzuCity｜Day.5｜久々",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T12:18:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
