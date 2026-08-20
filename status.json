@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T00:06:30+09:00",
+  "updated_at": "2026-08-21T00:16:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -583,11 +583,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日ものんびりやってくよ【ストロ・べリオ】#13",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T10:42:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -900,9 +896,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
       "is_live": true,
-      "title": "【#enshrouded】俺たちの霧ングダム #9 【地底組】",
-      "game_name": "Enshrouded",
-      "started_at": "2026-08-20T12:55:36Z",
+      "title": "【YuzuCitySeason1】18日目 遅くなったからちょっとだけ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T15:09:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
