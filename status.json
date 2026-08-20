@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T00:51:31+09:00",
+  "updated_at": "2026-08-21T01:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,11 +23,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[YuzuCity] 兎葉 柚白 day14 ギャングか否か",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-20T12:28:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
