@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:36:29+09:00",
+  "updated_at": "2026-08-20T18:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -801,7 +801,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】Season1Day8【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-20T09:52:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
