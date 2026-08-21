@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:20:25+09:00",
+  "updated_at": "2026-08-21T11:04:50+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1414,6 +1414,13 @@
       "display_name": "MISSCLICKPRO",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2082350775053983744/B66FNKi8_400x400.jpg",
       "profile_url": "https://x.com/missclickpro"
+    },
+    {
+      "platform": "x",
+      "handle": "azmai0821",
+      "display_name": "あづま あい【集真 藍】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1959240690606718976/gJwHKVAt_400x400.jpg",
+      "profile_url": "https://x.com/azmai0821"
     }
   ]
 }
