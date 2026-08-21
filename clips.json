@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-21T18:03:23+09:00",
+  "updated_at": "2026-08-22T04:43:02+09:00",
   "clips": [
+    {
+      "id": 324,
+      "source": "twitch",
+      "source_id": "SassyLightEggnogBrainSlug-Rr-qB6iki8jQxPun",
+      "url": "https://www.twitch.tv/nao_neworld/clip/SassyLightEggnogBrainSlug-Rr-qB6iki8jQxPun",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SassyLightEggnogBrainSlug-Rr-qB6iki8jQxPun",
+      "title": "これがコミュ力",
+      "description": "https://www.twitch.tv/nao_neworld/clip/SassyLightEggnogBrainSlug-Rr-qB6iki8jQxPun",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a8480a6-d811-445a-be18-3820c6b94cce/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 32,
+      "broadcaster_name": "奈緒オブザイヤー",
+      "author_name": "奈緒。",
+      "author_avatar": "https://cdn.discordapp.com/avatars/332901272275386370/19b82025394176cfaccf3e5b2591aedf.png?size=128",
+      "posted_at": "2026-08-22T04:43:01+09:00"
+    },
     {
       "id": 323,
       "source": "youtube",
