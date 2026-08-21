@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T04:41:19+09:00",
+  "updated_at": "2026-08-22T05:01:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -243,11 +243,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【#rust 】MKRust 二人がカラオケしてる間俺はファーム、、、いじめですか？ｗｗｗｗ",
-      "game_name": "Rust",
-      "started_at": "2026-08-21T07:09:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
