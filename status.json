@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:21:35+09:00",
+  "updated_at": "2026-08-21T20:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -161,7 +161,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "新しい犯罪増えたってことは…服作んなきゃね…正装ってやつを",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T11:35:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
