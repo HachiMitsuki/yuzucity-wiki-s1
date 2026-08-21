@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:16:27+09:00",
+  "updated_at": "2026-08-22T01:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -485,11 +485,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "yuzucity何日目 ギャングなりたい !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T13:53:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -915,11 +911,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Yuzu City:フランマ】新天地へ #Day1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T13:16:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
