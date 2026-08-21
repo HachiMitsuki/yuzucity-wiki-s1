@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:21:24+09:00",
+  "updated_at": "2026-08-22T04:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "2次会始まりました。",
       "game_name": "VALORANT",
-      "started_at": "2026-08-21T13:20:27Z",
+      "started_at": "2026-08-21T18:50:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
@@ -527,11 +527,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#18 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T10:40:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
