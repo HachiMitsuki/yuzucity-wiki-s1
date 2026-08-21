@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:51:26+09:00",
+  "updated_at": "2026-08-22T01:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,11 +129,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ きっとわくわく ３０話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T13:03:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -695,11 +691,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活12日目 オフロードPD 酒のも課 森林レモン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T12:09:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
