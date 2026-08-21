@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:01:30+09:00",
+  "updated_at": "2026-08-21T21:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -241,7 +241,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【LienCity】Ignis今日は何かしら犯罪やるぞ！！#19",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T12:05:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -704,7 +708,7 @@
       "is_live": true,
       "title": "【#APEX】カンピロバクターだけどごり押しで出場する",
       "game_name": "Apex Legends",
-      "started_at": "2026-08-21T11:54:40Z",
+      "started_at": "2026-08-21T12:01:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
