@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:16:30+09:00",
+  "updated_at": "2026-08-21T20:21:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,7 +83,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】実は初めてじゃないペルソナ５やる！！充実した学園生活を！Pat1【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "Persona 5 Royal",
+      "started_at": "2026-08-21T11:18:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -429,7 +433,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【でるぐら２】スーパーアルバイターこるぅな！！出陣！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T11:17:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
