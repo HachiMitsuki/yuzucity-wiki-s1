@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:41:31+09:00",
+  "updated_at": "2026-08-21T23:01:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -500,7 +500,7 @@
       "is_live": true,
       "title": "yuzucity何日目 ギャングなりたい !device !sens",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T11:04:01Z",
+      "started_at": "2026-08-21T13:53:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
@@ -729,11 +729,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【#APEX】カンピロバクターだけどごり押しで出場する",
-      "game_name": "Apex Legends",
-      "started_at": "2026-08-21T12:01:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
