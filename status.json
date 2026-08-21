@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T13:16:22+09:00",
+  "updated_at": "2026-08-21T15:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -340,8 +340,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": true,
-      "title": "【 VALORANT 】変な男とデュオ",
-      "game_name": "VALORANT",
+      "title": "【 APEX 】変な男とデュオ",
+      "game_name": "Apex Legends",
       "started_at": "2026-08-21T04:12:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
@@ -717,7 +717,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "新スキン使わせていただきまうす！ﾊﾊｯ",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-21T06:22:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
