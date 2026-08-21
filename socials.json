@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:14:56+09:00",
+  "updated_at": "2026-08-21T21:19:31+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1442,6 +1442,13 @@
       "display_name": "フランマ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2072624635221594112/jnhHzq4m_400x400.jpg",
       "profile_url": "https://x.com/flamma_lily"
+    },
+    {
+      "platform": "x",
+      "handle": "kabotya861",
+      "display_name": "バスター.J.O",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1500361225397764097/StWJeyrt_400x400.jpg",
+      "profile_url": "https://x.com/kabotya861"
     }
   ]
 }
