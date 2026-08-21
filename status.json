@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:11:35+09:00",
+  "updated_at": "2026-08-21T23:16:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -331,7 +331,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 19日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T14:12:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -607,11 +611,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】どうやら新しい犯罪が追加されたらしい？？？【ストロ・べリオ】#14",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T09:38:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
