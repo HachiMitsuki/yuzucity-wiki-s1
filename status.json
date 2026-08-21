@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:11:28+09:00",
+  "updated_at": "2026-08-21T21:15:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,7 +353,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzucity#18日目？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T12:13:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -906,6 +910,16 @@
       "game_name": "Yomawari: Night Alone",
       "started_at": "2026-08-21T12:00:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "flamma_lily",
+      "login": "flamma_lily",
+      "user_id": "136526524",
+      "display_name": "フランマ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/flamma_lily",
+      "is_live": false
     },
     {
       "platform": "youtube",
