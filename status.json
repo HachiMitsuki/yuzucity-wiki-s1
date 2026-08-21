@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T04:01:25+09:00",
+  "updated_at": "2026-08-22T04:11:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -375,11 +375,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "CoD:MW4 β 今夜は寝れない理由がここにある！",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-08-21T17:33:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
