@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:36:32+09:00",
+  "updated_at": "2026-08-21T23:46:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -365,11 +365,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "Yuzucity#18日目？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T12:13:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -881,11 +877,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#ゆずシティ】Season1Day9【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T10:03:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
