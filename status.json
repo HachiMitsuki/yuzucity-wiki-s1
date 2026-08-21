@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T17:41:29+09:00",
+  "updated_at": "2026-08-21T17:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -827,7 +827,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】19日目 早起きしたら何をする？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T08:47:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
