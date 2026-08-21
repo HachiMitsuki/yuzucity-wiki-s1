@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:01:27+09:00",
+  "updated_at": "2026-08-21T20:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -449,7 +449,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity何日目 ギャングなりたい !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T11:04:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
