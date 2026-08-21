@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:31:31+09:00",
+  "updated_at": "2026-08-21T22:36:41+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -545,7 +545,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃20【ギャング 合格】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T13:32:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
