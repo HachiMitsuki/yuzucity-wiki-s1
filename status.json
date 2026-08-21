@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T18:56:27+09:00",
+  "updated_at": "2026-08-21T19:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -736,7 +736,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
       "is_live": true,
-      "title": "【YuzuCity / スト鯖GTA】8日目 占いでチルファーム【占い師Vtuber / 御神オルム】",
+      "title": "【YuzuCity / スト鯖GTA】１０日目 メカニックに就職したよ【占い師Vtuber / 御神オルム】",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-21T09:55:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
@@ -813,7 +813,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】Season1Day9【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T10:03:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
