@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T18:51:27+09:00",
+  "updated_at": "2026-08-21T18:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -735,7 +735,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity / スト鯖GTA】8日目 占いでチルファーム【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T09:55:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_murasaki_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
