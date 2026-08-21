@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:16:30+09:00",
+  "updated_at": "2026-08-21T22:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -559,7 +559,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】ギャングなれました！day17",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T13:20:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -943,7 +947,11 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City:フランマ】新天地へ #Day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T13:16:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
