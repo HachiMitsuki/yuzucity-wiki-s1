@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:01:35+09:00",
+  "updated_at": "2026-08-21T23:11:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -665,7 +665,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】15日目 茶ねこの緊急観測記録 【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-21T14:08:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -925,11 +929,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "【初見夜廻】夏の夜道には気を付けて【夏休みホラゲー企画】©2015 Nippon Ichi Software, Inc.",
-      "game_name": "Yomawari: Night Alone",
-      "started_at": "2026-08-21T12:00:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
