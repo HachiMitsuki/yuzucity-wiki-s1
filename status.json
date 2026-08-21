@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:51:29+09:00",
+  "updated_at": "2026-08-21T20:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -689,7 +689,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#APEX】カンピロバクターだけどごり押しで出場する",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-21T11:54:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -789,11 +793,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【Yuzucity】警察官vlog #5",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-21T09:49:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
