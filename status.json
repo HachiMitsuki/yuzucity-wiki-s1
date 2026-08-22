@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:01:27+09:00",
+  "updated_at": "2026-08-22T17:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,7 +53,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_season1_day21 20じまで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-22T08:02:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -103,7 +107,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】虚無 １６日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-22T08:04:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
