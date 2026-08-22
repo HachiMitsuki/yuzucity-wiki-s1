@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:11:30+09:00",
+  "updated_at": "2026-08-22T21:11:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1259,6 +1259,16 @@
       "display_name": "廃人こあ",
       "profile_image_url": "https://yt3.ggpht.com/XPEbvv8Nb-tKWAUfRTFBBfunfA37goecRBU8hBDbOtTNRiVWNYrtlmjZl2k7LhM-TjCRnMtlQhg=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40koa0402",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCfaxFMZGySOFIuY1WdYvZkw",
+      "channel_id": "UCfaxFMZGySOFIuY1WdYvZkw",
+      "handle": "@hello-eris",
+      "display_name": "ハロエリスch.",
+      "profile_image_url": "https://yt3.ggpht.com/WBkk8UW-n_A_TA7sdv3TqcxOP_U3V-Wjm4vkqYSLJYmE5XP7Pkr72sRdbjseGRRnXQEawAvmNg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40hello-eris",
       "is_live": false
     }
   ]
