@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:41:22+09:00",
+  "updated_at": "2026-08-22T10:26:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -340,7 +340,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": true,
-      "title": "【 VALORANT 】スイフト&コンペをオールで",
+      "title": "【 VALORANT 】スイフト&コンペをオールで / 20歳酒ヤニパチ好きお姉さん",
       "game_name": "VALORANT",
       "started_at": "2026-08-22T00:40:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
@@ -813,7 +813,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "ダスブラ情報確認→感謝の野良マルチ夜渡り正拳突き9日目※NoCheer&Bits/ビッツ禁止【ナイトレイン / ELDENRING NIGHTREIGN】",
+      "game_name": "ELDEN RING NIGHTREIGN",
+      "started_at": "2026-08-22T01:23:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
