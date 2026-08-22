@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:56:28+09:00",
+  "updated_at": "2026-08-22T21:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -441,7 +441,11 @@
       "display_name": "Kumish11",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kumish11",
-      "is_live": false
+      "is_live": true,
+      "title": "Apex Custom",
+      "game_name": "Apex Legends",
+      "started_at": "2026-08-22T11:57:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kumish11-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -641,11 +645,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】16日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T10:55:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
