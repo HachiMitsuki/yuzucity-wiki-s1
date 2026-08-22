@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T00:21:35+09:00",
+  "updated_at": "2026-08-23T00:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,11 +87,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】充実した学園生活を！！鴨志田しばくべし編Pat2【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-08-22T11:18:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -149,11 +145,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day２１ いったん探し物しよか",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T09:04:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -173,11 +165,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "TEAM ZOO APEX CUSTOM 本番てっやつですっ！！！",
-      "game_name": "Apex Legends",
-      "started_at": "2026-08-22T11:37:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
