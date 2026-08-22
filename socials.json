@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:50:23+09:00",
+  "updated_at": "2026-08-23T04:32:20+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1477,6 +1477,13 @@
       "display_name": "柊木蒼桜音 （SRAO）",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2078168450724397056/gd-vVNBh_400x400.jpg",
       "profile_url": "https://x.com/aoto_hiiragi"
+    },
+    {
+      "platform": "x",
+      "handle": "dmist_",
+      "display_name": "DMist+ 𓆑 | ミスト",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2076340534663426048/W6OvRgPa_400x400.jpg",
+      "profile_url": "https://x.com/dmist_"
     }
   ]
 }
