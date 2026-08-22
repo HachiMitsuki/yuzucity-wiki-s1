@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:48:54+09:00",
+  "updated_at": "2026-08-22T23:50:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1470,6 +1470,13 @@
       "display_name": "【SPN】リート",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1784578195121164288/vNvFkomI_400x400.jpg",
       "profile_url": "https://x.com/lied0307_game"
+    },
+    {
+      "platform": "x",
+      "handle": "aoto_hiiragi",
+      "display_name": "柊木蒼桜音 （SRAO）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2078168450724397056/gd-vVNBh_400x400.jpg",
+      "profile_url": "https://x.com/aoto_hiiragi"
     }
   ]
 }
