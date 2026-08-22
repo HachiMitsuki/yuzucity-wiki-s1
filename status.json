@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T02:16:28+09:00",
+  "updated_at": "2026-08-23T02:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -913,11 +913,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #yuzucity 】新章1日目 南雲ジャックの物語 @buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T13:20:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
