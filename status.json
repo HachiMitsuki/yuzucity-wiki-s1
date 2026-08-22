@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:11:32+09:00",
+  "updated_at": "2026-08-22T22:21:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -791,7 +791,11 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【SOLO】D1～ヴァロに嫌われたかも",
+      "game_name": "VALORANT",
+      "started_at": "2026-08-22T13:18:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -960,7 +964,7 @@
       "is_live": true,
       "title": "【 #yuzucity 】新章1日目 南雲ジャックの物語 @buster_jack",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T08:54:50Z",
+      "started_at": "2026-08-22T13:20:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
     },
     {
