@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:51:32+09:00",
+  "updated_at": "2026-08-23T00:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -899,11 +899,7 @@
       "display_name": "狐花かさね",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3607847-5394-459d-bc31-cde40da9bb54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/fox_lyc0ris",
-      "is_live": true,
-      "title": "【REPO】犬科っぽい奴らのREPOコラボ【狐花かさね】",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-08-22T13:01:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fox_lyc0ris-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
