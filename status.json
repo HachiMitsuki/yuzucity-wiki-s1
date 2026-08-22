@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:36:33+09:00",
+  "updated_at": "2026-08-22T23:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -463,11 +463,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［シュミグラ4］※２日目 名前は―海亀守 目を覚ます。ここは……どこだ？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T13:07:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
