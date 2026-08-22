@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T00:01:32+09:00",
+  "updated_at": "2026-08-23T00:06:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -583,11 +583,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #ボダタウ 】#10 メカニック店長：セバスチャン・ブラックウッド｜BorderTownsRound3（GTARPスト鯖） 【たくるす】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T12:01:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -635,7 +631,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 20 釣り人 #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-22T15:04:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
