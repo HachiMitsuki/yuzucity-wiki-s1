@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T02:56:28+09:00",
+  "updated_at": "2026-08-23T03:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day21 〜カレーうどん汁飛ばさず食べるの無理じゃね？～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T10:19:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -97,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー  22日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T08:08:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -195,11 +187,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucity19日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T13:02:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -239,11 +227,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "【yuzucity】day19 一旦探し物探すところからスタート【奈羅鬼 零】  #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T08:16:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -317,11 +301,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【19日目】Yuzu City 出張から強制帰宅😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T12:55:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -331,11 +311,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】久々に衛星つけるよん",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T12:14:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -479,11 +455,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【MKRust】先生...農業マスターできたよ...",
-      "game_name": "Rust",
-      "started_at": "2026-08-22T14:05:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -523,11 +495,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】お金を貯めまくるぞ！day18",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T13:08:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -595,11 +563,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Yuzu City】Day 20 釣り人 #YuzuCity #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T15:04:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -639,11 +603,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】19日目：前回は日付を間違えたEMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T10:08:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -841,11 +801,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#ゆずシティ】Season1Day10 【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T12:49:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
