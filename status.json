@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:21:30+09:00",
+  "updated_at": "2026-08-23T01:31:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "地下へ…【龍咲】【#MKRust】",
-      "game_name": "Rust",
-      "started_at": "2026-08-22T04:33:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
