@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:01:30+09:00",
+  "updated_at": "2026-08-23T01:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -315,11 +315,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 20日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-22T10:55:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -471,11 +467,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【QUIET】おで、アヒルになるよ。中の人出てます。#居酒屋3401",
-      "game_name": "QUIET",
-      "started_at": "2026-08-22T13:00:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -771,11 +763,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【SOLO】D1～ヴァロに嫌われたかも",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-22T13:18:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
