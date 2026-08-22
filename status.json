@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:21:31+09:00",
+  "updated_at": "2026-08-22T22:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -496,7 +496,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
       "is_live": true,
-      "title": "【QUIET】おで、アヒルになるよ。#居酒屋3401",
+      "title": "【QUIET】おで、アヒルになるよ。中の人出てます。#居酒屋3401",
       "game_name": "QUIET",
       "started_at": "2026-08-22T13:00:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
@@ -771,7 +771,11 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】今日はどんな日かな 19日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-22T13:26:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
