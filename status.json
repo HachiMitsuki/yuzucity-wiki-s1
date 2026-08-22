@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T11:51:23+09:00",
+  "updated_at": "2026-08-22T12:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -219,7 +219,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "Lv8～ 昼コフやってくよー",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-08-22T03:45:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
