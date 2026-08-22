@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:51:27+09:00",
+  "updated_at": "2026-08-22T18:01:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -745,11 +745,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "ヴァロシティ",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-22T06:12:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -864,6 +860,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "buster_jack",
+      "login": "buster_jack",
+      "user_id": "840243845",
+      "display_name": "バスタージャックオー",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/buster_jack",
+      "is_live": true,
+      "title": "【 #yuzucity 】新章1日目 南雲ジャックの物語 @buster_jack",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-22T08:54:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
