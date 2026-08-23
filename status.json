@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:56:30+09:00",
+  "updated_at": "2026-08-24T00:21:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -447,11 +447,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#パルワールド】しんぐるぷれい",
-      "game_name": "Palworld",
-      "started_at": "2026-08-23T13:42:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -550,8 +546,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
       "is_live": true,
-      "title": "【#FF14】生徒たちと愉快な仲間たちがいく絶アルテマ攻略 Day1/ #むつきまき",
-      "game_name": "FINAL FANTASY XIV ONLINE",
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃22【街時々FF14】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-23T13:04:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
