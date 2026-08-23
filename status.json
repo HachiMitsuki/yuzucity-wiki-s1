@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:11:31+09:00",
+  "updated_at": "2026-08-23T21:16:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -377,7 +377,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Overwatch】献血に行ったため善行メーターMAXの男",
+      "game_name": "Overwatch",
+      "started_at": "2026-08-23T12:13:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -902,7 +906,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
       "is_live": true,
-      "title": "【コラボ配信/初見大歓迎】カスタムに向けて練習 w/ @takofurai_ @FISH_sanma 【Apex Legends】#HioriRost_LIVE",
+      "title": "【コラボ配信/初見大歓迎】カスタムに向けて\"刈り上げ下茹で三枚おろし\"で練習 w/ @takofurai_ @FISH_sanma 【Apex Legends】#HioriRost_LIVE",
       "game_name": "Apex Legends",
       "started_at": "2026-08-23T12:06:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
