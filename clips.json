@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-23T21:12:52+09:00",
+  "updated_at": "2026-08-24T02:09:37+09:00",
   "clips": [
+    {
+      "id": 328,
+      "source": "twitch",
+      "source_id": "CorrectVastEndiveBudBlast-D4DJ6WYHZFoBJ_M3",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/CorrectVastEndiveBudBlast-D4DJ6WYHZFoBJ_M3",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CorrectVastEndiveBudBlast-D4DJ6WYHZFoBJ_M3",
+      "title": "とんでもねえミサイルきた",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/CorrectVastEndiveBudBlast-D4DJ6WYHZFoBJ_M3",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/22ded929-d7d1-4e3f-8680-9143bc0e56b6/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 14,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-08-24T02:09:36+09:00"
+    },
     {
       "id": 327,
       "source": "twitch",
