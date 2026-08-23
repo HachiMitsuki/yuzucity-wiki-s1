@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-23T05:23:45+09:00",
+  "updated_at": "2026-08-23T21:12:52+09:00",
   "clips": [
+    {
+      "id": 327,
+      "source": "twitch",
+      "source_id": "PhilanthropicDrabPeafowlKappa-zODmkNJUxm2f4nU0",
+      "url": "https://www.twitch.tv/seuday0/clip/PhilanthropicDrabPeafowlKappa-zODmkNJUxm2f4nU0",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PhilanthropicDrabPeafowlKappa-zODmkNJUxm2f4nU0",
+      "title": "爆散",
+      "description": "https://www.twitch.tv/seuday0/clip/PhilanthropicDrabPeafowlKappa-zODmkNJUxm2f4nU0",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bd9fbe96-d49d-49e4-8e92-ac25059456d9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 15,
+      "broadcaster_name": "せうだよ",
+      "author_name": "せう",
+      "author_avatar": "https://cdn.discordapp.com/avatars/633286448707010581/43658456c0fac2872474be5ab7c526b8.png?size=128",
+      "posted_at": "2026-08-23T21:12:45+09:00"
+    },
     {
       "id": 326,
       "source": "youtube",
