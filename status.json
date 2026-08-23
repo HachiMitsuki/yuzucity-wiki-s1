@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:41:32+09:00",
+  "updated_at": "2026-08-23T22:46:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -439,7 +439,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#パルワールド】しんぐるぷれい",
+      "game_name": "Palworld",
+      "started_at": "2026-08-23T13:42:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -973,11 +977,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #yuzucity 】2日目 職を探そう @buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T09:19:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
