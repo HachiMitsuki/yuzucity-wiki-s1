@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T02:01:27+09:00",
+  "updated_at": "2026-08-24T02:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -435,11 +435,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［シュミグラ4］※3日目 名前は―海亀守 目を覚ます。ここは……どこだ？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T14:39:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -613,11 +609,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】FiveM GTA やるど～！12日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T13:19:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -879,11 +871,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】21日目 ゆるっと開店しておこう",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T13:00:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
