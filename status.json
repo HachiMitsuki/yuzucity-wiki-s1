@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:21:30+09:00",
+  "updated_at": "2026-08-23T19:36:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity22日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T10:34:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -513,11 +517,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃22【街時々FF14】/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T09:03:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
