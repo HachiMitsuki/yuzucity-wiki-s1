@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:36:31+09:00",
+  "updated_at": "2026-08-23T22:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -545,7 +545,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#FF14】生徒たちと愉快な仲間たちがいく絶アルテマ攻略 Day1/ #むつきまき",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-08-23T12:58:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -569,7 +573,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#初見さん大歓迎】手が蚊に吸われてすごいかゆい。#19【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T13:00:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -579,7 +587,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#20 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T13:00:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -927,7 +939,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】21日目 ゆるっと開店しておこう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T13:00:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
