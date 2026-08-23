@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:16:34+09:00",
+  "updated_at": "2026-08-23T22:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -409,11 +409,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【yuzucity】#28 みそぎ中の恐竜3日目!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T10:56:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -649,7 +645,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】FiveM GTA やるど～！12日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T13:19:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
