@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:01:32+09:00",
+  "updated_at": "2026-08-23T22:11:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -531,11 +531,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "モンハンウエハース開封しながら狩りまくる",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-08-23T08:18:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -548,7 +544,7 @@
       "is_live": true,
       "title": "【#FF14】生徒たちと愉快な仲間たちがいく絶アルテマ攻略 Day1/ #むつきまき",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-08-23T12:58:44Z",
+      "started_at": "2026-08-23T13:04:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
