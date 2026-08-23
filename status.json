@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:06:26+09:00",
+  "updated_at": "2026-08-24T03:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -515,11 +515,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#20 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T13:00:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -624,7 +620,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【ACRGTA】夏祭りイベントだよ🍀@ashnyaaaaan 🍭",
+      "title": "【Yuzucity/天音あしゅ】牢屋の天使はチルタイム🍀 @ashnyaaaaan 🍭",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-23T14:09:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
