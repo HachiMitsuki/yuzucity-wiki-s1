@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T02:41:26+09:00",
+  "updated_at": "2026-08-24T02:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -675,11 +675,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活13日目 オフロードPD 酒のも課 森林レモン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T12:24:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
