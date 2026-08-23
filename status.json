@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:06:37+09:00",
+  "updated_at": "2026-08-23T23:11:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,11 +471,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［シュミグラ4］※3日目 名前は―海亀守 目を覚ます。ここは……どこだ？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T13:37:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -515,11 +511,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【MKRust】らいむ...出陣！",
-      "game_name": "Rust",
-      "started_at": "2026-08-23T11:32:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -711,7 +703,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【ACRGTA】夏祭りイベントだよ🍀@ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-23T14:09:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -963,11 +959,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Yuzu City:フランマ】個人医目指してEMS体験の続き #Day3",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-23T12:23:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
