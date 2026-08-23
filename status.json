@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:56:21+09:00",
+  "updated_at": "2026-08-23T10:01:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -813,7 +813,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "ダスブラ待機厨による感謝の野良マルチ夜渡り正拳突き9日目※NoCheer&Bits/ビッツ禁止【ナイトレイン / ELDENRING NIGHTREIGN】",
+      "game_name": "ELDEN RING NIGHTREIGN",
+      "started_at": "2026-08-23T01:00:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
