@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:01:30+09:00",
+  "updated_at": "2026-08-23T16:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -347,11 +347,7 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": true,
-      "title": "【 VALORANT 】トリオっちゃう！！ @n8sasuke @sorua_10 /20歳酒ヤニパチ好きお姉さん",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-23T05:57:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
