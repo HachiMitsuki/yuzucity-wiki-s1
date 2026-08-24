@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:11:35+09:00",
+  "updated_at": "2026-08-24T21:16:39+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -409,7 +409,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu city",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:12:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -907,11 +911,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Yuzu City:フランマ】書類審査通ったのでPDの面接する優柔不断人間 #Day4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T10:23:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
