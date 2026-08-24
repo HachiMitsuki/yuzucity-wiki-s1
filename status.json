@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:56:26+09:00",
+  "updated_at": "2026-08-24T19:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -301,7 +301,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu21日目】限界来たらすぐ寝ます😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T10:07:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -781,7 +785,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】鬱な月曜のご褒美",
+      "game_name": "",
+      "started_at": "2026-08-24T10:06:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
