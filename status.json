@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T00:16:32+09:00",
+  "updated_at": "2026-08-25T00:21:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,11 +125,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ わくわくタイムパート３ ３２話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T14:14:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -421,11 +417,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T12:12:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
