@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:21:29+09:00",
+  "updated_at": "2026-08-25T01:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー24日目２枠目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T12:04:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -887,11 +883,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Yuzu City:フランマ】書類審査通ったのでPDの面接する優柔不断人間 part2 #Day4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T13:48:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
