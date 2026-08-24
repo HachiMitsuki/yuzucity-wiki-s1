@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T00:36:31+09:00",
+  "updated_at": "2026-08-25T00:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -151,11 +151,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［#YuzuCity S1］Day7 祇十李 だん 久々起床！色々動きがあるか？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T12:03:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
