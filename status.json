@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:06:20+09:00",
+  "updated_at": "2026-08-24T10:15:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1173,6 +1173,16 @@
       "display_name": "ハロエリスch.",
       "profile_image_url": "https://yt3.ggpht.com/WBkk8UW-n_A_TA7sdv3TqcxOP_U3V-Wjm4vkqYSLJYmE5XP7Pkr72sRdbjseGRRnXQEawAvmNg=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40hello-eris",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCWz2VKuL7vonvggFoQyRtZg",
+      "channel_id": "UCWz2VKuL7vonvggFoQyRtZg",
+      "handle": "@kabo_yach",
+      "display_name": "かぼちゃ(かぼやち)",
+      "profile_image_url": "https://yt3.ggpht.com/J27nZuWHVKrnbgvlcAYYEb3URyzsmrEDZqwD81cnh5mTnxZLATs4yDQdQ1eN-aU8yHgcVEnVsQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kabo_yach",
       "is_live": false
     }
   ]
