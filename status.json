@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:06:33+09:00",
+  "updated_at": "2026-08-24T21:11:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,7 +263,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【#rust 】MKRust 休みじゃ休みじゃー！",
+      "game_name": "Rust",
+      "started_at": "2026-08-24T12:10:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -435,7 +439,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "［yuzucity］聖職者の『セメトル・ジュース』16日目 出勤！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:07:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -523,7 +531,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】チルタイム！day20",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:07:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
