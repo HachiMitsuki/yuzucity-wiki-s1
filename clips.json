@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-24T02:09:37+09:00",
+  "updated_at": "2026-08-24T15:03:24+09:00",
   "clips": [
+    {
+      "id": 329,
+      "source": "twitch",
+      "source_id": "PeppyPrettyHerdPanicBasket-VL3aMEQbWkkV5T6l",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/PeppyPrettyHerdPanicBasket-VL3aMEQbWkkV5T6l",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PeppyPrettyHerdPanicBasket-VL3aMEQbWkkV5T6l",
+      "title": "髪コントでシバかれるナビスコ",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/PeppyPrettyHerdPanicBasket-VL3aMEQbWkkV5T6l",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d0b17c4f-70ea-48b7-bac8-2774b8f6be8f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 53,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-08-24T15:03:23+09:00"
+    },
     {
       "id": 328,
       "source": "twitch",
