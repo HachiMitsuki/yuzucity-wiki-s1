@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T00:01:37+09:00",
+  "updated_at": "2026-08-25T00:06:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -767,11 +767,7 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": true,
-      "title": "【YuzuCity】できることやる 21日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T10:42:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -861,11 +857,7 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": true,
-      "title": "【Yuzu City】鬱な月曜のご褒美",
-      "game_name": "",
-      "started_at": "2026-08-24T10:06:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
