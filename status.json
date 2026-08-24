@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:01:32+09:00",
+  "updated_at": "2026-08-24T21:06:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】本日aimBADday #23【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:05:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -94,9 +98,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
       "is_live": true,
-      "title": "ゆずシティー24日目",
+      "title": "ゆずシティー24日目２枠目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T09:22:57Z",
+      "started_at": "2026-08-24T12:04:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
@@ -151,7 +155,11 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": false
+      "is_live": true,
+      "title": "［#YuzuCity S1］Day7 祇十李 だん 久々起床！色々動きがあるか？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:03:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
