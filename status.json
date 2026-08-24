@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:21:28+09:00",
+  "updated_at": "2026-08-24T21:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,11 +53,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "タルコフPvE ファイル集めしたい",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-08-24T09:18:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -539,7 +535,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#21 メカニックの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:00:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -619,11 +619,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】21日目：今週も短時間勤務から始まるEMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T08:34:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -667,7 +663,11 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City 生活14日目 オフロードPD 酒のも課 森林レモン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T12:00:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
