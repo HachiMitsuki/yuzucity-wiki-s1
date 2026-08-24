@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:36:28+09:00",
+  "updated_at": "2026-08-25T01:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -295,11 +295,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 22日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-24T11:07:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -879,7 +875,11 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City:フランマ】書類審査通ったのでPDの面接する優柔不断人間 part2 #Day4",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-24T16:50:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
