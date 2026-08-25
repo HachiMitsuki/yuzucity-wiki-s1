@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:11:27+09:00",
+  "updated_at": "2026-08-25T20:21:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,11 +307,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 23日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T10:23:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -483,7 +479,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【MKRust】PvPイベント？？？任せな",
+      "game_name": "Rust",
+      "started_at": "2026-08-25T11:17:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
