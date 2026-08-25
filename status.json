@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T00:16:31+09:00",
+  "updated_at": "2026-08-26T00:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -91,11 +91,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】充実した学園生活を！！鴨志田討伐すべしこの手でラスト！！ Pat4【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-08-25T12:03:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
