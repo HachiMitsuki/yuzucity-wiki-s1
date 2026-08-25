@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:53:38+09:00",
+  "updated_at": "2026-08-25T22:56:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -991,11 +991,7 @@
       "display_name": "samuo_00",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bd8f4a0-36e5-48f8-bf99-9bca031307df-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samuo_00",
-      "is_live": true,
-      "title": "【#yuzucity】ほぼはじめてのGTAスト鯖！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T12:26:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samuo_00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
