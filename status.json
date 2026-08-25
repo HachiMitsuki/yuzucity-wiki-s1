@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T02:06:25+09:00",
+  "updated_at": "2026-08-26T02:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -313,11 +313,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【【YuzuCity22日目】行くわよ😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T10:11:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -574,7 +570,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
       "is_live": true,
-      "title": "はっぴぃはっぴぃ  初見さん◎ROM◎Drops◎",
+      "title": "GTA→OW はっぴぃはっぴぃ  初見さん◎ROM◎Drops◎",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-25T08:00:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
