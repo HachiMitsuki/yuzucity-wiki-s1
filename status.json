@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:26:28+09:00",
+  "updated_at": "2026-08-26T01:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -945,11 +945,7 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": true,
-      "title": "【YuzuCity🍊】メカニックに俺はなる！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T13:48:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
