@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:01:25+09:00",
+  "updated_at": "2026-08-25T17:11:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -219,7 +219,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】day22 今日はファームデー【奈羅鬼 零】  #yuzucity #YCGTA #ゆず鯖T",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-25T08:09:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -558,8 +562,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
       "is_live": true,
-      "title": "【 #鳴潮 】少しだけストーリー【#個人V #Vtuber】",
-      "game_name": "Wuthering Waves",
+      "title": "【 #ZZZ 】デイリー【#個人V #Vtuber】",
+      "game_name": "Zenless Zone Zero",
       "started_at": "2026-08-25T06:54:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
