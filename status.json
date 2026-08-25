@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:46:29+09:00",
+  "updated_at": "2026-08-26T01:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -409,11 +409,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T13:23:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -443,11 +439,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［シュミグラ4］※4日目 名前は―海亀守 警察亀に俺はなる！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T10:52:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
