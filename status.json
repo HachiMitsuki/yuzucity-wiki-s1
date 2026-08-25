@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:01:30+09:00",
+  "updated_at": "2026-08-25T21:04:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -651,11 +651,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】22日目：今日は街チルデー【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T09:45:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1281,6 +1277,16 @@
       "display_name": "藤乃きりん /Kilin Fuzino",
       "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_nyKMPsnFmza8JR8T0P4yVOX5k1m5UIa0QjWdvyM79hoaM=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40kilin-fuzino-vt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCVk6zdh_omIqZBf2KyXesVw",
+      "channel_id": "UCVk6zdh_omIqZBf2KyXesVw",
+      "handle": "@n4x2_me",
+      "display_name": "斜(ﾅﾅﾒ)さん",
+      "profile_image_url": "https://yt3.ggpht.com/XFW19efKnrz2Mtz6U1_a_yELSDSK8FTuwo3wqo9oLKFJBQ1MsULUvBaLR2hZ9kQ0iP6FWb-vwsA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40n4x2_me",
       "is_live": false
     }
   ]
