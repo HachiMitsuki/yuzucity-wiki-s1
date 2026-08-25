@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:52:36+09:00",
+  "updated_at": "2026-08-25T22:38:25+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1498,6 +1498,13 @@
       "display_name": "カイさん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1928051365219115008/OpDhcUO6_400x400.jpg",
       "profile_url": "https://x.com/tequila_no_kai"
+    },
+    {
+      "platform": "x",
+      "handle": "sa_mu_o0",
+      "display_name": "さむお",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2075253764379066368/xBdlTHD__400x400.jpg",
+      "profile_url": "https://x.com/sa_mu_o0"
     }
   ]
 }
