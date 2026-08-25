@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:06:25+09:00",
+  "updated_at": "2026-08-26T03:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -227,11 +227,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "【yuzucity】day22 今日はファームデー【奈羅鬼 零】  #yuzucity #YCGTA #ゆず鯖T",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T08:09:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
