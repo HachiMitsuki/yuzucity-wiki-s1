@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:26:29+09:00",
+  "updated_at": "2026-08-25T20:27:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1259,6 +1259,16 @@
       "display_name": "かぼちゃ(かぼやち)",
       "profile_image_url": "https://yt3.ggpht.com/J27nZuWHVKrnbgvlcAYYEb3URyzsmrEDZqwD81cnh5mTnxZLATs4yDQdQ1eN-aU8yHgcVEnVsQ=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40kabo_yach",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCnNviD-V3CD3D-4H9tcgDyA",
+      "channel_id": "UCnNviD-V3CD3D-4H9tcgDyA",
+      "handle": "@kilin-fuzino-vt",
+      "display_name": "藤乃きりん /Kilin Fuzino",
+      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_nyKMPsnFmza8JR8T0P4yVOX5k1m5UIa0QjWdvyM79hoaM=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kilin-fuzino-vt",
       "is_live": false
     }
   ]
