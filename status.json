@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:36:28+09:00",
+  "updated_at": "2026-08-26T01:41:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -155,11 +155,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［#YuzuCity S1］Day1 ???  正義を志す男",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T12:04:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -319,11 +315,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 23日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T12:04:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -557,11 +549,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#初見さん大歓迎】貯金始まります。#21【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-25T09:24:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
