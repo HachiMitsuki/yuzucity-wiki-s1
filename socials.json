@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T08:29:16+09:00",
+  "updated_at": "2026-08-25T16:52:36+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -280,6 +280,13 @@
       "display_name": "🍃ユズリハ🍃",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2065614816329523200/6oWtT8Qj_400x400.jpg",
       "profile_url": "https://x.com/yuzuriha_012"
+    },
+    {
+      "platform": "x",
+      "handle": "bikichan528",
+      "display_name": "舞鶴びき🦢🪶",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2083374747812003840/kMz1mkbq_400x400.jpg",
+      "profile_url": "https://x.com/bikichan528"
     },
     {
       "platform": "x",
