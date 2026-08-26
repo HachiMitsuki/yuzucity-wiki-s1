@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T02:41:28+09:00",
+  "updated_at": "2026-08-27T02:46:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -863,11 +863,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Yuzu City:フランマ】PD正式採用なるか？ #Day6",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T16:11:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
