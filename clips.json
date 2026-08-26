@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-27T01:27:04+09:00",
+  "updated_at": "2026-08-27T02:25:00+09:00",
   "clips": [
+    {
+      "id": 338,
+      "source": "twitch",
+      "source_id": "CrackyBlindingFishCoolStoryBro-ETSiy9vfqWzfALlt",
+      "url": "https://www.twitch.tv/thanatos4090/clip/CrackyBlindingFishCoolStoryBro-ETSiy9vfqWzfALlt",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CrackyBlindingFishCoolStoryBro-ETSiy9vfqWzfALlt",
+      "title": "【Yuzu City】ロスサントスは青かった",
+      "description": "https://www.twitch.tv/thanatos4090/clip/CrackyBlindingFishCoolStoryBro-ETSiy9vfqWzfALlt",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/42272316-ba8a-4fdd-ac9c-c394572538ea/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 52,
+      "broadcaster_name": "thanatos4090",
+      "author_name": "たなとす/Thanatos_Al",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "posted_at": "2026-08-27T02:24:59+09:00"
+    },
     {
       "id": 337,
       "source": "twitch",
