@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T20:46:32+09:00",
+  "updated_at": "2026-08-26T21:01:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -535,7 +535,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #マダミス 】 この慟哭は届かない | たくるす【 初見さん・ROM専大歓迎・JP/EN 】",
+      "game_name": "Tabletop RPGs",
+      "started_at": "2026-08-26T12:00:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
