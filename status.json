@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T04:01:26+09:00",
+  "updated_at": "2026-08-27T05:06:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】配信タイトル考えたのに忘れた #25【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T11:24:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -533,11 +529,7 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": true,
-      "title": "はっぴぃはっぴぃはっぴぃ  初見さん◎ROM◎Drops◎",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T08:38:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -607,11 +599,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】牢屋の天使は早い時間もがんばる！🍀 @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T09:39:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -871,11 +859,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "YCGTA YuzuCity | EMS頑張る | @DMist",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T12:09:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
