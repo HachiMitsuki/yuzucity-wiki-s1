@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-26T23:32:28+09:00",
+  "updated_at": "2026-08-27T01:27:04+09:00",
   "clips": [
+    {
+      "id": 337,
+      "source": "twitch",
+      "source_id": "GleamingVivaciousCrocodileSaltBae-kfe-outV0CBLmFLn",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/GleamingVivaciousCrocodileSaltBae-kfe-outV0CBLmFLn",
+      "embed_url": "https://clips.twitch.tv/embed?clip=GleamingVivaciousCrocodileSaltBae-kfe-outV0CBLmFLn",
+      "title": "【ゆず鯖/GTA】突然のプレゼント【紅茶猫/Koucyaneco】",
+      "description": "https://www.twitch.tv/koucyanec0319/clip/GleamingVivaciousCrocodileSaltBae-kfe-outV0CBLmFLn",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d51002bf-628e-41c2-896d-940adb33ac66/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 59,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/efb4aed2c826e3b2dc9bb7ad1092ddcc.png?size=128",
+      "posted_at": "2026-08-27T01:27:03+09:00"
+    },
     {
       "id": 336,
       "source": "youtube",
