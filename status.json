@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T01:56:29+09:00",
+  "updated_at": "2026-08-27T02:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -205,11 +205,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#シミュグラ4】紅  翠5日目「カスミソウの輪」【千紫万紅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T09:55:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -857,11 +853,7 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": true,
-      "title": "【コラボ配信/初見大歓迎】カスタムに向けて\"刈り上げ下茹で三枚おろし\"で練習 w/ @takofurai_ @FISH_sanma 【Apex Legends】#HioriRost_LIVE",
-      "game_name": "Apex Legends",
-      "started_at": "2026-08-26T13:03:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
