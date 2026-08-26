@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:26:27+09:00",
+  "updated_at": "2026-08-26T12:21:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,7 +121,7 @@
       "channel_url": "https://www.twitch.tv/rindou_azuki",
       "is_live": true,
       "title": "APEX rank  アドレナリンを出してくれ",
-      "game_name": "",
+      "game_name": "Apex Legends",
       "started_at": "2026-08-26T02:06:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
@@ -647,11 +647,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#YCGTA]少しだけかもしれない[#VTuber]",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T02:24:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
