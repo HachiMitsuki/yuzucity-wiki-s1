@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:26:29+09:00",
+  "updated_at": "2026-08-26T17:31:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day25 〜病院行きました偉い～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-26T08:29:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
