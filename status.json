@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T21:11:39+09:00",
+  "updated_at": "2026-08-26T21:16:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -439,7 +439,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "［シュミグラ4］※5日目 名前は―海亀守 警察亀に俺はなる！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-26T12:13:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
