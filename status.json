@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T01:31:31+09:00",
+  "updated_at": "2026-08-27T01:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,11 +145,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day２５ お金稼ぐぞ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T12:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
