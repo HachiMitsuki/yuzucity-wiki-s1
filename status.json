@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:36:26+09:00",
+  "updated_at": "2026-08-26T12:46:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,11 +119,7 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": true,
-      "title": "APEX rank  アドレナリンを出してくれ",
-      "game_name": "Apex Legends",
-      "started_at": "2026-08-26T02:06:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
