@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T02:51:28+09:00",
+  "updated_at": "2026-08-27T03:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -495,11 +495,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】犯罪オンパレード？！day22",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-08-26T13:16:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
