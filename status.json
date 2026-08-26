@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T18:51:30+09:00",
+  "updated_at": "2026-08-26T18:52:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1263,6 +1263,16 @@
       "display_name": "斜(ﾅﾅﾒ)さん",
       "profile_image_url": "https://yt3.ggpht.com/XFW19efKnrz2Mtz6U1_a_yELSDSK8FTuwo3wqo9oLKFJBQ1MsULUvBaLR2hZ9kQ0iP6FWb-vwsA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40n4x2_me",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCsH5uAFW8xxIjI74aJ4AgEg",
+      "channel_id": "UCsH5uAFW8xxIjI74aJ4AgEg",
+      "handle": "@haruyukiseto",
+      "display_name": "瀬渡 覇維 / Haruyuki Seto",
+      "profile_image_url": "https://yt3.ggpht.com/zIML_8a823TRhE5RJOYS96bu0Ead808djf4BlN7uKGt3tBfeS61OwPCvXxGrwq7rbdEngcABFA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40haruyukiseto",
       "is_live": false
     }
   ]
