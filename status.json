@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:17:40+09:00",
+  "updated_at": "2026-09-19T19:27:40+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -43,7 +43,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day49 〜オムライスが食べたいです～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T10:22:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -369,11 +373,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【ドンキーコング64】#4 みんな予定があって忙しそうなのでまったりゲーム！",
-      "game_name": "Donkey Kong 64",
-      "started_at": "2026-09-19T07:12:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
