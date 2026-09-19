@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T03:57:36+09:00",
+  "updated_at": "2026-09-20T04:01:17+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,11 +99,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "深夜のデイリー部",
-      "game_name": "StarWard",
-      "started_at": "2026-09-19T09:39:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
