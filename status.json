@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:42:41+09:00",
+  "updated_at": "2026-09-19T19:02:40+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -193,7 +193,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠22日目「睡蓮の水面」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T09:57:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
