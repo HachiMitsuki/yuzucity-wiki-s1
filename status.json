@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:12:45+09:00",
+  "updated_at": "2026-09-19T23:17:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -311,7 +311,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 44日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T14:13:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -405,7 +409,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu city",
+      "game_name": "",
+      "started_at": "2026-09-19T14:12:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -775,11 +783,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】21日目特殊なレースと作業が多め【占い師Vtuber / 御神オルム】",
-      "game_name": "",
-      "started_at": "2026-09-19T12:26:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
