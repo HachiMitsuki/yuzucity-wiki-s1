@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:57:49+09:00",
+  "updated_at": "2026-09-19T16:17:39+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ドンキーコング64】#4 みんな予定があって忙しそうなのでまったりゲーム！",
+      "game_name": "Donkey Kong 64",
+      "started_at": "2026-09-19T07:12:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
