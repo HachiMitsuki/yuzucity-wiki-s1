@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-19T15:57:30+09:00",
+  "updated_at": "2026-09-19T23:07:19+09:00",
   "clips": [
+    {
+      "id": 380,
+      "source": "twitch",
+      "source_id": "AbrasiveCooperativeFriesMcaT-_7aNBjdqmFuUUe9G",
+      "url": "https://www.twitch.tv/arusapp_/clip/AbrasiveCooperativeFriesMcaT-_7aNBjdqmFuUUe9G",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AbrasiveCooperativeFriesMcaT-_7aNBjdqmFuUUe9G",
+      "title": "￤おでのからだはぼどぼどだ",
+      "description": "https://www.twitch.tv/arusapp_/clip/AbrasiveCooperativeFriesMcaT-_7aNBjdqmFuUUe9G",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0a25dc10-3731-4ede-aa88-45c9dc6736b8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 46,
+      "broadcaster_name": "_あるちゃん",
+      "author_name": "いがらしある",
+      "author_avatar": "https://cdn.discordapp.com/avatars/690198693995216987/2c9cc934456b846b6dc5fbed12e89b26.png?size=128",
+      "posted_at": "2026-09-19T23:07:18+09:00"
+    },
     {
       "id": 339,
       "source": "twitch",
