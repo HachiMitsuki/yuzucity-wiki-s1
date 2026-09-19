@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-20T00:26:37+09:00",
+  "updated_at": "2026-09-20T03:21:42+09:00",
   "clips": [
+    {
+      "id": 382,
+      "source": "youtube",
+      "source_id": "JmJTxWnkEKc",
+      "url": "https://www.youtube.com/shorts/JmJTxWnkEKc",
+      "embed_url": "https://www.youtube.com/embed/JmJTxWnkEKc",
+      "title": null,
+      "description": "●走行中に飛び出す店長\nhttps://www.youtube.com/shorts/JmJTxWnkEKc\n\n●はしごから手が離れダウンするTANI\nhttps://x.com/tani_stream_00/status/2101374692087197886\n\n●おもちゃ(雪玉)を手に入れ、店長をヘッドショットする\nhttps://x.com/tani_stream_00/status/2101375684824461628",
+      "thumbnail_url": "https://i.ytimg.com/vi/JmJTxWnkEKc/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "TANI",
+      "author_avatar": "https://cdn.discordapp.com/avatars/582516431061647371/2badc3e4c3c82b7b3745f7e436893dcb.png?size=128",
+      "posted_at": "2026-09-20T03:21:41+09:00"
+    },
     {
       "id": 381,
       "source": "twitch",
