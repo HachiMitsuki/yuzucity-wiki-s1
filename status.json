@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:06:08+09:00",
+  "updated_at": "2026-09-19T17:12:41+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "[ネタバレあり]サイラスに逢うために俺は来た©WFS Developed by WRIGHT FLYER STUDIOS",
-      "game_name": "Another Eden Begins",
-      "started_at": "2026-09-19T02:01:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -293,7 +289,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【46日目】さすがに熟練度上げをメインに動こう 😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T08:09:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
