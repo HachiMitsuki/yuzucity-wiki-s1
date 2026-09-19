@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-19T23:07:19+09:00",
+  "updated_at": "2026-09-20T00:26:37+09:00",
   "clips": [
+    {
+      "id": 381,
+      "source": "twitch",
+      "source_id": "AbstemiousFrigidCiderPJSugar-1RCmBc_7Kevopbtb",
+      "url": "https://www.twitch.tv/higu_zz/clip/AbstemiousFrigidCiderPJSugar-1RCmBc_7Kevopbtb",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AbstemiousFrigidCiderPJSugar-1RCmBc_7Kevopbtb",
+      "title": "確定負けでよかったね",
+      "description": "https://www.twitch.tv/higu_zz/clip/AbstemiousFrigidCiderPJSugar-1RCmBc_7Kevopbtb",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d61b084b-bace-4c73-9441-aa7e15b267fc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "higu_zz",
+      "author_name": "しろなみ(た)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/305215368367046659/7f1891050e4899fcb1d0c5065017b718.png?size=128",
+      "posted_at": "2026-09-20T00:26:36+09:00"
+    },
     {
       "id": 380,
       "source": "twitch",
