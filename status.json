@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:57:44+09:00",
+  "updated_at": "2026-09-19T22:17:44+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -385,7 +385,7 @@
       "channel_url": "https://www.twitch.tv/live_zer0",
       "is_live": true,
       "title": "とりあえずVALOソロコンペする（LoLコソ練するかも）→23時半からLoLカスタムね！",
-      "game_name": "VALORANT",
+      "game_name": "League of Legends",
       "started_at": "2026-09-19T12:26:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
@@ -499,11 +499,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【kagura City】犯罪に手を染めずに生きるんだ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T06:52:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
