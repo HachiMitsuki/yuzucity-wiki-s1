@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T10:33:50+09:00",
+  "updated_at": "2026-09-19T17:07:18+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1512,6 +1512,13 @@
       "display_name": "さむお",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2075253764379066368/xBdlTHD__400x400.jpg",
       "profile_url": "https://x.com/sa_mu_o0"
+    },
+    {
+      "platform": "x",
+      "handle": "esukavt",
+      "display_name": "エスカVT（翡翠乃愛瑠＆翡翠海里）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2032439385468342272/6NJwALj2_400x400.jpg",
+      "profile_url": "https://x.com/esukavt"
     }
   ]
 }
