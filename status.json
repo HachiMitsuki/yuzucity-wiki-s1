@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:47:38+09:00",
+  "updated_at": "2026-09-20T02:02:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -217,11 +217,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#シミュグラ4】紅  翠22日目「睡蓮の水面」【千紫万紅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T09:57:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -668,8 +664,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "コラボで夜の雨を駆ける🍀 @ashnyaaaaan 🍭 w/なしろん、茶々丸さん",
-      "game_name": "ELDEN RING",
+      "title": "【Yuzucity/天音あしゅ】コラボ後のPD業務🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-19T11:14:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
