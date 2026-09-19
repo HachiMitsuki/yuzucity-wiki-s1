@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T12:06:27+09:00",
+  "updated_at": "2026-09-19T15:52:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "[ネタバレあり]サイラスに逢うために俺は来た©WFS Developed by WRIGHT FLYER STUDIOS",
+      "game_name": "Another Eden Begins",
+      "started_at": "2026-09-19T02:01:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,11 +463,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "期間限定無職のARK 大型拠点を作る",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-08-26T23:21:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -503,7 +503,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #Hin!town 】#1 初めましての街でメカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T05:00:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -634,9 +638,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【#MHWI】ムフェトとか適当に狩る 参加型",
-      "game_name": "Monster Hunter: World",
-      "started_at": "2026-08-27T01:50:15Z",
+      "title": "【#VALORANT】バイトまで寝ないように シル２ ０～ 同ランクの知り合いのみ参加可能",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-19T05:15:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
@@ -827,7 +831,11 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": false
+      "is_live": true,
+      "title": "【Hin!town vol2:フランマ】始まった第二回ヒンタウン！ギャングボス目指してがんばろ～！ #Day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T06:23:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
