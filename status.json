@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:17:43+09:00",
+  "updated_at": "2026-09-19T23:27:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】  7月を楽しむ奴 Pat16【初見歓迎】",
+      "game_name": "Persona 5 Royal",
+      "started_at": "2026-09-19T14:25:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -281,7 +285,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【ADYGTA2】青ギャン遂にフルメンツ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T14:22:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
