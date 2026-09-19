@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:32:39+09:00",
+  "updated_at": "2026-09-20T01:47:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -871,11 +871,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】45日目 レースイベント出たい！お店の建物も入ったって！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T11:33:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -967,11 +963,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T12:28:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
