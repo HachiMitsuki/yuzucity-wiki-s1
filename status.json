@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:17:38+09:00",
+  "updated_at": "2026-09-20T02:32:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -867,11 +867,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Hin!town vol2:フランマ】始まった第二回ヒンタウン！ギャングボス目指してがんばろ～！ part2 #Day1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T10:11:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
