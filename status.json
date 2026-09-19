@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:12:41+09:00",
+  "updated_at": "2026-09-19T17:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -549,7 +549,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "しゃきん  初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T08:12:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -902,6 +906,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-19T08:04:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "esukanoo",
+      "login": "esukanoo",
+      "user_id": "799094742",
+      "display_name": "エスカブイ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/esukanoo",
+      "is_live": true,
+      "title": "GTA配信 新しい行き先はYuzu City Day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T08:12:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
