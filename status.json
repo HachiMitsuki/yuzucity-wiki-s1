@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:12:43+09:00",
+  "updated_at": "2026-09-19T19:17:40+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -615,7 +615,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】44日目：レースに出て寝る予定のMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T10:15:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
