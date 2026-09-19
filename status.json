@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:47:39+09:00",
+  "updated_at": "2026-09-19T17:06:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -888,6 +888,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "amausaku",
+      "login": "amausaku",
+      "user_id": "1072862250",
+      "display_name": "甘兎さく",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/amausaku",
+      "is_live": true,
+      "title": "【#yuzu City】留守のボス達の為に衛星🛰",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T08:04:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
