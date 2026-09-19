@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:52:37+09:00",
+  "updated_at": "2026-09-20T03:02:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,11 +89,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆず47日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T13:31:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -301,11 +297,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【46日目】さすがに熟練度上げをメインに動こう 😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T08:09:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -485,11 +477,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#FF14】絶アレキサンダー/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T12:56:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -909,11 +897,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#yuzu City】留守のボス達の為に衛星🛰",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T08:04:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -933,11 +917,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【#yuzucity】41日目EMSイベント!?",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-19T11:07:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
