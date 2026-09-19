@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:27:45+09:00",
+  "updated_at": "2026-09-19T21:32:44+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -384,7 +384,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
       "is_live": true,
-      "title": "とりあえずVALOソロコンペする（コソ練するかも）→23時半からLoLカスタムね！",
+      "title": "とりあえずVALOソロコンペする（LoLコソ練するかも）→23時半からLoLカスタムね！",
       "game_name": "VALORANT",
       "started_at": "2026-09-19T12:26:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
@@ -773,7 +773,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "なにかを満たす",
+      "game_name": "Just Chatting",
+      "started_at": "2026-09-19T12:29:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -833,7 +837,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】Season1Day34【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T12:29:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -959,7 +967,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "GTA配信 新しい行き先はYuzu City Day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T12:28:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
