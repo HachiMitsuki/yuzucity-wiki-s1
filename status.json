@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:57:42+09:00",
+  "updated_at": "2026-09-19T21:08:15+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -636,8 +636,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】時間までPD➡21時からコラボ🍀 @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
+      "title": "コラボで夜の雨を駆ける🍀 @ashnyaaaaan 🍭 w/なしろん、茶々丸さん",
+      "game_name": "ELDEN RING",
       "started_at": "2026-09-19T11:14:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -936,6 +936,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "ranokaku_u",
+      "login": "ranokaku_u",
+      "user_id": "1328853441",
+      "display_name": "架空らの",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ranokaku_u",
+      "is_live": true,
+      "title": "【#yuzucity】41日目EMSイベント!?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-19T11:07:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
