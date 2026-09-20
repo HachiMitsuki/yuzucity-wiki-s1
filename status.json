@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:31:21+09:00",
+  "updated_at": "2026-09-20T18:56:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -201,7 +201,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠23日目「ネモフィラの歩み」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-20T09:55:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -485,7 +489,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【うぇいよ】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-20T09:54:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
