@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:16:24+09:00",
+  "updated_at": "2026-09-20T22:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -757,7 +757,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAV】逢坂 戎：Day.20 #yuzucity：あ・ら・もーどっ！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-20T13:21:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
