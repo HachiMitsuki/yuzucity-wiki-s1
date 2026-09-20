@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:01:22+09:00",
+  "updated_at": "2026-09-20T21:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -159,7 +159,11 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": false
+      "is_live": true,
+      "title": "[YuzuCity S1] Day10 古斗羅 亮 色々",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-20T12:00:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -311,11 +315,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 45日目 Oblivion/十月トーカ PD",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-20T10:26:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -340,7 +340,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
       "is_live": true,
-      "title": "【YuzuCity】30日目！ あと1日…",
+      "title": "【YuzuCity】31日目！ あと1日…",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-20T11:59:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
