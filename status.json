@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:16:21+09:00",
+  "updated_at": "2026-09-20T20:26:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -675,7 +675,11 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City 生活33日目 金欠すぎる・・・対策しないと・！！ 森林レモン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-20T11:18:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -845,7 +849,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【コラボ配信/初見大歓迎】カスタム本番だ！！！勝つぞ！！！！ w/ @takofurai_ @FISH_sanma 【Apex Legends】#HioriRost_LIVE",
+      "game_name": "Apex Legends",
+      "started_at": "2026-09-20T11:24:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
