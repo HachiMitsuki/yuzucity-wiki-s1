@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:36:18+09:00",
+  "updated_at": "2026-09-21T14:56:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -821,11 +821,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "祈祷知識ガチ０脳筋女が全員タコ殴りする会※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
-      "game_name": "ELDEN RING",
-      "started_at": "2026-09-21T01:04:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
