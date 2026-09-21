@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:01:24+09:00",
+  "updated_at": "2026-09-21T21:03:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -511,7 +511,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】抗争があります！ day?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-21T12:02:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -579,7 +583,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 40 ファーム  #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-21T12:02:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1337,6 +1345,16 @@
       "display_name": "瀬渡 覇維 / Haruyuki Seto",
       "profile_image_url": "https://yt3.ggpht.com/zIML_8a823TRhE5RJOYS96bu0Ead808djf4BlN7uKGt3tBfeS61OwPCvXxGrwq7rbdEngcABFA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40haruyukiseto",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCCyJoYWP4bmhazWATT1TvHA",
+      "channel_id": "UCCyJoYWP4bmhazWATT1TvHA",
+      "handle": "@garakusupika546",
+      "display_name": "我楽 スピカ(Garaku supika)",
+      "profile_image_url": "https://yt3.ggpht.com/8f9Oo0Q4Rvzk-pqjq3AMzpRgkGYgAtODVz05YbMUr4FJQBtjOqWBq6LxrH1ipLmNwATvzCzsZA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40garakusupika546",
       "is_live": false
     }
   ]
