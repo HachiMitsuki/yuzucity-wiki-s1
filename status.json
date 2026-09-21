@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:16:25+09:00",
+  "updated_at": "2026-09-21T21:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -101,7 +101,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆず49日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-21T12:31:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -653,7 +657,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【RET City】酒飲みすぎた【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-21T12:33:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
