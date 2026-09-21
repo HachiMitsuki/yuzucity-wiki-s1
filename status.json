@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:26:25+09:00",
+  "updated_at": "2026-09-22T00:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,11 +117,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 嵐の前の静けさ ４１話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-21T13:40:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -665,11 +661,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【RET City】酒飲みすぎた【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-21T12:33:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
