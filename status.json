@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:56:30+09:00",
+  "updated_at": "2026-09-21T23:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1007,11 +1007,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day3",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-21T13:32:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
