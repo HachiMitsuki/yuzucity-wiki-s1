@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:31:21+09:00",
+  "updated_at": "2026-09-21T18:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -100,8 +100,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
-      "title": "【#星の翼】弱さの先に見える強さ【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "title": "【#ゆず鯖 】ヤクネコ ３３日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-21T07:14:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -891,7 +891,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "first time on Ferrari 488 GTE",
+      "game_name": "Le Mans Ultimate",
+      "started_at": "2026-09-21T09:34:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
