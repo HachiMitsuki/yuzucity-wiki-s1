@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:46:27+09:00",
+  "updated_at": "2026-09-22T00:01:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day51 〜酒飲むとカラオケに行きたくなる～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-21T11:53:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -480,7 +476,7 @@
       "is_live": true,
       "title": "yuzucity 9/21 ぱれとで抗争 !device !sens",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-21T13:13:47Z",
+      "started_at": "2026-09-21T14:51:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
