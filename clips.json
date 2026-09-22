@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-22T17:28:55+09:00",
+  "updated_at": "2026-09-22T18:42:17+09:00",
   "clips": [
+    {
+      "id": 388,
+      "source": "youtube",
+      "source_id": "1mDuzZgDl9o",
+      "url": "https://youtube.com/shorts/1mDuzZgDl9o",
+      "embed_url": "https://www.youtube.com/embed/1mDuzZgDl9o",
+      "title": null,
+      "description": "https://youtube.com/shorts/1mDuzZgDl9o?si=Um540_dLb5xt608q",
+      "thumbnail_url": "https://i.ytimg.com/vi/1mDuzZgDl9o/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "沖（おき）",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1251092736195559515/fa835ed0f1e5f72aa8c5cb461fe1a885.png?size=128",
+      "posted_at": "2026-09-22T18:42:17+09:00"
+    },
     {
       "id": 387,
       "source": "youtube",
