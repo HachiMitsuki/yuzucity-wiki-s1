@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:31:28+09:00",
+  "updated_at": "2026-09-22T23:41:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,11 +129,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 嵐は来なかったってね ４２話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T12:49:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -869,11 +865,7 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": true,
-      "title": "【Yuzu City】今日も今日とてメカ",
-      "game_name": "",
-      "started_at": "2026-09-22T11:21:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
