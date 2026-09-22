@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:51:25+09:00",
+  "updated_at": "2026-09-22T19:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -193,7 +193,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠23日目「月下美人の兆し」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T09:56:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -377,11 +381,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "",
-      "started_at": "2026-09-22T09:49:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
