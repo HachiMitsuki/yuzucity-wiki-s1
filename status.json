@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:06:30+09:00",
+  "updated_at": "2026-09-22T20:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆず49日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T11:19:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +843,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】48日目 時代は宝探し！？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T11:17:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
