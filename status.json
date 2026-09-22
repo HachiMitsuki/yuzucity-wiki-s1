@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T19:01:29+09:00",
+  "updated_at": "2026-09-22T19:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【49日目】大きめの犯罪行きたいよね 😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T10:01:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -639,7 +643,11 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City 生活34日目 金欠すぎる・・・対策しないと・！！ 森林レモン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T10:05:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
