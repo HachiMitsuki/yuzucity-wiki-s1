@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:46:24+09:00",
+  "updated_at": "2026-09-22T18:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -380,7 +380,7 @@
       "is_live": true,
       "title": "yuzu city",
       "game_name": "",
-      "started_at": "2026-09-22T08:02:34Z",
+      "started_at": "2026-09-22T09:49:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
@@ -421,11 +421,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【UNLUCKY鯖】色々作業！！",
-      "game_name": "Rust",
-      "started_at": "2026-09-22T05:08:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
