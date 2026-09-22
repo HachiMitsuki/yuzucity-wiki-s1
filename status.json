@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:21:30+09:00",
+  "updated_at": "2026-09-22T20:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -315,7 +315,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】33日目！ 嫁ちゃんが心配で即帰宅！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T11:21:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -789,7 +793,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日も今日とてメカ",
+      "game_name": "",
+      "started_at": "2026-09-22T11:21:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
