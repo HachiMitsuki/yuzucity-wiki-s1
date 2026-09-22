@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:06:23+09:00",
+  "updated_at": "2026-09-22T17:11:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,11 +73,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【ARKコラボ】yuzuPDの人達と遊ぶよ～！ #2",
-      "game_name": "ARK: Survival Evolved",
-      "started_at": "2026-09-22T05:16:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -693,11 +689,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】BBQ終わりのRank Match：Bronze Ⅳ LP51",
-      "game_name": "League of Legends",
-      "started_at": "2026-09-22T05:57:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebis77-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
