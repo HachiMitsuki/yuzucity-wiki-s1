@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:01:21+09:00",
+  "updated_at": "2026-09-23T03:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,11 +307,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】33日目！ 嫁ちゃんが心配で即帰宅！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T11:21:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -451,11 +447,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】 全てはメンバーの為に 【WIPE OUT】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T13:47:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -903,11 +895,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T09:00:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
