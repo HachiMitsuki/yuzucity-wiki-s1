@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:06:34+09:00",
+  "updated_at": "2026-09-23T00:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day52 〜あん肝美味すぎ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T10:54:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -671,11 +667,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】45日目：急に落ちる可能性のあるEMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T10:09:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
