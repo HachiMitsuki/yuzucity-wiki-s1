@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:01:17+09:00",
+  "updated_at": "2026-09-22T11:36:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -467,7 +467,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【LV.26➔】タル散歩～探求編～",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-09-22T02:32:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
