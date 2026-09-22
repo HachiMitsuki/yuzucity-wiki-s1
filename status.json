@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:16:23+09:00",
+  "updated_at": "2026-09-22T18:21:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【HIN!TOWN】#1 飲食店で商品にされてるらしいので調査!",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-22T09:17:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
