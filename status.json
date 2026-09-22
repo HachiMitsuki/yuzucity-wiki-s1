@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:31:22+09:00",
+  "updated_at": "2026-09-23T02:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -181,11 +181,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "眠くなるまでの拠点建築",
-      "game_name": "StarRupture",
-      "started_at": "2026-09-22T14:30:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -883,11 +879,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "【Hin!town vol2:フランマ】ボイスガチャの件とか進めたいよねってpart2 #Day４",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-22T11:52:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
