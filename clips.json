@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-23T11:21:24+09:00",
+  "updated_at": "2026-09-23T11:33:13+09:00",
   "clips": [
+    {
+      "id": 392,
+      "source": "twitch",
+      "source_id": "AbstruseSparklingYakinikuNerfBlueBlaster-e_d2BBzjZfJGKGhr",
+      "url": "https://www.twitch.tv/kimera_nui/clip/AbstruseSparklingYakinikuNerfBlueBlaster-e_d2BBzjZfJGKGhr",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AbstruseSparklingYakinikuNerfBlueBlaster-e_d2BBzjZfJGKGhr",
+      "title": "エンタメの末路",
+      "description": "https://www.twitch.tv/kimera_nui/clip/AbstruseSparklingYakinikuNerfBlueBlaster-e_d2BBzjZfJGKGhr",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c039f407-d5e1-4a51-9ec5-d597779d5d0f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 58,
+      "broadcaster_name": "仔雲ぬい",
+      "author_name": "Kogumo Nui",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1250011181792366615/09d45c8ad517b9b4c647e9169d58b631.png?size=128",
+      "posted_at": "2026-09-23T11:33:12+09:00"
+    },
     {
       "id": 391,
       "source": "twitch",
