@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:11:27+09:00",
+  "updated_at": "2026-09-23T23:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -71,11 +71,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #第五人格 】rankいくぞおおおおお w/華時さくら3",
-      "game_name": "Identity V",
-      "started_at": "2026-09-23T10:39:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -740,7 +736,7 @@
       "is_live": true,
       "title": "【#YuzuCity】新人警官二日目参る！！ 14日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T12:10:14Z",
+      "started_at": "2026-09-23T14:29:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
