@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:36:27+09:00",
+  "updated_at": "2026-09-23T21:51:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -310,7 +310,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
       "is_live": true,
-      "title": "【APEX】のんびりえぺやるだけ",
+      "title": "【APEX】のんびりえぺやるだけ w/wakatuba えりこ",
       "game_name": "Apex Legends",
       "started_at": "2026-09-23T12:20:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
@@ -1001,11 +1001,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【#yuzucity】45日目今日、ねむすぎるうう",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T11:16:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
