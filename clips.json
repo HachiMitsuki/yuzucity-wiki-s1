@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-23T01:30:16+09:00",
+  "updated_at": "2026-09-23T11:08:14+09:00",
   "clips": [
+    {
+      "id": 390,
+      "source": "twitch",
+      "source_id": "RefinedDistinctRutabagaResidentSleeper-JAnZrU6pbb12jwwL",
+      "url": "https://www.twitch.tv/kimera_nui/clip/RefinedDistinctRutabagaResidentSleeper-JAnZrU6pbb12jwwL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=RefinedDistinctRutabagaResidentSleeper-JAnZrU6pbb12jwwL",
+      "title": "くしゃみは可愛いんだけど、右下がなぁ.",
+      "description": "https://www.twitch.tv/kimera_nui/clip/RefinedDistinctRutabagaResidentSleeper-JAnZrU6pbb12jwwL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/98cae130-e4dc-4cb9-b92d-7752e96d286a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 13,
+      "broadcaster_name": "仔雲ぬい",
+      "author_name": "Kogumo Nui",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1250011181792366615/09d45c8ad517b9b4c647e9169d58b631.png?size=128",
+      "posted_at": "2026-09-23T11:08:13+09:00"
+    },
     {
       "id": 389,
       "source": "twitch",
