@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:51:24+09:00",
+  "updated_at": "2026-09-23T21:56:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "今日もチョコ～14日目～【龍咲】【#YCGTA #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:51:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -153,7 +157,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day５３ 車のために貯金せねば",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:51:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1001,7 +1009,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】45日目今日、ねむすぎるうう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:55:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
