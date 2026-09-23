@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T01:46:18+09:00",
+  "updated_at": "2026-09-24T01:51:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -196,7 +196,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
       "is_live": true,
-      "title": "HIN！2日目夜瑠喰那のギャング活動",
+      "title": "HIN！2日目夜瑠喰那の出張ギャング活動",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-23T16:22:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
@@ -469,11 +469,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "yuzucity 9/24 かぶかぶしてきた !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T15:25:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
