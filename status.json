@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:51:24+09:00",
+  "updated_at": "2026-09-23T23:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,11 +53,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "すきまぶでミメシス",
-      "game_name": "MIMESIS",
-      "started_at": "2026-09-23T12:02:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -681,11 +677,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【RET City】涼しいね【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T12:33:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
