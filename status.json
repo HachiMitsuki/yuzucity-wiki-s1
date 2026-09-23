@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:31:24+09:00",
+  "updated_at": "2026-09-23T23:36:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -359,7 +359,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】34日目！ 金稼がないと…！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T14:31:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -885,11 +889,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【MIMESIS】初心者だらけの偽物探し【ケモVコラボ】",
-      "game_name": "MIMESIS",
-      "started_at": "2026-09-23T11:58:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
