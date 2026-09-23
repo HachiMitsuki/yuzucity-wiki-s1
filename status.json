@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:31:28+09:00",
+  "updated_at": "2026-09-23T21:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -177,7 +177,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Hin!town 犯罪やろうか #2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:33:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -665,7 +669,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【RET City】涼しいね【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:33:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
