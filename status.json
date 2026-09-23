@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T20:06:23+09:00",
+  "updated_at": "2026-09-23T20:21:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -851,7 +851,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】49日目 先に準備できるものはしていこう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T11:20:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -945,7 +949,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】45日目今日、ねむすぎるうう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T11:16:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
