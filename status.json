@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:56:28+09:00",
+  "updated_at": "2026-09-24T00:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -305,11 +305,7 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": true,
-      "title": "【APEX】のんびりえぺやるだけ w/wakatuba えりこ",
-      "game_name": "Apex Legends",
-      "started_at": "2026-09-23T12:20:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -771,11 +767,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【SOLO】ランク、勝ち負けにこだわりすぎない part.3",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-23T12:12:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
