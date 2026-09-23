@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:46:22+09:00",
+  "updated_at": "2026-09-23T18:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -301,7 +301,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【49日目】今日も徒歩アミュネーションでお小遣いを稼ぐ 😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T09:01:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -361,7 +365,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【HIN!TOWN】#3 店長起床！短めだけどやっていく！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T09:05:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
