@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:06:25+09:00",
+  "updated_at": "2026-09-23T21:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -523,7 +523,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】萎えました。 day?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T12:14:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -688,7 +692,7 @@
       "is_live": true,
       "title": "【#YuzuCity】新人警官二日目参る！！ 14日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T12:05:03Z",
+      "started_at": "2026-09-23T12:10:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
@@ -739,7 +743,11 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【SOLO】ランク、勝ち負けにこだわりすぎない part.3",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-23T12:12:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
