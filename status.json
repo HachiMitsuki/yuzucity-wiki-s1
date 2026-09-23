@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:16:25+09:00",
+  "updated_at": "2026-09-23T17:21:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -157,11 +157,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "Hin!town 犯罪やろうか",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T06:49:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -275,7 +271,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】50日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-23T08:18:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -927,11 +927,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-23T08:15:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
