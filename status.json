@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T02:56:25+09:00",
+  "updated_at": "2026-09-25T03:01:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -275,11 +275,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】51日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T09:05:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -319,11 +315,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】35日目！ 今日は疲れているのでチルめに…",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T13:39:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -453,11 +445,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "【顔出し】yuzucity 9/24 なにするか !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T14:34:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -527,11 +515,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #Hin!town 】#6 灰色メカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T09:21:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -541,11 +525,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]サボるやで",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T14:59:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -771,11 +751,7 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": true,
-      "title": "【Fivem】署長としての日々… #YCGTA 【神薙るい】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T15:31:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
