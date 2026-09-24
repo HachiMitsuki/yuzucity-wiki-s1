@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:31:26+09:00",
+  "updated_at": "2026-09-24T20:46:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】ゴロゴロしてたらこんな時間… ソロライバルタンクシルバー３目指して！【初見歓迎】",
+      "game_name": "Overwatch",
+      "started_at": "2026-09-24T11:41:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -397,7 +401,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu city",
+      "game_name": "",
+      "started_at": "2026-09-24T11:40:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
