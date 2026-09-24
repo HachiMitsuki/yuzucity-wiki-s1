@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T01:56:22+09:00",
+  "updated_at": "2026-09-25T02:11:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -105,11 +105,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆず50日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T12:04:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -307,11 +303,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 49日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T12:19:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -533,11 +525,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】眠いね #41",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T14:42:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
