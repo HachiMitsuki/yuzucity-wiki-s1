@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:06:24+09:00",
+  "updated_at": "2026-09-24T17:11:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day54 〜25日は誕生日です～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T08:06:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -379,7 +383,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#アニモ】はじめまして世界",
+      "game_name": "Aniimo",
+      "started_at": "2026-09-24T08:06:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
