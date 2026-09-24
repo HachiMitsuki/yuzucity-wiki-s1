@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T19:56:25+09:00",
+  "updated_at": "2026-09-24T20:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -133,7 +133,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day５４ 今日も稼ぎましょう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T10:56:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -153,7 +157,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu ほぼふぁーむざつだん",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T10:59:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
