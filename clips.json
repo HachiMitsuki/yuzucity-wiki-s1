@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-24T20:45:29+09:00",
+  "updated_at": "2026-09-25T02:32:40+09:00",
   "clips": [
+    {
+      "id": 395,
+      "source": "twitch",
+      "source_id": "AltruisticFrozenCookieDAESuppy-jHT7KS3fqPQIjBAu",
+      "url": "https://www.twitch.tv/samebxs/clip/AltruisticFrozenCookieDAESuppy-jHT7KS3fqPQIjBAu",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AltruisticFrozenCookieDAESuppy-jHT7KS3fqPQIjBAu",
+      "title": "ちゃちゃまるに吹き飛ばされヘリブレされるさめ",
+      "description": "https://www.twitch.tv/samebxs/clip/AltruisticFrozenCookieDAESuppy-jHT7KS3fqPQIjBAu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0f175726-1faa-49dc-8787-26f80f784f98/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "水嶺さめ",
+      "author_name": "SAME",
+      "author_avatar": "https://cdn.discordapp.com/avatars/769116276571766797/e5e143b85078f280133bcbcc823efd03.png?size=128",
+      "posted_at": "2026-09-25T02:32:39+09:00"
+    },
     {
       "id": 394,
       "source": "discord",
