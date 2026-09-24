@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:48:28+09:00",
+  "updated_at": "2026-09-24T22:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -827,11 +827,7 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": true,
-      "title": "【Fivem】署長としての日々… #YCGTA 【神薙るい】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T11:05:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
