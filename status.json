@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:36:31+09:00",
+  "updated_at": "2026-09-24T23:56:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -188,7 +188,7 @@
       "is_live": true,
       "title": "Yuzu⇒Hin!town 犯罪やろうか #3",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T10:59:45Z",
+      "started_at": "2026-09-24T14:48:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
@@ -568,7 +568,7 @@
       "is_live": true,
       "title": "【#ゆず鯖】眠いね #41",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T11:00:57Z",
+      "started_at": "2026-09-24T14:42:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
@@ -593,7 +593,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]サボるやで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T14:53:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -953,11 +957,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #yuzucity 】?日目 零暁狂宴の反ぐれ生活 @buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T09:19:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
