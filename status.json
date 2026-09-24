@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:31:30+09:00",
+  "updated_at": "2026-09-24T23:36:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -393,11 +393,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【League of Legends】決勝戦！チームレンガ―、起動。",
-      "game_name": "League of Legends",
-      "started_at": "2026-09-24T12:20:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -497,7 +493,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "【顔出し】yuzucity 9/24 なにするか !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T14:34:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
