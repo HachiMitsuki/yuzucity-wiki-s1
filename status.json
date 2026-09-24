@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:46:35+09:00",
+  "updated_at": "2026-09-24T21:48:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -817,11 +817,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "ギャップがあってバグる",
-      "game_name": "Just Chatting",
-      "started_at": "2026-09-24T11:29:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1419,6 +1415,16 @@
       "display_name": "我楽 スピカ(Garaku supika)",
       "profile_image_url": "https://yt3.ggpht.com/8f9Oo0Q4Rvzk-pqjq3AMzpRgkGYgAtODVz05YbMUr4FJQBtjOqWBq6LxrH1ipLmNwATvzCzsZA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40garakusupika546",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCogHS5IUnm5Qj--8V2_sruQ",
+      "channel_id": "UCogHS5IUnm5Qj--8V2_sruQ",
+      "handle": "@umitsukisena",
+      "display_name": "海月星凪 / Umitsuki Sena",
+      "profile_image_url": "https://yt3.ggpht.com/apx4jdJFNOmzsUMk3xT_iOlT3N_cZrVRezdXNULExAcDl9CVc4of_5yluEHIHuIpQ0ol4GWnwA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40umitsukisena",
       "is_live": false
     }
   ]
