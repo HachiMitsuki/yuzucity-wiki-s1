@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T01:36:24+09:00",
+  "updated_at": "2026-09-25T01:46:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,11 +149,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day５４ 今日も稼ぎましょう",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T10:56:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -689,11 +685,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】今日も一日ご安全に！？！？ ※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T12:11:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
