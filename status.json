@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:31:19+09:00",
+  "updated_at": "2026-09-24T16:16:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -611,7 +611,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "街行くまでエイム練習🍀 @ashnyaaaaan 🍭",
+      "game_name": "Marvel Rivals",
+      "started_at": "2026-09-24T07:13:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
