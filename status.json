@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:01:28+09:00",
+  "updated_at": "2026-09-24T20:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -525,7 +525,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】眠いね #41",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T11:00:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -779,7 +783,11 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": false
+      "is_live": true,
+      "title": "【Fivem】署長としての日々… #YCGTA 【神薙るい】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T11:05:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
