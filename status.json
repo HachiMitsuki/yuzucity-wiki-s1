@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:36:23+09:00",
+  "updated_at": "2026-09-24T14:11:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -269,7 +269,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】のんびりヴァロやるだけ",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-24T05:09:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
