@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:41:32+09:00",
+  "updated_at": "2026-09-24T23:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -95,11 +95,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【OW】ゴロゴロしてたらこんな時間… ソロライバルタンクシルバー３目指して！【初見歓迎】",
-      "game_name": "Overwatch",
-      "started_at": "2026-09-24T11:41:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -763,11 +759,7 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": true,
-      "title": "【Yuzucity】ギャングになったらしい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-24T10:53:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
