@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:21:33+09:00",
+  "updated_at": "2026-09-24T22:41:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -351,7 +351,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】35日目！ 今日は疲れているのでチルめに…",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-24T13:39:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -807,11 +811,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】22日目ファーマーになりました【占い師Vtuber / 御神オルム】",
-      "game_name": "",
-      "started_at": "2026-09-24T12:03:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
