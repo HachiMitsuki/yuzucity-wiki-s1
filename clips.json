@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-23T23:00:31+09:00",
+  "updated_at": "2026-09-24T20:45:29+09:00",
   "clips": [
+    {
+      "id": 394,
+      "source": "discord",
+      "source_id": "1552647156521771028",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1552647156521771028/2026-09-24_20-42-43.mp4?ex=6ab65ed8&is=6ab50d58&hm=f3ba424e0ca2bbb85664aff217eb0e632051508547a2cbe258db01678a2f9027&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "雪城　慧莉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1049602413788663878/91ff04dc61a985605c6a6a2d5cb621ef.png?size=128",
+      "posted_at": "2026-09-24T20:45:29+09:00"
+    },
     {
       "id": 393,
       "source": "youtube",
