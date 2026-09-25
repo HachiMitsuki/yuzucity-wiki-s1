@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:41:29+09:00",
+  "updated_at": "2026-09-26T01:56:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -43,11 +43,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day55 〜今日は誕生日です～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T08:12:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -477,11 +473,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "【顔出し】yuzucity 9/25 ねむい !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T08:18:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
