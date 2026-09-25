@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:01:30+09:00",
+  "updated_at": "2026-09-25T22:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -651,7 +651,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day 42 Last Day  #YuzuCity #YCGTA",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-25T13:04:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -840,7 +844,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
       "is_live": true,
-      "title": "【VALORANT】参加〇 目指せシルバー 【占い師系vtuber/御神オルム】",
+      "title": "【VALORANT】ソロコンペ 目指せシルバー 【占い師系vtuber/御神オルム】",
       "game_name": "VALORANT",
       "started_at": "2026-09-25T12:03:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
@@ -918,9 +922,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
       "is_live": true,
-      "title": "【#ゆずシティ】Season1Day38【GTARP】",
-      "game_name": "",
-      "started_at": "2026-09-25T11:16:38Z",
+      "title": "【WARDOGS】風邪引き初心者分隊【初心者隊員】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-09-25T13:05:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
