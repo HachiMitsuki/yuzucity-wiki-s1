@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-26T03:12:16+09:00",
+  "updated_at": "2026-09-26T03:30:50+09:00",
   "clips": [
+    {
+      "id": 398,
+      "source": "discord",
+      "source_id": "1553111545301565571",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1553111545301565571/400d2c9906e2b6a0.mp4?ex=6ab80f57&is=6ab6bdd7&hm=5a4fdf52ffc03066f0701290ab49e93dff7af9320f814192fac365912c807688&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "氷折ロスト",
+      "author_avatar": "https://cdn.discordapp.com/avatars/393012643494887434/adeb8103155035c1376db1d185577830.png?size=128",
+      "posted_at": "2026-09-26T03:30:47+09:00"
+    },
     {
       "id": 397,
       "source": "twitch",
