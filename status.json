@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:11:24+09:00",
+  "updated_at": "2026-09-26T01:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,11 +119,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】ヤクネコ ３６日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T11:13:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -875,11 +871,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Yuzu City】緑青隼人 大体ファーム【FiveM】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T09:54:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
