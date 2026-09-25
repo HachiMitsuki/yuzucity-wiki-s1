@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T02:46:20+09:00",
+  "updated_at": "2026-09-26T02:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -141,11 +141,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day５５ そろそろ犯罪でかっこいい所見せたい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T12:39:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -497,11 +493,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【うぇいお】/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T12:20:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -939,11 +931,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "YuzuCity 新しい車買ったぞい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T15:39:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
