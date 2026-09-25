@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T00:21:27+09:00",
+  "updated_at": "2026-09-26T00:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -749,7 +749,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【#VALORANT】 ネッ友とだべりながら 知人の同ランクのみ参加可能 シル１ 67 ～",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-25T15:24:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
