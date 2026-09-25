@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-25T02:32:40+09:00",
+  "updated_at": "2026-09-25T20:24:47+09:00",
   "clips": [
+    {
+      "id": 396,
+      "source": "twitch",
+      "source_id": "BlindingThankfulJalapenoDogFace-hQI-yJtAACmhzZL4",
+      "url": "https://www.twitch.tv/ashnyaaaaan/clip/BlindingThankfulJalapenoDogFace-hQI-yJtAACmhzZL4",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BlindingThankfulJalapenoDogFace-hQI-yJtAACmhzZL4",
+      "title": "予　定　調　和",
+      "description": "https://www.twitch.tv/ashnyaaaaan/clip/BlindingThankfulJalapenoDogFace-hQI-yJtAACmhzZL4",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3beb2adf-163a-423a-9735-d9a02ee11f61/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 41,
+      "broadcaster_name": "甘噛あしゅりぃ",
+      "author_name": "甘噛あしゅりぃ/天音あしゅ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/241407591006076941/741bf99fd3336290617ee939cb63259c.png?size=128",
+      "posted_at": "2026-09-25T20:24:45+09:00"
+    },
     {
       "id": 395,
       "source": "twitch",
