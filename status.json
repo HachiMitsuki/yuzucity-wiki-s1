@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:36:26+09:00",
+  "updated_at": "2026-09-25T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,11 +97,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆず51日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T09:22:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -441,7 +437,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【GAMBLE WITH YOUR FRIENDDS】僕が一番運あるけど、ギャンブルは一番下手",
+      "game_name": "Gamble With Your Friends",
+      "started_at": "2026-09-25T12:03:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -519,7 +519,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】犯罪配信必須。 day?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-25T12:05:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -728,7 +732,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
       "is_live": true,
-      "title": "【Yuzucity】ギャングになったらしい",
+      "title": "【Yuzucity】お金なくてつらい",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-25T10:41:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
@@ -771,7 +775,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】参加〇 目指せシルバー 【占い師系vtuber/御神オルム】",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-25T12:03:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -879,7 +887,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】51日目 開店準備がしたい！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-25T12:04:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
