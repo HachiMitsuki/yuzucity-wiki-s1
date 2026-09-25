@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T00:36:26+09:00",
+  "updated_at": "2026-09-26T00:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -469,11 +469,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【GAMBLE WITH YOUR FRIENDDS】僕が一番運あるけど、ギャンブルは一番下手",
-      "game_name": "Gamble With Your Friends",
-      "started_at": "2026-09-25T12:03:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -795,11 +791,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【SOLO】改めて、勝ち負けにこだわりすぎない part.4",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-25T12:58:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1010,7 +1002,7 @@
       "is_live": true,
       "title": "YuzuCity 新しい車買ったぞい",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-25T12:24:49Z",
+      "started_at": "2026-09-25T15:39:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
