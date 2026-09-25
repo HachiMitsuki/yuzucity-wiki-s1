@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:31:27+09:00",
+  "updated_at": "2026-09-25T21:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1011,7 +1011,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "DON'T SCREAM TOGETHER配信 デルグラ2メンバーとやる 私はホラゲー大の苦手です",
+      "game_name": "DON'T SCREAM TOGETHER",
+      "started_at": "2026-09-25T12:31:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
