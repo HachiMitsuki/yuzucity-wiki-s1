@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T18:36:24+09:00",
+  "updated_at": "2026-09-25T18:41:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -627,7 +627,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity/天音あしゅ】きょうはチルDay 喉✖🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-25T09:39:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
