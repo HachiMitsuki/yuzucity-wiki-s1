@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:21:27+09:00",
+  "updated_at": "2026-09-25T20:31:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -842,8 +842,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
       "is_live": true,
-      "title": "【WARDOGS】風邪引き輸送員【初心者隊員】",
-      "game_name": "WARDOGS",
+      "title": "【#ゆずシティ】Season1Day38【GTARP】",
+      "game_name": "",
       "started_at": "2026-09-25T11:16:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
@@ -953,7 +953,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzu City】たいちょうのことはきくな",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-25T11:27:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
