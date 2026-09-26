@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T01:51:22+09:00",
+  "updated_at": "2026-09-27T01:56:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -165,11 +165,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "Hin!town 犯罪やろうか #4 めっちゃ寝起きw",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T14:40:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -321,11 +317,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【53日目】仲間にフルカス代あげてマジで貧乏なので利確が正義という方向で😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T09:23:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
