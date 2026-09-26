@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T14:06:19+09:00",
+  "updated_at": "2026-09-26T14:11:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -367,11 +367,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "のんびりVALO 新武器どうですか？",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-26T03:45:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -471,11 +467,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【LV.28➔】オタマトーンにリアクション任せるタルコフ",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-09-26T02:24:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
