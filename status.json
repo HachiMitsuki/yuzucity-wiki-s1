@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T02:56:21+09:00",
+  "updated_at": "2026-09-27T03:01:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -295,11 +295,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 51日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T14:57:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -555,11 +551,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日ものんびりと【ストロ・べリオ】#28",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T09:40:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -677,11 +669,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【#YuzuCity】新人警官今日から正式採用?!  16日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T15:40:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
