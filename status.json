@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:11:24+09:00",
+  "updated_at": "2026-09-26T20:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -627,7 +627,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】47日目：後半勤務の珍しいEMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-26T11:25:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -823,7 +827,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】緑青隼人 大体ファーム【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-26T11:25:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
