@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:01:35+09:00",
+  "updated_at": "2026-09-26T20:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -539,11 +539,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #Hin!town 】#8 灰色メカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T06:06:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -855,7 +851,11 @@
       "display_name": "狐花かさね",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3607847-5394-459d-bc31-cde40da9bb54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/fox_lyc0ris",
-      "is_live": false
+      "is_live": true,
+      "title": "【WE WERE HERE TOGETHER】２人で謎解き迷宮入りしそう【狐花かさね、幸杜ララさん】",
+      "game_name": "We Were Here Together",
+      "started_at": "2026-09-26T11:02:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fox_lyc0ris-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -945,11 +945,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#yuzu City】きょうもげんきにはんざい！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T09:57:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
