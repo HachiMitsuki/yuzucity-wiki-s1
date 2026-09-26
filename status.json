@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T02:46:27+09:00",
+  "updated_at": "2026-09-27T02:56:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -531,11 +531,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #Hin!town 】#8-2 灰色メカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T12:03:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -661,11 +657,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】今日も頑張るます！！ ※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T08:23:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
