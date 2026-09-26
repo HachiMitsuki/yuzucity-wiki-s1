@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:01:40+09:00",
+  "updated_at": "2026-09-26T23:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -373,7 +373,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【第12回わむらじ】今回のゲスト：『EMSの脳筋お母さん』鈴掛餅子さん",
+      "game_name": "Just Chatting",
+      "started_at": "2026-09-26T14:01:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
