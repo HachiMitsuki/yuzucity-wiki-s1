@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T18:31:23+09:00",
+  "updated_at": "2026-09-26T18:46:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -456,7 +456,7 @@
       "is_live": true,
       "title": "【顔出し】yuzucity 9/26 あ !device !sens",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-26T09:22:11Z",
+      "started_at": "2026-09-26T09:35:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
@@ -559,7 +559,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】今日ものんびりと【ストロ・べリオ】#28",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-26T09:40:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
