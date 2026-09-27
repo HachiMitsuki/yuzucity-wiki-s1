@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T03:11:26+09:00",
+  "updated_at": "2026-09-28T03:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -616,8 +616,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【MarvelRivals】気分転換まべ🍀  @ashnyaaaaan 🍭",
-      "game_name": "Marvel Rivals",
+      "title": "【Yuzucity/天音あしゅ】きょうはチルDay 喉✖🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-27T09:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -649,11 +649,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【#YuzuCity】新人警官今日から正式採用?!  16日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T16:28:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
