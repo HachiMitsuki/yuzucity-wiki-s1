@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:36:28+09:00",
+  "updated_at": "2026-09-27T22:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -519,11 +519,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【Kagura City】僕の新人警察日記",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T02:18:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
