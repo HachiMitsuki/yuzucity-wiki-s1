@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:16:36+09:00",
+  "updated_at": "2026-09-27T23:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,11 +89,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー抗争だ！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T08:46:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -688,8 +684,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【ELDEN RING NIGHTREIGN】3バカコラボ🍀  @ashnyaaaaan 🍭 w/きょーすけ・あかりん",
-      "game_name": "ELDEN RING NIGHTREIGN",
+      "title": "【MarvelRivals】気分転換まべ🍀  @ashnyaaaaan 🍭",
+      "game_name": "Marvel Rivals",
       "started_at": "2026-09-27T09:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
