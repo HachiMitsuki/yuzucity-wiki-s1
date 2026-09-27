@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:46:25+09:00",
+  "updated_at": "2026-09-27T18:56:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -201,7 +201,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠28日目「フリージアの居場所」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T09:55:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -305,7 +309,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【54日目】頭痛が痛いので早めに寝るかも😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T09:55:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
