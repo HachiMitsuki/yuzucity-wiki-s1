@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:06:28+09:00",
+  "updated_at": "2026-09-27T21:31:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,7 +145,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day５７ WIPE OUTとしての初抗争だ！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T12:28:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -672,8 +676,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】きょうはチルDay  頭と喉✖🍀➡21時からナイトレインコラボ  @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
+      "title": "【ELDEN RING NIGHTREIGN】3バカコラボ🍀  @ashnyaaaaan 🍭 w/きょーすけ・あかりん",
+      "game_name": "ELDEN RING NIGHTREIGN",
       "started_at": "2026-09-27T09:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -857,7 +861,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆずシティ】Season1Day40【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T12:26:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
