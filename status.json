@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:46:24+09:00",
+  "updated_at": "2026-09-27T17:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,7 +89,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー抗争だ！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T08:46:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -901,11 +905,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#valo】いつものやつとw.レイン",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-27T07:17:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
