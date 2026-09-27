@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:36:32+09:00",
+  "updated_at": "2026-09-27T21:41:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -329,11 +329,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【54日目】頭痛が痛いので早めに寝るかも😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T09:55:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -669,7 +665,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【RET City】残念ながら残念です【FiveM】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-27T12:40:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -995,7 +995,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "VALO配信 大会メンバーと顔合わせ なぎゅも3 もっぷちゃん カルパッチョ3 愛吸3",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-27T12:36:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
