@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:36:23+09:00",
+  "updated_at": "2026-09-28T01:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,11 +137,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day５７ WIPE OUTとしての初抗争だ！！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T12:28:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -539,11 +535,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #Hin!town 】#9-2 灰色メカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T11:45:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -665,7 +657,7 @@
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
       "title": "【MarvelRivals】気分転換まべ🍀  @ashnyaaaaan 🍭",
-      "game_name": "Just Chatting",
+      "game_name": "Marvel Rivals",
       "started_at": "2026-09-27T09:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -845,11 +837,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#ゆずシティ】Season1Day40【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-27T12:26:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
