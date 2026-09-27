@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:51:27+09:00",
+  "updated_at": "2026-09-27T19:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -951,11 +951,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "Logitech McLaren G Challenge",
-      "game_name": "Le Mans Ultimate",
-      "started_at": "2026-09-27T10:14:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
