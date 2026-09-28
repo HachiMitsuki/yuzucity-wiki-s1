@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-28T20:42:09+09:00",
+  "updated_at": "2026-09-28T21:59:03+09:00",
   "clips": [
+    {
+      "id": 401,
+      "source": "twitch",
+      "source_id": "DaintyGoldenPartridgeDatBoi-rP6apXHOe456KF5P",
+      "url": "https://www.twitch.tv/samebxs/clip/DaintyGoldenPartridgeDatBoi-rP6apXHOe456KF5P",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DaintyGoldenPartridgeDatBoi-rP6apXHOe456KF5P",
+      "title": "うぃんた、アウトー！",
+      "description": "https://www.twitch.tv/samebxs/clip/DaintyGoldenPartridgeDatBoi-rP6apXHOe456KF5P",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a6af24e4-da48-4bb4-9be5-fd344bd8e69e/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 10,
+      "broadcaster_name": "水嶺さめ",
+      "author_name": "SAME",
+      "author_avatar": "https://cdn.discordapp.com/avatars/769116276571766797/e5e143b85078f280133bcbcc823efd03.png?size=128",
+      "posted_at": "2026-09-28T21:59:03+09:00"
+    },
     {
       "id": 400,
       "source": "youtube",
