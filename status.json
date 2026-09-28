@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:51:23+09:00",
+  "updated_at": "2026-09-28T18:56:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】眠気がやばい #58【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-28T09:55:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -434,8 +438,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
       "is_live": true,
-      "title": "【VALORANT】21時まではコンペに行けるってこと！？",
-      "game_name": "VALORANT",
+      "title": "【RUST】21時までUNLUCKY RUST",
+      "game_name": "Rust",
       "started_at": "2026-09-28T07:29:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
