@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-28T21:59:03+09:00",
+  "updated_at": "2026-09-29T02:08:15+09:00",
   "clips": [
+    {
+      "id": 402,
+      "source": "twitch",
+      "source_id": "MushyBashfulVultureDancingBanana-3xHZLmF0ezVqNhNl",
+      "url": "https://www.twitch.tv/fujikun11/clip/MushyBashfulVultureDancingBanana-3xHZLmF0ezVqNhNl",
+      "embed_url": "https://clips.twitch.tv/embed?clip=MushyBashfulVultureDancingBanana-3xHZLmF0ezVqNhNl",
+      "title": "困惑の右フック",
+      "description": "https://www.twitch.tv/fujikun11/clip/MushyBashfulVultureDancingBanana-3xHZLmF0ezVqNhNl",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2d7c725c-15cb-4551-93a3-e004b1fbda56/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 21,
+      "broadcaster_name": "fujikun11",
+      "author_name": "ふじくん/いしっくす・ふじお/フジオ デラックス",
+      "author_avatar": "https://cdn.discordapp.com/avatars/950342390479220766/8e26fc1bc35bb5a00505b6b49ccdc199.png?size=128",
+      "posted_at": "2026-09-29T02:08:12+09:00"
+    },
     {
       "id": 401,
       "source": "twitch",
