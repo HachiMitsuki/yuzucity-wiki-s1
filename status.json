@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:46:25+09:00",
+  "updated_at": "2026-09-28T20:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": false
+      "is_live": true,
+      "title": "【#LoL】動画の素材が足りねーんだよな SoloQ P1 24LP~",
+      "game_name": "League of Legends",
+      "started_at": "2026-09-28T11:49:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -40,7 +44,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
       "is_live": true,
-      "title": "YCGTA Day57 〜酒 of 酒 of 酒～",
+      "title": "YCGTA Day58 〜酒 of 酒 of 酒～",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-28T10:22:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
