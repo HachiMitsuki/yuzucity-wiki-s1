@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:36:30+09:00",
+  "updated_at": "2026-09-28T23:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -407,11 +407,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "小説読んでたらこんな時間に！",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-28T13:35:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -855,11 +851,7 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": true,
-      "title": "伝説のホラー『学校であった怖い話』完全初見プレイ！【2周目】",
-      "game_name": "Just Chatting",
-      "started_at": "2026-09-28T11:44:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
