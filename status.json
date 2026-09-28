@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:06:27+09:00",
+  "updated_at": "2026-09-28T22:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -95,7 +95,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】おばぶカスタム練習ニ回目ー【初見歓迎】",
+      "game_name": "Overwatch",
+      "started_at": "2026-09-28T13:08:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
