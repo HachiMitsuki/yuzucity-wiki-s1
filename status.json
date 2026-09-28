@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:11:28+09:00",
+  "updated_at": "2026-09-28T22:11:42+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1423,6 +1423,16 @@
       "display_name": "海月星凪 / Umitsuki Sena",
       "profile_image_url": "https://yt3.ggpht.com/apx4jdJFNOmzsUMk3xT_iOlT3N_cZrVRezdXNULExAcDl9CVc4of_5yluEHIHuIpQ0ol4GWnwA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40umitsukisena",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCEGku149G7MN78RbrOVVZRw",
+      "channel_id": "UCEGku149G7MN78RbrOVVZRw",
+      "handle": "@otonagi-riu",
+      "display_name": "音和りう",
+      "profile_image_url": "https://yt3.ggpht.com/438DGUBjx2DxoYLplxjhrZ89_n2SPSRELvQyopyN7d7NgOYcOji3X1PIfb6ok5PF4d4_EBhU=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40otonagi-riu",
       "is_live": false
     }
   ]
