@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:11:26+09:00",
+  "updated_at": "2026-09-29T01:21:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,11 +303,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 53日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T12:11:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -495,11 +491,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【Kagura City】大活躍して英雄になりたい新人警官",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T09:03:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -681,11 +673,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】本日も熱血な一日が始まる？ ※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T09:49:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -849,11 +837,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#ゆずシティ】Season1Day41【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T10:44:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
