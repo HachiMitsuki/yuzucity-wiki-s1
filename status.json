@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T02:51:21+09:00",
+  "updated_at": "2026-09-29T03:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -491,11 +491,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】チルしましょう。 day?",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T10:22:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -529,11 +525,7 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": true,
-      "title": "[#YuzuCity]車が追加されたらしい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T08:12:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -923,11 +915,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day6",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T12:27:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
