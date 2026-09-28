@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T14:41:19+09:00",
+  "updated_at": "2026-09-28T16:31:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -417,7 +417,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】21時まではコンペに行けるってこと！？",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-28T07:29:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
