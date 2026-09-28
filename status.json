@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:21:23+09:00",
+  "updated_at": "2026-09-28T17:26:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -599,11 +599,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【WARDOGS】建築と輸送で稼ぐ傭兵【ゲーム雑談】",
-      "game_name": "WARDOGS",
-      "started_at": "2026-09-28T04:14:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -763,11 +759,7 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": true,
-      "title": "伝説のホラー『学校であった怖い話』完全初見プレイ！",
-      "game_name": "Just Chatting",
-      "started_at": "2026-09-28T07:59:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
