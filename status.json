@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:56:25+09:00",
+  "updated_at": "2026-09-28T21:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,11 +303,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】一々祐 53日目 Oblivion",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T09:57:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -450,8 +446,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
       "is_live": true,
-      "title": "【RUST】21時までUNLUCKY RUST",
-      "game_name": "Rust",
+      "title": "【R.E.P.O.】きゅうり専門店の方々と！！",
+      "game_name": "R.E.P.O.",
       "started_at": "2026-09-28T07:29:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
@@ -979,11 +975,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 新しい行き先はYuzu City Day6",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T08:41:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
