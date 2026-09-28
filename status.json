@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:46:26+09:00",
+  "updated_at": "2026-09-28T22:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -339,11 +339,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】39日目！ お金が欲しい…",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-28T08:02:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -899,7 +895,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "砂漠を見つけたい！ #くらクラ",
+      "game_name": "Minecraft",
+      "started_at": "2026-09-28T12:56:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
