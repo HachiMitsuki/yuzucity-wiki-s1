@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:31:33+09:00",
+  "updated_at": "2026-09-28T22:36:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -43,7 +43,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day58 〜酒 of 酒 of 酒～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-28T13:35:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -407,7 +411,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "小説読んでたらこんな時間に！",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-28T13:35:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
