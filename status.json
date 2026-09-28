@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:41:22+09:00",
+  "updated_at": "2026-09-28T18:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity day58 散財の予感",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-28T09:47:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -657,7 +661,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】本日も熱血な一日が始まる？ ※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-28T09:49:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
