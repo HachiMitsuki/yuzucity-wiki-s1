@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:26:14+09:00",
+  "updated_at": "2026-09-30T06:36:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -587,11 +587,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【WARDOGS】中途半端に目覚めてしまった男の建築バイト【ゲーム雑談】",
-      "game_name": "WARDOGS",
-      "started_at": "2026-09-29T18:13:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
