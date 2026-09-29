@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:16:20+09:00",
+  "updated_at": "2026-09-30T02:26:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -190,7 +190,7 @@
       "is_live": true,
       "title": "turtleCityでゆったり",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T14:57:26Z",
+      "started_at": "2026-09-29T17:23:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
@@ -817,11 +817,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【WARDOGS】軍の狗という輸送兵to人様へ参加中【初心者隊員】",
-      "game_name": "WARDOGS",
-      "started_at": "2026-09-29T12:04:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
