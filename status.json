@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:36:25+09:00",
+  "updated_at": "2026-09-29T21:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "YCGTA Day59 〜今日は飲みません～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T09:48:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -53,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "ニート卒業飲酒雑談",
+      "game_name": "Just Chatting",
+      "started_at": "2026-09-29T11:59:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -84,7 +84,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
       "is_live": true,
-      "title": "【ペルソナ５R】 １００万円集めてしまった…次のパルスへ！！ Pat21【初見歓迎】©ATLUS ©SEGA",
+      "title": "【ペルソナ５R】 8月１３日～１００万円集めてしまった…次のパルスへ！！ Pat21【初見歓迎】©ATLUS ©SEGA",
       "game_name": "Persona 5 Royal",
       "started_at": "2026-09-29T11:35:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
@@ -373,11 +373,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【HIN!TOWN】#9 今日はまったり店番デー！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T09:21:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -651,7 +647,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【ELDEN RING NIGHTREIGN】3ばかこらぼ🍀 @ashnyaaaaan 🍭 w/きょーすけ、あかりん",
+      "game_name": "ELDEN RING NIGHTREIGN",
+      "started_at": "2026-09-29T11:59:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
