@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:16:26+09:00",
+  "updated_at": "2026-09-29T23:41:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -684,8 +684,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【ELDEN RING NIGHTREIGN】3ばかこらぼ🍀 @ashnyaaaaan 🍭 w/きょーすけ、あかりん",
-      "game_name": "ELDEN RING NIGHTREIGN",
+      "title": "ちるしたい日🍀 @ashnyaaaaan 🍭",
+      "game_name": "Just Chatting",
       "started_at": "2026-09-29T11:59:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -765,11 +765,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTAV】逢坂 戎：A,LA,Mode！：Day.27",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:29:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -847,11 +843,7 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": true,
-      "title": "ウィッチャー3のリマスタードが来たので久々にプレイする",
-      "game_name": "The Witcher 3: Wild Hunt",
-      "started_at": "2026-09-29T13:00:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
