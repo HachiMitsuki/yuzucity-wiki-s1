@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:36:14+09:00",
+  "updated_at": "2026-09-30T06:56:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -781,7 +781,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【WARDOGS】朝活の軍の狗【初心者隊員】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-09-29T21:51:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
