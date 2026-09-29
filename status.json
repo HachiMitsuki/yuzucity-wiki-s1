@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:41:15+09:00",
+  "updated_at": "2026-09-30T08:06:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -554,8 +554,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
       "is_live": true,
-      "title": "【 #OW 】眠くなるまで【#個人V #Vtuber】",
-      "game_name": "Overwatch",
+      "title": "【 #ゼンゼロ 】眠くなるまで【#個人V #Vtuber】",
+      "game_name": "Zenless Zone Zero",
       "started_at": "2026-09-29T21:23:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
@@ -637,11 +637,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【MhWs】久々にやる 参加型",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-09-29T19:42:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
