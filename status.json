@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:01:24+09:00",
+  "updated_at": "2026-09-30T01:11:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:09:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -127,7 +123,11 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "自分らしくね",
+      "game_name": "",
+      "started_at": "2026-09-29T16:07:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,11 +459,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorantそろこんぺ】ピッカピカの一年生によるバロ。うまくなる日記。",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-29T14:52:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
