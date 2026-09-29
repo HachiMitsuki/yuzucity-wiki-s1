@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:56:25+09:00",
+  "updated_at": "2026-09-30T00:01:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -111,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】狂犬たる所以 ４０日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-29T14:54:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -195,7 +199,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "turtleCityでゆったり",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-29T14:57:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -345,11 +353,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "yuzucity 半グレとして今後の動きは？ #千代田紫雨",
-      "game_name": "Grand Theft Auto: San Andreas",
-      "started_at": "2026-09-29T13:32:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -781,11 +785,7 @@
       "display_name": "ユズリハよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzrihq",
-      "is_live": true,
-      "title": "[YuzuCity]首が痛い。。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:23:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzrihq-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
