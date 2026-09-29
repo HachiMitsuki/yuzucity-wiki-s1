@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:56:21+09:00",
+  "updated_at": "2026-09-30T02:06:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -201,11 +201,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#シミュグラ4】紅  翠29日目「アスターの違和感」【千紫万紅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T09:56:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -423,11 +419,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［シミュグラ4］※23日目 名前は―鰐亀 守ーになった...海と正義と魔法を捨てた悪亀…",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:32:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
