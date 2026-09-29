@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:16:23+09:00",
+  "updated_at": "2026-09-29T15:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -257,11 +257,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【VALO】ランク落ちたので戻したい",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-29T04:15:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -356,7 +352,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": true,
-      "title": "【 VALORANT 】お姉さんでしょどう見ても",
+      "title": "【 VALORANT 】お姉さんでしょどう見ても【20歳酒ヤニパチ好きお姉さん】",
       "game_name": "VALORANT",
       "started_at": "2026-09-29T06:15:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
