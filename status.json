@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:31:24+09:00",
+  "updated_at": "2026-09-30T00:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,11 +121,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 警察は何でも屋 ４６話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:58:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -526,8 +522,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
       "is_live": true,
-      "title": "【#FF14】ぜつあれき/ #むつきまき",
-      "game_name": "FINAL FANTASY XIV ONLINE",
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【抗争だってさ】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-29T13:34:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
@@ -895,11 +891,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】54日目 続・開店準備",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-29T12:41:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
