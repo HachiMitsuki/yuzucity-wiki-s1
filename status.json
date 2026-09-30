@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:51:30+09:00",
+  "updated_at": "2026-09-30T22:56:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -965,7 +965,11 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】soloq フォロワー500人目指して！！！",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-30T13:53:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
