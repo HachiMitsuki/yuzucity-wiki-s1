@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:26:22+09:00",
+  "updated_at": "2026-09-30T17:29:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -938,6 +938,20 @@
       "game_name": "FINAL FANTASY XIV ONLINE",
       "started_at": "2026-09-30T06:00:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "gryokan",
+      "login": "gryokan",
+      "user_id": "633202752",
+      "display_name": "テキーラのカイさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/gryokan",
+      "is_live": true,
+      "title": "【Yuzu City】スロット店員の日常 御供田海視点3６日目 U-23アジアサッカーを見ながら",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T08:27:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
