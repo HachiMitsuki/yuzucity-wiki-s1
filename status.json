@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:56:26+09:00",
+  "updated_at": "2026-09-30T18:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -616,8 +616,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "ちるしたい日🍀 @ashnyaaaaan 🍭",
-      "game_name": "Just Chatting",
+      "title": "【Yuzucity/天音あしゅ】頭痛やばすぎぱーりない🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-09-30T08:53:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
@@ -693,11 +693,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【WARDOGS】初PLAY！我戦場に乗り込む",
-      "game_name": "WARDOGS",
-      "started_at": "2026-09-30T07:23:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -905,7 +901,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#valo】本当はタルコフがしたかった",
+      "game_name": "VALORANT",
+      "started_at": "2026-09-30T09:03:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
