@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:06:29+09:00",
+  "updated_at": "2026-09-30T23:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -533,7 +533,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【つかれはてております】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T14:13:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -964,7 +968,7 @@
       "is_live": true,
       "title": "【VALORANT】soloq フォロワー500人目指して！！！",
       "game_name": "VALORANT",
-      "started_at": "2026-09-30T13:53:47Z",
+      "started_at": "2026-09-30T14:07:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
@@ -1047,11 +1051,7 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": true,
-      "title": "【Yuzu City】スロット店員の日常 御供田海視点3６日目 U-23アジアサッカーを見ながら",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T08:27:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
