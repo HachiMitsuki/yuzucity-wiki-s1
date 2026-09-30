@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:11:30+09:00",
+  "updated_at": "2026-09-30T21:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】一々祐 55日目 Oblivion →PD 十月トーカ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T12:23:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -391,11 +395,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "ソロコンペ アセⅠ 35pt",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-30T11:31:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
