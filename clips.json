@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-30T15:10:11+09:00",
+  "updated_at": "2026-09-30T17:05:02+09:00",
   "clips": [
+    {
+      "id": 405,
+      "source": "twitch",
+      "source_id": "SuperTubularOrangePeoplesChamp-K88aGnB0TVBq8RsQ",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/SuperTubularOrangePeoplesChamp-K88aGnB0TVBq8RsQ",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SuperTubularOrangePeoplesChamp-K88aGnB0TVBq8RsQ",
+      "title": "やかましい治療",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/SuperTubularOrangePeoplesChamp-K88aGnB0TVBq8RsQ",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/97819beb-a058-48f5-b17a-df8acf54e3aa/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-09-30T17:05:01+09:00"
+    },
     {
       "id": 404,
       "source": "twitch",
