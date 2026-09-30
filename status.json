@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:06:30+09:00",
+  "updated_at": "2026-09-30T22:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -607,7 +607,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Twilight City】Day 4 車買ったよ  #TwilightCity #トワグラ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T13:09:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
