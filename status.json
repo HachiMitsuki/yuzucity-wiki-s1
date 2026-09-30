@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:26:32+09:00",
+  "updated_at": "2026-09-30T20:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -661,7 +661,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】新しい何かが追加されたりとかとか？？ ※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T11:30:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -963,11 +967,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【YuzuCity】たけしのPD生活【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T09:46:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
