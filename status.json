@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:51:25+09:00",
+  "updated_at": "2026-10-01T02:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -478,7 +478,7 @@
       "is_live": true,
       "title": "【Yuzucity】残り目標１億！ 【WIPE OUT】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T12:52:25Z",
+      "started_at": "2026-09-30T16:58:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
@@ -985,11 +985,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【YuzuCity】往路おうか#15 今日はチル目？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T13:36:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
