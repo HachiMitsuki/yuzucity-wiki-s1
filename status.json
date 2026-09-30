@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T02:16:23+09:00",
+  "updated_at": "2026-10-01T02:26:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -463,11 +463,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】残り目標１億！ 【WIPE OUT】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T16:58:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -945,11 +941,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【#yuzucity】51日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T10:46:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
