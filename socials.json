@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:36:52+09:00",
+  "updated_at": "2026-09-30T19:38:16+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -119,6 +119,13 @@
       "display_name": "しろみそ@眠い",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2006394605747785728/AmB29Pxx_400x400.jpg",
       "profile_url": "https://x.com/shiro46_ny"
+    },
+    {
+      "platform": "x",
+      "handle": "raionmiyabi",
+      "display_name": "雷音雅@現役SESVtuber🏢🚬",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096890051024257024/4gJPA6Be_400x400.jpg",
+      "profile_url": "https://x.com/raionmiyabi"
     },
     {
       "platform": "x",
