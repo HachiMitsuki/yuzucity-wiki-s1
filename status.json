@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:36:45+09:00",
+  "updated_at": "2026-09-30T22:41:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -461,11 +461,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】スクリムのお手伝い",
-      "game_name": "VALORANT",
-      "started_at": "2026-09-30T11:12:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1037,7 +1033,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#15 今日はチル目？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T13:36:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
