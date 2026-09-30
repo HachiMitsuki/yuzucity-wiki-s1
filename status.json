@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:26:26+09:00",
+  "updated_at": "2026-10-01T00:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,11 +129,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 警察やる ４７話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T13:22:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -153,11 +149,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day６０ れっつごー犯罪！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-09-30T12:40:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1027,7 +1019,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】スロット店員の日常 御供田海視点3６日目 U-23アジアサッカーを見ながら",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-09-30T15:26:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
