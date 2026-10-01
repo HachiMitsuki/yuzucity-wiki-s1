@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:06:25+09:00",
+  "updated_at": "2026-10-01T19:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【58日目】何に絞って練習しようか。。。😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T10:32:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -913,11 +917,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#valo】タルコフできなくて萎えた",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-01T07:33:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
