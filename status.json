@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:01:27+09:00",
+  "updated_at": "2026-10-01T20:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -837,7 +837,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#アングラRP】Season10Day1【GTARP】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T11:01:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
