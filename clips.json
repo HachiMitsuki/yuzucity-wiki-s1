@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-01T09:18:08+09:00",
+  "updated_at": "2026-10-01T13:21:57+09:00",
   "clips": [
+    {
+      "id": 408,
+      "source": "twitch",
+      "source_id": "SuccessfulZealousPotPeteZaroll-kZKyDMr8XuUsR4w-",
+      "url": "https://www.twitch.tv/k6o_minase/clip/SuccessfulZealousPotPeteZaroll-kZKyDMr8XuUsR4w-",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SuccessfulZealousPotPeteZaroll-kZKyDMr8XuUsR4w-",
+      "title": "消えた飛行機",
+      "description": "https://www.twitch.tv/k6o_minase/clip/SuccessfulZealousPotPeteZaroll-kZKyDMr8XuUsR4w-",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b8bec45d-6d28-463b-95c9-dfd1ecbcbf25/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "水無瀬九炉",
+      "author_name": "水無瀬　九炉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/211332263038812160/4e32909d49211b1fb1c63932a698ff52.png?size=128",
+      "posted_at": "2026-10-01T13:21:56+09:00"
+    },
     {
       "id": 407,
       "source": "twitch",
