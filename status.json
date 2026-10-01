@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:51:24+09:00",
+  "updated_at": "2026-10-01T18:56:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#LoL】俺自身がドラゴンになることだ SoloQ P2 61LP~",
-      "game_name": "League of Legends",
-      "started_at": "2026-10-01T07:59:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -93,7 +89,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー~Hin!Town",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T09:54:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -645,7 +645,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】地図巡りと・・・・そのあれか？ ※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T09:51:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
