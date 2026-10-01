@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:21:24+09:00",
+  "updated_at": "2026-10-02T01:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -262,7 +262,7 @@
       "is_live": true,
       "title": "【DBD 】",
       "game_name": "WARDOGS",
-      "started_at": "2026-10-01T15:35:43Z",
+      "started_at": "2026-10-01T16:22:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
@@ -483,7 +483,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】録画用！緑傭兵！ 【WIPE OUT】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T16:21:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -681,11 +685,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】再開の巻きと地図巡りと・・・・そのあれと？ ※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-01T12:26:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
