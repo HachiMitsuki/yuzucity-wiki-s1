@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:31:27+09:00",
+  "updated_at": "2026-10-02T00:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,7 +259,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【DBD 】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-10-01T15:35:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -453,11 +457,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】スイフトでフィジ強化？",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-01T13:29:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
