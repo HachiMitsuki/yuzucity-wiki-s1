@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-01T22:43:10+09:00",
+  "updated_at": "2026-10-01T22:48:53+09:00",
   "clips": [
+    {
+      "id": 410,
+      "source": "twitch",
+      "source_id": "SaltyAbstemiousKleeHoneyBadger-zucgUX09JOl4kw8B",
+      "url": "https://www.twitch.tv/samebxs/clip/SaltyAbstemiousKleeHoneyBadger-zucgUX09JOl4kw8B",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SaltyAbstemiousKleeHoneyBadger-zucgUX09JOl4kw8B",
+      "title": "マイバット",
+      "description": "https://www.twitch.tv/samebxs/clip/SaltyAbstemiousKleeHoneyBadger-zucgUX09JOl4kw8B",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/094f3e81-2224-4f65-8ac2-0f6465aac5b8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 31,
+      "broadcaster_name": "水嶺さめ",
+      "author_name": "SAME",
+      "author_avatar": "https://cdn.discordapp.com/avatars/769116276571766797/e5e143b85078f280133bcbcc823efd03.png?size=128",
+      "posted_at": "2026-10-01T22:48:52+09:00"
+    },
     {
       "id": 409,
       "source": "twitch",
