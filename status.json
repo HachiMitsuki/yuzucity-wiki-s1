@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:01:35+09:00",
+  "updated_at": "2026-10-01T22:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【えかきうた大合戦】 今日発売のこのゲームをこの三人のアーティストでやるｗ伏屋ななし、青空昴【初見歓迎】",
+      "game_name": "",
+      "started_at": "2026-10-01T13:08:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -112,8 +116,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
-      "title": "【#星の翼】固定カスタム【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "title": "【#ゆず鯖 】狂犬敵を探して ４１日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-01T10:57:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -495,11 +499,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【Kagura City】リアル転職初日に葛藤がすごい雑談警察",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-01T11:15:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
