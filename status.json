@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:01:24+09:00",
+  "updated_at": "2026-10-01T19:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -799,7 +799,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日も自分のために Day??",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-01T10:03:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
