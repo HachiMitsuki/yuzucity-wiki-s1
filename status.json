@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:06:29+09:00",
+  "updated_at": "2026-10-02T21:11:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALO】Hasta la vista(アスタラビスタ）カスタム",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:07:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -317,7 +321,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【59日目】タイトルも思い浮かばんくなってきたぞｗ😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:09:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
