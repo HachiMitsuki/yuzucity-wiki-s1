@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:21:33+09:00",
+  "updated_at": "2026-10-02T20:26:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -274,7 +274,7 @@
       "is_live": true,
       "title": "【 #yuzucity 】59日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T11:18:33Z",
+      "started_at": "2026-10-02T11:23:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
@@ -809,7 +809,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】メカニックの何でもない1日",
+      "game_name": "",
+      "started_at": "2026-10-02T11:22:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
