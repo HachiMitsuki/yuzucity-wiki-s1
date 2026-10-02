@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:01:31+09:00",
+  "updated_at": "2026-10-03T00:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -473,11 +473,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】風宴祭顔合わせ！！",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-02T05:07:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -821,11 +817,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "〖 顔無し 〗久々の～～～ヴ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-02T13:50:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
