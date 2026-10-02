@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T03:06:22+09:00",
+  "updated_at": "2026-10-03T03:21:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,11 +143,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "[真・三國無双2R] 待ちに待った懐かしのゲームやるぞ！",
-      "game_name": "Dynasty Warriors 3",
-      "started_at": "2026-10-02T15:33:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
