@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:51:31+09:00",
+  "updated_at": "2026-10-02T23:01:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1005,11 +1005,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#タルコフ】念願のタルコフ！！！！！！w.かみつき・らいむ",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-10-02T11:19:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1029,7 +1025,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】53日目再起",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T13:58:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
