@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T02:56:23+09:00",
+  "updated_at": "2026-10-03T03:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -319,11 +319,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】42日目！ 今日は長く起きる予定",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T12:42:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
