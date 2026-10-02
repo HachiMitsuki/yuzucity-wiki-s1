@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:41:32+09:00",
+  "updated_at": "2026-10-02T22:46:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1039,7 +1039,11 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】たけしのPD生活【GTA5】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T13:45:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
