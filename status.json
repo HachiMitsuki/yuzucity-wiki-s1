@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:11:33+09:00",
+  "updated_at": "2026-10-02T21:16:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day６２ お金恵んでください",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:12:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +843,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】素材収集籠り Day??",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:15:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
