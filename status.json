@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:41:31+09:00",
+  "updated_at": "2026-10-03T00:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,11 +87,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【yuzuGTA】チェストやれたらやる。伊吹俊【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T14:58:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -319,7 +315,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】 一々祐 57日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T15:43:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
