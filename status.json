@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:36:29+09:00",
+  "updated_at": "2026-10-03T00:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -116,8 +116,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
-      "title": "【#VALORANT 】ゆず鯖β2ギャンメン【#vtuber /雷音雅】",
-      "game_name": "VALORANT",
+      "title": "あい",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-02T12:04:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -907,11 +907,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】57日目 アプリゲームに費やす毎日",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T12:02:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -921,11 +917,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "社会人ならエスカレーションにビビるな※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
-      "game_name": "ELDEN RING",
-      "started_at": "2026-10-02T12:05:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
