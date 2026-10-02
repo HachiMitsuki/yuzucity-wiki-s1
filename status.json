@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T19:06:23+09:00",
+  "updated_at": "2026-10-02T19:11:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -919,11 +919,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "久しぶりのヴぁろ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-02T08:24:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
