@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:31:27+09:00",
+  "updated_at": "2026-10-02T21:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "久々～17日目～【龍咲】【#YCGTA #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:42:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -339,7 +343,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】42日目！ 今日は長く起きる予定",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:42:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -349,7 +357,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity 半グレとして今後の動きは？ #千代田紫雨",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-02T12:43:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -495,7 +507,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】勝つぞ！ 【WIPE OUT】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:42:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -567,7 +583,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #Hin!town 】#14-2 灰色メカニック | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T12:45:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
