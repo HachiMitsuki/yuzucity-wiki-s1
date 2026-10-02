@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:31:27+09:00",
+  "updated_at": "2026-10-02T20:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -438,8 +438,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
       "is_live": true,
-      "title": "【UNLUCKY RUST】昼間は家づくり！",
-      "game_name": "Rust",
+      "title": "【VALORANT】風宴祭顔合わせ！！",
+      "game_name": "VALORANT",
       "started_at": "2026-10-02T05:07:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
@@ -979,11 +979,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【YuzuCity】たけしのPD生活【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T09:08:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
