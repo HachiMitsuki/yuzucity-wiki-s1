@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-02T23:23:08+09:00",
+  "updated_at": "2026-10-03T00:39:48+09:00",
   "clips": [
+    {
+      "id": 413,
+      "source": "twitch",
+      "source_id": "CredulousFurryFlyDAESuppy-OebJZHVNEk9xZvwu",
+      "url": "https://www.twitch.tv/toka_ruki/clip/CredulousFurryFlyDAESuppy-OebJZHVNEk9xZvwu",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CredulousFurryFlyDAESuppy-OebJZHVNEk9xZvwu",
+      "title": "恋バナ全力待機！！！",
+      "description": "https://www.twitch.tv/toka_ruki/clip/CredulousFurryFlyDAESuppy-OebJZHVNEk9xZvwu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a955f9ef-fdb6-473e-b005-8b02424f05cf/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 37,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-10-03T00:39:47+09:00"
+    },
     {
       "id": 412,
       "source": "twitch",
