@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:51:25+09:00",
+  "updated_at": "2026-10-02T19:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,7 +251,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【#wardogs 】リアル戦闘！金稼ぎ！",
+      "game_name": "WARDOGS",
+      "started_at": "2026-10-02T10:02:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
