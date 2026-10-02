@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:56:29+09:00",
+  "updated_at": "2026-10-03T01:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -100,7 +100,7 @@
       "is_live": true,
       "title": "Hin!Town 残り1日",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T09:08:21Z",
+      "started_at": "2026-10-02T16:14:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
@@ -203,7 +203,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "turtleCityでファーム衛星垂れ流し",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-02T16:18:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -329,11 +333,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【59日目】タイトルも思い浮かばんくなってきたぞｗ😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-02T12:09:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
