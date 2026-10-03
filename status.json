@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T20:11:27+09:00",
+  "updated_at": "2026-10-03T20:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,11 +97,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "Hin!Town 最終日！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T08:44:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -917,7 +913,11 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】?日目 反ぐれ生活 @buster_jack",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T11:13:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
