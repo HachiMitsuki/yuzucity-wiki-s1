@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-03T00:39:48+09:00",
+  "updated_at": "2026-10-03T23:31:04+09:00",
   "clips": [
+    {
+      "id": 414,
+      "source": "twitch",
+      "source_id": "LaconicShortGoldfishGOWSkull-hLIW4g_E-k4b4yri",
+      "url": "https://www.twitch.tv/ponchan15/clip/LaconicShortGoldfishGOWSkull-hLIW4g_E-k4b4yri",
+      "embed_url": "https://clips.twitch.tv/embed?clip=LaconicShortGoldfishGOWSkull-hLIW4g_E-k4b4yri",
+      "title": "おうかさんブレード死",
+      "description": "https://www.twitch.tv/ponchan15/clip/LaconicShortGoldfishGOWSkull-hLIW4g_E-k4b4yri",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/59cfbead-1734-46ff-9520-13dd0c254560/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "ぽんちゃんだよぉ",
+      "author_name": "ぽんちゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/438658694016663563/11cbe1ec554f92c6b937bcc4d4ec833e.png?size=128",
+      "posted_at": "2026-10-03T23:31:04+09:00"
+    },
     {
       "id": 413,
       "source": "twitch",
