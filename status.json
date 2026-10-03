@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:06:28+09:00",
+  "updated_at": "2026-10-04T00:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -685,11 +685,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】45日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T13:10:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -903,11 +899,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Yuzu City】今日は売り捌けるか？ Day??",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T10:45:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
