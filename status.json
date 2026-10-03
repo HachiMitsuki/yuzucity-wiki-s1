@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:46:29+09:00",
+  "updated_at": "2026-10-03T23:51:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -857,11 +857,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "街ぃん",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T12:58:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
