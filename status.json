@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T20:01:26+09:00",
+  "updated_at": "2026-10-03T20:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -155,7 +155,11 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": false
+      "is_live": true,
+      "title": "[真・三國無双2R] 色んなキャラ解放していくぞい",
+      "game_name": "Dynasty Warriors 3",
+      "started_at": "2026-10-03T11:03:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -555,11 +559,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #Hin!town 】#15 灰色メカニック 最終日！ | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T05:00:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
