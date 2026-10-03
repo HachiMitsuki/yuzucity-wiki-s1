@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T20:21:27+09:00",
+  "updated_at": "2026-10-03T20:26:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "Hin!Town 最終日！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T11:21:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -435,7 +439,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【シミュグラ4】※26日目 名前は-−-『鰐亀守』に変わった悪ガメの成長日記！配信始まりますよー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T11:23:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
