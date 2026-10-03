@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:26:26+09:00",
+  "updated_at": "2026-10-03T19:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "YCGTA Day63 〜マウス新調しました～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T10:44:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -831,7 +835,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日は売り捌けるか？ Day??",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T10:45:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
