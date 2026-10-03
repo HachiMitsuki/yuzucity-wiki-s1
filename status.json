@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T02:41:22+09:00",
+  "updated_at": "2026-10-04T02:51:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】 8月29～日深夜に今日もこっそり進めるペルソナ５R 一時間くらいやるえ Pat23【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-10-03T16:23:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -145,11 +141,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day６３ 薬には夢が詰まってる",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T11:35:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -541,11 +533,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】垂れ流し！起きるの遅かったので作業しつつ。  #50",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T10:04:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -579,11 +567,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日はもやっていきましょう【ストロ・べリオ】#30",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T09:33:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
