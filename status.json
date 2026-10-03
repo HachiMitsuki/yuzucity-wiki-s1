@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T21:51:30+09:00",
+  "updated_at": "2026-10-03T22:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -837,7 +837,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "街ぃん",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T12:58:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1017,7 +1021,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】おかねほしい",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T12:57:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
