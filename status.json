@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:06:31+09:00",
+  "updated_at": "2026-10-03T22:16:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,7 +23,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[LostRoseCity] day1 新しいばしょ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T13:10:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -199,7 +203,11 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "金庫祭り #ゆずシティ",
+      "game_name": "",
+      "started_at": "2026-10-03T13:13:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -677,7 +685,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】45日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-03T13:10:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1070,7 +1082,7 @@
       "is_live": true,
       "title": "【YuzuCity】たけしのPD生活【GTA5】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-03T08:57:23Z",
+      "started_at": "2026-10-03T13:10:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
