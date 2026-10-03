@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:26:24+09:00",
+  "updated_at": "2026-10-03T16:46:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -289,7 +289,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】再度アイランドから順番に攻略していく（予定）",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-10-03T07:43:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -637,7 +641,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】ソロでやる 知人のみ参加可能 シル2 19~",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-03T07:44:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
