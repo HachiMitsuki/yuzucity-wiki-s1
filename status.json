@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:36:29+09:00",
+  "updated_at": "2026-10-04T21:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -357,7 +357,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity 半グレとして今後の動きは？ #千代田紫雨",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-04T12:39:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1049,7 +1053,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#18 今日はお仕事デイ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T12:39:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
