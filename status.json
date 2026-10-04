@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:31:30+09:00",
+  "updated_at": "2026-10-04T23:36:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#OW】#おばぶカスタム スクリム！！",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-04T12:08:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -157,11 +153,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day６４ ドッグダグ抗争、目指せ優勝",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T10:23:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
