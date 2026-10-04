@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T16:01:25+09:00",
+  "updated_at": "2026-10-04T16:41:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -615,11 +615,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【MarvelRivals/参加◎】息抜きキャラ練とえいむれんしう🍀 @ashnyaaaaan 🍭",
-      "game_name": "Marvel Rivals",
-      "started_at": "2026-10-04T06:03:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
