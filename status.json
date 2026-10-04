@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:21:30+09:00",
+  "updated_at": "2026-10-04T23:31:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -809,11 +809,7 @@
       "display_name": "ユズリハよ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50333cbd-0744-4617-9915-6ba40f1654a3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzrihq",
-      "is_live": true,
-      "title": "[YuzuCity]kkkkk",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T11:11:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzrihq-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
