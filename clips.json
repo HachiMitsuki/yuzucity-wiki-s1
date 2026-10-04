@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-04T19:06:11+09:00",
+  "updated_at": "2026-10-04T20:26:58+09:00",
   "clips": [
+    {
+      "id": 418,
+      "source": "twitch",
+      "source_id": "FrailGentleStarlingOneHand-m3UmfC-WiHH2OlVl",
+      "url": "https://www.twitch.tv/samebxs/clip/FrailGentleStarlingOneHand-m3UmfC-WiHH2OlVl",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FrailGentleStarlingOneHand-m3UmfC-WiHH2OlVl",
+      "title": "ヘリ抜きからの味方からの爆散",
+      "description": "https://www.twitch.tv/samebxs/clip/FrailGentleStarlingOneHand-m3UmfC-WiHH2OlVl",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/87da0f01-5f0f-43dc-9e2f-f88887b0085a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "水嶺さめ",
+      "author_name": "SAME",
+      "author_avatar": "https://cdn.discordapp.com/avatars/769116276571766797/e5e143b85078f280133bcbcc823efd03.png?size=128",
+      "posted_at": "2026-10-04T20:26:57+09:00"
+    },
     {
       "id": 417,
       "source": "discord",
