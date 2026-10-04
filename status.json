@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:11:28+09:00",
+  "updated_at": "2026-10-04T21:36:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -627,7 +627,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Twilight City】Day 6 カスタム  #TwilightCity #トワグラ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T12:32:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -765,7 +769,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAV】逢坂 戎：A,LA,Mode！：Day.27",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T12:33:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
