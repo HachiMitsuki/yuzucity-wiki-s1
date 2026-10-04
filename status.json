@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T02:31:23+09:00",
+  "updated_at": "2026-10-05T02:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -543,11 +543,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日はもやっていきましょう【ストロ・べリオ】#31",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T09:44:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -957,11 +953,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【YuzuCity】往路おうか#18 今日はお仕事デイ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T12:39:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
