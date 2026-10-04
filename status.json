@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T03:01:25+09:00",
+  "updated_at": "2026-10-05T03:06:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,11 +303,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】44日目！ 時短配信",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T16:57:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -437,11 +433,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "【顔出し】yuzucity 10/4 ﾊﾟｧ !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T08:24:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
