@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T04:06:14+09:00",
+  "updated_at": "2026-10-05T05:01:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -340,7 +340,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": true,
-      "title": "【 VALORANT 】寝れないので【20歳酒ヤニパチ好きお姉さん】",
+      "title": "【 VALORANT 】寝れないのでスイフト【20歳酒ヤニパチ好きお姉さん】",
       "game_name": "VALORANT",
       "started_at": "2026-10-04T19:01:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
@@ -547,11 +547,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【Twilight City】Day 6 カスタム  #TwilightCity #トワグラ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T12:32:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
