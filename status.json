@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T18:46:29+09:00",
+  "updated_at": "2026-10-04T19:01:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -205,7 +205,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠33日目「竜胆の余韻」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T09:58:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -540,7 +544,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
       "is_live": true,
-      "title": "【 #Hin!town 】#15-2 灰色メカニック 最終日！ | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "title": "【 #Hin!town 】#α 延長戦！ | たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-04T08:57:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
@@ -929,7 +933,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】この素晴らしい世界に祝福を",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T09:58:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
