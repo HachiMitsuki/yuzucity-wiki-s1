@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T14:41:22+09:00",
+  "updated_at": "2026-10-04T15:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,7 +183,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "turtleCityでなんかする",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T06:03:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -293,7 +297,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】拠点をある程度形にしときたい😇",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-10-04T06:05:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -611,7 +619,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【MarvelRivals/参加◎】息抜きキャラ練とえいむれんしう🍀 @ashnyaaaaan 🍭",
+      "game_name": "Marvel Rivals",
+      "started_at": "2026-10-04T06:03:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
