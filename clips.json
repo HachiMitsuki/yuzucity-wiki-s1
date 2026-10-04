@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-04T02:27:17+09:00",
+  "updated_at": "2026-10-04T09:05:43+09:00",
   "clips": [
+    {
+      "id": 416,
+      "source": "youtube",
+      "source_id": "mDMeMLUV23Y",
+      "url": "https://www.youtube.com/shorts/mDMeMLUV23Y",
+      "embed_url": "https://www.youtube.com/embed/mDMeMLUV23Y",
+      "title": null,
+      "description": "https://www.youtube.com/shorts/mDMeMLUV23Y?feature=share",
+      "thumbnail_url": "https://i.ytimg.com/vi/mDMeMLUV23Y/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "雪城　慧莉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1049602413788663878/91ff04dc61a985605c6a6a2d5cb621ef.png?size=128",
+      "posted_at": "2026-10-04T09:05:43+09:00"
+    },
     {
       "id": 415,
       "source": "twitch",
