@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-04T23:13:19+09:00",
+  "updated_at": "2026-10-04T23:27:42+09:00",
   "clips": [
+    {
+      "id": 420,
+      "source": "twitch",
+      "source_id": "AmericanViscousHorseradishSwiftRage-PMxcKe4MW-9_6-f7",
+      "url": "https://www.twitch.tv/k6o_minase/clip/AmericanViscousHorseradishSwiftRage-PMxcKe4MW-9_6-f7",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AmericanViscousHorseradishSwiftRage-PMxcKe4MW-9_6-f7",
+      "title": "畜生ペンギン",
+      "description": "https://www.twitch.tv/k6o_minase/clip/AmericanViscousHorseradishSwiftRage-PMxcKe4MW-9_6-f7",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c2571546-a49e-4a32-b652-8b10d571ad6c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "水無瀬九炉",
+      "author_name": "水無瀬　九炉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/211332263038812160/4e32909d49211b1fb1c63932a698ff52.png?size=128",
+      "posted_at": "2026-10-04T23:27:42+09:00"
+    },
     {
       "id": 419,
       "source": "twitch",
