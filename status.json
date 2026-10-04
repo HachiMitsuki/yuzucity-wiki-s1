@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T19:16:27+09:00",
+  "updated_at": "2026-10-04T19:26:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -141,7 +141,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day６４ ドッグダグ抗争、目指せ優勝",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-04T10:23:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -276,9 +280,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
       "is_live": true,
-      "title": "【 #yuzucity 】60日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
+      "title": "【 #yuzucity 】61日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T10:15:47Z",
+      "started_at": "2026-10-04T10:20:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
@@ -309,11 +313,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【ARK】拠点をある程度形にしときたい😇",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-10-04T06:05:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
