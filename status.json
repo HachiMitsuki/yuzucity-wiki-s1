@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T15:46:24+09:00",
+  "updated_at": "2026-10-04T15:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -649,11 +649,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【VALORANT】バイト行くまでソロでやる 知人のみ参加可能 シル2 48~",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-04T06:21:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
