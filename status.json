@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:36:31+09:00",
+  "updated_at": "2026-10-04T23:41:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -861,11 +861,7 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": true,
-      "title": "【YuzuCity】チルメカニックな予感",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T10:49:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
