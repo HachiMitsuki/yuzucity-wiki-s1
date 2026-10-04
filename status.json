@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:16:31+09:00",
+  "updated_at": "2026-10-04T23:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -973,11 +973,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #yuzucity 】?日目 今日は抗争あるらしいです @buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T10:43:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
