@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:46:33+09:00",
+  "updated_at": "2026-10-05T00:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,11 +73,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】アメリカンドッグの下のカリカリの部分が一番美味しいよね #62【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T13:11:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -397,11 +393,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【HIN!TOWN】#14 HIN!ロス起こしてたらロスタイムのパージデーあるって!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-04T05:13:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
