@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T18:56:21+09:00",
+  "updated_at": "2026-10-05T19:11:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -233,7 +233,11 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VivaceCityβ #2】ブラックマーケットどこだ!?【鈴音 しのり】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-05T10:08:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
