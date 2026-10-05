@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-04T23:27:42+09:00",
+  "updated_at": "2026-10-05T16:04:23+09:00",
   "clips": [
+    {
+      "id": 421,
+      "source": "youtube",
+      "source_id": "YaTWjH7P5-c",
+      "url": "https://youtu.be/YaTWjH7P5-c",
+      "embed_url": "https://www.youtube.com/embed/YaTWjH7P5-c",
+      "title": null,
+      "description": "Video！\n昨日のライブ公開切り抜きです。\n\nまこともるーくふらんべ！Yuzu City #ゆず鯖 #YCGTA #未公開映像 https://youtu.be/YaTWjH7P5-c?si=vGeT5g9WbaEEBYSS via @YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/YaTWjH7P5-c/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "komugisui",
+      "author_avatar": "https://cdn.discordapp.com/avatars/901780546894573568/71d32ee2345b92e055d576af5aaee86f.png?size=128",
+      "posted_at": "2026-10-05T16:04:22+09:00"
+    },
     {
       "id": 420,
       "source": "twitch",
