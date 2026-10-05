@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T20:21:27+09:00",
+  "updated_at": "2026-10-05T20:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -575,11 +575,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日はもやっていきましょう【ストロ・べリオ】#32",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-05T10:51:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
