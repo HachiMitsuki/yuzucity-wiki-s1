@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T21:06:28+09:00",
+  "updated_at": "2026-10-05T21:11:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -603,7 +603,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【ストグラFV Casual】 Day 129 未定 #ストグラFV_CASUAL",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-05T12:06:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -982,7 +986,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
       "is_live": true,
-      "title": "【FF14/ © SQUARE ENIX 】若葉組 Come back memories vol.2 モグルモグ討伐",
+      "title": "【FF14/ © SQUARE ENIX 】若葉組 Come back memories vol.2.5 モグルモグ討伐",
       "game_name": "FINAL FANTASY XIV ONLINE",
       "started_at": "2026-10-05T11:59:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
