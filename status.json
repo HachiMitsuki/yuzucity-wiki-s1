@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:26:25+09:00",
+  "updated_at": "2026-10-06T01:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -301,11 +301,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【61日目】涼しい通り越して寒いまである😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-05T12:01:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
