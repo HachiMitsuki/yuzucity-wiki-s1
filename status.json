@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:21:26+09:00",
+  "updated_at": "2026-10-06T00:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1005,11 +1005,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【FF14/ © SQUARE ENIX 】若葉組 Come back memories vol.2.5 モグルモグ討伐",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-10-05T11:59:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
