@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T21:11:24+09:00",
+  "updated_at": "2026-10-05T21:16:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -385,11 +385,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【鬼武者WotS】#1 一足遅れて戦国の世へ!",
-      "game_name": "Onimusha: Way of the Sword",
-      "started_at": "2026-10-05T09:55:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -457,7 +453,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】風宴祭チーム練習part3",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-05T12:12:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -593,7 +593,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "xxx  初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-05T12:13:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
