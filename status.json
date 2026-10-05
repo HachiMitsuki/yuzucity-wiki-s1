@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:11:26+09:00",
+  "updated_at": "2026-10-06T00:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -265,11 +265,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【Shift at Midnight】青ギャンメンツでホラゲ",
-      "game_name": "Shift at Midnight",
-      "started_at": "2026-10-05T12:03:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -937,11 +933,7 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": true,
-      "title": "【VALORANT】急遽フルパ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-05T12:48:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
