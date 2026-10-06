@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T17:41:22+09:00",
+  "updated_at": "2026-10-06T18:11:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -537,7 +537,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "最速で最短でまっすぐに…一直線に!!  初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T09:10:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -901,7 +905,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】57日目あしたからお仕事再開だあああ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T09:06:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -939,7 +947,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】スロット店員の日常 御供田海視点3７日目 なんか動きそう",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T09:09:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
