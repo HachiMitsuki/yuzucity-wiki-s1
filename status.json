@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:56:29+09:00",
+  "updated_at": "2026-10-06T22:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,7 +125,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ 警察やるよ  ５１話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T12:59:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -323,7 +327,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】 一々祐 61日目 Oblivion",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T12:58:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
