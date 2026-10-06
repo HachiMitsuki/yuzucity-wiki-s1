@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T01:26:25+09:00",
+  "updated_at": "2026-10-07T01:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -517,11 +517,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】楽しくやっていこう  #53",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T12:21:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -589,7 +585,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】FiveM GTA やるど～！40日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtub",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T16:37:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
