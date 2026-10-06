@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T15:36:20+09:00",
+  "updated_at": "2026-10-06T16:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -293,7 +293,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】ちょっとファームしとこう😇",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-10-06T07:32:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -324,8 +328,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
       "is_live": true,
-      "title": "【#APEX 】なんとかなれ～【ソロ】",
-      "game_name": "Apex Legends",
+      "title": "【#歌枠】伝説の歌雑談",
+      "game_name": "Just Chatting",
       "started_at": "2026-10-06T06:16:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
     },
@@ -928,7 +932,7 @@
       "is_live": true,
       "title": "【えーぺっくすレジェンドズ】久々のバブと＠１",
       "game_name": "Apex Legends",
-      "started_at": "2026-10-06T05:13:43Z",
+      "started_at": "2026-10-06T07:24:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
