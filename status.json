@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:11:25+09:00",
+  "updated_at": "2026-10-06T19:16:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -387,7 +387,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "Lost Rose City 2日目 警察になりました",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T10:14:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -487,7 +491,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【特別講習】適応の問題点と公然わいせつについて",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T10:15:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
