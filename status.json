@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T18:21:23+09:00",
+  "updated_at": "2026-10-06T18:31:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -357,7 +357,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【鬼武者WotS】#2 危険な京都探索!",
+      "game_name": "Onimusha: Way of the Sword",
+      "started_at": "2026-10-06T09:27:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -944,7 +948,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
       "is_live": true,
-      "title": "【Yuzu City】スロット店員の日常 御供田海視点3７日目 なんか動きそう",
+      "title": "【Yuzu City】スロット店員の日常 御供田海視点3７日目 雇われ店長に昇格しました",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-06T09:09:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
