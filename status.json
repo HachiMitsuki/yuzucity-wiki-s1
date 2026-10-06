@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:41:26+09:00",
+  "updated_at": "2026-10-07T01:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -423,11 +423,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【AION2】0から始めるMMO（DOUTEI）のスピマス冒険日記 ２日目",
-      "game_name": "AION 2",
-      "started_at": "2026-10-06T15:16:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -470,7 +466,7 @@
       "is_live": true,
       "title": "【Yuzucity】混乱？ 【WIPE OUT】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T15:32:41Z",
+      "started_at": "2026-10-06T15:43:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
@@ -855,11 +851,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】61日目 ついに開店！駄菓子屋あおい！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T10:57:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
