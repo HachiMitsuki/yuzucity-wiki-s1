@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:16:26+09:00",
+  "updated_at": "2026-10-06T19:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -309,11 +309,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【ARK】ちょっとファームしとこう😇",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-10-06T07:32:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
