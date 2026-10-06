@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:41:32+09:00",
+  "updated_at": "2026-10-06T21:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -169,7 +169,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Losグラ スロカスな個人医を目指して…#4 ふぁーまーすぎてえ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T12:41:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -847,11 +851,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Super Bunny Man】イベントに向け練習 w/我楽スピカ(YT)",
-      "game_name": "Super Bunny Man",
-      "started_at": "2026-10-06T11:04:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
