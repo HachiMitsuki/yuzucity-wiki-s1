@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T02:51:25+09:00",
+  "updated_at": "2026-10-07T03:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -223,7 +223,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【AION 2】#2ソーサラーLv25～",
+      "game_name": "AION 2",
+      "started_at": "2026-10-06T18:00:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -491,11 +495,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】終。 day?",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T11:10:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -559,11 +559,7 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": true,
-      "title": "【デジモンワールド2】デジモンと探検します #2",
-      "game_name": "Digimon World 2",
-      "started_at": "2026-10-06T15:27:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -573,11 +569,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #YuzuCity 】FiveM GTA やるど～！40日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtub",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T16:37:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
