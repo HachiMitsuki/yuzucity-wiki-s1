@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T03:06:22+09:00",
+  "updated_at": "2026-10-07T03:31:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -927,11 +927,7 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": true,
-      "title": "【Yuzu City】スロット店員の日常 御供田海視点3７日目 雇われ店長に昇格しました",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T09:09:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
