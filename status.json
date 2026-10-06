@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T05:06:15+09:00",
+  "updated_at": "2026-10-06T12:51:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -659,7 +659,11 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": false
+      "is_live": true,
+      "title": "いぬ",
+      "game_name": "WARDOGS",
+      "started_at": "2026-10-06T03:49:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
