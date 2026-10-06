@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T02:26:23+09:00",
+  "updated_at": "2026-10-07T02:36:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -657,11 +657,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【OW】初心者が行く！！",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-06T12:01:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -935,11 +931,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【YuzuCity】たけしのPD生活【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T15:03:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
