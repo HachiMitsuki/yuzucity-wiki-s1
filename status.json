@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T18:46:24+09:00",
+  "updated_at": "2026-10-06T18:51:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -189,7 +189,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠34日目「アイリスの歩み」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T09:49:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -595,7 +599,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】56日目：地図の消費が追い付かないEMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T09:47:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -628,7 +636,7 @@
       "is_live": true,
       "title": "【YuzuCity】たまにはチルしたっていいじゃないかぁ※鳩×Gやめてねぇ～",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T09:45:00Z",
+      "started_at": "2026-10-06T09:47:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
