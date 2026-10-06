@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:36:28+09:00",
+  "updated_at": "2026-10-06T21:41:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,7 +83,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】 9月4日～ 修学旅行が始まる！！inハワイ！！ Pat25【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "Persona 5 Royal",
+      "started_at": "2026-10-06T12:37:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -195,11 +199,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "turtleCityでなんかする",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-06T10:39:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1015,7 +1015,11 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】たけしのPD生活【GTA5】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-06T12:39:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
