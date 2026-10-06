@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:36:26+09:00",
+  "updated_at": "2026-10-07T00:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -261,11 +261,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【るか鯖RUST】上金ほしいよな！！",
-      "game_name": "Rust",
-      "started_at": "2026-10-06T11:59:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
