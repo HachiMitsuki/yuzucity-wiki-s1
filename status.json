@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:11:18+09:00",
+  "updated_at": "2026-10-06T14:16:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -664,8 +664,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
       "is_live": true,
-      "title": "いぬ",
-      "game_name": "WARDOGS",
+      "title": "Apex w/すーぱーきっど",
+      "game_name": "Apex Legends",
       "started_at": "2026-10-06T03:49:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
     },
@@ -917,7 +917,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【えーぺっくすレジェンドズ】久々のバブと＠１",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-06T05:13:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
