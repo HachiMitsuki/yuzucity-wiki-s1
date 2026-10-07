@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:16:26+09:00",
+  "updated_at": "2026-10-07T21:01:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -835,7 +835,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "地底組のvalheim #36 極北編",
+      "game_name": "Valheim",
+      "started_at": "2026-10-07T11:57:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -845,7 +849,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "【✅Drops】腹パン社畜OLの山嶺シバキツアー配信※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-10-07T11:59:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
