@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:51:21+09:00",
+  "updated_at": "2026-10-07T14:46:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -224,7 +224,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
       "is_live": true,
-      "title": "【AION 2】#3ソーサラーLv30～",
+      "title": "【#AION 2】#3ソーサラーLv30～",
       "game_name": "AION 2",
       "started_at": "2026-10-07T03:50:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
@@ -387,7 +387,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#AION2】やっていくぞ【1日目】",
+      "game_name": "AION 2",
+      "started_at": "2026-10-07T05:41:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
