@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T03:07:48+09:00",
+  "updated_at": "2026-10-08T03:11:38+09:00",
   "clips": [
+    {
+      "id": 425,
+      "source": "twitch",
+      "source_id": "SavoryObedientGuanacoWholeWheat-wEiZnkVrmP2rVKgU",
+      "url": "https://www.twitch.tv/muishiki_jp/clip/SavoryObedientGuanacoWholeWheat-wEiZnkVrmP2rVKgU",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SavoryObedientGuanacoWholeWheat-wEiZnkVrmP2rVKgU",
+      "title": "ムイカ、椅子破壊",
+      "description": "https://www.twitch.tv/muishiki_jp/clip/SavoryObedientGuanacoWholeWheat-wEiZnkVrmP2rVKgU",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/725c99e1-051f-4147-8378-b4d28306dc9c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 22,
+      "broadcaster_name": "六識ムイカ",
+      "author_name": "ムイシキ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/853300798678892564/0e78e3b75b82c985eac8106cdd0c787a.png?size=128",
+      "posted_at": "2026-10-08T03:11:37+09:00"
+    },
     {
       "id": 424,
       "source": "twitch",
