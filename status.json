@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T22:36:34+09:00",
+  "updated_at": "2026-10-07T22:46:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -559,7 +559,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#50 メカニック&EMSの日常と家の内装づくり | エドマンド・ウェインライト：たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-07T13:42:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -821,11 +825,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【VALORANT】VGUC - team3 - 私のヤギ達 day2",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-07T12:59:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
