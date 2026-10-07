@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:11:29+09:00",
+  "updated_at": "2026-10-07T23:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -717,7 +717,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】ディオで行く シル1 77～ 3連敗したらOW",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-07T14:19:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -903,11 +907,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "地底組のvalheim #36 極北編",
-      "game_name": "Valheim",
-      "started_at": "2026-10-07T11:57:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
