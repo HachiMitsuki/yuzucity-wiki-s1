@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T17:21:22+09:00",
+  "updated_at": "2026-10-07T17:26:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -319,11 +319,7 @@
       "display_name": "甘生ゑび",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
-      "is_live": true,
-      "title": "【#APEX 】ゴールド目指すンゴ【ソロ】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-07T05:59:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
