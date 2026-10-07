@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:21:32+09:00",
+  "updated_at": "2026-10-07T23:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -665,11 +665,7 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": true,
-      "title": "【Fivem】Mother in my heart【RET City】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-07T12:45:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -971,7 +967,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "speedrunning sealed dungeons",
+      "game_name": "AION 2",
+      "started_at": "2026-10-07T14:34:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
