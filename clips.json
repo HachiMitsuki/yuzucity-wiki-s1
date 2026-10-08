@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T20:42:33+09:00",
+  "updated_at": "2026-10-08T23:38:03+09:00",
   "clips": [
+    {
+      "id": 428,
+      "source": "twitch",
+      "source_id": "CogentSassyFinchRickroll-aBKdw7swJvKdLFDI",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/CogentSassyFinchRickroll-aBKdw7swJvKdLFDI",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CogentSassyFinchRickroll-aBKdw7swJvKdLFDI",
+      "title": "証拠",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/CogentSassyFinchRickroll-aBKdw7swJvKdLFDI",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6ab44632-c73e-4dda-b25d-12e2493c0afc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 14,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-10-08T23:38:01+09:00"
+    },
     {
       "id": 427,
       "source": "twitch",
