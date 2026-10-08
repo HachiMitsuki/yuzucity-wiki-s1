@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T22:16:31+09:00",
+  "updated_at": "2026-10-08T22:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -229,7 +229,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】犯罪やります",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T13:19:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -706,7 +710,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【VALORANT】ディオヴァロ定期 シル2 10～",
+      "title": "【初心者OW】いろいろ教えて！！",
       "game_name": "Overwatch",
       "started_at": "2026-10-08T09:44:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
