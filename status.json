@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T19:26:25+09:00",
+  "updated_at": "2026-10-08T19:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -293,7 +293,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【63日目-1】衛星がぎ作用のつもりが犯罪行くことになって急遽衛星つける😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T10:29:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -487,7 +491,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】Resta。 day?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T10:28:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
