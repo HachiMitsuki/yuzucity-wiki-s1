@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:51:25+09:00",
+  "updated_at": "2026-10-09T01:56:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -489,7 +489,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】店長の日常【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T16:52:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -927,11 +931,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "mmo grind never stops",
-      "game_name": "AION 2",
-      "started_at": "2026-10-08T14:37:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
