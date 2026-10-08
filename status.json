@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:51:28+09:00",
+  "updated_at": "2026-10-08T23:56:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,11 +145,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day６８ 株大暴落したらしい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-08T13:39:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -479,11 +475,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorantそろこんぺ】ピッカピカの一年生によるバロ。うまくなる日記。",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-08T13:08:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
