@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T21:01:28+09:00",
+  "updated_at": "2026-10-08T21:06:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -77,7 +77,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】久しぶりにPD出勤するお #68【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T12:04:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -107,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】SAC固定練習※セコンドあり day２【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "started_at": "2026-10-08T12:03:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -521,7 +529,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】虚  #55",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T12:03:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -657,11 +669,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】悪いこと頑張るんぞ※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-08T09:32:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -815,7 +823,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】どうなるか Day??",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T12:04:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
