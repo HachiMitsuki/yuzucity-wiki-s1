@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T20:42:24+09:00",
+  "updated_at": "2026-10-08T20:42:33+09:00",
   "clips": [
+    {
+      "id": 427,
+      "source": "twitch",
+      "source_id": "MiniatureTacitBulgogiLitty-02-cuistshUfkTIH",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/MiniatureTacitBulgogiLitty-02-cuistshUfkTIH",
+      "embed_url": "https://clips.twitch.tv/embed?clip=MiniatureTacitBulgogiLitty-02-cuistshUfkTIH",
+      "title": "個人医の神ピックを目撃するEMS",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/MiniatureTacitBulgogiLitty-02-cuistshUfkTIH",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/99f79aca-bda1-4e32-b0cc-c28785528948/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 35,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-08T20:42:33+09:00"
+    },
     {
       "id": 426,
       "source": "twitch",
