@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T22:21:30+09:00",
+  "updated_at": "2026-10-08T22:26:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -189,7 +189,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "【AION2】駆け出し冒険者 あり得る",
+      "game_name": "AION 2",
+      "started_at": "2026-10-08T13:22:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -273,11 +277,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【るか鯖RUST】地下鉄で引きこもります",
-      "game_name": "Rust",
-      "started_at": "2026-10-08T11:59:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
