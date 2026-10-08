@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:51:19+09:00",
+  "updated_at": "2026-10-08T14:06:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -829,11 +829,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #AION2】天族🔰初見AION2やるよ！@buster_jack",
-      "game_name": "AION 2",
-      "started_at": "2026-10-08T02:47:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
