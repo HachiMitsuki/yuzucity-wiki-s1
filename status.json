@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:36:27+09:00",
+  "updated_at": "2026-10-09T00:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -901,11 +901,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "【✅Drops】木曜日の夜は実質金曜日だと思いませんかね※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
-      "game_name": "ELDEN RING",
-      "started_at": "2026-10-08T11:59:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
