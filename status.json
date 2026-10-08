@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:41:29+09:00",
+  "updated_at": "2026-10-08T20:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -134,7 +134,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
       "is_live": true,
-      "title": "【YUZU CITY】Day６６ 株があついらしい",
+      "title": "【YUZU CITY】Day６８ 株大暴落したらしい",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-08T11:40:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
@@ -955,11 +955,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【YuzuCity】たけしのPD生活【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-08T08:03:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
