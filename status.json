@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:56:26+09:00",
+  "updated_at": "2026-10-08T21:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,7 +53,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "初めてのマビノギ。モバイル。",
+      "game_name": "Mabinogi Mobile",
+      "started_at": "2026-10-08T11:59:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -257,7 +261,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【るか鯖RUST】地下鉄で引きこもります",
+      "game_name": "Rust",
+      "started_at": "2026-10-08T11:59:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -621,7 +629,11 @@
       "display_name": "おかずいずふぁっと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc143232-8c4f-44e2-b54e-25fad7f86b2c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/eclail_faronn",
-      "is_live": false
+      "is_live": true,
+      "title": "【Fivem】Mother in my heart【RET City】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T12:00:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eclail_faronn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -847,7 +859,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】62日目 駄菓子屋は順調な様子",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-08T12:00:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -857,7 +873,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "【✅Drops】木曜日の夜は実質金曜日だと思いませんかね※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-10-08T11:59:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -877,11 +897,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #Yuzu City】のんびり反ぐれ生活@buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-08T08:06:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -965,7 +981,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】Yuzuctiyの救急隊メンバーでやる！ w/氷見谷しろ、暁ひかる",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-08T12:00:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
