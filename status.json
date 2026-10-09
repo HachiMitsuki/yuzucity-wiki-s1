@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T23:11:29+09:00",
+  "updated_at": "2026-10-09T23:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -519,11 +519,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【アイコニック集め】サイバーサイコシスなりかけ配信",
-      "game_name": "Cyberpunk 2077",
-      "started_at": "2026-10-09T11:45:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -711,11 +707,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活3９日目 本日はイベントに参加！！森林レモン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T12:10:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
