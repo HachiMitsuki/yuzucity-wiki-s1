@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:06:20+09:00",
+  "updated_at": "2026-10-09T15:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -907,7 +907,11 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": false
+      "is_live": true,
+      "title": "シルバーに上がりたい！！！ソロコンペ【VALORANT】",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-09T06:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
