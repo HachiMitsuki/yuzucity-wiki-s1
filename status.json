@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:01:25+09:00",
+  "updated_at": "2026-10-09T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,7 +129,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day６９ 今日はイベント！逃げまくるぞ！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T12:04:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -831,7 +835,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】63日目 逃亡中",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T12:01:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
