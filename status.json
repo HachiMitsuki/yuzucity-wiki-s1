@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T02:51:20+09:00",
+  "updated_at": "2026-10-10T02:56:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,11 +183,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "仕事一旦おわりのturtle",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T08:20:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -307,11 +303,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】49日目！ 時短",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T14:42:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -815,7 +807,7 @@
       "channel_url": "https://www.twitch.tv/lunamomizi",
       "is_live": true,
       "title": "【#WARDOGS】ワイプまであと少しだけど暴れる！【参加型】",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "WARDOGS",
       "started_at": "2026-10-09T13:07:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
