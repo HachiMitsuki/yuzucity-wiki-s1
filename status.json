@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:11:25+09:00",
+  "updated_at": "2026-10-10T00:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,11 +149,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day６９ 今日はイベント！逃げまくるぞ！！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T12:04:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -494,8 +490,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
       "is_live": true,
-      "title": "10/9 yuzucity !device !sens",
-      "game_name": "Grand Theft Auto V",
+      "title": "AION2 進むしか無いんや俺は !device !sens",
+      "game_name": "AION 2",
       "started_at": "2026-10-09T09:16:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
