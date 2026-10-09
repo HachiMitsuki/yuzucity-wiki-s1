@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:41:28+09:00",
+  "updated_at": "2026-10-09T21:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】 9月19日～オクムラパレス終盤戦開始！！！Pat28【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "Persona 5 Royal",
+      "started_at": "2026-10-09T12:46:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -441,7 +445,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】ギギ怪々w/こんこん、ぎぎ",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-09T12:47:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -475,11 +483,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】なんと今日は追う側【WIPE OUT】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T12:21:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -984,7 +988,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
       "is_live": true,
-      "title": "【YuzuCity】たけしのPD生活【GTA5】",
+      "title": "【YuzuCity】たけしのPD生活【GTA5】逃亡中イベント参加！！",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-09T12:15:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
