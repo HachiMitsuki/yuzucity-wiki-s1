@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T01:46:22+09:00",
+  "updated_at": "2026-10-10T02:01:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[LostRoseCity] da3 まったりいこか",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T15:08:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -121,11 +117,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 警察やるよ  ５２話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T13:25:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
