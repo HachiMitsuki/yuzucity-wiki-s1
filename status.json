@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:21:27+09:00",
+  "updated_at": "2026-10-09T21:26:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -458,8 +458,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
       "is_live": true,
-      "title": "作成制限の先へ AION2 !device !sens",
-      "game_name": "AION 2",
+      "title": "10/9 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-09T09:16:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
@@ -471,7 +471,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】なんと今日は追う側【WIPE OUT】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T12:21:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -747,7 +751,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】イベントだ【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T12:22:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
