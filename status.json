@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T02:06:21+09:00",
+  "updated_at": "2026-10-10T02:11:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,11 +497,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【送】/ #むつきまき",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T16:01:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
