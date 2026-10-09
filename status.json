@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T19:16:22+09:00",
+  "updated_at": "2026-10-09T19:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -917,7 +917,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】59日目一旦21:00まで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T10:17:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
