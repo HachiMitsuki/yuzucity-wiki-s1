@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:16:21+09:00",
+  "updated_at": "2026-10-10T03:26:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -399,11 +399,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【AION2】0から始めるMMO（DOUTEI）のスピマス冒険日記 4日目",
-      "game_name": "AION 2",
-      "started_at": "2026-10-09T17:10:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
