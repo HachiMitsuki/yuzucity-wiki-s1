@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T18:56:22+09:00",
+  "updated_at": "2026-10-09T19:16:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -357,7 +357,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【鬼武者WotS】#4 まったり飲酒幻魔狩り!",
+      "game_name": "Onimusha: Way of the Sword",
+      "started_at": "2026-10-09T10:11:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -367,7 +371,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "Lost Rose City 4日目 アサルト解禁だって(^▽^)",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T10:12:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -387,11 +395,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#TwilightCity】CrazyPandaのEMS奮闘記",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-09T08:02:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
