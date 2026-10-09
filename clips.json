@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-10T08:46:09+09:00",
+  "updated_at": "2026-10-10T08:50:38+09:00",
   "clips": [
+    {
+      "id": 435,
+      "source": "twitch",
+      "source_id": "AmorphousWiseBananaTriHard-FEZPx1RACnny7VIN",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/AmorphousWiseBananaTriHard-FEZPx1RACnny7VIN",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AmorphousWiseBananaTriHard-FEZPx1RACnny7VIN",
+      "title": "同IQ",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/AmorphousWiseBananaTriHard-FEZPx1RACnny7VIN",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/37068336-a843-4058-a3d9-c149d938b0b2/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 16,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-10-10T08:50:38+09:00"
+    },
     {
       "id": 434,
       "source": "twitch",
