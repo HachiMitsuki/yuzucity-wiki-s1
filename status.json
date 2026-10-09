@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:01:32+09:00",
+  "updated_at": "2026-10-09T22:11:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -853,7 +853,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#WARDOGS】ワイプまであと少しだけど暴れる！【参加型】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-09T13:07:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
