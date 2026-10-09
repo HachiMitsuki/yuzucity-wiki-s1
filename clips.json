@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-09T14:04:01+09:00",
+  "updated_at": "2026-10-09T14:04:23+09:00",
   "clips": [
+    {
+      "id": 430,
+      "source": "twitch",
+      "source_id": "SullenEsteemedKumquatUnSane-HA3-KyPxX2DYJC6m",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/SullenEsteemedKumquatUnSane-HA3-KyPxX2DYJC6m",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SullenEsteemedKumquatUnSane-HA3-KyPxX2DYJC6m",
+      "title": "伝染する口調",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/SullenEsteemedKumquatUnSane-HA3-KyPxX2DYJC6m",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a347337b-544e-432f-94fb-52a7824a160a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 41,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-09T14:04:17+09:00"
+    },
     {
       "id": 429,
       "source": "twitch",
