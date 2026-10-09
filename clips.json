@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T23:38:03+09:00",
+  "updated_at": "2026-10-09T14:04:01+09:00",
   "clips": [
+    {
+      "id": 429,
+      "source": "twitch",
+      "source_id": "SeductiveTastyVampireAMPEnergyCherry-uLP_2IE_MtNQNCdL",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/SeductiveTastyVampireAMPEnergyCherry-uLP_2IE_MtNQNCdL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SeductiveTastyVampireAMPEnergyCherry-uLP_2IE_MtNQNCdL",
+      "title": "挨拶に厳しいらのさん",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/SeductiveTastyVampireAMPEnergyCherry-uLP_2IE_MtNQNCdL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b3ce14db-de03-41bf-a95c-7dc5adf5c5ef/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 55,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-09T14:04:00+09:00"
+    },
     {
       "id": 428,
       "source": "twitch",
