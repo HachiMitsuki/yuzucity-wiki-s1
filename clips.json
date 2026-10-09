@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-09T18:12:35+09:00",
+  "updated_at": "2026-10-10T08:35:28+09:00",
   "clips": [
+    {
+      "id": 433,
+      "source": "twitch",
+      "source_id": "SteamyGentleNoodleKappaWealth-JRoBN-P94aT_YrN0",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/SteamyGentleNoodleKappaWealth-JRoBN-P94aT_YrN0",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SteamyGentleNoodleKappaWealth-JRoBN-P94aT_YrN0",
+      "title": "閉店のお時間です",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/SteamyGentleNoodleKappaWealth-JRoBN-P94aT_YrN0",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f1a6113b-1a50-4e9c-8b49-d0d87339bdf8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 55,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-10-10T08:35:28+09:00"
+    },
     {
       "id": 432,
       "source": "twitch",
