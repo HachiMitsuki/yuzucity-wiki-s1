@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:01:29+09:00",
+  "updated_at": "2026-10-10T22:11:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -509,7 +509,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "ぜつあれき（かぜっぴき）",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-10-10T13:06:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -821,11 +825,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【作業雑談】ゆったり作業【〆切ヤバめ】",
-      "game_name": "Just Chatting",
-      "started_at": "2026-10-10T11:01:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
