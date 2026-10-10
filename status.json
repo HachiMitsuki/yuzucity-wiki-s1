@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:36:36+09:00",
+  "updated_at": "2026-10-10T22:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -169,7 +169,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Losグラ なんの因果か新人警察へ…#6",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T13:43:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -809,11 +813,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【VALORANT】VGUC - team3 - 私のヤギ達 day3",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-10T12:57:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
