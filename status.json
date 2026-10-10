@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:56:21+09:00",
+  "updated_at": "2026-10-10T18:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -885,7 +885,7 @@
       "channel_url": "https://www.twitch.tv/dmist",
       "is_live": true,
       "title": "Increasing iLvls, maybe Chanter Emilian?",
-      "game_name": "AION 2",
+      "game_name": "R.E.P.O.",
       "started_at": "2026-10-10T05:04:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
@@ -917,7 +917,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】60日目あああああああああい",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T08:56:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
