@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T01:56:22+09:00",
+  "updated_at": "2026-10-11T02:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -209,11 +209,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#シミュグラ4】紅  翠37日目「椿の焦燥」【千紫万紅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T09:50:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -243,11 +239,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "APEX Rank ダイヤまで上げるぞー",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-10T13:32:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -439,11 +431,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【シミュグラ4】※31日目 名前は-−-『鰐亀守』に変わった悪ガメの成長日記！配信始まりますよー",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T12:11:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
