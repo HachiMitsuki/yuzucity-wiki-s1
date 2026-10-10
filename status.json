@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:26:26+09:00",
+  "updated_at": "2026-10-10T21:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -915,7 +915,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "Increasing iLvls, maybe Chanter Emilian?",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-10-10T12:35:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
