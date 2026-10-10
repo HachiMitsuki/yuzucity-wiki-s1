@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T01:41:22+09:00",
+  "updated_at": "2026-10-11T01:56:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,11 +125,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 警察を考える会  ５３話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T13:30:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -541,11 +537,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】どうしようか  #57",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T13:48:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
