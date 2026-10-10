@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T04:31:18+09:00",
+  "updated_at": "2026-10-11T05:41:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -139,11 +139,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "[AION2] ド深夜に初見プレイ",
-      "game_name": "AION 2",
-      "started_at": "2026-10-10T19:22:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
