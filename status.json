@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:01:28+09:00",
+  "updated_at": "2026-10-10T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -305,7 +305,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【66日目】果たしてギャングになれるのか？？？😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T12:02:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +843,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】64日目 仕入れしないとヤバくなかった？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T12:00:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -943,7 +951,11 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】たけしのPD生活【GTA5】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T12:04:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
