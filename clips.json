@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-10T22:02:28+09:00",
+  "updated_at": "2026-10-11T03:30:30+09:00",
   "clips": [
+    {
+      "id": 437,
+      "source": "twitch",
+      "source_id": "DelightfulShakingPheasantPJSalt-QVimBSNvwbMgM5LX",
+      "url": "https://www.twitch.tv/k6o_minase/clip/DelightfulShakingPheasantPJSalt-QVimBSNvwbMgM5LX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DelightfulShakingPheasantPJSalt-QVimBSNvwbMgM5LX",
+      "title": "なんて言うと思う？",
+      "description": "https://www.twitch.tv/k6o_minase/clip/DelightfulShakingPheasantPJSalt-QVimBSNvwbMgM5LX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f9f8989d-ca67-49d0-b900-cb11e0ff0fcd/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 59,
+      "broadcaster_name": "水無瀬九炉",
+      "author_name": "水無瀬　九炉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/211332263038812160/4e32909d49211b1fb1c63932a698ff52.png?size=128",
+      "posted_at": "2026-10-11T03:30:29+09:00"
+    },
     {
       "id": 436,
       "source": "twitch",
