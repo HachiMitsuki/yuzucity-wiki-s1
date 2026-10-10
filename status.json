@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:16:22+09:00",
+  "updated_at": "2026-10-10T17:56:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -337,11 +337,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【Overwatch】昼活とかしちゃいますか",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-10T06:31:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -785,7 +781,7 @@
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
       "is_live": true,
       "title": "第四回Vtuber対抗秋の運動会 緑原智隼視点",
-      "game_name": "Super Bunny Man",
+      "game_name": "Just Chatting",
       "started_at": "2026-10-10T07:27:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
