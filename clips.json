@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-10T08:50:38+09:00",
+  "updated_at": "2026-10-10T22:02:28+09:00",
   "clips": [
+    {
+      "id": 436,
+      "source": "twitch",
+      "source_id": "SingleShyCurryFreakinStinkin-OQAPvS13n0ebSDIr",
+      "url": "https://www.twitch.tv/popopotyi/clip/SingleShyCurryFreakinStinkin-OQAPvS13n0ebSDIr",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SingleShyCurryFreakinStinkin-OQAPvS13n0ebSDIr",
+      "title": "西高爆走族 爆破編",
+      "description": "https://www.twitch.tv/popopotyi/clip/SingleShyCurryFreakinStinkin-OQAPvS13n0ebSDIr",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/240a3c44-ee17-4eaf-bbba-bd9dd6eff026/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "るるヲ",
+      "author_name": "るるヲ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/789416886961831936/da93b6ba38f5c7e8d23f13207899a907.png?size=128",
+      "posted_at": "2026-10-10T22:02:26+09:00"
+    },
     {
       "id": 435,
       "source": "twitch",
