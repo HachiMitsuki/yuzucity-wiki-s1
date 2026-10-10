@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T02:31:21+09:00",
+  "updated_at": "2026-10-11T02:36:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,11 +23,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[LostRoseCity] da4 覚えることいっぱい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T14:00:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -97,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー５３日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-10T08:07:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
