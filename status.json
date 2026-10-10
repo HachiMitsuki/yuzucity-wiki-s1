@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:36:27+09:00",
+  "updated_at": "2026-10-10T21:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "生きて返れたのでマビノギモバイル@PC",
-      "game_name": "Mabinogi Mobile",
-      "started_at": "2026-10-10T11:11:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -73,7 +69,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】犯罪犯罪♪ #70【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T12:38:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -917,7 +917,7 @@
       "channel_url": "https://www.twitch.tv/dmist",
       "is_live": true,
       "title": "Increasing iLvls, maybe Chanter Emilian?",
-      "game_name": "R.E.P.O.",
+      "game_name": "AION 2",
       "started_at": "2026-10-10T12:35:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
