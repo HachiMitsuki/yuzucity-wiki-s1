@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T19:16:22+09:00",
+  "updated_at": "2026-10-10T19:46:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -964,6 +964,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "setukaimaboku",
+      "login": "setukaimaboku",
+      "user_id": "966910187",
+      "display_name": "せつかだよぉ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/setukaimaboku",
+      "is_live": true,
+      "title": "【#Yuzucity】不憫な狼が街を歩くDay69",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-10T10:41:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
