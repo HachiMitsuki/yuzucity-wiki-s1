@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T15:36:18+09:00",
+  "updated_at": "2026-10-10T16:31:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -267,11 +267,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #VALORANT 】おひさしチェンバー【湊星いぐれ】",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-10T01:54:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -445,7 +441,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "AION2 チュートリアル終了 !device !sens",
+      "game_name": "AION 2",
+      "started_at": "2026-10-10T07:26:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -779,7 +779,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "第四回Vtuber対抗秋の運動会 緑原智隼視点",
+      "game_name": "Super Bunny Man",
+      "started_at": "2026-10-10T07:27:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -893,11 +897,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#valo】流行りのAION2やりたかったのに・・・おかげさまでフルパコンペいけます・・・・",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-10T04:00:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
