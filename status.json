@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:51:27+09:00",
+  "updated_at": "2026-10-10T22:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -777,7 +777,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】VGUC - team3 - 私のヤギ達 day3",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-10T12:57:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -807,11 +811,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "第四回Vtuber対抗秋の運動会 緑原智隼視点",
-      "game_name": "Just Chatting",
-      "started_at": "2026-10-10T07:27:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
