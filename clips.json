@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T14:32:03+09:00",
+  "updated_at": "2026-10-12T05:15:43+09:00",
   "clips": [
+    {
+      "id": 445,
+      "source": "discord",
+      "source_id": "1558936150696132758",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1558936150696132758/ScreenRecording_10-12-2026_05-11-42_1.mov?ex=6acd3fed&is=6acbee6d&hm=851edaf7325c044e90f4b94dbe24b5e2e75c219d3779831fb3efc79cd6707c17&",
+      "embed_url": null,
+      "title": "LSCメカニックのあれは車のプレス機",
+      "description": "LSCメカニックのあれは車のプレス機",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "甘兎さく",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1212661130321723452/b7ce68ef84b089422d6d6d2b55958ea3.png?size=128",
+      "posted_at": "2026-10-12T05:15:42+09:00"
+    },
     {
       "id": 444,
       "source": "twitch",
