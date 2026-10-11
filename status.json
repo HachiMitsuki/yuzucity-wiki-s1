@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T17:31:25+09:00",
+  "updated_at": "2026-10-11T18:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -787,11 +787,7 @@
       "display_name": "狐花かさね",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3607847-5394-459d-bc31-cde40da9bb54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/fox_lyc0ris",
-      "is_live": true,
-      "title": "【妹に運転を教える】現役ゴールド免許お兄さん VS AI妹【狐花かさね】",
-      "game_name": "Teach My Little Sister How to Drive",
-      "started_at": "2026-10-11T07:56:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fox_lyc0ris-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
