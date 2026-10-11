@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T23:26:29+09:00",
+  "updated_at": "2026-10-11T23:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,11 +145,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day７１ 抗争だ！！！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-11T13:55:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -515,11 +511,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】新規ギャングも参入【WIPE OUT】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-11T12:20:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -793,11 +785,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTAV】逢坂 戎：EMBLEM：Day.29：抗争",
-      "game_name": "",
-      "started_at": "2026-10-11T12:19:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
