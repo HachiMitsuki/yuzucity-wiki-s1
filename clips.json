@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-12T06:13:18+09:00",
+  "updated_at": "2026-10-12T06:13:34+09:00",
   "clips": [
+    {
+      "id": 448,
+      "source": "twitch",
+      "source_id": "DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
+      "url": "https://www.twitch.tv/ranokaku_u/clip/DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
+      "title": "ぼ ⁉️⁉️",
+      "description": "https://www.twitch.tv/ranokaku_u/clip/DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0fe9b165-5939-4f8c-b118-b84568019928/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 50,
+      "broadcaster_name": "架空らの",
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-10-12T06:13:30+09:00"
+    },
     {
       "id": 447,
       "source": "discord",
@@ -15,21 +30,6 @@
       "author_name": "かくうらの(架空らの)",
       "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
       "posted_at": "2026-10-12T06:13:18+09:00"
-    },
-    {
-      "id": 446,
-      "source": "twitch",
-      "source_id": "DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
-      "url": "https://www.twitch.tv/ranokaku_u/clip/DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
-      "embed_url": "https://clips.twitch.tv/embed?clip=DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
-      "title": "ぼ ⁉️⁉️",
-      "description": "https://www.twitch.tv/ranokaku_u/clip/DarkGoldenPoultryMoreCowbell--GBhaOGNgztsK3ZX",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e482d6ff-4ebf-412b-a536-40c69021c929/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "duration_seconds": 49,
-      "broadcaster_name": "架空らの",
-      "author_name": "かくうらの(架空らの)",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
-      "posted_at": "2026-10-12T06:03:03+09:00"
     },
     {
       "id": 445,
