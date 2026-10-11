@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T01:41:22+09:00",
+  "updated_at": "2026-10-12T01:46:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -317,11 +317,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【67日目】ギャング面談に代理としてでることになってしもて😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-11T10:36:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -839,11 +835,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【YuzuCity】新たな道 Day63(?)",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-11T14:11:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
