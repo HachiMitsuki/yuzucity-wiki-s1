@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T13:18:04+09:00",
+  "updated_at": "2026-10-11T13:18:15+09:00",
   "clips": [
+    {
+      "id": 440,
+      "source": "twitch",
+      "source_id": "FuriousOilySpaghettiPicoMause-cq-ctwV8CRx3QSaI",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/FuriousOilySpaghettiPicoMause-cq-ctwV8CRx3QSaI",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FuriousOilySpaghettiPicoMause-cq-ctwV8CRx3QSaI",
+      "title": "エモートの暴走",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/FuriousOilySpaghettiPicoMause-cq-ctwV8CRx3QSaI?range=7d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ce70300a-daf6-4787-ad2b-d356539dfd89/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 59,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-11T13:18:13+09:00"
+    },
     {
       "id": 439,
       "source": "twitch",
