@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T13:18:22+09:00",
+  "updated_at": "2026-10-11T14:06:27+09:00",
   "clips": [
+    {
+      "id": 442,
+      "source": "twitch",
+      "source_id": "UgliestAbstemiousLaptopUWot-TV2r237DTKljIAJt",
+      "url": "https://www.twitch.tv/toka_ruki/clip/UgliestAbstemiousLaptopUWot-TV2r237DTKljIAJt",
+      "embed_url": "https://clips.twitch.tv/embed?clip=UgliestAbstemiousLaptopUWot-TV2r237DTKljIAJt",
+      "title": "お気に入りアイテムの出番！🫶",
+      "description": "☾ お気に入りアイテムの出番！🫶\nhttps://www.twitch.tv/toka_ruki/clip/UgliestAbstemiousLaptopUWot-TV2r237DTKljIAJt",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/75d3ae11-0a26-4a94-9272-62e70211841a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-10-11T14:06:26+09:00"
+    },
     {
       "id": 441,
       "source": "twitch",
