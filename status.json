@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T00:26:25+09:00",
+  "updated_at": "2026-10-12T00:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,11 +349,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "yuzucity 抗争 #千代田紫雨",
-      "game_name": "Grand Theft Auto: San Andreas",
-      "started_at": "2026-10-11T12:12:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -393,11 +389,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【鬼武者WotS】#7 兄弟との激闘後の幻魔退治!",
-      "game_name": "Onimusha: Way of the Sword",
-      "started_at": "2026-10-11T11:46:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -495,7 +487,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】新規ギャングも参入【WIPE OUT】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T15:26:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -525,7 +521,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】月ノ瀬 マキナ Oblivion ＃??【送】/ #むつきまき",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T15:26:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
