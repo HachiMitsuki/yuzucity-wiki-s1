@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T01:46:32+09:00",
+  "updated_at": "2026-10-12T02:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,11 +479,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【Yuzucity】新規ギャングも参入【WIPE OUT】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-11T15:26:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -845,11 +841,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【バイオハザード6】お久しぶりのバイオコンビ！【コラボ】",
-      "game_name": "Resident Evil 6",
-      "started_at": "2026-10-11T11:58:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
