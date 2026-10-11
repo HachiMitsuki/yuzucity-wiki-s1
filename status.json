@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T23:16:27+09:00",
+  "updated_at": "2026-10-11T23:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1008,7 +1008,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
       "is_live": true,
-      "title": "MAX IS YOUR F1 WORLD CHAMPION IN SINGAPORE",
+      "title": "MAX VERSTAPPEN",
       "game_name": "AION 2",
       "started_at": "2026-10-11T14:12:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
@@ -1021,11 +1021,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#yuzu】anbossが大泣きしたので帰ってきました",
-      "game_name": "",
-      "started_at": "2026-10-11T12:31:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
