@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T19:11:25+09:00",
+  "updated_at": "2026-10-11T19:16:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー５4日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T10:11:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -471,7 +475,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【AriseCity】帰ってきた",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T10:11:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
