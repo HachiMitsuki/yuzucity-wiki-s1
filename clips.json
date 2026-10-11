@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T14:17:30+09:00",
+  "updated_at": "2026-10-11T14:32:03+09:00",
   "clips": [
+    {
+      "id": 444,
+      "source": "twitch",
+      "source_id": "AwkwardPowerfulLaptopVoHiYo-9bWX5MVegyyZwWKn",
+      "url": "https://www.twitch.tv/toka_ruki/clip/AwkwardPowerfulLaptopVoHiYo-9bWX5MVegyyZwWKn",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AwkwardPowerfulLaptopVoHiYo-9bWX5MVegyyZwWKn",
+      "title": "片付けられないアイテムに怒り心頭で台ﾊﾟｧﾝ！！ｗｗｗ",
+      "description": "☾ 片付けられないアイテムに怒り心頭で台ﾊﾟｧﾝ！！ｗｗｗ\nhttps://www.twitch.tv/toka_ruki/clip/AwkwardPowerfulLaptopVoHiYo-9bWX5MVegyyZwWKn",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4ba3ec1-fd78-4cdc-a0a2-2a5ee1735295/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 57,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/7d716817ef5e04603bf1f7e88a510771.png?size=128",
+      "posted_at": "2026-10-11T14:32:03+09:00"
+    },
     {
       "id": 443,
       "source": "twitch",
