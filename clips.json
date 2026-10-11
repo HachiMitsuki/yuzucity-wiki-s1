@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T03:30:30+09:00",
+  "updated_at": "2026-10-11T13:17:16+09:00",
   "clips": [
+    {
+      "id": 438,
+      "source": "twitch",
+      "source_id": "BoredStylishMeerkatCoolStoryBob-ciZQy-G7vMCgtILc",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/BoredStylishMeerkatCoolStoryBob-ciZQy-G7vMCgtILc",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BoredStylishMeerkatCoolStoryBob-ciZQy-G7vMCgtILc",
+      "title": "心無き治療NPCドッキリに良い反応をする水無瀬警官",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/BoredStylishMeerkatCoolStoryBob-ciZQy-G7vMCgtILc?range=7d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f3f1d25b-15b7-4039-a096-2d69dfda398e/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 11,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-11T13:17:15+09:00"
+    },
     {
       "id": 437,
       "source": "twitch",
