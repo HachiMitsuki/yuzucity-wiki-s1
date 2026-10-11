@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-12T06:03:03+09:00",
+  "updated_at": "2026-10-12T06:13:18+09:00",
   "clips": [
+    {
+      "id": 447,
+      "source": "discord",
+      "source_id": "1558950646361628682",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1558950646361628682/b801a9e549f77232.mov?ex=6acd4d6d&is=6acbfbed&hm=8e709757688e977795b2e60c4773784b99c1d25aa0f3cdbf1d6c51c971821bbf&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-10-12T06:13:18+09:00"
+    },
     {
       "id": 446,
       "source": "twitch",
