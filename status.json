@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T21:41:33+09:00",
+  "updated_at": "2026-10-11T21:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -193,7 +193,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "【AION2】駆け出し冒険者 あり得る",
+      "game_name": "AION 2",
+      "started_at": "2026-10-11T12:46:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -335,7 +339,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】51日目！ 抗争だ！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T12:48:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
