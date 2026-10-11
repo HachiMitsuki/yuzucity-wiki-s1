@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T21:01:26+09:00",
+  "updated_at": "2026-10-11T21:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -141,7 +141,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day７１ 抗争だ！！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T12:04:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -675,7 +679,11 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City 生活40日目 本日からgang！！魔王軍の進撃！！！森林レモン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T12:02:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -849,7 +857,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【コラボ配信/初見大歓迎】スト6コラボやれてないからyuzuの友達と w/ @rin5lee 【Apex Legends】#HioriRost_LIVE",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-11T12:05:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -859,7 +871,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】65日目 街は騒がしいかもだけど今日はチルとする",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T12:01:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
