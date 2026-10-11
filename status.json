@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T23:06:27+09:00",
+  "updated_at": "2026-10-11T23:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -895,7 +895,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】新たな道 Day63(?)",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-11T14:11:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -929,11 +933,7 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": true,
-      "title": "【コラボ配信/初見大歓迎】スト6コラボやれてないからyuzuの友達と w/ @rin5lee 【Apex Legends】#HioriRost_LIVE",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-11T12:05:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1007,7 +1007,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "MAX IS YOUR F1 WORLD CHAMPION IN SINGAPORE",
+      "game_name": "AION 2",
+      "started_at": "2026-10-11T14:12:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
