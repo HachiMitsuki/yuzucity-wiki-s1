@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T20:46:26+09:00",
+  "updated_at": "2026-10-11T20:51:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -365,7 +365,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【鬼武者WotS】#7 兄弟との激闘後の幻魔退治!",
+      "game_name": "Onimusha: Way of the Sword",
+      "started_at": "2026-10-11T11:46:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
