@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:01:35+09:00",
+  "updated_at": "2026-10-12T23:06:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -481,7 +481,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/12 みかじめどうなんよって yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-12T14:01:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
