@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:06:29+09:00",
+  "updated_at": "2026-10-13T01:11:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#OW】#おばぶカスタム スクリム！！",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-12T12:03:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -668,7 +664,7 @@
       "is_live": true,
       "title": "【VALORANT】ディオでやる シル2 28～",
       "game_name": "VALORANT",
-      "started_at": "2026-10-12T15:48:06Z",
+      "started_at": "2026-10-12T16:08:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
