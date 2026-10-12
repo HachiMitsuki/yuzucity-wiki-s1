@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T19:26:23+09:00",
+  "updated_at": "2026-10-12T19:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -805,7 +805,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】みんなと交流しながら過ごす1日",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-12T10:27:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
