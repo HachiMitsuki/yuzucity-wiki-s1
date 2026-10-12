@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:11:22+09:00",
+  "updated_at": "2026-10-12T15:26:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "マビノギモバイル生活編",
+      "game_name": "Mabinogi Mobile",
+      "started_at": "2026-10-12T06:20:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -388,7 +392,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
       "is_live": true,
-      "title": "【#Minecraft】スト鯖で友達ができるわけもあるまいし【#お結びサーバー】",
+      "title": "【#Minecraft】スト鯖で友達ができるわけもあるまいし2日目【#お結びサーバー】",
       "game_name": "Minecraft",
       "started_at": "2026-10-12T06:10:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
