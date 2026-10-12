@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:36:31+09:00",
+  "updated_at": "2026-10-13T00:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -815,11 +815,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【YuzuCity】とりあえず Day64",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-12T12:14:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -829,11 +825,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【バイオハザード6】エイダ編！【コラボ】",
-      "game_name": "Resident Evil 6",
-      "started_at": "2026-10-12T11:58:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
