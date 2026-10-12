@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-12T06:13:34+09:00",
+  "updated_at": "2026-10-13T01:41:15+09:00",
   "clips": [
+    {
+      "id": 449,
+      "source": "twitch",
+      "source_id": "BumblingGlutenFreeManateeTooSpicy-ExI8-Ep2ymkEseMS",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/BumblingGlutenFreeManateeTooSpicy-ExI8-Ep2ymkEseMS",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BumblingGlutenFreeManateeTooSpicy-ExI8-Ep2ymkEseMS",
+      "title": "3回振って、456が出たらスパロー貰えるチンチロ",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/BumblingGlutenFreeManateeTooSpicy-ExI8-Ep2ymkEseMS",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/74d45960-f993-4fcd-a898-9458e7c92f7a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 56,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-10-13T01:41:15+09:00"
+    },
     {
       "id": 448,
       "source": "twitch",
