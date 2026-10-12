@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T20:16:25+09:00",
+  "updated_at": "2026-10-12T20:26:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,11 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】デスマ→スイフト→フルパコンペ！",
+      "game_name": "",
+      "started_at": "2026-10-12T11:23:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
