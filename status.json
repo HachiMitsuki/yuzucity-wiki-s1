@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T20:11:24+09:00",
+  "updated_at": "2026-10-12T20:16:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -403,11 +403,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#Minecraft】スト鯖で友達ができるわけもあるまいし2日目【#お結びサーバー】",
-      "game_name": "Minecraft",
-      "started_at": "2026-10-12T06:10:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -559,11 +555,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】終わりの始まり【ストロ・べリオ】#35 #YuzuCity #FiveM #GTAVICECITY",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-12T09:36:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
