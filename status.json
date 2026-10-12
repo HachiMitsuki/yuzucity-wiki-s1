@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T14:41:20+09:00",
+  "updated_at": "2026-10-12T14:46:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,7 +497,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "#BOMBANANA】 続きをする！今度こそ音声は入れて。w/ @yumegasaki_vt @bou214",
+      "game_name": "BOMBANANA!",
+      "started_at": "2026-10-12T05:44:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
