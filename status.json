@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T23:36:24+09:00",
+  "updated_at": "2026-10-13T23:41:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -157,11 +157,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "Losグラ なんの因果か新人警察へ…#9",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-13T10:34:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -299,11 +295,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【VALO】フルパコンペでキャリーしてもらう",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-13T13:05:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
