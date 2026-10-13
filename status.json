@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:01:34+09:00",
+  "updated_at": "2026-10-13T22:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,7 +121,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ 警察する ５５話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-13T13:01:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -533,7 +537,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】家買おうかな？ #60",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-13T13:00:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
