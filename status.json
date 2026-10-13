@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T21:16:31+09:00",
+  "updated_at": "2026-10-13T21:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -325,7 +325,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity チル #千代田紫雨",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-13T12:21:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -632,7 +636,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【灯星街/天音あしゅ】ぼでぃかめ🍀 @ashnyaaaaan 🍭",
+      "title": "【アルクラ】メカニックオーナーの日常🍀@ashnyaaaaan 🍭",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-13T10:12:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
