@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T18:31:17+09:00",
+  "updated_at": "2026-10-13T18:31:43+09:00",
   "clips": [
+    {
+      "id": 452,
+      "source": "twitch",
+      "source_id": "BusyRenownedTigerBatChest-0AZ0z6QgfHVV_ShW",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/BusyRenownedTigerBatChest-0AZ0z6QgfHVV_ShW",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BusyRenownedTigerBatChest-0AZ0z6QgfHVV_ShW",
+      "title": "ゲラの共鳴で終わった病院",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/BusyRenownedTigerBatChest-0AZ0z6QgfHVV_ShW",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fff2096a-ea60-4216-ae89-a75d5c6a621c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-13T18:31:41+09:00"
+    },
     {
       "id": 451,
       "source": "twitch",
