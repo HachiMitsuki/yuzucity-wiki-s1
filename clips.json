@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T12:42:05+09:00",
+  "updated_at": "2026-10-13T18:31:17+09:00",
   "clips": [
+    {
+      "id": 451,
+      "source": "twitch",
+      "source_id": "ResoluteGiftedDragonfruitAMPEnergy--nK49zTE0YXLrxca",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/ResoluteGiftedDragonfruitAMPEnergy--nK49zTE0YXLrxca",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ResoluteGiftedDragonfruitAMPEnergy--nK49zTE0YXLrxca",
+      "title": "ぼ（別視点",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/ResoluteGiftedDragonfruitAMPEnergy--nK49zTE0YXLrxca",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cf4a162c-00e0-4df3-83c0-0d9fa9589515/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-13T18:31:16+09:00"
+    },
     {
       "id": 450,
       "source": "twitch",
