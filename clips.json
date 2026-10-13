@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T18:46:41+09:00",
+  "updated_at": "2026-10-13T22:19:43+09:00",
   "clips": [
+    {
+      "id": 455,
+      "source": "twitch",
+      "source_id": "EasyGoodDonutPermaSmug-vVYlohqy42kRBfiC",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/EasyGoodDonutPermaSmug-vVYlohqy42kRBfiC",
+      "embed_url": "https://clips.twitch.tv/embed?clip=EasyGoodDonutPermaSmug-vVYlohqy42kRBfiC",
+      "title": "必死に上官を起こそうとする後輩",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/EasyGoodDonutPermaSmug-vVYlohqy42kRBfiC",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/75244e1e-3c16-4cce-87c6-b86ce5abaf5c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 17,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-13T22:19:42+09:00"
+    },
     {
       "id": 454,
       "source": "discord",
