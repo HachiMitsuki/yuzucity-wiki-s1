@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T00:46:21+09:00",
+  "updated_at": "2026-10-14T00:56:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -305,11 +305,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【69日目】今日1日街お休みだとおもってた😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-13T14:03:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -329,11 +325,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "yuzucity チル #千代田紫雨",
-      "game_name": "Grand Theft Auto: San Andreas",
-      "started_at": "2026-10-13T12:21:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -901,11 +893,7 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": true,
-      "title": "【VALORANT】ソロ→フルパ→ソロ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-13T11:34:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
