@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T03:01:18+09:00",
+  "updated_at": "2026-10-14T03:06:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -583,11 +583,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】63日目：本日は遅めの時間から街が始まる【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-13T13:15:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -871,11 +867,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "SLOWLY FADING AWAY FROM F2P",
-      "game_name": "AION 2",
-      "started_at": "2026-10-13T11:59:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
