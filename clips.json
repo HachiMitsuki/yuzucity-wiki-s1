@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T01:41:15+09:00",
+  "updated_at": "2026-10-13T12:42:05+09:00",
   "clips": [
+    {
+      "id": 450,
+      "source": "twitch",
+      "source_id": "FriendlyDirtyTitanKappa-ejw1K1eaNBVp2L1b",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/FriendlyDirtyTitanKappa-ejw1K1eaNBVp2L1b",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FriendlyDirtyTitanKappa-ejw1K1eaNBVp2L1b",
+      "title": "【yuzucity】スマート神ピック(された側)【紅茶猫/Koucyaneco】",
+      "description": "https://www.twitch.tv/koucyanec0319/clip/FriendlyDirtyTitanKappa-ejw1K1eaNBVp2L1b",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/239f5730-a8b8-4c03-9157-0c48b8e2582b/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 29,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/efb4aed2c826e3b2dc9bb7ad1092ddcc.png?size=128",
+      "posted_at": "2026-10-13T12:42:05+09:00"
+    },
     {
       "id": 449,
       "source": "twitch",
