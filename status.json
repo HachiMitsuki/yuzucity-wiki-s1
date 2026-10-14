@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:41:22+09:00",
+  "updated_at": "2026-10-14T18:46:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -835,7 +835,11 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": false
+      "is_live": true,
+      "title": "お結びサーバーへお邪魔します！",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-14T09:44:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
