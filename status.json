@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:16:27+09:00",
+  "updated_at": "2026-10-14T21:21:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,11 +251,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【#bf6 】戦場に行くぞ！",
-      "game_name": "Battlefield 6",
-      "started_at": "2026-10-14T10:47:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -647,7 +643,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【灯星街/天音あしゅ】ぼでぃかめ🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-14T12:16:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
