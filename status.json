@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T00:16:26+09:00",
+  "updated_at": "2026-10-15T00:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -245,11 +245,7 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": true,
-      "title": "【REANIMAL】2回目プレイw【w/ @himiya_shiro】",
-      "game_name": "REANIMAL",
-      "started_at": "2026-10-14T11:58:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -533,11 +529,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】痩せたからには現状維持したいよね #61",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-14T11:10:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
