@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:11:26+09:00",
+  "updated_at": "2026-10-14T21:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -435,7 +435,7 @@
       "channel_url": "https://www.twitch.tv/koruuna",
       "is_live": true,
       "title": "【CHAIN VALORANT】いつも通りアゲでいこ～！！",
-      "game_name": "Apex Legends",
+      "game_name": "VALORANT",
       "started_at": "2026-10-14T12:07:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
@@ -761,7 +761,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "アーカイブ見れないようにするからねえ",
+      "game_name": "Just Chatting",
+      "started_at": "2026-10-14T12:14:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
