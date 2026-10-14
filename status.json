@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T13:46:21+09:00",
+  "updated_at": "2026-10-14T13:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -931,7 +931,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "久々のバロ新アクトブロンズスタートかな？",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-14T04:46:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
