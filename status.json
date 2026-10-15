@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:56:39+09:00",
+  "updated_at": "2026-10-15T22:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,11 +93,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー５７日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-15T12:22:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -597,7 +593,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】FiveM GTA やるど～！46日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:56:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1041,7 +1041,11 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】不憫な狼が街を歩くDay74",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:59:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
