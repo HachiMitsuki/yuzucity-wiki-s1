@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:01:33+09:00",
+  "updated_at": "2026-10-15T21:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -201,7 +201,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】シミュグラ４の人たちとfeignを今更遊んでみるー【千紫万紅】",
+      "game_name": "Feign",
+      "started_at": "2026-10-15T12:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -379,7 +383,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "Lost Rose City 9日目 やることない(´;ω;｀)",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:04:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -669,7 +677,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】ディオでやる シル2 28～",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-15T12:03:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1003,7 +1015,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】さいきんねむたい #ゆず鯖 #ycgta #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:03:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
