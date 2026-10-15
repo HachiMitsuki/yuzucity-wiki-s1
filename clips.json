@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T23:03:06+09:00",
+  "updated_at": "2026-10-15T10:17:49+09:00",
   "clips": [
+    {
+      "id": 457,
+      "source": "twitch",
+      "source_id": "AgileSillyPotatoPJSalt-ZzT6gkx5zNKbkkBy",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/AgileSillyPotatoPJSalt-ZzT6gkx5zNKbkkBy",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AgileSillyPotatoPJSalt-ZzT6gkx5zNKbkkBy",
+      "title": "【yuzycity】哀れな賞金首の末路【紅茶猫/Koucyaneco】",
+      "description": "https://www.twitch.tv/koucyanec0319/clip/AgileSillyPotatoPJSalt-ZzT6gkx5zNKbkkBy",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/09e82871-07e6-40b6-81dc-f150569bbae7/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 47,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/efb4aed2c826e3b2dc9bb7ad1092ddcc.png?size=128",
+      "posted_at": "2026-10-15T10:17:48+09:00"
+    },
     {
       "id": 456,
       "source": "youtube",
