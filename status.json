@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T03:46:24+09:00",
+  "updated_at": "2026-10-16T04:01:17+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -896,7 +896,7 @@
       "is_live": true,
       "title": "【AION2】夜更かしさん",
       "game_name": "AION 2",
-      "started_at": "2026-10-15T18:44:16Z",
+      "started_at": "2026-10-15T18:47:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
