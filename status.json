@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:51:30+09:00",
+  "updated_at": "2026-10-15T21:56:39+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -597,11 +597,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #エンフィ 】ｳｫｵｵｵｵｵｵｵｵｵｵｵｵ!!!!!! スーーが来たぞぉぉぉぉぉぉ！！！ 【#個人V #Vtub",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-10-15T11:58:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -687,7 +683,11 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City 生活42日目 本日からgang！！魔王軍の進撃！！！森林レモン",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:53:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -775,7 +775,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOS鯖/lostRose】初めまして【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-15T12:54:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
