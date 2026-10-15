@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:21:26+09:00",
+  "updated_at": "2026-10-15T23:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -897,11 +897,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "マレニア倒したら鬼武者買う※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
-      "game_name": "ELDEN RING",
-      "started_at": "2026-10-15T11:59:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -942,8 +938,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
       "is_live": true,
-      "title": "【VALORANT】soloq こんにちは新アクト",
-      "game_name": "VALORANT",
+      "title": "【APEX】数戦して終わるよ",
+      "game_name": "Apex Legends",
       "started_at": "2026-10-15T12:17:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
