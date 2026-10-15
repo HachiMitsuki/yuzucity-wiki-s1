@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T01:06:24+09:00",
+  "updated_at": "2026-10-16T01:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -663,11 +663,7 @@
       "display_name": "タケパパ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fedbfc4-4e2c-4596-8d6c-0cf209ee8dcb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takeshipapa",
-      "is_live": true,
-      "title": "Yuzu City 生活42日目 本日からgang！！魔王軍の進撃！！！森林レモン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-15T12:53:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takeshipapa-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -677,11 +673,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【VALORANT】ディオでやる シル2 36～",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-15T13:52:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -825,11 +817,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【WARDOGS】ワイプが来たからさっそくレベル上げ！【Season2】",
-      "game_name": "WARDOGS",
-      "started_at": "2026-10-15T10:56:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
