@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:46:22+09:00",
+  "updated_at": "2026-10-15T10:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -239,7 +239,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【#7daystodie】",
+      "game_name": "7 Days to Die",
+      "started_at": "2026-10-15T01:33:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -249,11 +253,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【valo】寝てない人はいないよな？",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-14T23:23:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
