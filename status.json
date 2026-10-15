@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:06:29+09:00",
+  "updated_at": "2026-10-15T21:16:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -678,7 +678,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【VALORANT】ディオでやる シル2 28～",
+      "title": "【VALORANT】ディオでやる シル2 36～",
       "game_name": "VALORANT",
       "started_at": "2026-10-15T12:03:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
@@ -765,7 +765,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "アーカイブ見れないよ💓",
+      "game_name": "Just Chatting",
+      "started_at": "2026-10-15T12:15:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
