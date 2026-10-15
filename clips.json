@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-15T10:17:49+09:00",
+  "updated_at": "2026-10-16T06:35:32+09:00",
   "clips": [
+    {
+      "id": 458,
+      "source": "twitch",
+      "source_id": "DependableTameSangNerfBlueBlaster-03wwHA7olqehh-QG",
+      "url": "https://www.twitch.tv/ranokaku_u/clip/DependableTameSangNerfBlueBlaster-03wwHA7olqehh-QG",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DependableTameSangNerfBlueBlaster-03wwHA7olqehh-QG",
+      "title": "お待たせ、待った？",
+      "description": "https://www.twitch.tv/ranokaku_u/clip/DependableTameSangNerfBlueBlaster-03wwHA7olqehh-QG",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7deb990d-cc0c-4fde-96e6-a100e01939bc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 24,
+      "broadcaster_name": "架空らの",
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-10-16T06:35:32+09:00"
+    },
     {
       "id": 457,
       "source": "twitch",
