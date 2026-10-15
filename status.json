@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:56:28+09:00",
+  "updated_at": "2026-10-15T21:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -573,7 +573,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #エンフィ 】ｳｫｵｵｵｵｵｵｵｵｵｵｵｵ!!!!!! スーーが来たぞぉぉぉぉぉぉ！！！ 【#個人V #Vtub",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-10-15T11:58:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -853,7 +857,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "マレニア倒したら鬼武者買う※NoCheer&Bits/ビッツ禁止【エルデンリング / ELDENRING】",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-10-15T11:59:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
