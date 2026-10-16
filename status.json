@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:26:21+09:00",
+  "updated_at": "2026-10-17T02:36:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,11 +297,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【72日目】大型いけるか？？？😇",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-16T12:05:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -491,11 +487,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【YuzuCity】メンバー。 day?",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-16T13:37:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -505,11 +497,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】今日はチルなのか…？ #63",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-16T12:54:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -987,11 +975,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】おかしあつめ #ゆず鯖 #ycgta #yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-16T12:55:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
