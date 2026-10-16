@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:01:26+09:00",
+  "updated_at": "2026-10-16T21:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【72日目】大型いけるか？？？😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:05:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -827,7 +831,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】68日目 あおい",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:01:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
