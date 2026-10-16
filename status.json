@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:01:32+09:00",
+  "updated_at": "2026-10-16T22:16:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -294,7 +294,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
       "is_live": true,
-      "title": "【VALORANT】フレンド欄皆フルパで俺はソロ",
+      "title": "【VALORANT】フレンドに誘われてフルパになったわ",
       "game_name": "VALORANT",
       "started_at": "2026-10-16T12:54:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
@@ -915,7 +915,11 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": false
+      "is_live": true,
+      "title": "Mesitero:めっちゃカメレオンやるぜぇ",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-10-16T13:11:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
