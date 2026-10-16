@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:38:16+09:00",
+  "updated_at": "2026-10-16T18:31:42+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1554,6 +1554,13 @@
       "display_name": "【かっこ】",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1770851387150082049/rjoSXTbX_400x400.jpg",
       "profile_url": "https://x.com/kuran_kakko"
+    },
+    {
+      "platform": "x",
+      "handle": "hakurou_urufuu",
+      "display_name": "白狼うるふ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2111018364214886401/yXYmM-sU_400x400.jpg",
+      "profile_url": "https://x.com/hakurou_urufuu"
     }
   ]
 }
