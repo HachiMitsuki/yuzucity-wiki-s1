@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:56:29+09:00",
+  "updated_at": "2026-10-16T22:01:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ 警察する ５６話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:57:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -469,7 +473,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/16 yuzucity yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:59:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -697,7 +705,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】よちよちヴァロ部コラボ シル2 93～",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-16T13:00:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -841,7 +853,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【WARDOGS】いつメン呼び出しレベル上げ【Season2】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-10-16T12:57:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
