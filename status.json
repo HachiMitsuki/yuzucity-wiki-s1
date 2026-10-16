@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:31:27+09:00",
+  "updated_at": "2026-10-16T21:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -243,7 +243,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【7daystodie】",
+      "game_name": "7 Days to Die",
+      "started_at": "2026-10-16T12:33:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -921,7 +925,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzu】出戻り青ギャング女",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:32:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
