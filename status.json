@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:06:29+09:00",
+  "updated_at": "2026-10-16T21:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,7 +459,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Apex】なんだか懐かしいメンバーだな /w @takurusu8 @",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-16T12:10:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -845,7 +849,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "巷で噂の鬼武者新作やるぞ！【鬼武者 Way of the Sword】",
+      "game_name": "Onimusha: Way of the Sword",
+      "started_at": "2026-10-16T12:08:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
