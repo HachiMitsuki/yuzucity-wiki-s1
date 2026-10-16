@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-16T06:35:32+09:00",
+  "updated_at": "2026-10-17T01:39:14+09:00",
   "clips": [
+    {
+      "id": 459,
+      "source": "discord",
+      "source_id": "1560693608183759011",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1560693608183759011/20261017_AbstemiousOptimisticTermiteArsonNoSexy-aoKpjMvkHjD8Wt7k_source.mp4?ex=6ad3a4b0&is=6ad25330&hm=b7ff825e1b74313c19697e12706f4b45128899dcdbcb43ceedf5c52021f5c120&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "久保田キャン",
+      "author_avatar": "https://cdn.discordapp.com/avatars/523213101596803093/7451b0e1d5b32a54805cec0eca74bf03.png?size=128",
+      "posted_at": "2026-10-17T01:39:12+09:00"
+    },
     {
       "id": 458,
       "source": "twitch",
