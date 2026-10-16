@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:46:29+09:00",
+  "updated_at": "2026-10-16T21:56:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -289,7 +289,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】フレンド欄皆フルパで俺はソロ",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-16T12:54:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -533,7 +537,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】今日はチルなのか…？ #63",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:54:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -587,7 +595,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Twilight City】Day 12 釣りレベル上げ  #TwilightCity #トワグラ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:55:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1015,7 +1027,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】おかしあつめ #ゆず鯖 #ycgta #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-16T12:55:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
