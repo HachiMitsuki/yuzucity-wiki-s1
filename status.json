@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:11:21+09:00",
+  "updated_at": "2026-10-17T14:56:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,7 +263,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 VALORANT】こんぺぺの民【湊星いぐれ】",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-17T05:55:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -444,7 +448,7 @@
       "is_live": true,
       "title": "ApexLegends 1時間くらい !device !sens",
       "game_name": "Apex Legends",
-      "started_at": "2026-10-17T04:57:31Z",
+      "started_at": "2026-10-17T05:43:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
@@ -898,8 +902,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
       "is_live": true,
-      "title": "【#valo】逃げたかったw.ここあ・るきまる・うるふ・蒼さん",
-      "game_name": "Grand Theft Auto V",
+      "title": "【#valo】逃げたかったw.ここあ・るきまる・うるふ・蒼ねぇ！",
+      "game_name": "VALORANT",
       "started_at": "2026-10-17T05:01:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
