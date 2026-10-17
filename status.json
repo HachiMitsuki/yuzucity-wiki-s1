@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:16:21+09:00",
+  "updated_at": "2026-10-17T15:36:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ソロバロ",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-17T06:34:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -446,8 +450,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
       "is_live": true,
-      "title": "ApexLegends 1時間くらい !device !sens",
-      "game_name": "Apex Legends",
+      "title": "AION2 きゃりーみーぷりず !device !sens",
+      "game_name": "AION 2",
       "started_at": "2026-10-17T05:43:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
