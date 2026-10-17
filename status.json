@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:06:26+09:00",
+  "updated_at": "2026-10-17T21:26:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -435,7 +435,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【シミュグラ4】※36日目 名前は-−-『鰐亀守』に変わった悪ガメの成長日記！配信始まりますよー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-17T12:21:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -767,7 +771,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOS鯖/lostRose】今日は雨の中＃２【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-17T12:22:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
