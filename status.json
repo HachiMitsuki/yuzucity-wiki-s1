@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:01:18+09:00",
+  "updated_at": "2026-10-17T10:06:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -399,7 +399,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【AION2（長時間）】重騎士はゲーム無知識で天下取る テンプラー レギオンSleeperSマスター",
+      "game_name": "AION 2",
+      "started_at": "2026-10-17T01:01:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
