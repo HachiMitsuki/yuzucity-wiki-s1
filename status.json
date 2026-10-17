@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:46:24+09:00",
+  "updated_at": "2026-10-18T01:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,11 +29,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#OW】#おばぶカスタム 本番、舞わせていただきます",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-17T10:52:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -230,7 +226,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
       "is_live": true,
-      "title": "【YuzuCity】今日は早めに起きたえらい",
+      "title": "【YuzuCity】犯罪取りたい",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-17T13:58:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
