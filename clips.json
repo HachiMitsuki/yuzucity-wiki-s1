@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-17T01:39:14+09:00",
+  "updated_at": "2026-10-18T01:08:24+09:00",
   "clips": [
+    {
+      "id": 460,
+      "source": "twitch",
+      "source_id": "HelpfulTrappedCroissantTooSpicy-FVOeFZdPol4Vu1wL",
+      "url": "https://www.twitch.tv/sourei_2525/clip/HelpfulTrappedCroissantTooSpicy-FVOeFZdPol4Vu1wL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HelpfulTrappedCroissantTooSpicy-FVOeFZdPol4Vu1wL",
+      "title": "ダイナミック退店",
+      "description": "https://www.twitch.tv/sourei_2525/clip/HelpfulTrappedCroissantTooSpicy-FVOeFZdPol4Vu1wL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0b8a8ef4-2f20-471a-952c-916df7e1867e/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 36,
+      "broadcaster_name": "蒼澪",
+      "author_name": "うと",
+      "author_avatar": "https://cdn.discordapp.com/avatars/497437708181045279/ffcc2276bb7fe475d9ab3bc1ce63a724.png?size=128",
+      "posted_at": "2026-10-18T01:08:17+09:00"
+    },
     {
       "id": 459,
       "source": "discord",
