@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:01:28+09:00",
+  "updated_at": "2026-10-18T21:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -483,11 +483,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【FiveTown β】元倉庫作業従事者の倉庫金策",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-18T07:55:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -511,7 +507,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】限定がもしかしたら。 day?",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-18T12:03:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -925,7 +925,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【Lost Rose City】はじめまして、ヒーローになりに来ました。#6",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-18T12:04:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
