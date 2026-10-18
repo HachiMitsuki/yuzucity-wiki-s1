@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T14:26:23+09:00",
+  "updated_at": "2026-10-18T14:31:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -257,11 +257,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【valo】昨日から寝ずにフルパコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-18T03:34:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -371,11 +367,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "CoDMW4 キャンペーン振り返りゆっくり探索できるかな？",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-10-18T03:46:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
