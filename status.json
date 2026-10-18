@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:41:30+09:00",
+  "updated_at": "2026-10-18T22:51:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,7 +251,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【7daystodie】",
+      "game_name": "7 Days to Die",
+      "started_at": "2026-10-18T13:46:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -609,7 +613,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】FiveM GTA やるど～！49日目 #ゆず鯖 #YCGTA #FiveM【#個人V #Vtuber 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-18T13:49:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
