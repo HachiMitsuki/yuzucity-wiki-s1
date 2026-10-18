@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:41:29+09:00",
+  "updated_at": "2026-10-18T21:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -963,11 +963,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "VALO配信 JadeVALORANT Cup 本戦 Day2 チームエスカルゴもなかFight #JadeVALORANTCup",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-18T11:57:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
