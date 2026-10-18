@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:56:25+09:00",
+  "updated_at": "2026-10-19T01:16:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -863,11 +863,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】70日目 今日の街はどんな感じ？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-18T11:19:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
