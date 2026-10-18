@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:31:30+09:00",
+  "updated_at": "2026-10-18T21:36:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day７８ まだまだ金貯めたいねぇ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-18T12:35:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -305,7 +309,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【74日目】限定大型のプレに行けるかもしれないから急遽起きた😇",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-18T12:33:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
