@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T20:56:28+09:00",
+  "updated_at": "2026-10-18T21:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -925,11 +925,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#yuzu】出戻り青ギャング女",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-18T08:32:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -939,7 +935,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "VALO配信 JadeVALORANT Cup 本戦 Day2 チームエスカルゴもなかFight #JadeVALORANTCup",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-18T11:57:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
