@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:56:29+09:00",
+  "updated_at": "2026-10-18T22:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -939,7 +939,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "AION 2 1600 TIME",
+      "game_name": "AION 2",
+      "started_at": "2026-10-18T12:57:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
