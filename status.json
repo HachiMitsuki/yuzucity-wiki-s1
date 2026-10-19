@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:41:21+09:00",
+  "updated_at": "2026-10-20T02:06:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,11 +137,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day７９ ゆるーりまったり",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T13:24:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -510,7 +506,7 @@
       "is_live": true,
       "title": "【yuzucity】チルかも。",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T12:46:10Z",
+      "started_at": "2026-10-19T16:55:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
