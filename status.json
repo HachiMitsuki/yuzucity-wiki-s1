@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:31:25+09:00",
+  "updated_at": "2026-10-19T22:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -395,11 +395,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "CoDMW4 キャンペーンハードモード探索重視でやっていくぞ～",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-10-19T11:05:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -977,7 +973,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】ロキソニン☆",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-19T13:48:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
