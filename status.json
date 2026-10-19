@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:06:26+09:00",
+  "updated_at": "2026-10-19T22:11:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -503,11 +503,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【FiveTown β】何して生きるか、倉庫配信",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T11:09:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
