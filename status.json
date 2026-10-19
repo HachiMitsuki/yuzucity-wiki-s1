@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:26:26+09:00",
+  "updated_at": "2026-10-19T22:31:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -629,7 +629,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】58日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-19T13:27:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -771,7 +775,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOS鯖/lostRose】今日も激務メカニック＃3【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-19T13:27:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
