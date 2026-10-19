@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-19T01:36:00+09:00",
+  "updated_at": "2026-10-19T15:44:28+09:00",
   "clips": [
+    {
+      "id": 462,
+      "source": "twitch",
+      "source_id": "IgnorantAmazonianJuiceDerp-8UeQGspLT7DDS63G",
+      "url": "https://www.twitch.tv/toka_ruki/clip/IgnorantAmazonianJuiceDerp-8UeQGspLT7DDS63G",
+      "embed_url": "https://clips.twitch.tv/embed?clip=IgnorantAmazonianJuiceDerp-8UeQGspLT7DDS63G",
+      "title": "最近眠すぎて気絶寝頻発💤",
+      "description": "☾最近眠すぎて気絶寝頻発💤\nhttps://www.twitch.tv/toka_ruki/clip/IgnorantAmazonianJuiceDerp-8UeQGspLT7DDS63G",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8f11647e-0a8e-4c5b-8c4a-df6cfeac15d6/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 54,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/ceaaab43c5f80c3ba6c112dea7b02a07.png?size=128",
+      "posted_at": "2026-10-19T15:44:27+09:00"
+    },
     {
       "id": 461,
       "source": "youtube",
