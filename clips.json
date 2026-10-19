@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-19T15:44:28+09:00",
+  "updated_at": "2026-10-20T08:32:57+09:00",
   "clips": [
+    {
+      "id": 463,
+      "source": "twitch",
+      "source_id": "GoldenBoredSandpiperCoolCat-DuHEpQ0MJ1S79STt",
+      "url": "https://www.twitch.tv/imwint4r/clip/GoldenBoredSandpiperCoolCat-DuHEpQ0MJ1S79STt",
+      "embed_url": "https://clips.twitch.tv/embed?clip=GoldenBoredSandpiperCoolCat-DuHEpQ0MJ1S79STt",
+      "title": "その避け方天才！",
+      "description": "https://www.twitch.tv/imwint4r/clip/GoldenBoredSandpiperCoolCat-DuHEpQ0MJ1S79STt",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2e4d549c-55dc-4e0d-965c-d2532ba931f0/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 10,
+      "broadcaster_name": "うぃんたです",
+      "author_name": "湊崎　うぃんた",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1145136726122180730/7f355041be2e06e8d50b6d2dbe3005a8.png?size=128",
+      "posted_at": "2026-10-20T08:32:56+09:00"
+    },
     {
       "id": 462,
       "source": "twitch",
