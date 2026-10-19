@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T02:31:20+09:00",
+  "updated_at": "2026-10-20T02:41:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -509,11 +509,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】目しょぼしょぼする #66",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T12:50:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -891,11 +887,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "Trying out multi-stream",
-      "game_name": "AION 2",
-      "started_at": "2026-10-19T14:09:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -949,11 +941,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【YuzuCity】往路おうか#24 最初は遊ぶ！あとは仕事！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T09:49:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -983,11 +971,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】頭痛い #ゆず鯖 #ycgta #yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-19T12:24:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
