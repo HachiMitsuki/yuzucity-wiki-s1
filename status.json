@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:31:24+09:00",
+  "updated_at": "2026-10-19T21:36:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】 オリーサの練習したいて気持ちでライバル！【初見歓迎】",
+      "game_name": "Overwatch",
+      "started_at": "2026-10-19T12:31:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -681,7 +685,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】らいおんさんと初コラボ！！ シル2 63～",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-19T12:34:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -851,7 +859,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】71日目 あと1ヶ月",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-19T12:31:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
