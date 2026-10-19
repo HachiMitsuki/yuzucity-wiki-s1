@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:01:23+09:00",
+  "updated_at": "2026-10-19T21:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "ふるぱーちーろる w/ねころん、なかまさ、はよねる、しろみそ",
+      "game_name": "League of Legends",
+      "started_at": "2026-10-19T12:03:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -301,7 +305,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】洞窟なんか行きつつ必要な仲間を探していく😇",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-10-19T12:05:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -321,7 +329,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity やれることを各々でやる#千代田紫雨",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-19T12:03:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
