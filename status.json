@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T01:56:19+09:00",
+  "updated_at": "2026-10-21T02:01:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -923,11 +923,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 ボダタウ Season4  Day1 いったんしばらくニートかな",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-20T12:37:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
