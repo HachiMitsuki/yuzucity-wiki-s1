@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:41:31+09:00",
+  "updated_at": "2026-10-20T21:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -937,7 +937,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【Lost Rose City】はじめまして、ヒーローになりに来ました。#7",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T12:41:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
