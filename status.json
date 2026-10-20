@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:56:21+09:00",
+  "updated_at": "2026-10-20T19:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -323,11 +323,7 @@
       "display_name": "甘生ゑび",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
-      "is_live": true,
-      "title": "【#BIOHAZARD_RE:2 】初めてのバイオ！",
-      "game_name": "Resident Evil 2",
-      "started_at": "2026-10-20T08:02:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -357,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【AION2】#7 魔族でまったりストーリー進行！",
+      "game_name": "AION 2",
+      "started_at": "2026-10-20T10:32:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -437,7 +437,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/20 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T10:32:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -741,11 +745,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【LOL】急に始まるガチrank S4",
-      "game_name": "League of Legends",
-      "started_at": "2026-10-20T09:15:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
