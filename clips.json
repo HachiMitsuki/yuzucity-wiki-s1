@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-20T08:32:57+09:00",
+  "updated_at": "2026-10-21T02:31:09+09:00",
   "clips": [
+    {
+      "id": 464,
+      "source": "twitch",
+      "source_id": "VastFaintThymePhilosoraptor-qRIzLkBxsCHZEOdg",
+      "url": "https://www.twitch.tv/yumegasaki_vt/clip/VastFaintThymePhilosoraptor-qRIzLkBxsCHZEOdg",
+      "embed_url": "https://clips.twitch.tv/embed?clip=VastFaintThymePhilosoraptor-qRIzLkBxsCHZEOdg",
+      "title": "Ruskという名のはげに捨てられました",
+      "description": "https://www.twitch.tv/yumegasaki_vt/clip/VastFaintThymePhilosoraptor-qRIzLkBxsCHZEOdg",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ce3768a5-ce03-48b5-9e82-c760d34c754f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "夢ヶ咲よう",
+      "author_name": "夢ヶ咲よう",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1025910211107631114/88dee53a30698a32286ee1a5f087c247.png?size=128",
+      "posted_at": "2026-10-21T02:31:09+09:00"
+    },
     {
       "id": 463,
       "source": "twitch",
