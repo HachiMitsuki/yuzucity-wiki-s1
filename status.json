@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:36:28+09:00",
+  "updated_at": "2026-10-20T21:41:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -111,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】VSCに向けて固定練習 day4【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "started_at": "2026-10-20T12:36:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -943,7 +947,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "GTA配信 ボダタウ Season4  Day1 いったんしばらくニートかな",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T12:37:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
