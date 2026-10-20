@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:51:28+09:00",
+  "updated_at": "2026-10-20T22:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,7 +479,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【参加型にもなれるValorant】ピッカピカの一年生によるバロ。うまくなる日記。",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-20T13:53:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1053,7 +1057,11 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】不憫な狼が街を歩くDay78",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T13:50:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
