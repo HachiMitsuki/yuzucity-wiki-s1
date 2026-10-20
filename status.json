@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:46:25+09:00",
+  "updated_at": "2026-10-21T03:01:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -483,11 +483,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【yuzucity】鬼疲れしてます。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-20T13:33:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -776,8 +772,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
       "is_live": true,
-      "title": "【Yuzu City】生きる価値とは Day65",
-      "game_name": "Grand Theft Auto V",
+      "title": "【AION2】すこしだけ",
+      "game_name": "AION 2",
       "started_at": "2026-10-20T15:59:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
@@ -963,11 +959,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】今日の犯罪 #ゆず鯖 #ycgta #yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-20T13:22:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
