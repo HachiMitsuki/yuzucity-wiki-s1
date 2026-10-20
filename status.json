@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:51:26+09:00",
+  "updated_at": "2026-10-20T22:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -439,7 +439,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【シミュグラ4】※37日目 名前は-−-『鰐亀守』に変わった悪ガメの成長日記！配信始まりますよー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T13:02:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -693,7 +697,11 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": false
+      "is_live": true,
+      "title": "【L4D2】ユタさんたちとゾンビぶっころ！！",
+      "game_name": "Left 4 Dead 2",
+      "started_at": "2026-10-20T13:02:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -921,7 +929,11 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】おしる甲子園スクリム#1",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-20T13:01:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -993,7 +1005,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "#LegaFF14 蒼天編 Crystal Rise! vol.3 © SQUARE ENIX",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-10-20T13:00:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
