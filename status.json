@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:46:25+09:00",
+  "updated_at": "2026-10-20T21:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -321,7 +321,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity やれることを各々でやる#千代田紫雨",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-20T12:01:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -527,7 +531,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#58 メカニック&EMSの日常と家の内装づくり | エドマンド・ウェインライト：たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T12:02:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -975,7 +983,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】初めましてなにしよう＃１  #BorderTowns",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T12:03:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
