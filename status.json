@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:56:22+09:00",
+  "updated_at": "2026-10-21T01:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -701,11 +701,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【L4D2】ユタさんたちとゾンビぶっころ！！",
-      "game_name": "Left 4 Dead 2",
-      "started_at": "2026-10-20T13:02:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -835,7 +831,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】生きる価値とは Day65",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-20T15:59:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
