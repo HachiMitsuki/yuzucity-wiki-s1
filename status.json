@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:31:21+09:00",
+  "updated_at": "2026-10-21T15:41:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -819,7 +819,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "時間ができたからトラップ完成させたい #くらクラ",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-21T06:36:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
