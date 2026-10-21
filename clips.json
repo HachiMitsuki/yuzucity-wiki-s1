@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-21T08:48:38+09:00",
+  "updated_at": "2026-10-22T01:24:45+09:00",
   "clips": [
+    {
+      "id": 466,
+      "source": "twitch",
+      "source_id": "CrowdedSpoopyCookieBCouch-NA-L_3EvAF1nBWlN",
+      "url": "https://www.twitch.tv/ayayadreams/clip/CrowdedSpoopyCookieBCouch-NA-L_3EvAF1nBWlN",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CrowdedSpoopyCookieBCouch-NA-L_3EvAF1nBWlN",
+      "title": "綺麗な轢き方！",
+      "description": "https://www.twitch.tv/ayayadreams/clip/CrowdedSpoopyCookieBCouch-NA-L_3EvAF1nBWlN",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/17e26426-2b03-40cc-9416-bb22a837a579/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 15,
+      "broadcaster_name": "ayayadreams",
+      "author_name": "綾(CV.Ayaya)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/731409506315010109/ffde01f098ac8c2e07c33735d8e13f64.png?size=128",
+      "posted_at": "2026-10-22T01:24:44+09:00"
+    },
     {
       "id": 465,
       "source": "twitch",
