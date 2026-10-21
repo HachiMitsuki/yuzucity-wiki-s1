@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:06:27+09:00",
+  "updated_at": "2026-10-21T21:11:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -641,7 +641,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】何するんだいって言ってんの！？※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T12:10:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -920,7 +924,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
       "is_live": true,
-      "title": "GTA配信 ボダタウ Season4  Day1 いったんしばらくニートかな",
+      "title": "GTA配信 ボダタウ Season4  Day2 武器屋に就職したのでこれから犯罪頑張るます",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-21T12:04:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
