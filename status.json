@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:06:25+09:00",
+  "updated_at": "2026-10-21T20:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -551,7 +551,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】今日ものんびりとね【ストロ・べリオ】#38 #YuzuCity #FiveM #GTAVICECITY",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T11:08:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -753,7 +757,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "〖 顔出し 〗ヴァロリー消費する！",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-21T11:06:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
