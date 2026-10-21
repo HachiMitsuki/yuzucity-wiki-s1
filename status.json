@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:11:41+09:00",
+  "updated_at": "2026-10-21T22:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -141,7 +141,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day８１ まったり犯罪",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T13:12:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -457,7 +461,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/21 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T13:12:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -491,11 +499,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【DMZ】新作CODのDMZでGG",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-10-21T10:58:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
