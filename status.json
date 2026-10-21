@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:01:26+09:00",
+  "updated_at": "2026-10-21T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -513,7 +513,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #VALORANT 】実は2~3か月ぶりです。女子フルパ感謝です！飲酒です  @yumegasaki_vt @yagoromo_epi @ultrananachan @samuko38",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-21T12:03:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -915,7 +919,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "GTA配信 ボダタウ Season4  Day1 いったんしばらくニートかな",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T12:04:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -979,7 +987,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #VALORANT 】女子フルパやるよ @samebxs  @yagoromo_epi @samuko38 @ultrananachan",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-21T12:03:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
