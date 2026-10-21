@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:01:25+09:00",
+  "updated_at": "2026-10-21T22:05:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -686,7 +686,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【VALORANT】ディオヴァロやる！！ シル2 42～",
+      "title": "【VALORANT】たいがさんのところでフルパヴァロやる！！ シル2 28～",
       "game_name": "VALORANT",
       "started_at": "2026-10-21T12:59:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
@@ -1032,6 +1032,20 @@
       "game_name": "VALORANT",
       "started_at": "2026-10-21T12:03:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "ayayadreams",
+      "login": "ayayadreams",
+      "user_id": "1291057730",
+      "display_name": "ayayadreams",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ayayadreams",
+      "is_live": true,
+      "title": "もしかしたら黒側に参入かも【YuzuCity】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-21T13:02:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
