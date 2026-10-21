@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:56:22+09:00",
+  "updated_at": "2026-10-22T02:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,11 +79,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【OW】 おばぶカスタムに向けて練習！！【初見歓迎】",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-21T12:31:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -915,11 +911,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "GTA配信 ボダタウ Season4  Day2 武器屋に就職したのでこれから犯罪頑張るます",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-21T12:04:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
