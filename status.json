@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:36:30+09:00",
+  "updated_at": "2026-10-22T22:41:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -465,7 +465,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/22 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-22T13:38:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -533,7 +537,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】頑張ろう。少しだけ #69",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-22T13:38:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -781,11 +789,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "負けすぎ界隈",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-22T11:41:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
