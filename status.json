@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:56:25+09:00",
+  "updated_at": "2026-10-23T01:11:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -313,11 +313,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【ARK】拠店拡張と行けたら洞窟😇",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-10-22T12:33:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
