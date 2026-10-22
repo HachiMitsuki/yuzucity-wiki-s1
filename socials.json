@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T18:54:45+09:00",
+  "updated_at": "2026-10-23T03:49:36+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1568,6 +1568,13 @@
       "display_name": "黒龍煉夜＠Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1953432150168203264/34VjLy2j_400x400.jpg",
       "profile_url": "https://x.com/kokuryurenya"
+    },
+    {
+      "platform": "x",
+      "handle": "no_yzl",
+      "display_name": "のあ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2107520459420143616/yjaKyYVV_400x400.jpg",
+      "profile_url": "https://x.com/no_yzl"
     }
   ]
 }
