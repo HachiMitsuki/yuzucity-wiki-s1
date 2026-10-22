@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:46:28+09:00",
+  "updated_at": "2026-10-22T21:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -815,7 +815,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】73日目 ハロウィン準備とか",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-22T11:59:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -825,7 +829,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "インターネッツに救いの影の地を 探索※NoCheer&Bits/ビッツ禁止",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-10-22T11:59:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -963,11 +971,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #あ。あ。あ。 】誕生日くらい清楚に行きます",
-      "game_name": "Ah. Ah. Ah.",
-      "started_at": "2026-10-22T10:12:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
