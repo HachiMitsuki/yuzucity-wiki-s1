@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:11:27+09:00",
+  "updated_at": "2026-10-22T21:16:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -869,7 +869,11 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #Yuzu City】？日目 反ぐれ生活@buster_jack",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-22T12:14:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -919,7 +923,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "VALORANT配信 ソロコンペ",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-22T12:12:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
