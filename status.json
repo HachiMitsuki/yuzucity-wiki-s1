@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T18:01:25+09:00",
+  "updated_at": "2026-10-22T19:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -947,7 +947,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #あ。あ。あ。 】誕生日くらい清楚に行きます",
+      "game_name": "Ah. Ah. Ah.",
+      "started_at": "2026-10-22T10:12:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
