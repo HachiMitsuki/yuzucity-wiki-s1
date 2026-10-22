@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:41:27+09:00",
+  "updated_at": "2026-10-22T23:01:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -391,7 +391,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "CoDMW4 マルチやるぞ！",
+      "game_name": "Call of Duty: Modern Warfare 4",
+      "started_at": "2026-10-22T13:57:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +843,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】ファーマーとしての意地 Day67",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-22T13:56:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
