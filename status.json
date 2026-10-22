@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:01:31+09:00",
+  "updated_at": "2026-10-22T23:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ゆず鯖GTA】久しぶりー雑談おｋ 伊吹俊【初見歓迎】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-22T12:36:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -925,11 +921,7 @@
       "display_name": "バスタージャックオー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adca8d73-1c60-4874-8dc0-feddd10c0984-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/buster_jack",
-      "is_live": true,
-      "title": "【 #Yuzu City】？日目 反ぐれ生活@buster_jack",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-22T12:14:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buster_jack-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1037,11 +1029,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#Yuzucity】不憫な狼が街を歩くDay80",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-22T08:48:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
