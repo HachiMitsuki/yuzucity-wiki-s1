@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:12:33+09:00",
+  "updated_at": "2026-10-23T21:22:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -283,7 +283,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】80日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-23T12:17:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -535,11 +539,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【ず〜っとクラフト #1】今日から開幕！まずは気ままに探索！ | たくるす【初見さん・コメント・ROM専大歓迎・JP/EN】",
-      "game_name": "Minecraft",
-      "started_at": "2026-10-23T10:58:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -643,7 +643,11 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": false
+      "is_live": true,
+      "title": "【灯星街/天音あしゅ】ホスキャバイベント：ぼでぃかめ🍀 @ashnyaaaaan 🍭",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-23T12:21:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -893,7 +897,11 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】珍しいDUO w/ノギ",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-23T12:20:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
