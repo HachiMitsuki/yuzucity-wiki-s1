@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:42:32+09:00",
+  "updated_at": "2026-10-23T23:02:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,7 +459,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【参加型Valorant】ピッカピカの一年生によるバロ。うまくなる日記。",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-23T13:59:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -503,11 +507,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "【正式リリース】まぁ、魅せますか。",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-10-23T11:31:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1043,7 +1043,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】大型 #ゆず鯖 #ycgta #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-23T14:01:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
