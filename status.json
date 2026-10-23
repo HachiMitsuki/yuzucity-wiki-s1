@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:32:31+09:00",
+  "updated_at": "2026-10-23T23:42:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -361,7 +361,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Overwatch】収穫祭も少しずつ始まってアツい",
+      "game_name": "Overwatch",
+      "started_at": "2026-10-23T14:41:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -979,7 +983,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "マイクラ配信 ず～っとクラフトに参加 初のマイクラのスト鯖だ～",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-23T14:38:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
