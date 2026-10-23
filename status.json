@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:42:30+09:00",
+  "updated_at": "2026-10-23T23:47:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -969,11 +969,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【Lost Rose City】はじめまして、ヒーローになりに来ました。#8",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-23T10:47:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1041,11 +1037,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#Yuzucity】不憫な狼が街を歩くDay81",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-23T13:27:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
