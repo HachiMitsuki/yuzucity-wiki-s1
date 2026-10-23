@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:17:27+09:00",
+  "updated_at": "2026-10-24T01:47:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "【ゆず鯖/GTA】61日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-23T12:09:36Z",
+      "started_at": "2026-10-23T16:32:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
@@ -945,7 +945,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】72日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-23T16:45:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
