@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:47:26+09:00",
+  "updated_at": "2026-10-24T02:07:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -425,11 +425,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】コンペ行く",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-23T11:11:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -440,7 +436,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
       "is_live": true,
-      "title": "【参加型Valorant】ピッカピカの一年生によるバロ。うまくなる日記。",
+      "title": "【参加型Valorant】ピッカピカの一年生によるバロ。うまくなる日記。(テンション0)",
       "game_name": "VALORANT",
       "started_at": "2026-10-23T13:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
@@ -643,11 +639,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【灯星街/天音あしゅ】ホスキャバイベント：ぼでぃかめ🍀 @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-23T12:21:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
