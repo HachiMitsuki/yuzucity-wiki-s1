@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:02:30+09:00",
+  "updated_at": "2026-10-23T21:07:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー６3日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-23T12:03:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,7 +463,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【valorant】漢祭り！カスタムに呼んでいただけました！",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-23T12:04:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
