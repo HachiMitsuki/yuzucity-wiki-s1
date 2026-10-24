@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:06:19+09:00",
+  "updated_at": "2026-10-24T10:16:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -809,7 +809,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "ラスボスはcv三木さんだと思います",
+      "game_name": "Onimusha: Way of the Sword",
+      "started_at": "2026-10-24T01:12:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
