@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:11:28+09:00",
+  "updated_at": "2026-10-25T00:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -33,11 +33,7 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": true,
-      "title": "【#OW】#おばぶカスタム 3位決定戦!!君は”引力”を信じるか",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-24T10:55:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -672,7 +668,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
       "is_live": true,
-      "title": "【灯星街/天音あしゅ】最終日：ぼでぃかめ🍀 @ashnyaaaaan 🍭",
+      "title": "【Yuzucity/天音あしゅ】ぼでぃかめ🍀 @ashnyaaaaan 🍭",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-24T12:36:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
