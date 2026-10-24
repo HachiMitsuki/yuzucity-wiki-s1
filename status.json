@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T03:06:21+09:00",
+  "updated_at": "2026-10-25T03:26:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -875,11 +875,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "one day or day one, road to 150k CP",
-      "game_name": "AION 2",
-      "started_at": "2026-10-24T14:38:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
