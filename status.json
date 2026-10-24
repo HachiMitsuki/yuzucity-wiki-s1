@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:26:21+09:00",
+  "updated_at": "2026-10-24T13:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Phasmophobiaコラボ】#1 FVCメンツでお化け判別！w/なつめさん、なあさん、たろさん",
+      "game_name": "Phasmophobia",
+      "started_at": "2026-10-24T03:58:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
