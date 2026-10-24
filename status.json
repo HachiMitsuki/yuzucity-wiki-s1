@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:16:24+09:00",
+  "updated_at": "2026-10-24T19:21:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -715,11 +715,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【LOS鯖/lostRose】少しだけ＃5【占い師Vtuber / 御神オルム】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-24T10:05:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -810,7 +806,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
       "is_live": true,
-      "title": "【参加◎/初見大歓迎】近況含めて1時間ぐらい【Apex Legends】#HioriRost_LIVE",
+      "title": "【参加◎/初見大歓迎】久々にしっかり遊ぶぞ！！！【Apex Legends】#HioriRost_LIVE",
       "game_name": "Apex Legends",
       "started_at": "2026-10-24T10:14:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
