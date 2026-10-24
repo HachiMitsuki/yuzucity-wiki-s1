@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:01:31+09:00",
+  "updated_at": "2026-10-24T22:06:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -639,7 +639,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】73日目：ほろ酔いEMS出勤【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-24T13:04:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -767,7 +771,11 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】第12回めこたみカスタムむっ！【占い師VTuber/御神オルム】#めこさま",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-24T13:02:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
