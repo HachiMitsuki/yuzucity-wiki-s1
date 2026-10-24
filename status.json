@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:56:25+09:00",
+  "updated_at": "2026-10-24T20:11:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -157,7 +157,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Losグラ 空の悪魔になりたいね #14",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-24T11:08:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -937,7 +941,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#25 お仕事たくさんするー！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-24T11:10:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
