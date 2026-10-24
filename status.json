@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T02:31:23+09:00",
+  "updated_at": "2026-10-25T02:36:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,11 +259,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 】81日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-24T09:47:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -499,11 +495,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【yuzucity】ぐわぁ！第2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-24T13:43:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -543,11 +535,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】今日ものんびりとね【ストロ・べリオ】#39 #YuzuCity #FiveM #GTAVICECITY",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-24T13:43:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
