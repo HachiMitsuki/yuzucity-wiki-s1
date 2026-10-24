@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:21:33+09:00",
+  "updated_at": "2026-10-24T22:26:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -477,7 +477,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "10/24 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-24T13:24:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -989,7 +993,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】73日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-24T13:22:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
