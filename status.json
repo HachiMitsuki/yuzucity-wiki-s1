@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:41:25+09:00",
+  "updated_at": "2026-10-25T00:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -177,11 +177,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "まさかのLOL /w sui3",
-      "game_name": "League of Legends",
-      "started_at": "2026-10-24T12:54:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -780,8 +776,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
       "is_live": true,
-      "title": "【VALORANT】第12回めこたみカスタムむっ！【占い師VTuber/御神オルム】#めこさま",
-      "game_name": "VALORANT",
+      "title": "【LOS鯖/lostRose】少しだけ＃5Part2【占い師Vtuber / 御神オルム】",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-24T13:02:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
     },
@@ -915,11 +911,7 @@
       "display_name": "フランマ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ad0099-1e29-474f-ab72-a7f79596afe3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/flamma_lily",
-      "is_live": true,
-      "title": "「Hin! Valo部」みんなとあそぶよ～",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-24T12:46:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flamma_lily-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
