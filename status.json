@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:51:29+09:00",
+  "updated_at": "2026-10-24T21:56:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -181,7 +181,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "まさかのLOL /w sui3",
+      "game_name": "League of Legends",
+      "started_at": "2026-10-24T12:54:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
