@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:16:24+09:00",
+  "updated_at": "2026-10-25T17:11:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -423,11 +423,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【参加型Valorant】ピッカピカの一年生によるバロ。うまくなる日記。スキン買って気分良い",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-25T06:22:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
