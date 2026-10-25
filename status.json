@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:46:24+09:00",
+  "updated_at": "2026-10-26T00:56:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -939,11 +939,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "マイクラ配信 ず～っとクラフトに参加 初のマイクラのスト鯖だ～",
-      "game_name": "Minecraft",
-      "started_at": "2026-10-25T12:58:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
