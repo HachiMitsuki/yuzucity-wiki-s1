@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:56:30+09:00",
+  "updated_at": "2026-10-25T22:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -321,7 +321,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "10.25抗争記録",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-25T12:58:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -351,7 +355,11 @@
       "display_name": "甘生ゑび",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Log_Riders】まるたに乗る#2 /こたんs",
+      "game_name": "Log Riders",
+      "started_at": "2026-10-25T13:00:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -507,11 +515,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "なんか雑談したい気分",
-      "game_name": "Just Chatting",
-      "started_at": "2026-10-25T08:33:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -991,7 +995,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "マイクラ配信 ず～っとクラフトに参加 初のマイクラのスト鯖だ～",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-25T12:58:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
