@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:31:21+09:00",
+  "updated_at": "2026-10-26T02:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -451,11 +451,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【YuzuCity】Ex.ギャング抗争",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T12:35:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -611,11 +607,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】74日目：週末の出勤EMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T12:01:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
