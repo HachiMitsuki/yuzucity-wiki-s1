@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:11:27+09:00",
+  "updated_at": "2026-10-25T21:16:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1025,7 +1025,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "Oblivion正式加入！抗争があるらしい【YuzuCity】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-25T12:13:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
