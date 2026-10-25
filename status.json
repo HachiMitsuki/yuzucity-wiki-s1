@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:11:28+09:00",
+  "updated_at": "2026-10-25T23:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -313,11 +313,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "10.25抗争記録",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T12:58:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -753,11 +749,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【GTAV】逢坂 戎：EMBLEM：Day.30：抗争",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T12:30:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
