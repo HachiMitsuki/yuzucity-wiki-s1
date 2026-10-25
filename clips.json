@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-25T23:35:12+09:00",
+  "updated_at": "2026-10-25T23:37:19+09:00",
   "clips": [
+    {
+      "id": 471,
+      "source": "twitch",
+      "source_id": "CreativeFastAirGuitarWutFace-SSd_nj6eY6rETtsA",
+      "url": "https://www.twitch.tv/hoshinoo_co/clip/CreativeFastAirGuitarWutFace-SSd_nj6eY6rETtsA",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CreativeFastAirGuitarWutFace-SSd_nj6eY6rETtsA",
+      "title": "アタックしたら芸術点高めのジャンプ",
+      "description": "https://www.twitch.tv/hoshinoo_co/clip/CreativeFastAirGuitarWutFace-SSd_nj6eY6rETtsA?range=7d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db8ff952-3bcb-4d42-bcc1-46e34943be44/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 15,
+      "broadcaster_name": "星乃ノワル",
+      "author_name": "ノワル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/665386931374522410/7be8707f79e108a5768d467d503cbff4.png?size=128",
+      "posted_at": "2026-10-25T23:37:18+09:00"
+    },
     {
       "id": 470,
       "source": "twitch",
