@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:31:27+09:00",
+  "updated_at": "2026-10-25T23:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -255,7 +255,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【7daystodie】",
+      "game_name": "7 Days to Die",
+      "started_at": "2026-10-25T14:44:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -551,11 +555,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#61 メカニック&EMSの日常と家の内装づくり | エドマンド・ウェインライト：たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T11:59:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -821,11 +821,7 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": true,
-      "title": "【GTARP】抗争の手伝いアゲイン",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T10:53:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1046,7 +1042,7 @@
       "is_live": true,
       "title": "【 #GTA 】抗争day #ゆず鯖 #ycgta #yuzucity",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-25T12:05:09Z",
+      "started_at": "2026-10-25T14:43:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
