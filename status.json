@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:26:30+09:00",
+  "updated_at": "2026-10-25T20:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,11 +251,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【#mw4 】",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "started_at": "2026-10-25T10:08:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
