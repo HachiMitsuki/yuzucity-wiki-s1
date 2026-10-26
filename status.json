@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:16:26+09:00",
+  "updated_at": "2026-10-26T22:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -329,7 +329,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity犯罪",
+      "game_name": "Grand Theft Auto: San Andreas",
+      "started_at": "2026-10-26T13:15:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -513,7 +517,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】ねむい #73",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-26T13:19:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -845,7 +853,11 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": false
+      "is_live": true,
+      "title": "【参加◎/初見大歓迎】結局やっぱエペなんだよ【Apex Legends】#HioriRost_LIVE",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-26T13:20:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
