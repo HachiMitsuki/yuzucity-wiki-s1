@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T18:21:23+09:00",
+  "updated_at": "2026-10-26T19:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -320,8 +320,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
       "is_live": true,
-      "title": "【#APEX】ぷりぷり～",
-      "game_name": "Apex Legends",
+      "title": "【#R.E.P.O.】久々に",
+      "game_name": "R.E.P.O.",
       "started_at": "2026-10-26T07:17:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
     },
@@ -463,7 +463,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【BO4】最弱SMGを、それでも愛そう・・・・・",
+      "game_name": "Call of Duty: Modern Warfare 4",
+      "started_at": "2026-10-26T09:57:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -879,11 +883,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "Afternoon Aion2 sess",
-      "game_name": "AION 2",
-      "started_at": "2026-10-26T06:24:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
