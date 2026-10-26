@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-26T04:12:07+09:00",
+  "updated_at": "2026-10-26T21:29:31+09:00",
   "clips": [
+    {
+      "id": 473,
+      "source": "twitch",
+      "source_id": "HorribleEphemeralBaguetteBCWarrior-bDdtaUjBzTnIQSE-",
+      "url": "https://www.twitch.tv/ranokaku_u/clip/HorribleEphemeralBaguetteBCWarrior-bDdtaUjBzTnIQSE-",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HorribleEphemeralBaguetteBCWarrior-bDdtaUjBzTnIQSE-",
+      "title": "副院長のボイスのイメージ依頼して台本読ませてもらった結果",
+      "description": "https://www.twitch.tv/ranokaku_u/clip/HorribleEphemeralBaguetteBCWarrior-bDdtaUjBzTnIQSE-",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3705eae1-7598-4d8c-9333-468dcfaea6bd/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 18,
+      "broadcaster_name": "架空らの",
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-10-26T21:29:31+09:00"
+    },
     {
       "id": 472,
       "source": "twitch",
