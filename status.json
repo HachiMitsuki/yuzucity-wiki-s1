@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:56:20+09:00",
+  "updated_at": "2026-10-27T02:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -139,11 +139,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "[MHW］ 久々やっぞ！w/ぎむれっと、御蔵かなた",
-      "game_name": "Monster Hunter Wilds",
-      "started_at": "2026-10-26T12:31:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -509,11 +505,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】ねむい #73",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-26T13:19:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
