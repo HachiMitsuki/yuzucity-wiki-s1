@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:21:25+09:00",
+  "updated_at": "2026-10-27T00:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -433,11 +433,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【ず～っとクラフト】ネザー行ったり作業したり",
-      "game_name": "Minecraft",
-      "started_at": "2026-10-26T13:47:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -769,11 +765,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "寝かしつけヴァロ",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-26T14:51:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
