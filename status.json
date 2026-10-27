@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T01:21:27+09:00",
+  "updated_at": "2026-10-28T01:36:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -415,11 +415,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【シミュグラ4】※42日目 名前は-−-『鰐亀守』に変わった悪ガメの成長日記！配信始まりますよー 大抗争の日",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-27T11:25:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -496,7 +492,7 @@
       "is_live": true,
       "title": "ゆず（かおだし）",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-27T14:24:57Z",
+      "started_at": "2026-10-27T16:28:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
@@ -589,7 +585,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #鳴潮 】デイリーだったりする【#個人V #Vtuber 】",
+      "game_name": "Wuthering Waves",
+      "started_at": "2026-10-27T16:31:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
