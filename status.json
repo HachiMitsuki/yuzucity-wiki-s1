@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:56:30+09:00",
+  "updated_at": "2026-10-27T22:01:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,7 +471,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】EXZO交流カスタム /w たくるすさん、れんやさん",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-27T13:00:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -531,7 +535,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #ApexLegends 】EXZO交流カスタム本番、フルパで頑張ります！ | たくるす【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Apex Legends",
+      "started_at": "2026-10-27T12:57:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -969,7 +977,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "#LegaFF14 蒼天編 Crystal Rise! vol.3 © SQUARE ENIX",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-10-27T13:00:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
