@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:31:29+09:00",
+  "updated_at": "2026-10-28T00:51:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -463,11 +463,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【APEX】EXZO交流カスタム /w たくるすさん、れんやさん",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-27T13:00:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -535,11 +531,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #ApexLegends 】EXZO交流カスタム本番、フルパで頑張ります！ | たくるす【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-27T12:57:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1021,11 +1013,7 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": true,
-      "title": "何をするかは謎の奥深く【YuzuCity】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-27T14:09:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
