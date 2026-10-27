@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-27T18:04:37+09:00",
+  "updated_at": "2026-10-28T02:57:59+09:00",
   "clips": [
+    {
+      "id": 475,
+      "source": "twitch",
+      "source_id": "LittlePhilanthropicRaisinMau5-yCvkawWi8A2ZEasg",
+      "url": "https://www.twitch.tv/samebxs/clip/LittlePhilanthropicRaisinMau5-yCvkawWi8A2ZEasg",
+      "embed_url": "https://clips.twitch.tv/embed?clip=LittlePhilanthropicRaisinMau5-yCvkawWi8A2ZEasg",
+      "title": "バナナ共産党夢ヶ咲よう",
+      "description": "https://www.twitch.tv/samebxs/clip/LittlePhilanthropicRaisinMau5-yCvkawWi8A2ZEasg",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4fc72258-9773-4eaa-b430-3c79a6485f54/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "水嶺さめ",
+      "author_name": "水嶺さめ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/769116276571766797/e5e143b85078f280133bcbcc823efd03.png?size=128",
+      "posted_at": "2026-10-28T02:57:59+09:00"
+    },
     {
       "id": 474,
       "source": "twitch",
