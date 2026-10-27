@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:41:27+09:00",
+  "updated_at": "2026-10-27T23:46:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -793,11 +793,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【OW】もゆる杯! 練習part2",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-27T12:42:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
