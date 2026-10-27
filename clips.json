@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-26T21:29:31+09:00",
+  "updated_at": "2026-10-27T18:04:37+09:00",
   "clips": [
+    {
+      "id": 474,
+      "source": "twitch",
+      "source_id": "SuperNurturingPassionfruitFreakinStinkin-TDjq_u5hrrqyfGXq",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/SuperNurturingPassionfruitFreakinStinkin-TDjq_u5hrrqyfGXq",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SuperNurturingPassionfruitFreakinStinkin-TDjq_u5hrrqyfGXq",
+      "title": "本署で見てはいけない光景を見るEMS",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/SuperNurturingPassionfruitFreakinStinkin-TDjq_u5hrrqyfGXq",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/90589b99-f711-4691-aa62-476bbf64437d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 40,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-27T18:04:37+09:00"
+    },
     {
       "id": 473,
       "source": "twitch",
