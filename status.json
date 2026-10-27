@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:26:27+09:00",
+  "updated_at": "2026-10-27T23:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -573,7 +573,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "ばぶにあどばいすもとむ  初見さん◎ROM◎Drops◎",
+      "game_name": "League of Legends",
+      "started_at": "2026-10-27T14:27:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
