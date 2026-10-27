@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:26:23+09:00",
+  "updated_at": "2026-10-28T04:01:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -558,8 +558,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
       "is_live": true,
-      "title": "【 #鳴潮 】デイリーだったりする【#個人V #Vtuber 】",
-      "game_name": "Wuthering Waves",
+      "title": "【 #エンフィ 】デイリーだったりする【#個人V #Vtuber 】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
       "started_at": "2026-10-27T16:31:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
