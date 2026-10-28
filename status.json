@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:01:27+09:00",
+  "updated_at": "2026-10-29T00:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -859,11 +859,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "地底組のvalheim #39 極北編",
-      "game_name": "Valheim",
-      "started_at": "2026-10-28T12:59:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
