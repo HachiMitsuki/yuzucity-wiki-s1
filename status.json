@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:11:22+09:00",
+  "updated_at": "2026-10-28T19:26:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -223,11 +223,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "残り1週間切ってるけどマスター滑り込み狙う！！",
-      "game_name": "Apex Legends",
-      "started_at": "2026-10-28T09:07:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -357,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Valheimコラボ】#1 FVCのCHCのみんなと冒険！",
+      "game_name": "Valheim",
+      "started_at": "2026-10-28T10:22:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
