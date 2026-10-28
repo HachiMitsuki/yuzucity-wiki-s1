@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T03:01:22+09:00",
+  "updated_at": "2026-10-29T03:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,11 +259,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【 #yuzucity 85日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-28T10:40:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -607,11 +603,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】メンヘラ（気圧）ちゃんとデート3日目🍀 @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-28T15:56:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -905,11 +897,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【yuzucity】76日目酸いも甘いも",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-28T13:14:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -963,11 +951,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】ぱしぱし #ゆず鯖 #ycgta #yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-28T14:43:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
