@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:06:34+09:00",
+  "updated_at": "2026-10-28T22:11:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -579,7 +579,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【Twilight City】Day 17 なにするべ  #TwilightCity #トワグラ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-28T13:08:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -653,7 +657,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】色々やりたささ※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-28T13:07:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -731,7 +739,11 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【SOLO：D3～】最近連勝してるからそろそろ負けると思ってればダメージ少ないけどやっぱり負けたくない part2",
+      "game_name": "VALORANT",
+      "started_at": "2026-10-28T13:06:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
