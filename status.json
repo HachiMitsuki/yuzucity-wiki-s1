@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T18:56:24+09:00",
+  "updated_at": "2026-10-28T19:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -189,7 +189,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#シミュグラ4】紅  翠50日目「フリージアの助力」【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-28T09:57:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -483,7 +487,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】睡眠大事！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-28T09:56:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -523,7 +531,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】今日ものんびりとね【ストロ・べリオ】#41 #YuzuCity #FiveM #GTAVICECITY",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-28T10:00:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
