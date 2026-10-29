@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T00:57:29+09:00",
+  "updated_at": "2026-10-30T01:01:50+09:00",
   "clips": [
+    {
+      "id": 481,
+      "source": "twitch",
+      "source_id": "BombasticPhilanthropicNikudonBlargNaut-K-zClKjMISd8BUy-",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/BombasticPhilanthropicNikudonBlargNaut-K-zClKjMISd8BUy-",
+      "embed_url": "https://clips.twitch.tv/embed?clip=BombasticPhilanthropicNikudonBlargNaut-K-zClKjMISd8BUy-",
+      "title": "物理",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/BombasticPhilanthropicNikudonBlargNaut-K-zClKjMISd8BUy-",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/10af2bf0-7812-4db2-ac47-1178669b9d45/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 33,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-10-30T01:01:46+09:00"
+    },
     {
       "id": 480,
       "source": "twitch",
