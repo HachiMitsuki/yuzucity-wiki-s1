@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T01:01:50+09:00",
+  "updated_at": "2026-10-30T02:19:44+09:00",
   "clips": [
+    {
+      "id": 482,
+      "source": "twitch",
+      "source_id": "HorribleTenderDadCoolStoryBro-mXqLa4f2dEOigVoX",
+      "url": "https://www.twitch.tv/himiya_shiro/clip/HorribleTenderDadCoolStoryBro-mXqLa4f2dEOigVoX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HorribleTenderDadCoolStoryBro-mXqLa4f2dEOigVoX",
+      "title": "【#YuzuCtiy】いつどこでもダンスパーティ【氷見谷しろ/新人Vtuber】",
+      "description": "https://www.twitch.tv/himiya_shiro/clip/HorribleTenderDadCoolStoryBro-mXqLa4f2dEOigVoX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fac2d254-6e2f-4883-9d92-0707c5ed80b0/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "氷見谷シロ",
+      "author_name": "氷見谷しろ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/688191568795926557/80a78877ad47f13e2d669bfba3856605.png?size=128",
+      "posted_at": "2026-10-30T02:19:43+09:00"
+    },
     {
       "id": 481,
       "source": "twitch",
