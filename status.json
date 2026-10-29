@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:56:25+09:00",
+  "updated_at": "2026-10-30T01:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -407,11 +407,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#ストグラFV】唐 弦貴の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-29T11:42:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -863,11 +859,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】79日目 今夜は車両ドレスアップコンテスト",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-29T11:18:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
