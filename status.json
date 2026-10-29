@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:16:29+09:00",
+  "updated_at": "2026-10-29T23:31:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,7 +149,7 @@
       "channel_url": "https://www.twitch.tv/tonpuson_84",
       "is_live": true,
       "title": "[YuzuCity S1］古斗羅 亮 超久々の出勤",
-      "game_name": "Monster Hunter Wilds",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-10-29T12:07:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
@@ -357,7 +357,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Coffee Talk】深夜、喫茶店の店員になってみませんか",
+      "game_name": "Coffee Talk",
+      "started_at": "2026-10-29T14:27:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
