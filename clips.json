@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-29T21:52:34+09:00",
+  "updated_at": "2026-10-29T22:22:17+09:00",
   "clips": [
+    {
+      "id": 479,
+      "source": "twitch",
+      "source_id": "CrepuscularGeniusBasenjiThisIsSparta-j5AVtR3BRYWXQkJ7",
+      "url": "https://www.twitch.tv/setukaimaboku/clip/CrepuscularGeniusBasenjiThisIsSparta-j5AVtR3BRYWXQkJ7",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CrepuscularGeniusBasenjiThisIsSparta-j5AVtR3BRYWXQkJ7",
+      "title": "ロケットゆきと君",
+      "description": "https://www.twitch.tv/setukaimaboku/clip/CrepuscularGeniusBasenjiThisIsSparta-j5AVtR3BRYWXQkJ7",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/759e23b7-29d8-4e6e-b218-1a10e0b62eae/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "せつかだよぉ",
+      "author_name": "夏目 雪兎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/805254131097796618/e713e2184ad024d5e833e74e14f1b702.png?size=128",
+      "posted_at": "2026-10-29T22:22:16+09:00"
+    },
     {
       "id": 478,
       "source": "twitch",
