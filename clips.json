@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T02:20:13+09:00",
+  "updated_at": "2026-10-30T03:02:12+09:00",
   "clips": [
+    {
+      "id": 484,
+      "source": "twitch",
+      "source_id": "GlutenFreeMoistCobblerUWot-dV_tf76Zl2tzX68H",
+      "url": "https://www.twitch.tv/setukaimaboku/clip/GlutenFreeMoistCobblerUWot-dV_tf76Zl2tzX68H",
+      "embed_url": "https://clips.twitch.tv/embed?clip=GlutenFreeMoistCobblerUWot-dV_tf76Zl2tzX68H",
+      "title": "スライディングからの暴走",
+      "description": "https://www.twitch.tv/setukaimaboku/clip/GlutenFreeMoistCobblerUWot-dV_tf76Zl2tzX68H",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d9a24a3-633d-4ff0-99dd-d285042cf17a/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 27,
+      "broadcaster_name": "せつかだよぉ",
+      "author_name": "夏目 雪兎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/805254131097796618/e713e2184ad024d5e833e74e14f1b702.png?size=128",
+      "posted_at": "2026-10-30T03:02:11+09:00"
+    },
     {
       "id": 483,
       "source": "twitch",
