@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-29T16:52:46+09:00",
+  "updated_at": "2026-10-29T21:52:34+09:00",
   "clips": [
+    {
+      "id": 478,
+      "source": "twitch",
+      "source_id": "PlacidOptimisticFiddleheadsAMPEnergyCherry-S8CFc8IQKZcoWX-M",
+      "url": "https://www.twitch.tv/yumegasaki_vt/clip/PlacidOptimisticFiddleheadsAMPEnergyCherry-S8CFc8IQKZcoWX-M",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PlacidOptimisticFiddleheadsAMPEnergyCherry-S8CFc8IQKZcoWX-M",
+      "title": "〇〇きん、、",
+      "description": "https://www.twitch.tv/yumegasaki_vt/clip/PlacidOptimisticFiddleheadsAMPEnergyCherry-S8CFc8IQKZcoWX-M",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c6ac28bc-977b-4379-988a-80151cb84dc3/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 28,
+      "broadcaster_name": "夢ヶ咲よう",
+      "author_name": "夢ヶ咲よう",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1025910211107631114/88dee53a30698a32286ee1a5f087c247.png?size=128",
+      "posted_at": "2026-10-29T21:52:28+09:00"
+    },
     {
       "id": 477,
       "source": "twitch",
