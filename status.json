@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:46:27+09:00",
+  "updated_at": "2026-10-29T23:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "アプデ終るまで殴り合い",
+      "game_name": "Escape from Tarkov",
+      "started_at": "2026-10-29T14:48:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -381,11 +385,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【ストグラFVCasual】#32 CHCハンティングイベント！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-29T11:26:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
