@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-29T02:22:00+09:00",
+  "updated_at": "2026-10-29T16:52:46+09:00",
   "clips": [
+    {
+      "id": 477,
+      "source": "twitch",
+      "source_id": "EasyCoweringMomMingLee-eZdHtncDWLm_NxOj",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/EasyCoweringMomMingLee-eZdHtncDWLm_NxOj",
+      "embed_url": "https://clips.twitch.tv/embed?clip=EasyCoweringMomMingLee-eZdHtncDWLm_NxOj",
+      "title": "茶ねこの脳みその限界",
+      "description": "脳が衛星を死守した結果…\nhttps://www.twitch.tv/koucyanec0319/clip/EasyCoweringMomMingLee-eZdHtncDWLm_NxOj",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/40db5bf1-e283-46cb-8a27-b804d3a8df5f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 40,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/efb4aed2c826e3b2dc9bb7ad1092ddcc.png?size=128",
+      "posted_at": "2026-10-29T16:52:45+09:00"
+    },
     {
       "id": 476,
       "source": "twitch",
