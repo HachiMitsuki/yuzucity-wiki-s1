@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:11:28+09:00",
+  "updated_at": "2026-10-30T00:26:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -500,7 +500,7 @@
       "is_live": true,
       "title": "【YuzuCity】店長の日常【ここここしここし/ももたろう】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-29T14:44:28Z",
+      "started_at": "2026-10-29T15:14:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
@@ -763,11 +763,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【SOLO：D3～】同時に２個口内炎ができて辛い",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-29T13:16:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
