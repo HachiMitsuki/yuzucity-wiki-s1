@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T03:27:57+09:00",
+  "updated_at": "2026-10-30T03:51:58+09:00",
   "clips": [
+    {
+      "id": 487,
+      "source": "twitch",
+      "source_id": "ManlyArbitraryDootTTours-PRSwHtbM5tUiZxc0",
+      "url": "https://www.twitch.tv/kugana00/clip/ManlyArbitraryDootTTours-PRSwHtbM5tUiZxc0",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ManlyArbitraryDootTTours-PRSwHtbM5tUiZxc0",
+      "title": "【#Yuzucity】※音量注意 あたりやなみた",
+      "description": "https://www.twitch.tv/kugana00/clip/ManlyArbitraryDootTTours-PRSwHtbM5tUiZxc0",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d8c5c482-1e82-44b8-ae02-e53a506864d9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-10-30T03:51:57+09:00"
+    },
     {
       "id": 486,
       "source": "twitch",
