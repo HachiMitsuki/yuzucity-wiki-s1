@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T03:17:09+09:00",
+  "updated_at": "2026-10-30T03:27:57+09:00",
   "clips": [
+    {
+      "id": 486,
+      "source": "twitch",
+      "source_id": "EnthusiasticBillowingWalrusVoteYea-U7STATejwrDnlI5f",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/EnthusiasticBillowingWalrusVoteYea-U7STATejwrDnlI5f",
+      "embed_url": "https://clips.twitch.tv/embed?clip=EnthusiasticBillowingWalrusVoteYea-U7STATejwrDnlI5f",
+      "title": "真面目な話ができない場所",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/EnthusiasticBillowingWalrusVoteYea-U7STATejwrDnlI5f",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e1e0741f-9dea-4089-8413-16d00ec9fbbe/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 42,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-10-30T03:27:56+09:00"
+    },
     {
       "id": 485,
       "source": "twitch",
