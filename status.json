@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:31:28+09:00",
+  "updated_at": "2026-10-30T21:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -423,7 +423,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【シミュグラ4】※44日目 名前は-−-『鰐亀守』に変わったBOSSガメの成長日記！配信始まりますよー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T12:50:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -433,7 +437,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【ず～っとクラフト】イベント参加！！もしかしたらバロになるかも",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-30T12:47:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -941,11 +949,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【リアプロRP】ゾンビパニックの仕入れ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-30T11:58:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
