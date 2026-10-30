@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T12:25:26+09:00",
+  "updated_at": "2026-10-30T18:43:50+09:00",
   "clips": [
+    {
+      "id": 490,
+      "source": "twitch",
+      "source_id": "HonestAcceptableApeWow-Y6ZSjzsIoHBLLtZq",
+      "url": "https://www.twitch.tv/setukaimaboku/clip/HonestAcceptableApeWow-Y6ZSjzsIoHBLLtZq",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HonestAcceptableApeWow-Y6ZSjzsIoHBLLtZq",
+      "title": "ハイローで豪運を弾く兎。",
+      "description": "https://www.twitch.tv/setukaimaboku/clip/HonestAcceptableApeWow-Y6ZSjzsIoHBLLtZq",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a5511a53-cc0f-4752-bc5a-4bf62a29e620/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 19,
+      "broadcaster_name": "せつかだよぉ",
+      "author_name": "夏目 雪兎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/805254131097796618/e713e2184ad024d5e833e74e14f1b702.png?size=128",
+      "posted_at": "2026-10-30T18:43:49+09:00"
+    },
     {
       "id": 489,
       "source": "twitch",
