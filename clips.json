@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T18:43:50+09:00",
+  "updated_at": "2026-10-30T20:13:48+09:00",
   "clips": [
+    {
+      "id": 491,
+      "source": "twitch",
+      "source_id": "SavoryLovelyOilCorgiDerp-CYUoiEjdw5yLyz6x",
+      "url": "https://www.twitch.tv/toka_ruki/clip/SavoryLovelyOilCorgiDerp-CYUoiEjdw5yLyz6x",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SavoryLovelyOilCorgiDerp-CYUoiEjdw5yLyz6x",
+      "title": "けして猫じゃありません。燈華は狼です。",
+      "description": "☾ けして猫じゃありません。燈華は狼です。\nhttps://www.twitch.tv/toka_ruki/clip/SavoryLovelyOilCorgiDerp-CYUoiEjdw5yLyz6x",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2f951cff-26fd-49bf-9149-1af1bc69009e/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 41,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/ceaaab43c5f80c3ba6c112dea7b02a07.png?size=128",
+      "posted_at": "2026-10-30T20:13:43+09:00"
+    },
     {
       "id": 490,
       "source": "twitch",
