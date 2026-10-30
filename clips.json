@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T03:51:58+09:00",
+  "updated_at": "2026-10-30T12:16:46+09:00",
   "clips": [
+    {
+      "id": 488,
+      "source": "twitch",
+      "source_id": "OutstandingStrangePassionfruitOneHand-yYSwjXi4q7u3KDU6",
+      "url": "https://www.twitch.tv/kugana00/clip/OutstandingStrangePassionfruitOneHand-yYSwjXi4q7u3KDU6",
+      "embed_url": "https://clips.twitch.tv/embed?clip=OutstandingStrangePassionfruitOneHand-yYSwjXi4q7u3KDU6",
+      "title": "【#Yuzucity】左から患者、クレーマー、患者、患者",
+      "description": "https://www.twitch.tv/kugana00/clip/OutstandingStrangePassionfruitOneHand-yYSwjXi4q7u3KDU6",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b1f73d24-66a7-4223-a449-cee3563316cf/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 22,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-10-30T12:16:45+09:00"
+    },
     {
       "id": 487,
       "source": "twitch",
