@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T19:11:23+09:00",
+  "updated_at": "2026-10-30T20:01:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆっくりやりますんで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T11:00:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -769,7 +773,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTARP】週末作戦開始",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T10:56:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
