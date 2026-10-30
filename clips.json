@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T12:16:46+09:00",
+  "updated_at": "2026-10-30T12:25:26+09:00",
   "clips": [
+    {
+      "id": 489,
+      "source": "twitch",
+      "source_id": "MoistPluckyBeefMau5-CfQb2_9LXG9EofLP",
+      "url": "https://www.twitch.tv/kugana00/clip/MoistPluckyBeefMau5-CfQb2_9LXG9EofLP",
+      "embed_url": "https://clips.twitch.tv/embed?clip=MoistPluckyBeefMau5-CfQb2_9LXG9EofLP",
+      "title": "【#Yuzucity】誰かパテ焼いてください！",
+      "description": "https://www.twitch.tv/kugana00/clip/MoistPluckyBeefMau5-CfQb2_9LXG9EofLP",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7ea2a89d-2dfd-4780-b488-6815bf3a5bbf/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 38,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-10-30T12:25:25+09:00"
+    },
     {
       "id": 488,
       "source": "twitch",
