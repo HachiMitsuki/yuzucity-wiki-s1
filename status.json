@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:16:25+09:00",
+  "updated_at": "2026-10-31T01:21:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -299,11 +299,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】PD 十月トーカ 16",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-30T14:41:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -955,11 +951,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【VALORANT】シルバーにはなりたい！！【コメント自由に！】",
-      "game_name": "VALORANT",
-      "started_at": "2026-10-30T15:07:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
