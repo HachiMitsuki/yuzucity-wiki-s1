@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:11:26+09:00",
+  "updated_at": "2026-10-30T23:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】  11月９日～新島冴さんに予告状を出したいなぁ② Pat37【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-10-30T13:18:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -283,7 +279,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "イベント総合入賞した！【 #yuzucity 87日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T14:11:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1004,8 +1004,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
       "is_live": true,
-      "title": "【ずーっとクラフト】いろいろとできるらしい・・・【Minecraft】",
-      "game_name": "Minecraft",
+      "title": "【VALORANT】シルバーにはなりたい！！【コメント自由に！】",
+      "game_name": "VALORANT",
       "started_at": "2026-10-30T14:09:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
