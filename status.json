@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:36:23+09:00",
+  "updated_at": "2026-10-30T18:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -584,9 +584,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
       "is_live": true,
-      "title": "【Arknights:Endfiled】そろそろ休暇も終わりそう【ゲーム雑談】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-10-30T06:33:28Z",
+      "title": "【GTAⅤ:YuzuCity】79日目：週末の前半勤務EMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T08:39:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
@@ -945,7 +945,11 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】不憫な狼が街を歩くDay88",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T09:34:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
