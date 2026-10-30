@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:21:30+09:00",
+  "updated_at": "2026-10-31T00:26:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -321,11 +321,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【ARK】ボスいくってなると結局ファーム地獄なんだよな😇",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-10-30T12:04:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -801,11 +797,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【OW】もゆる杯! 練習part5 スクリム!!",
-      "game_name": "Overwatch",
-      "started_at": "2026-10-30T12:05:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
