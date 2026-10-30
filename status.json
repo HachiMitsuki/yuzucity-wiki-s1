@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:36:33+09:00",
+  "updated_at": "2026-10-30T23:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -229,7 +229,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】ぱしまたかつで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T14:42:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -303,7 +307,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】PD 十月トーカ 16",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T14:41:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
