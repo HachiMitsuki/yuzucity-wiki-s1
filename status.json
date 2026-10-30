@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:11:27+09:00",
+  "updated_at": "2026-10-30T22:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": false
+      "is_live": true,
+      "title": "【#AION2】これはゲームであっても遊びではないAION2配信3 #遊びではないAION2",
+      "game_name": "AION 2",
+      "started_at": "2026-10-30T13:12:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -529,7 +533,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】明日出かけるらしい#77",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T13:14:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1019,7 +1027,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】きょうもぱし！ #ゆず鯖 #ycgta #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-30T13:14:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
