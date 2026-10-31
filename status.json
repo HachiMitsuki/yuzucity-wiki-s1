@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:06:30+09:00",
+  "updated_at": "2026-10-31T21:11:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -245,7 +245,11 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": false
+      "is_live": true,
+      "title": "【Imagination Server】初めてのディズニーにだ！！【Minecraft】",
+      "game_name": "Minecraft",
+      "started_at": "2026-10-31T12:07:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
