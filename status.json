@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:51:31+09:00",
+  "updated_at": "2026-10-31T22:01:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -501,7 +501,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【Japanese Ramen Simulator】ラーメン屋開店～！ w/ルナきむテルすし【ももたろう】",
+      "game_name": "Japanese Ramen Simulator",
+      "started_at": "2026-10-31T12:59:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -551,7 +555,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】#62 メカニック&EMSの日常 | エドマンド・ウェインライト：たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-31T13:00:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
