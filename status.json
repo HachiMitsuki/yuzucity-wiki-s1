@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T00:41:30+09:00",
+  "updated_at": "2026-11-01T01:01:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -393,11 +393,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "",
-      "started_at": "2026-10-31T10:09:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -605,7 +601,11 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #LoL 】ちょっとだけAI戦【#個人V #Vtuber 】",
+      "game_name": "League of Legends",
+      "started_at": "2026-10-31T15:57:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -867,11 +867,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】81日目 ハッピーハロウィン！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-10-31T11:29:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
