@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-30T20:35:48+09:00",
+  "updated_at": "2026-11-01T01:05:33+09:00",
   "clips": [
+    {
+      "id": 493,
+      "source": "twitch",
+      "source_id": "SplendidColdbloodedShrewPartyTime--ZDZWZum0t_DILEK",
+      "url": "https://www.twitch.tv/dall_cat/clip/SplendidColdbloodedShrewPartyTime--ZDZWZum0t_DILEK",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SplendidColdbloodedShrewPartyTime--ZDZWZum0t_DILEK",
+      "title": "間一髪？",
+      "description": "https://www.twitch.tv/dall_cat/clip/SplendidColdbloodedShrewPartyTime--ZDZWZum0t_DILEK",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4a0c5ecf-4e3a-45d1-9602-2578752a78bb/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 32,
+      "broadcaster_name": "だるネコ",
+      "author_name": "だるネコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1338445864787509248/ef0b78944d2d0cee6625b36c197ea873.png?size=128",
+      "posted_at": "2026-11-01T01:05:31+09:00"
+    },
     {
       "id": 492,
       "source": "twitch",
