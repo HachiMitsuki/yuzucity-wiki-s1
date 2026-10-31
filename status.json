@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T18:06:24+09:00",
+  "updated_at": "2026-10-31T18:46:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,11 +109,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "どんな人でも売買します！！！お客様は神様です！！",
-      "game_name": "Probably Stolen",
-      "started_at": "2026-10-31T07:27:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -595,7 +591,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTAⅤ:YuzuCity】80日目：本日の長時間勤務EMS【ゲーム雑談】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-10-31T09:44:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
