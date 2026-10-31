@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:41:23+09:00",
+  "updated_at": "2026-10-31T16:31:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "どんな人でも売買します！！！お客様は神様です！！",
+      "game_name": "Probably Stolen",
+      "started_at": "2026-10-31T07:27:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
