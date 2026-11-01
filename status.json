@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:46:25+09:00",
+  "updated_at": "2026-11-02T00:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -801,11 +801,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【OW】もゆる杯! 練習part6 公式スクリム!!",
-      "game_name": "Overwatch",
-      "started_at": "2026-11-01T11:56:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1053,7 +1049,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "最後の抗争参加できなくて禊を考え中...【YuzuCity】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T15:49:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
