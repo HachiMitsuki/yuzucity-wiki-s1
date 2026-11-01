@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T02:36:21+09:00",
+  "updated_at": "2026-11-02T02:51:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -779,11 +779,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Yuzu City】ファーマー兼クラフター Day77",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:27:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -927,11 +923,7 @@
       "display_name": "aoto_hiiragi",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a6c003-30ed-4a6e-91c3-896dcd6bf304-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aoto_hiiragi",
-      "is_live": true,
-      "title": "【YuzuCity】たけしのギャン生活 街の最終抗争だー！！【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T15:03:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
