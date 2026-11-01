@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:16:31+09:00",
+  "updated_at": "2026-11-01T22:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -369,11 +369,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "知り合いの名前を借りて国家繁栄を目指させる【ファンタジーマップシミュレーター】",
-      "game_name": "Fantasy Map Simulator",
-      "started_at": "2026-11-01T11:45:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -498,7 +494,7 @@
       "is_live": true,
       "title": "【YuzuCity】最後の抗争",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:25:27Z",
+      "started_at": "2026-11-01T13:42:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
