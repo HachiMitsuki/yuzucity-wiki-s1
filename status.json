@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:21:25+09:00",
+  "updated_at": "2026-11-01T19:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -883,11 +883,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "STRICTLY F2P iLvl 2500+ ASSASSIN  - ASIA TRINIEL",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-01T06:01:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -907,7 +903,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "マイクラ配信 ず～っとクラフトに参加 初のマイクラのスト鯖だ～",
+      "game_name": "Minecraft",
+      "started_at": "2026-11-01T10:49:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
