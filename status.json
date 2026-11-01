@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:46:32+09:00",
+  "updated_at": "2026-11-01T21:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -233,7 +233,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】らすとこうそうやるよ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T12:50:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -525,7 +529,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆず（のっとかおだし）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T12:50:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -549,7 +557,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】最終抗争らしい。#79",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T12:50:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
