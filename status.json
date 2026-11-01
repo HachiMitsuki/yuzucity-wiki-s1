@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:01:28+09:00",
+  "updated_at": "2026-11-01T21:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -645,7 +645,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】本日抗争最終日！！頑張るぞい※鳩×Gやめてねぇ～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T12:04:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +843,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】82日目 エンディングにむけて",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T12:02:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
