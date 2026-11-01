@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:26:23+09:00",
+  "updated_at": "2026-11-01T17:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -599,11 +599,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【MarvelRivals】うぉーみんぐあっぷなるかな？🍀片耳✖喉✖ @ashnyaaaaan 🍭",
-      "game_name": "Marvel Rivals",
-      "started_at": "2026-11-01T06:26:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -927,7 +923,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】スロット店員の日常 御供田海視点５5日目 今日は11月1日ゾロ目イベント日！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T08:03:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
