@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:01:30+09:00",
+  "updated_at": "2026-11-02T00:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -583,11 +583,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "【#YCGTA】本日はラスト抗争！【ストロ・べリオ】#44#YuzuCity #FiveM #GTAVICECITY",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:43:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1006,7 +1002,7 @@
       "is_live": true,
       "title": "【YuzuCity】たけしのギャン生活 街の最終抗争だー！！【GTA5】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:54:29Z",
+      "started_at": "2026-11-01T15:03:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aoto_hiiragi-{width}x{height}.jpg"
     },
     {
