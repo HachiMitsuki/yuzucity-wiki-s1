@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T23:21:30+09:00",
+  "updated_at": "2026-11-01T23:26:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -473,11 +473,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "11/1 yuzucity !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:50:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -683,11 +679,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】最後の抗争：ぼでぃかめ🍀片耳✖喉✖ @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:50:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -697,11 +689,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【YuzuCity】本日抗争最終日！！頑張るぞい※鳩×Gやめてねぇ～",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-01T12:04:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1029,7 +1017,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#32 EMSになって１カ月たった",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-01T14:24:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
