@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:01:30+09:00",
+  "updated_at": "2026-11-02T21:11:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,11 +479,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "ついにFC設立じゃい",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-02T09:26:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -785,7 +781,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTARP】まだ平和な一日だったな",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T12:07:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
