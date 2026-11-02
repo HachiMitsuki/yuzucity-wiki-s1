@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-03T06:15:05+09:00",
+  "updated_at": "2026-11-03T06:57:40+09:00",
   "clips": [
+    {
+      "id": 499,
+      "source": "twitch",
+      "source_id": "CuriousBetterHawkPermaSmug-kVF-oIh2CWISXq_X",
+      "url": "https://www.twitch.tv/ranokaku_u/clip/CuriousBetterHawkPermaSmug-kVF-oIh2CWISXq_X",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CuriousBetterHawkPermaSmug-kVF-oIh2CWISXq_X",
+      "title": "ここから5時まで恋バナ(ハーメルンさんが話す恋愛において女のこれがめんどくさいんだぞ40)が本院で開催されました",
+      "description": "https://www.twitch.tv/ranokaku_u/clip/CuriousBetterHawkPermaSmug-kVF-oIh2CWISXq_X",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/65715777-50ac-4436-b4c3-35bd87c37e1d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 15,
+      "broadcaster_name": "架空らの",
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-11-03T06:57:39+09:00"
+    },
     {
       "id": 498,
       "source": "twitch",
