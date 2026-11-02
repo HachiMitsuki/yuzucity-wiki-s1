@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T01:41:27+09:00",
+  "updated_at": "2026-11-03T01:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -223,11 +223,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "のんびりVALO",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-02T15:08:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -431,11 +427,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【ポケモン縛り】ダイパリメイクをタイプ統一、死んだらリストラ縛りでやる。",
-      "game_name": "Pokémon Pearl Version",
-      "started_at": "2026-11-02T13:55:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
