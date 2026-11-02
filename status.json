@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:11:29+09:00",
+  "updated_at": "2026-11-02T20:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -260,9 +260,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
       "is_live": true,
-      "title": "【 #yuzucity 90日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
+      "title": "【 #yuzucity】 90日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-02T11:10:05Z",
+      "started_at": "2026-11-02T11:15:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
@@ -353,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ストグラFVCasual】#34 久しぶりに街ブラ！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T11:31:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
