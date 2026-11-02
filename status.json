@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T22:21:32+09:00",
+  "updated_at": "2026-11-02T22:36:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1065,7 +1065,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "今日は何をしよう【YuzuCity】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T13:31:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
