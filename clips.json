@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-02T14:32:12+09:00",
+  "updated_at": "2026-11-03T01:58:17+09:00",
   "clips": [
+    {
+      "id": 495,
+      "source": "twitch",
+      "source_id": "ArtsyAstuteGalagoChocolateRain-Rmtxaph_1aFJYUmX",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/ArtsyAstuteGalagoChocolateRain-Rmtxaph_1aFJYUmX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ArtsyAstuteGalagoChocolateRain-Rmtxaph_1aFJYUmX",
+      "title": "そんなドンピシャなことある？",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/ArtsyAstuteGalagoChocolateRain-Rmtxaph_1aFJYUmX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/572fbe42-6ac5-4e6f-9025-5eb1150b9978/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 23,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-11-03T01:58:14+09:00"
+    },
     {
       "id": 494,
       "source": "discord",
