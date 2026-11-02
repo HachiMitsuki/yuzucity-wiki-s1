@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T22:06:31+09:00",
+  "updated_at": "2026-11-02T22:11:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,7 +97,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー70日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T13:10:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -531,7 +535,11 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】鬼眠たい。",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T13:09:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -930,7 +938,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
       "is_live": true,
-      "title": "【VALORANT】soloq p3 23p~",
+      "title": "【VALORANT】トリオになった！w/ちゅなち、りま",
       "game_name": "VALORANT",
       "started_at": "2026-11-02T12:00:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
@@ -1031,7 +1039,11 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #GTA 】ねむちゃい #ゆず鯖 #ycgta #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T13:07:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
