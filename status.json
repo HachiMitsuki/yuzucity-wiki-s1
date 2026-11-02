@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:26:32+09:00",
+  "updated_at": "2026-11-02T21:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -309,7 +309,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】ほな海洞窟いくかぁ😇",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-11-02T12:29:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -948,8 +952,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
       "is_live": true,
-      "title": "マイクラ配信 ず～っとクラフトに参加 初のマイクラのスト鯖だ～",
-      "game_name": "Minecraft",
+      "title": "最近マイクラばっかりだったので気分転換にVALOします",
+      "game_name": "VALORANT",
       "started_at": "2026-11-02T12:14:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
