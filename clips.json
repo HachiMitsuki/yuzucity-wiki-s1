@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-03T01:58:17+09:00",
+  "updated_at": "2026-11-03T05:30:12+09:00",
   "clips": [
+    {
+      "id": 496,
+      "source": "twitch",
+      "source_id": "CaringExquisiteCoffeeSquadGoals-27gfhLsJBl84JdNq",
+      "url": "https://www.twitch.tv/ranokaku_u/clip/CaringExquisiteCoffeeSquadGoals-27gfhLsJBl84JdNq",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CaringExquisiteCoffeeSquadGoals-27gfhLsJBl84JdNq",
+      "title": "おんぎゃー",
+      "description": "https://www.twitch.tv/ranokaku_u/clip/CaringExquisiteCoffeeSquadGoals-27gfhLsJBl84JdNq",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8a5fbcdb-383d-4933-b0c1-981d80526490/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 13,
+      "broadcaster_name": "架空らの",
+      "author_name": "かくうらの(架空らの)",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1390312053973188639/ae536fda2d8347dbae16a7f19aad8f1a.png?size=128",
+      "posted_at": "2026-11-03T05:30:12+09:00"
+    },
     {
       "id": 495,
       "source": "twitch",
