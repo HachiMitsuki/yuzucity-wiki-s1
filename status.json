@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:51:32+09:00",
+  "updated_at": "2026-11-02T23:56:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -859,11 +859,7 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": true,
-      "title": "【Yuzu City】ファーマー兼クラフター Day78",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-02T10:24:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1053,11 +1049,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#REPO】友人たちとれぽ",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-02T12:57:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
