@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T22:11:31+09:00",
+  "updated_at": "2026-11-02T22:16:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -111,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】VSC本番【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "started_at": "2026-11-02T13:14:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -549,7 +553,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖】あと少しか。#80",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-02T13:12:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -737,11 +745,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】はるCUP/NEXT：ばぶろるスクリム",
-      "game_name": "League of Legends",
-      "started_at": "2026-11-02T11:53:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
