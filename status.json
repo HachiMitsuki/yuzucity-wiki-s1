@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:46:31+09:00",
+  "updated_at": "2026-11-02T20:56:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "omchang",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c99acaa-f153-478b-9f92-b68aa6de78af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/omchang",
-      "is_live": false
+      "is_live": true,
+      "title": "【#LoL】殺意のない行動×スクワットのSoloQ",
+      "game_name": "AION 2",
+      "started_at": "2026-11-02T11:53:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -693,7 +697,11 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": false
+      "is_live": true,
+      "title": "【LOL】はるCUP/NEXT：ばぶろるスクリム",
+      "game_name": "League of Legends",
+      "started_at": "2026-11-02T11:53:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
