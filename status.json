@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:41:33+09:00",
+  "updated_at": "2026-11-02T23:51:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -165,11 +165,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "Losグラ 未来を見据えて… #16",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-02T13:16:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -213,11 +209,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "突発雪山",
-      "game_name": "Project Winter",
-      "started_at": "2026-11-02T12:17:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
