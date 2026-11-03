@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:41:27+09:00",
+  "updated_at": "2026-11-03T19:43:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1387,6 +1387,16 @@
       "display_name": "音和りう",
       "profile_image_url": "https://yt3.ggpht.com/438DGUBjx2DxoYLplxjhrZ89_n2SPSRELvQyopyN7d7NgOYcOji3X1PIfb6ok5PF4d4_EBhU=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40otonagi-riu",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCLlUTQ97oiviJ80YNCCgSEw",
+      "channel_id": "UCLlUTQ97oiviJ80YNCCgSEw",
+      "handle": "@かけたやちゃん",
+      "display_name": "かけたやちゃん",
+      "profile_image_url": "https://yt3.ggpht.com/8Qk2sKnC1DATWGDBH-wmJq8gOZxN2LOA9GIPFe_kOQztjIaW3YCqPTKx7UHzom6eCTL9m6S8=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%81%8B%E3%81%91%E3%81%9F%E3%82%84%E3%81%A1%E3%82%83%E3%82%93",
       "is_live": false
     }
   ]
