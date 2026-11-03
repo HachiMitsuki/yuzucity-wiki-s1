@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:46:24+09:00",
+  "updated_at": "2026-11-03T17:56:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,11 +349,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【Japanese Ramen Simulatorコラボ】#3 FVCメンツでらーめん店開業！w/るあ君、しぐれさん、翠華さん",
-      "game_name": "Japanese Ramen Simulator",
-      "started_at": "2026-11-03T07:19:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
