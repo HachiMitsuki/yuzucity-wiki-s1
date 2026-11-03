@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:43:58+09:00",
+  "updated_at": "2026-11-03T20:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,7 +99,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#エンドフィールド  】雑談しながら管理人業務【#vtuber /雷音雅】【#雑談配信 】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-11-03T11:47:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -109,7 +113,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ ごねたらグレード上がった話 ６４話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-03T11:49:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
