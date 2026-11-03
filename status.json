@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:36:36+09:00",
+  "updated_at": "2026-11-03T21:41:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -425,7 +425,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】近距離強化ってこと？ #ギギ怪々Win",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-03T12:39:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
