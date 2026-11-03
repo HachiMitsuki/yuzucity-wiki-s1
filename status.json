@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:16:32+09:00",
+  "updated_at": "2026-11-03T23:21:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -101,7 +101,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー71日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-03T14:16:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -755,11 +759,7 @@
       "display_name": "ラムダーク",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc33f26-a838-4eb8-9927-0885b58f921c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rumd4rk_ttv",
-      "is_live": true,
-      "title": "【SOLO：D2～】負けのBIG WAVE",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-03T12:34:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rumd4rk_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
