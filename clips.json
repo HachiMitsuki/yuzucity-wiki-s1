@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-03T20:16:25+09:00",
+  "updated_at": "2026-11-04T00:57:45+09:00",
   "clips": [
+    {
+      "id": 501,
+      "source": "twitch",
+      "source_id": "PoliteAbnegateKathyChocolateRain-QxPiZ2wqcRxPjrfj",
+      "url": "https://www.twitch.tv/kugana00/clip/PoliteAbnegateKathyChocolateRain-QxPiZ2wqcRxPjrfj",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PoliteAbnegateKathyChocolateRain-QxPiZ2wqcRxPjrfj",
+      "title": "【#YuzuCity】こいつ、ごめんしかいわんやん",
+      "description": "https://www.twitch.tv/kugana00/clip/PoliteAbnegateKathyChocolateRain-QxPiZ2wqcRxPjrfj",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c3ba326f-54cf-4398-b4d6-799f6a3b7dcc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 38,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-11-04T00:57:42+09:00"
+    },
     {
       "id": 500,
       "source": "twitch",
