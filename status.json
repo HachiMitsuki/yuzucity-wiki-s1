@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:46:21+09:00",
+  "updated_at": "2026-11-03T15:51:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -613,7 +613,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【ACE COMBAT 8 】初見！！初めての【空】老兵・新兵アドバイス求む！！＃1",
+      "game_name": "ACE COMBAT 8: WINGS OF THEVE",
+      "started_at": "2026-11-03T06:47:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
