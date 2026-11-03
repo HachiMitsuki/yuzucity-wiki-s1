@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:06:34+09:00",
+  "updated_at": "2026-11-03T21:11:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -391,7 +391,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ストグラFV】唐 弦貴の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-03T12:10:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -567,7 +571,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【ストグラFV Casual】 Day 137 出会い #ストグラFV_CASUAL",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-03T12:07:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -923,7 +931,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "久しぶりのREPO配信 コラボです。REPOがハロウィン使用になってるらしい。初めましての方が多いです。",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-03T12:09:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
