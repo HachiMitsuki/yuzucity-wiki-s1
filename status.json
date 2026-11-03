@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T00:01:31+09:00",
+  "updated_at": "2026-11-04T00:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[VALORANT] 年内プラチナ行きたい配信part3",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-03T12:56:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -111,11 +107,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#エンドフィールド  】雑談しながら管理人業務【#vtuber /雷音雅】【#雑談配信 】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-11-03T11:47:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -899,11 +891,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】84日目 久々に宝探しとかしたい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-03T12:15:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
