@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-04T00:57:45+09:00",
+  "updated_at": "2026-11-04T01:46:22+09:00",
   "clips": [
+    {
+      "id": 502,
+      "source": "twitch",
+      "source_id": "FilthyTawdryHawkAllenHuhu-WQ1MzUaozpPv5fAQ",
+      "url": "https://www.twitch.tv/kugana00/clip/FilthyTawdryHawkAllenHuhu-WQ1MzUaozpPv5fAQ",
+      "embed_url": "https://clips.twitch.tv/embed?clip=FilthyTawdryHawkAllenHuhu-WQ1MzUaozpPv5fAQ",
+      "title": "【#YuzuCity】きれいな二度引き",
+      "description": "https://www.twitch.tv/kugana00/clip/FilthyTawdryHawkAllenHuhu-WQ1MzUaozpPv5fAQ",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f1b639ce-23fc-4827-b1e4-d4cf4f4e2a16/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-11-04T01:46:21+09:00"
+    },
     {
       "id": 501,
       "source": "twitch",
