@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-04T01:46:22+09:00",
+  "updated_at": "2026-11-04T22:41:28+09:00",
   "clips": [
+    {
+      "id": 503,
+      "source": "twitch",
+      "source_id": "SavageBadCoyotePoooound-DYIHTkNlNX3UIYZ9",
+      "url": "https://www.twitch.tv/ayayadreams/clip/SavageBadCoyotePoooound-DYIHTkNlNX3UIYZ9",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SavageBadCoyotePoooound-DYIHTkNlNX3UIYZ9",
+      "title": "久しぶりのやらかし",
+      "description": "https://www.twitch.tv/ayayadreams/clip/SavageBadCoyotePoooound-DYIHTkNlNX3UIYZ9",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cc98f06e-bada-4bc7-8e15-c68f9cd2b1dc/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 15,
+      "broadcaster_name": "ayayadreams",
+      "author_name": "綾",
+      "author_avatar": "https://cdn.discordapp.com/avatars/731409506315010109/ffde01f098ac8c2e07c33735d8e13f64.png?size=128",
+      "posted_at": "2026-11-04T22:41:28+09:00"
+    },
     {
       "id": 502,
       "source": "twitch",
