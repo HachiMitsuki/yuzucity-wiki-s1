@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:21:25+09:00",
+  "updated_at": "2026-11-05T01:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -455,11 +455,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【VALORANT】結局昨日変わって無くね！？",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-04T15:04:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -843,11 +839,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】85日目 1人だけでも、2人だけでもなく",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-04T12:00:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
