@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:06:26+09:00",
+  "updated_at": "2026-11-04T17:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -249,11 +249,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【Enshrouded】こちらホリホリカンパニー",
-      "game_name": "Enshrouded",
-      "started_at": "2026-11-04T05:15:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -917,11 +913,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【FF14/ © SQUARE ENIX 】若葉組#3 紅蓮に向けて",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-04T04:45:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
