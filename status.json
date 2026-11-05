@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:51:31+09:00",
+  "updated_at": "2026-11-05T21:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -184,7 +184,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
       "is_live": true,
-      "title": "亀町 アウトロー 抗争",
+      "title": "亀町 アウトロー 抗争前半だけ",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-05T11:50:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
@@ -425,7 +425,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【ラーメン！！】スーパーアルバイター出勤！！",
+      "game_name": "Japanese Ramen Simulator",
+      "started_at": "2026-11-05T12:02:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -765,7 +769,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】もゆる杯! 練習part9 最終スクリム!!",
+      "game_name": "Overwatch",
+      "started_at": "2026-11-05T12:02:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -839,7 +847,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】86日目 やるか、仕入れ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-05T12:01:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
