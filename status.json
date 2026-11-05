@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:41:24+09:00",
+  "updated_at": "2026-11-06T00:51:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -387,11 +387,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#ストグラFV】唐 弦貴の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-05T13:34:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -518,7 +514,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
       "is_live": true,
-      "title": "【#ゆず鯖】頑張る #82",
+      "title": "【#ゆず鯖】頑張る #83",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-05T12:28:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
