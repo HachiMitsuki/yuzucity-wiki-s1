@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:16:25+09:00",
+  "updated_at": "2026-11-06T00:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,11 +251,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "Minecraft",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-05T13:12:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -417,11 +413,7 @@
       "display_name": "Kumish11",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kumish11",
-      "is_live": true,
-      "title": "[AZUA city]-PD-",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-05T13:23:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kumish11-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -441,11 +433,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【ラーメン！！】スーパーアルバイター出勤！！",
-      "game_name": "Japanese Ramen Simulator",
-      "started_at": "2026-11-05T12:02:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -455,11 +443,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【ポケモンシャイニングパール】むしタイプ統一、死んだらリストラ縛りでやる。社会の縮図を見してあげます。",
-      "game_name": "Pokémon Pearl Version",
-      "started_at": "2026-11-05T13:40:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -737,11 +721,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】→【WARDOGS】",
-      "game_name": "League of Legends",
-      "started_at": "2026-11-05T11:40:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
