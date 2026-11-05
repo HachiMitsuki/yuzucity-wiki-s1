@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:01:21+09:00",
+  "updated_at": "2026-11-06T02:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,11 +497,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#ゆず鯖】頑張る #83",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-05T12:28:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -511,7 +507,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 Minecraft | #ねおクラ2nd 】 #8 シゲイル集めたり地下探索したりしたい！ | たくるす 【初見さん・コメ",
+      "game_name": "Minecraft",
+      "started_at": "2026-11-05T17:04:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
