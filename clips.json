@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-06T02:02:33+09:00",
+  "updated_at": "2026-11-06T02:06:16+09:00",
   "clips": [
+    {
+      "id": 505,
+      "source": "twitch",
+      "source_id": "IronicRelatedCheddarYee-kuED3VbfuibH-0zX",
+      "url": "https://www.twitch.tv/kugana00/clip/IronicRelatedCheddarYee-kuED3VbfuibH-0zX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=IronicRelatedCheddarYee-kuED3VbfuibH-0zX",
+      "title": "【#Yuzucity】ナカイのむいかさんｖ2",
+      "description": "https://www.twitch.tv/kugana00/clip/IronicRelatedCheddarYee-kuED3VbfuibH-0zX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/394830ac-3c3d-476c-ac1f-8f7e465da3f5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-11-06T02:06:15+09:00"
+    },
     {
       "id": 504,
       "source": "twitch",
