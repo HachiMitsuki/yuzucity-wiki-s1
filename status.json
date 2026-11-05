@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:46:26+09:00",
+  "updated_at": "2026-11-05T23:51:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,7 +497,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】今日のケーキセットは…？【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-05T14:46:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -941,11 +945,7 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": true,
-      "title": "【VALORANT】おしる甲子園 スクリム",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-05T13:01:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
