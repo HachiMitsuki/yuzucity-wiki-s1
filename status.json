@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T19:11:26+09:00",
+  "updated_at": "2026-11-05T19:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -467,7 +467,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "リーパーレベル上げジャ",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-11-05T10:12:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -909,7 +913,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】84日目ホスキャバイベントと今日も臨機応変に",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-05T10:13:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
