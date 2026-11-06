@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:41:31+09:00",
+  "updated_at": "2026-11-06T21:46:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -825,11 +825,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【#どこキャグルメ】寒い季節にカレーを手に入れよう！オンラインクレーンゲームチャレンジ【#PR 椛琉那】",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-06T12:00:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
