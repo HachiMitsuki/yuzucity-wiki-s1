@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-06T02:06:16+09:00",
+  "updated_at": "2026-11-06T22:49:38+09:00",
   "clips": [
+    {
+      "id": 506,
+      "source": "youtube",
+      "source_id": "sxmR5gkm904",
+      "url": "https://youtube.com/shorts/sxmR5gkm904",
+      "embed_url": "https://www.youtube.com/embed/sxmR5gkm904",
+      "title": null,
+      "description": "https://youtube.com/shorts/sxmR5gkm904?si=SBvjvykgf7iuXQPr",
+      "thumbnail_url": "https://i.ytimg.com/vi/sxmR5gkm904/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "勇者うる",
+      "author_avatar": "https://cdn.discordapp.com/avatars/934791069097414697/5944a1b6669af16b9b3c9ff3e362e8c3.png?size=128",
+      "posted_at": "2026-11-06T22:49:38+09:00"
+    },
     {
       "id": 505,
       "source": "twitch",
