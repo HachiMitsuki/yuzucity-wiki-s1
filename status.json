@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T01:31:24+09:00",
+  "updated_at": "2026-11-07T01:36:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,11 +121,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 青島パンダ ６５話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-06T13:17:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -863,11 +859,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】87日目 ホスキャバの裏でチルDAY",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-06T14:02:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
