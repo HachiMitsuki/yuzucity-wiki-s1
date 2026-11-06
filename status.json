@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:26:30+09:00",
+  "updated_at": "2026-11-06T23:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -867,7 +867,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】87日目 ホスキャバの裏でチルDAY",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-06T14:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1025,11 +1029,7 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": true,
-      "title": "アセンダントに戻る",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-06T13:04:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
