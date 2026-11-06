@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T23:31:29+09:00",
+  "updated_at": "2026-11-06T23:46:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -539,11 +539,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 Minecraft | #ねおクラ2nd 】 #9 地下で大型の洞窟探して探検したい！ | たくるす 【初見さん・コメント・ROM専大歓迎・JP/EN】",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-06T10:35:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
