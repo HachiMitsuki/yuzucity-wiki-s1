@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:46:25+09:00",
+  "updated_at": "2026-11-07T00:56:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -71,7 +71,7 @@
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
       "title": "【Yuzu City】干すキャバイベ出勤します！！！ #97【鳩禁止】",
-      "game_name": "League of Legends",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-06T13:23:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -195,11 +195,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "仕事終わりからのturtle犯罪ちょっとだけ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-06T08:54:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -401,11 +397,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "",
-      "started_at": "2026-11-06T13:00:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -517,7 +509,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆず（のっとかおだし）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-06T15:55:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
