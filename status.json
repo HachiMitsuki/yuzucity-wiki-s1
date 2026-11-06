@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T03:01:22+09:00",
+  "updated_at": "2026-11-07T03:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -577,11 +577,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】 71日目2 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-06T12:11:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -901,11 +897,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【yuzucity】85日目ねすぎた",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-06T14:16:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
