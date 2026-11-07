@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:41:29+09:00",
+  "updated_at": "2026-11-07T23:46:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -141,11 +141,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【Apex カスタム】我々、リング外の住人です -遅延あり-",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-07T11:48:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -165,11 +161,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "Losグラ 今日も半グレです  #20",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-07T12:03:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -243,11 +235,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "ほなみ1周年記念＆twitch200人フォロー大感謝祭APEXトリオカスタム",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-07T11:53:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
