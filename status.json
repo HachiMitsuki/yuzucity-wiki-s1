@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:26:27+09:00",
+  "updated_at": "2026-11-08T01:31:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -103,11 +103,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#エンドフィールド  】危機契約やるかぁ【#vtuber /雷音雅】【#雑談配信 】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-11-07T12:47:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
