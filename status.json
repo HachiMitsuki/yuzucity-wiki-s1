@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:01:31+09:00",
+  "updated_at": "2026-11-07T21:06:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,7 +59,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #GOOSEGOOSEDUCK 】久々のコラボ！わいわいやるぞー！",
+      "game_name": "Goose Goose Duck",
+      "started_at": "2026-11-07T12:02:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -93,7 +97,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー75日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-07T12:03:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -157,7 +165,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "Losグラ 今日も半グレです  #20",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-07T12:03:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -859,7 +871,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】88日目 動き出す計画",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-07T12:01:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -939,7 +955,11 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": false
+      "is_live": true,
+      "title": "GOOSE GOOSE DUCK配信 大人数コラボ",
+      "game_name": "Goose Goose Duck",
+      "started_at": "2026-11-07T12:01:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -949,11 +969,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【yuzucity】86日目今日は21:00まで！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-07T08:12:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
