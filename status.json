@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:51:16+09:00",
+  "updated_at": "2026-11-07T12:11:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,7 +459,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【COD MW4】全武器レベマにしてからプレステージ回す",
+      "game_name": "Call of Duty: Modern Warfare 4",
+      "started_at": "2026-11-07T03:09:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -809,7 +813,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "どこかで自律神経が壊れた 影の地蹂躙編※NoCheer&Bits/ビッツ禁止",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-11-07T03:10:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
