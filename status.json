@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:21:31+09:00",
+  "updated_at": "2026-11-07T23:26:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -281,7 +281,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【Enshrouded】素材がたりない",
+      "game_name": "Enshrouded",
+      "started_at": "2026-11-07T14:23:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -505,11 +509,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【APEX】w/でってう３、のこ３【ももたろう】",
-      "game_name": "Apex",
-      "started_at": "2026-11-07T12:31:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -825,11 +825,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【OW】もゆる杯 俺らが勝つ",
-      "game_name": "Overwatch",
-      "started_at": "2026-11-07T11:22:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
