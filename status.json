@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:26:32+09:00",
+  "updated_at": "2026-11-07T23:31:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,11 +59,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #GOOSEGOOSEDUCK 】久々のコラボ！わいわいやるぞー！",
-      "game_name": "Goose Goose Duck",
-      "started_at": "2026-11-07T12:02:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -509,7 +505,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】今日のケーキセットは…？【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-07T14:29:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
