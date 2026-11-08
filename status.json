@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:36:23+09:00",
+  "updated_at": "2026-11-08T20:51:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "仕事の電話おおいかもですが ちょいちょい犯罪罪",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-08T11:49:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -683,11 +687,7 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": true,
-      "title": "[#VRChat]VBR養成学校卒業レース[#VTuber]",
-      "game_name": "VRChat",
-      "started_at": "2026-11-08T11:34:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
