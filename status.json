@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:01:24+09:00",
+  "updated_at": "2026-11-08T20:06:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -349,7 +349,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【Overwatch】昨日はお手伝いさせていただいたという話",
+      "game_name": "Overwatch",
+      "started_at": "2026-11-08T11:03:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -447,11 +451,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【ポケモンシャイニングパール】むしタイプ統一、死んだらリストラ縛りでやる。社会の縮図を見してあげます。",
-      "game_name": "Pokémon Pearl Version",
-      "started_at": "2026-11-08T09:07:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
