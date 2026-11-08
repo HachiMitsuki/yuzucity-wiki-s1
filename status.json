@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:06:23+09:00",
+  "updated_at": "2026-11-08T18:11:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -435,7 +435,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【ポケモンシャイニングパール】むしタイプ統一、死んだらリストラ縛りでやる。社会の縮図を見してあげます。",
+      "game_name": "Pokémon Pearl Version",
+      "started_at": "2026-11-08T09:07:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
