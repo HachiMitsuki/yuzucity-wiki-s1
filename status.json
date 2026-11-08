@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:56:25+09:00",
+  "updated_at": "2026-11-08T21:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -791,7 +791,11 @@
       "display_name": "佐伯悠真",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7e3765-772c-4215-9b0b-3f2b8ab68123-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/saekiyuma",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】ランク解放まであと20レベル！完全初見男が最強の相棒キャラを見つける夜",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-08T11:58:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saekiyuma-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
