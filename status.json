@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T03:01:23+09:00",
+  "updated_at": "2026-11-09T03:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -433,11 +433,7 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": true,
-      "title": "11/8 足先っす出勤 yuzucity !device !sens",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-08T14:02:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -599,11 +595,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】88日目：週末の長時間勤務EMS【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-08T09:01:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
