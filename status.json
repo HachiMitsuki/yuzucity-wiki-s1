@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T23:41:34+09:00",
+  "updated_at": "2026-11-09T23:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -597,11 +597,7 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": true,
-      "title": "カウントダウン  初見さん◎ROM◎Drops◎",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T13:48:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1049,11 +1045,7 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": true,
-      "title": "チル希望【YuzuCity】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T13:51:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
