@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:01:24+09:00",
+  "updated_at": "2026-11-10T01:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -295,11 +295,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【YuzuCity】PD 十月トーカ 20",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T15:05:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -843,11 +839,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】89日目 あと1週間かぁ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T12:01:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
