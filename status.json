@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:16:24+09:00",
+  "updated_at": "2026-11-09T21:31:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "芋の皮むきを極めている男の配信",
-      "game_name": "Potato Please",
-      "started_at": "2026-11-09T08:57:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -965,7 +961,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】87日目みじかめかも",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-09T12:30:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
