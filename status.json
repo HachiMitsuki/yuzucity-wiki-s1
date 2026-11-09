@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:31:21+09:00",
+  "updated_at": "2026-11-10T02:36:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,11 +89,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティー77日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T17:26:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -548,7 +544,7 @@
       "is_live": true,
       "title": "カウントダウン  初見さん◎ROM◎Drops◎",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T14:45:58Z",
+      "started_at": "2026-11-09T17:35:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
@@ -589,11 +585,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】 74日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T13:50:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
