@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T23:46:26+09:00",
+  "updated_at": "2026-11-09T23:51:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -597,7 +597,11 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": false
+      "is_live": true,
+      "title": "カウントダウン  初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-09T14:45:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -789,11 +793,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "〖 顔出し 〗初見プレイ！",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-09T11:16:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
