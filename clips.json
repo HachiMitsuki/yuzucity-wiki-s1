@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-09T23:30:22+09:00",
+  "updated_at": "2026-11-10T03:01:24+09:00",
   "clips": [
+    {
+      "id": 508,
+      "source": "twitch",
+      "source_id": "AmorphousProductivePandaTwitchRPG-QVkzBaom8ajTcHik",
+      "url": "https://www.twitch.tv/setukaimaboku/clip/AmorphousProductivePandaTwitchRPG-QVkzBaom8ajTcHik",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AmorphousProductivePandaTwitchRPG-QVkzBaom8ajTcHik",
+      "title": "おうかサイレン",
+      "description": "https://www.twitch.tv/setukaimaboku/clip/AmorphousProductivePandaTwitchRPG-QVkzBaom8ajTcHik",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5211860e-39df-48e1-90b1-790fcf381de8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 19,
+      "broadcaster_name": "せつかだよぉ",
+      "author_name": "夏目 雪兎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/805254131097796618/e713e2184ad024d5e833e74e14f1b702.png?size=128",
+      "posted_at": "2026-11-10T03:01:23+09:00"
+    },
     {
       "id": 507,
       "source": "twitch",
