@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:11:25+09:00",
+  "updated_at": "2026-11-10T00:16:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,11 +79,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【スタバレ】スタバレ初心者です！！一年目の夏頃、四回目ｗななし、の字【初見歓迎】",
-      "game_name": "Stardew Valley",
-      "started_at": "2026-11-09T12:00:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -737,11 +733,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】はるCUP NEXT スクリム/ばぶろる",
-      "game_name": "League of Legends",
-      "started_at": "2026-11-09T11:52:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -955,11 +947,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "マイクラ配信 ず～っとクラフト",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-09T12:11:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
