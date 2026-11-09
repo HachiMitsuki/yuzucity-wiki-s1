@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-06T22:49:38+09:00",
+  "updated_at": "2026-11-09T23:30:22+09:00",
   "clips": [
+    {
+      "id": 507,
+      "source": "twitch",
+      "source_id": "HandsomePleasantTrayCmonBruh-Ap6R1cXN1H2dHGTk",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/HandsomePleasantTrayCmonBruh-Ap6R1cXN1H2dHGTk",
+      "embed_url": "https://clips.twitch.tv/embed?clip=HandsomePleasantTrayCmonBruh-Ap6R1cXN1H2dHGTk",
+      "title": "録音中なんですけど",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/HandsomePleasantTrayCmonBruh-Ap6R1cXN1H2dHGTk",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/521479b2-bfae-4d57-a041-4ef9d11fc6aa/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 19,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-11-09T23:30:19+09:00"
+    },
     {
       "id": 506,
       "source": "youtube",
