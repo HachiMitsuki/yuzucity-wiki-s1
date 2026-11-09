@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T23:31:31+09:00",
+  "updated_at": "2026-11-09T23:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -484,7 +484,7 @@
       "is_live": true,
       "title": "11/9 足先っす出勤 yuzucity !device !sens",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T14:28:09Z",
+      "started_at": "2026-11-09T14:34:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
@@ -989,11 +989,7 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": true,
-      "title": "【yuzucity】87日目みじかめかも",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-09T12:30:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
