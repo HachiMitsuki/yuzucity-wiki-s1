@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-10T17:57:07+09:00",
+  "updated_at": "2026-11-10T17:57:20+09:00",
   "clips": [
+    {
+      "id": 511,
+      "source": "twitch",
+      "source_id": "SpoopyBlindingWormDendiFace-UjOA0FD0aqBlq9m-",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/SpoopyBlindingWormDendiFace-UjOA0FD0aqBlq9m-",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SpoopyBlindingWormDendiFace-UjOA0FD0aqBlq9m-",
+      "title": "ネオン初経験のるらむさんからの一言",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/SpoopyBlindingWormDendiFace-UjOA0FD0aqBlq9m-",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/00b69fe9-85aa-4caa-8514-882ad3fa5d97/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 16,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-11-10T17:57:11+09:00"
+    },
     {
       "id": 510,
       "source": "twitch",
