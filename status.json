@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:01:29+09:00",
+  "updated_at": "2026-11-10T21:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】もう少しで街終わるらしいからPD出勤 #101【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T12:04:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -79,7 +83,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】  11月28日～ シドウパレス攻略開始！！！！ Pat41【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "Persona 5 Royal",
+      "started_at": "2026-11-10T12:03:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -990,6 +998,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "himiya_shiro",
+      "login": "himiya_shiro",
+      "user_id": "1389258611",
+      "display_name": "氷見谷シロ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/himiya_shiro",
+      "is_live": true,
+      "title": "【#YuzuCtiy】今日はお祝いの日！【氷見谷しろ/新人Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T12:04:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
