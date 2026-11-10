@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:11:28+09:00",
+  "updated_at": "2026-11-10T22:16:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -431,7 +431,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【シミュグラ4】THEファイナル※50日目 名前は-−-『鰐亀守』に変わったBOSSガメの成長日記！配信始まりますよー",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T13:14:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -465,7 +469,11 @@
       "display_name": "あかがみぐらす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
-      "is_live": false
+      "is_live": true,
+      "title": "11/10 足先っす出勤 yuzucity !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T13:12:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
