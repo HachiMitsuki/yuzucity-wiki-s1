@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:01:23+09:00",
+  "updated_at": "2026-11-11T01:31:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -465,7 +465,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】ケーキを届けて【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T16:27:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -831,11 +835,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】90日目 街も大詰め！駄菓子屋を開けよう！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-10T12:23:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
