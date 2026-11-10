@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:21:28+09:00",
+  "updated_at": "2026-11-10T22:26:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -279,7 +279,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity】 98日目 青ギャング ALTIORボス【湊星いぐれ視点】 #YCGTA #ゆず鯖 #gta",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-10T13:20:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -397,7 +401,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu city",
+      "game_name": "",
+      "started_at": "2026-11-10T13:25:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
