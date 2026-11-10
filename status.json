@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:56:32+09:00",
+  "updated_at": "2026-11-10T22:01:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -653,11 +653,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【APEX】病み上がりランク！！！今更ながら感度変えて見た！！",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-10T09:49:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1035,11 +1031,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#YuzuCity】今日はお祝いの日！【氷見谷しろ/新人Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-10T12:04:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
