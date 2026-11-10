@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:31:24+09:00",
+  "updated_at": "2026-11-11T02:36:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -431,7 +431,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【Valorant】実写ちる。ピッカピカの一年生によるバロ。うまくなる日記。",
+      "game_name": "Pokémon Pearl Version",
+      "started_at": "2026-11-10T17:33:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -623,11 +627,7 @@
       "display_name": "甘噛あしゅりぃ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71aecd1b-b9fb-47f1-b2ac-2f11462a2604-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ashnyaaaaan",
-      "is_live": true,
-      "title": "【Yuzucity/天音あしゅ】ぼでぃかめ＆デートイベント🍀 @ashnyaaaaan 🍭",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-10T15:17:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashnyaaaaan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
