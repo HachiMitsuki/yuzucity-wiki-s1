@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-10T17:57:20+09:00",
+  "updated_at": "2026-11-10T18:01:02+09:00",
   "clips": [
+    {
+      "id": 512,
+      "source": "twitch",
+      "source_id": "KindDifficultBobaPeanutButterJellyTime-iHBX4OC2JHY_McoL",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/KindDifficultBobaPeanutButterJellyTime-iHBX4OC2JHY_McoL",
+      "embed_url": "https://clips.twitch.tv/embed?clip=KindDifficultBobaPeanutButterJellyTime-iHBX4OC2JHY_McoL",
+      "title": "価値観の違い",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/KindDifficultBobaPeanutButterJellyTime-iHBX4OC2JHY_McoL",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d1a228ed-91f5-4e9d-9290-dd011d776464/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 21,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-11-10T18:00:54+09:00"
+    },
     {
       "id": 511,
       "source": "twitch",
