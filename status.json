@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:06:27+09:00",
+  "updated_at": "2026-11-11T21:41:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -425,7 +425,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】 今日はソロの予感 #ギギ怪々Win",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-11T12:36:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -458,7 +462,7 @@
       "is_live": true,
       "title": "【VALORANT】全ての赤を集めた男",
       "game_name": "VALORANT",
-      "started_at": "2026-11-11T11:50:52Z",
+      "started_at": "2026-11-11T12:34:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
