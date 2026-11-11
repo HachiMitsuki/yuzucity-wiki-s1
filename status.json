@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:36:22+09:00",
+  "updated_at": "2026-11-12T01:11:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -455,11 +455,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【VALORANT】全ての赤を集めた男",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-11T12:34:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -845,11 +841,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "ラスダン行くぞ～！打倒cv三木さん",
-      "game_name": "Onimusha: Way of the Sword",
-      "started_at": "2026-11-11T11:59:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
