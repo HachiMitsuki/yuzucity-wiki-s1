@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:01:28+09:00",
+  "updated_at": "2026-11-11T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "久しぶりのチルタイム焚き火雑談",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-11T11:36:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -83,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【スタバㇾ】スタバレ初心者です！！一年目の夏の終わりごろ五回目ｗななし、のじ【初見歓迎】",
+      "game_name": "Stardew Valley",
+      "started_at": "2026-11-11T12:03:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー79日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-11T12:03:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
