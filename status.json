@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:41:29+09:00",
+  "updated_at": "2026-11-11T21:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -483,11 +483,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "リアルでヒールが欲しい初めてのヒーラー【賢者編】",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-11T10:11:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -541,7 +537,11 @@
       "display_name": "カシュケア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kashuker_spg",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YuzuCity]やばい最近配信サボり過ぎてる",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-11T12:49:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -551,7 +551,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】今日はポッキーの日らしい【ストロ・べリオ】#48 #YuzuCity #FiveM #GTAVICECITY",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-11T12:49:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
