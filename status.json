@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:56:27+09:00",
+  "updated_at": "2026-11-12T23:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -517,11 +517,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "釣りだよね？",
-      "game_name": "GONE Fishing",
-      "started_at": "2026-11-12T12:09:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -999,11 +995,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GONEFishing 】釣りするって",
-      "game_name": "GONE Fishing",
-      "started_at": "2026-11-12T12:09:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1014,7 +1006,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
       "is_live": true,
-      "title": "近接限定現金輸送【YuzuCity】",
+      "title": "近接限定現金輸送←目玉【YuzuCity】",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-12T12:48:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
