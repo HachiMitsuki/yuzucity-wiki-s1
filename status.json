@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:01:23+09:00",
+  "updated_at": "2026-11-13T03:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -987,11 +987,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#YuzuCity】たくさんあそぶよー！【氷見谷しろ/新人Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-12T12:04:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
