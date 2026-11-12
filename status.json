@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:01:27+09:00",
+  "updated_at": "2026-11-12T20:21:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,11 +109,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "GTAみたいなタルコフみたいなTPS",
-      "game_name": "ROB RUN",
-      "started_at": "2026-11-12T08:44:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
