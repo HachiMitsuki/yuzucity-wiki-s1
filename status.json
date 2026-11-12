@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:01:20+09:00",
+  "updated_at": "2026-11-13T05:06:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -917,11 +917,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【YuzuCity】往路おうか#43 残り僅かでもこの街をおうかする！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-12T13:03:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
