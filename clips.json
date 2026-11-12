@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-11T00:11:52+09:00",
+  "updated_at": "2026-11-12T20:13:04+09:00",
   "clips": [
+    {
+      "id": 514,
+      "source": "discord",
+      "source_id": "1570396001817337966",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1570396001817337966/aa.mp4?ex=6af6f0bf&is=6af59f3f&hm=e0e34c03523d0d4c4cbf2113f4d304bb2a718e8dfb034645b139df3ce80b6961&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "ひぐzZ/緋車 ジン",
+      "author_avatar": "https://cdn.discordapp.com/avatars/548008095218008064/cbe8a6fa1d8e878fe9896c5ca48ccdd0.png?size=128",
+      "posted_at": "2026-11-12T20:13:03+09:00"
+    },
     {
       "id": 513,
       "source": "twitch",
