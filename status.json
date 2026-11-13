@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:01:22+09:00",
+  "updated_at": "2026-11-14T03:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "本日の調子は？～25日目～【龍咲】【#YCGTA #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T14:35:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -593,11 +589,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【ゆず鯖/GTA】 76日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T12:37:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -607,11 +599,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【GTAⅤ:YuzuCity】91日目：2日寝てたEMS長時間勤務【ゲーム雑談】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T10:24:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -941,11 +929,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【YuzuCity】往路おうか#44 僅か時でもこの街をおうかする！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T08:41:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
