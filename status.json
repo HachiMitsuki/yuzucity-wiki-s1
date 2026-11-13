@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:46:26+09:00",
+  "updated_at": "2026-11-14T00:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1045,11 +1045,7 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": true,
-      "title": "睡眠不足完全チルデイ(？)【YuzuCity】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T13:17:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
