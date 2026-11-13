@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:06:28+09:00",
+  "updated_at": "2026-11-13T21:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【スタバㇾ】スタバレ初心者です！！一年目の秋ごろ六回目ｗななし、のじ、ミリP【初見歓迎】",
+      "game_name": "",
+      "started_at": "2026-11-13T12:12:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -357,11 +361,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【キングダムハーツBBS】#8 時系列で進めるキングダムハーツ【BBSテラ編】【ネタバレ有】【ビッツ、サブスク禁止】",
-      "game_name": "Kingdom Hearts Birth by Sleep Final Mix",
-      "started_at": "2026-11-13T09:55:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -781,7 +781,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTARP】思い出作りフェーズ突入",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-13T12:13:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
