@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-13T16:05:26+09:00",
+  "updated_at": "2026-11-13T21:42:25+09:00",
   "clips": [
+    {
+      "id": 517,
+      "source": "twitch",
+      "source_id": "SpoopyDependableCockroachKevinTurtle-zWhjShS09ZSOOFTX",
+      "url": "https://www.twitch.tv/setukaimaboku/clip/SpoopyDependableCockroachKevinTurtle-zWhjShS09ZSOOFTX",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SpoopyDependableCockroachKevinTurtle-zWhjShS09ZSOOFTX",
+      "title": "シリアスブレイカー",
+      "description": "https://www.twitch.tv/setukaimaboku/clip/SpoopyDependableCockroachKevinTurtle-zWhjShS09ZSOOFTX",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/10ae81b3-6cae-42b2-a793-c5d88c06d999/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "せつかだよぉ",
+      "author_name": "夏目 雪兎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/805254131097796618/e713e2184ad024d5e833e74e14f1b702.png?size=128",
+      "posted_at": "2026-11-13T21:42:23+09:00"
+    },
     {
       "id": 516,
       "source": "youtube",
