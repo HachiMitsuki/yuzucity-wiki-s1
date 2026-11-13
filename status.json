@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:46:25+09:00",
+  "updated_at": "2026-11-13T20:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,7 +63,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #第五人格 】酒飲み配信 w/さくら",
+      "game_name": "Identity V",
+      "started_at": "2026-11-13T11:04:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -297,7 +301,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】さてドラゴン行くか😇",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-11-13T11:05:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -455,7 +463,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【PIPRust】初！PIPRust！上陸！",
+      "game_name": "Rust",
+      "started_at": "2026-11-13T11:05:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
