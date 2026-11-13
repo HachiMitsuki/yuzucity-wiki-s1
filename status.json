@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:26:31+09:00",
+  "updated_at": "2026-11-13T22:31:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -406,7 +406,7 @@
       "is_live": true,
       "title": "【#ストグラFV】唐 弦貴の日常",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T13:25:34Z",
+      "started_at": "2026-11-13T13:26:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
@@ -773,7 +773,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "〖 カオナシ 〗依存したくない‥",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-13T13:29:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
