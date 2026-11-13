@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:41:23+09:00",
+  "updated_at": "2026-11-14T01:56:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【スタバㇾ】スタバレ初心者です！！一年目の秋ごろ六回目ｗななし、のじ、ミリP【初見歓迎】",
-      "game_name": "",
-      "started_at": "2026-11-13T12:12:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -429,11 +425,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【APEX】本番前日 #ギギ怪々Win",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-13T13:15:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
