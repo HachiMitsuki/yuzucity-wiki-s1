@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-12T20:13:04+09:00",
+  "updated_at": "2026-11-13T15:26:20+09:00",
   "clips": [
+    {
+      "id": 515,
+      "source": "twitch",
+      "source_id": "PatientMildMelonHassaanChop-POSchU-qYK_3wU-h",
+      "url": "https://www.twitch.tv/kugana00/clip/PatientMildMelonHassaanChop-POSchU-qYK_3wU-h",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PatientMildMelonHassaanChop-POSchU-qYK_3wU-h",
+      "title": "【#Yuzucity】これが食害",
+      "description": "https://www.twitch.tv/kugana00/clip/PatientMildMelonHassaanChop-POSchU-qYK_3wU-h",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2dd40a11-91cb-4b30-8c1e-8c8e4f268554/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-11-13T15:26:19+09:00"
+    },
     {
       "id": 514,
       "source": "discord",
