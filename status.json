@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:21:28+09:00",
+  "updated_at": "2026-11-13T21:36:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -93,7 +93,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー81日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-13T12:35:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -805,7 +809,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#WARDOGS】負け犬だってやってやる！【ワイプダッシュ】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-11-13T12:33:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -976,7 +984,7 @@
       "is_live": true,
       "title": "【#Yuzucity】不憫な狼が街を歩くDay104",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T12:17:03Z",
+      "started_at": "2026-11-13T12:21:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
