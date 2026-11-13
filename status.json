@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:06:24+09:00",
+  "updated_at": "2026-11-14T01:21:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -399,11 +399,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#ストグラFV】唐 弦貴の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T13:26:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -592,7 +588,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
       "is_live": true,
-      "title": "【ストグラFV Casual】 Day 139 未定 #ストグラFV_CASUAL",
+      "title": "【Twilight City】Day 21 新店舗見るか  #TwilightCity #トワグラ ←【ストグラFV Casual】 Day 139 未定 #ストグラFV_CASUAL",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-13T14:43:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
@@ -1005,11 +1001,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#Yuzucity】不憫な狼が街を歩くDay104",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-13T12:21:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
