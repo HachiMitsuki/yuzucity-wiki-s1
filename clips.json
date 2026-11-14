@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-14T13:55:06+09:00",
+  "updated_at": "2026-11-14T14:04:10+09:00",
   "clips": [
+    {
+      "id": 519,
+      "source": "twitch",
+      "source_id": "DignifiedDarkDiamondDeIlluminati-75pkSZLGlMEZBX-d",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/DignifiedDarkDiamondDeIlluminati-75pkSZLGlMEZBX-d",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DignifiedDarkDiamondDeIlluminati-75pkSZLGlMEZBX-d",
+      "title": "EMSも大喜びです",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/DignifiedDarkDiamondDeIlluminati-75pkSZLGlMEZBX-d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/32716d1c-6195-499d-8271-d87453fb128c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 37,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-11-14T14:04:10+09:00"
+    },
     {
       "id": 518,
       "source": "twitch",
