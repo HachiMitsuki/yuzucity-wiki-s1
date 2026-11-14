@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:26:24+09:00",
+  "updated_at": "2026-11-14T14:56:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -491,7 +491,7 @@
       "channel_url": "https://www.twitch.tv/samebxs",
       "is_live": true,
       "title": "【#valorant】久々寝起きです",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "VALORANT",
       "started_at": "2026-11-14T05:25:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
@@ -621,11 +621,7 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": true,
-      "title": "【APEX】昼からランク！！！プラチナ目指して！！",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-14T03:30:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
