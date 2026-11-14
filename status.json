@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:06:28+09:00",
+  "updated_at": "2026-11-15T00:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -91,11 +91,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】  11月28日～ シドウに予告状を出すぞ！！！！！ Pat42【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "",
-      "started_at": "2026-11-14T12:06:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -465,11 +461,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【APEX】ZOOカスタム本番 #ギギ怪々Win",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-14T11:05:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
