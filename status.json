@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:06:26+09:00",
+  "updated_at": "2026-11-15T02:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -325,11 +325,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "#和V6 新たな街和 紫電紫雨 PDorメカニック",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-14T12:11:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -379,11 +375,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "ひまラス season2  Day8 ファーム 途中離席あり！",
-      "game_name": "Rust",
-      "started_at": "2026-11-14T13:55:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -677,11 +669,7 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
-      "is_live": true,
-      "title": "【VALORANT】久々フルパヴァロラント シル３ 79～",
-      "game_name": "Escape from Playtime",
-      "started_at": "2026-11-14T12:33:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
