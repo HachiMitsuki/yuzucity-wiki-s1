@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:51:27+09:00",
+  "updated_at": "2026-11-14T19:56:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -773,7 +773,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【おしる甲子園】予選 Day 1【Aブロック神視点 A-2】",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-14T10:52:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -877,7 +881,11 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】おしる甲子園 予選Day1",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-14T10:53:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
