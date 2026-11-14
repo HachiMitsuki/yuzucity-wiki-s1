@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:31:23+09:00",
+  "updated_at": "2026-11-14T13:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -813,11 +813,7 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": true,
-      "title": "予定の前にサクッと探索 影の地蹂躙編※NoCheer&Bits/ビッツ禁止",
-      "game_name": "ELDEN RING",
-      "started_at": "2026-11-14T01:16:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -953,7 +949,7 @@
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
       "is_live": true,
       "title": "【 #雑談 】適当にゲームする",
-      "game_name": "Hair Removal Salon Simulator",
+      "game_name": "Apex Legends",
       "started_at": "2026-11-14T01:06:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
@@ -975,7 +971,11 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#apex】お昼ご飯はえぺ～【氷見谷しろ/新人Vtuber】",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-14T04:05:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
