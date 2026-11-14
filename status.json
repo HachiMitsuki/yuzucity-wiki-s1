@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:06:30+09:00",
+  "updated_at": "2026-11-14T21:11:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,7 +83,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ペルソナ５R】  11月28日～ シドウに予告状を出すぞ！！！！！ Pat42【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "",
+      "started_at": "2026-11-14T12:06:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -117,7 +121,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ ぴょんぴょんする ６８話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-14T12:06:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
