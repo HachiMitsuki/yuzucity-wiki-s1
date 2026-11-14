@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:31:29+09:00",
+  "updated_at": "2026-11-14T21:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "turtle抗争記録 インフル関節痛い",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-14T11:56:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -841,11 +845,7 @@
       "display_name": "氷折ロスト",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c5e1cf-f6fd-4e75-9ca0-99c9c7c3e4df-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/hiori_rost",
-      "is_live": true,
-      "title": "【参加◎/初見大歓迎】ゴジラになろう【Apex Legends】#HioriRost_LIVE",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-14T09:53:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hiori_rost-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
