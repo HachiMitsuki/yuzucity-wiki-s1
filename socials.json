@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:52:31+09:00",
+  "updated_at": "2026-11-15T01:40:19+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -7,6 +7,13 @@
       "display_name": "白峰ウゲツ🪄🎷",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2019204612251869184/cA7vlYXb_400x400.jpg",
       "profile_url": "https://x.com/ugetsushiramine"
+    },
+    {
+      "platform": "x",
+      "handle": "ringt_t_vt",
+      "display_name": "透玄凛音🎐🎶心象系歌い手型Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1721544540576960512/V7Tb_8Je_400x400.jpg",
+      "profile_url": "https://x.com/ringt_t_vt"
     },
     {
       "platform": "x",
