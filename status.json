@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:06:27+09:00",
+  "updated_at": "2026-11-15T01:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -883,11 +883,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】93日目 最後の週末、皆で楽しみ尽くしたい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-14T12:34:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
