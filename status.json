@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:56:35+09:00",
+  "updated_at": "2026-11-14T23:01:42+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -347,7 +347,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzucity】 久々に街の様子をお届けします",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-14T13:59:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
