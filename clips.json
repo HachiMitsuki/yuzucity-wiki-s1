@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-13T21:42:25+09:00",
+  "updated_at": "2026-11-14T13:55:06+09:00",
   "clips": [
+    {
+      "id": 518,
+      "source": "twitch",
+      "source_id": "ExquisiteSpinelessDotterelDendiFace-HGEOp-AtAmyhfwNz",
+      "url": "https://www.twitch.tv/nabisco_ritz/clip/ExquisiteSpinelessDotterelDendiFace-HGEOp-AtAmyhfwNz",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ExquisiteSpinelessDotterelDendiFace-HGEOp-AtAmyhfwNz",
+      "title": "やばい系EMS",
+      "description": "https://www.twitch.tv/nabisco_ritz/clip/ExquisiteSpinelessDotterelDendiFace-HGEOp-AtAmyhfwNz",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d8e0d529-ff7c-4fba-8e4c-bb5c60bb6b85/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 29,
+      "broadcaster_name": "nabisco_ritz",
+      "author_name": "ナビスコ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318661474140553216/074efb131c3c68c51c8799f69ee0c90f.png?size=128",
+      "posted_at": "2026-11-14T13:55:05+09:00"
+    },
     {
       "id": 517,
       "source": "twitch",
