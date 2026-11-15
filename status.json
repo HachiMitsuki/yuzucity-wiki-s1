@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:50:34+09:00",
+  "updated_at": "2026-11-15T22:55:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1118,6 +1118,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-15T13:08:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "sakeshiro_rei",
+      "login": "sakeshiro_rei",
+      "user_id": "852214561",
+      "display_name": "酒白ﾚｲ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/sakeshiro_rei",
+      "is_live": true,
+      "title": "【飲酒】反乱Day",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:57:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
