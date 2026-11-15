@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T00:21:27+09:00",
+  "updated_at": "2026-11-16T00:36:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -737,11 +737,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】はるCUP｜スクリム/ばぶろる",
-      "game_name": "League of Legends",
-      "started_at": "2026-11-15T13:18:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -771,11 +767,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【ふわもこらんど/Mineclaft】時代の幕開け ＃１【占い師系Vtuber/御神オルム】",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-15T11:57:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
