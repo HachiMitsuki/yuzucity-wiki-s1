@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:01:32+09:00",
+  "updated_at": "2026-11-15T21:06:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【スタバㇾ】スタバレ初心者です！！一年目の秋の終わりごろ、お金稼ぎするかぁー七回目ｗななし,れん【初見歓迎】",
+      "game_name": "Stardew Valley",
+      "started_at": "2026-11-15T12:02:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -361,11 +365,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【キングダムハーツBBS】#10 時系列で進めるキングダムハーツ【BBSアクア編】【ネタバレ有】【ビッツ、サブスク禁止】",
-      "game_name": "Kingdom Hearts Birth by Sleep Final Mix",
-      "started_at": "2026-11-15T10:32:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -469,7 +469,11 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】ふたりの月【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:01:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -859,7 +863,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCitySeason1】94日目 駄菓子屋営業して、昨日の月も見比べて、リハもする",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:01:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
