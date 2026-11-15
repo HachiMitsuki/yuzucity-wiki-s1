@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:56:28+09:00",
+  "updated_at": "2026-11-15T20:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "【 Minecraft | #ねおクラ2nd 】 #27 王への謁見と新しいエリアの探索と | たくるす 【初見さん・コメント・ROM専大歓迎・JP/EN】",
       "game_name": "Minecraft",
-      "started_at": "2026-11-15T10:54:47Z",
+      "started_at": "2026-11-15T10:59:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
@@ -741,7 +741,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "質を上げるなら量をこなせ",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-15T10:56:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
