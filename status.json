@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:36:29+09:00",
+  "updated_at": "2026-11-15T22:50:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1037,7 +1037,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#45 EMS?そんなしごちょはしったこっちゃねぇんだ暴れるぞー！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T13:46:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1100,6 +1104,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-15T13:26:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "tayannn17",
+      "login": "tayannn17",
+      "user_id": "530810254",
+      "display_name": "かけたやん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tayannn17",
+      "is_live": true,
+      "title": "【YuzuCity】59日目 EMSのヘリ乗りとして",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T13:08:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
