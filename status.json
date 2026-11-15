@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:21:29+09:00",
+  "updated_at": "2026-11-15T21:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -265,7 +265,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【和GTA】この街の乗り物ムズすぎる…",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:25:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -516,7 +520,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
       "is_live": true,
-      "title": "【和GTA】犯罪撲滅します！そのあとYuzu",
+      "title": "【yuzucity】イベントします",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-15T11:06:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
@@ -529,11 +533,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#和V6】PDに慣れましょう / 月城さめ 支店 #2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-15T11:01:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -969,7 +969,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】90日目残り3日、EMSの大暴れ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:21:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1019,11 +1023,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】犯罪対応するよ~！月城よう視点 #和GTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-15T11:08:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1043,7 +1043,11 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YuzuCity】EMS退職？！【氷見谷しろ/新人Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:24:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
