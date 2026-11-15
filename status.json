@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:56:26+09:00",
+  "updated_at": "2026-11-15T18:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】トリオでランクするよ～ w/ いぐれさん、るなさん",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-15T07:11:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -263,11 +259,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【VALORANT】おひさしソロコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-15T03:51:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
