@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:55:07+09:00",
+  "updated_at": "2026-11-15T23:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "迷った結果のソロVALO【龍咲】【#VALORANT 】",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-15T12:34:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -345,11 +341,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "#和V6 新たな街和 紫電紫雨 PD2日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-15T12:20:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
