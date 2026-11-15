@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T00:56:26+09:00",
+  "updated_at": "2026-11-16T01:06:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -469,11 +469,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【YuzuCity】ふたりの月【ここここしここし/ももたろう】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-15T12:01:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1053,11 +1049,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【YuzuCity】59日目 EMSのヘリ乗りとして",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-15T13:08:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
