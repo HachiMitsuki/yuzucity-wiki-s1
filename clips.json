@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-14T14:04:10+09:00",
+  "updated_at": "2026-11-15T16:28:13+09:00",
   "clips": [
+    {
+      "id": 520,
+      "source": "twitch",
+      "source_id": "SmilingFrailWhaleKeepo-FheGRxx7SqclZ055",
+      "url": "https://www.twitch.tv/koucyanec0319/clip/SmilingFrailWhaleKeepo-FheGRxx7SqclZ055",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SmilingFrailWhaleKeepo-FheGRxx7SqclZ055",
+      "title": "【yuzucity】茶ねこ、宙を跳ぶ。【紅茶猫/koucyaneco】",
+      "description": "https://www.twitch.tv/koucyanec0319/clip/SmilingFrailWhaleKeepo-FheGRxx7SqclZ055",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b4064a02-295f-48b1-ab50-f05fc999fcd3/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 20,
+      "broadcaster_name": "紅茶猫",
+      "author_name": "紅茶猫 / 茶 ねこ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/788276300078776371/9f031dace7f52489b51dc4fe4ac182a0.png?size=128",
+      "posted_at": "2026-11-15T16:28:13+09:00"
+    },
     {
       "id": 519,
       "source": "twitch",
