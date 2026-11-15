@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:51:30+09:00",
+  "updated_at": "2026-11-15T21:56:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -185,7 +185,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "チル区",
+      "game_name": "A Little to the Left",
+      "started_at": "2026-11-15T12:53:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -637,7 +641,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】 78日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-15T12:55:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
