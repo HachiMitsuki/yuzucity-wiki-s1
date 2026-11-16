@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:56:34+09:00",
+  "updated_at": "2026-11-16T23:11:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -649,7 +649,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖/GTA】 79日目 茶ねこの観測記録 【紅茶猫/Koucyaneco】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-16T14:08:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1075,7 +1079,11 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YuzuCity】残り3日！【氷見谷しろ/新人Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-16T14:06:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
