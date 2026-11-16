@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:51:31+09:00",
+  "updated_at": "2026-11-16T21:56:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -185,7 +185,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "チル区",
+      "game_name": "A Little to the Left",
+      "started_at": "2026-11-16T12:54:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -970,7 +974,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
       "is_live": true,
-      "title": "【yuzucity】91日目のこり1日目",
+      "title": "【yuzucity】91日目のこり2日目",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-16T12:05:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
