@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T19:41:24+09:00",
+  "updated_at": "2026-11-16T20:01:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,11 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": false
+      "is_live": true,
+      "title": "【Minecraft】レルムズでエンドラ討伐/何鯖",
+      "game_name": "Minecraft",
+      "started_at": "2026-11-16T11:00:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -327,7 +331,11 @@
       "display_name": "甘生ゑび",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
-      "is_live": false
+      "is_live": true,
+      "title": "【#APEX 】まったりね【ZENITH】",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-16T10:56:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ebi_tabetayo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
