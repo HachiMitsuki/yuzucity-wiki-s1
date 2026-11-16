@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:41:24+09:00",
+  "updated_at": "2026-11-16T18:51:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,7 +353,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【キングダムハーツBBS】#11 時系列で進めるキングダムハーツ【BBSアクア編】【ネタバレ有】【ビッツ、サブスク禁止】",
+      "game_name": "Kingdom Hearts Birth by Sleep Final Mix",
+      "started_at": "2026-11-16T09:50:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -941,7 +945,11 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】不憫な狼が街を歩くDay106 残り、2日。",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-16T09:49:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -971,11 +979,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#apex】ゆるランクだ～【氷見谷しろ/新人Vtuber】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-16T06:40:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
