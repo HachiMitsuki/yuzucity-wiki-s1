@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:21:35+09:00",
+  "updated_at": "2026-11-16T21:31:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -499,11 +499,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "家無きヒカセンはマイハウスを手に入れられるか",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-16T10:24:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
