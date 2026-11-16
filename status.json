@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:16:26+09:00",
+  "updated_at": "2026-11-16T20:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -361,11 +361,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【キングダムハーツBBS】#11 時系列で進めるキングダムハーツ【BBSアクア編】【ネタバレ有】【ビッツ、サブスク禁止】",
-      "game_name": "Kingdom Hearts Birth by Sleep Final Mix",
-      "started_at": "2026-11-16T09:50:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -399,7 +395,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ストグラFV】弦貴の日常 (結婚式etc）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-16T11:31:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
