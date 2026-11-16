@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T23:11:27+09:00",
+  "updated_at": "2026-11-16T23:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【スタバㇾ】スタバレ初心者です！！一年目の初めての冬だー、お金がと資源が必要です。 ハ回目ｗななし【初見歓迎】",
-      "game_name": "Stardew Valley",
-      "started_at": "2026-11-16T12:20:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -471,11 +467,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【髪切った。実写】ちるな雑談",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-16T13:35:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
