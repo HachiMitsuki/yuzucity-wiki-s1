@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-16T07:58:08+09:00",
+  "updated_at": "2026-11-16T16:39:54+09:00",
   "clips": [
+    {
+      "id": 524,
+      "source": "twitch",
+      "source_id": "VenomousAthleticAnteaterSuperVinlin-aMqyWvrZWBaByaAW",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/VenomousAthleticAnteaterSuperVinlin-aMqyWvrZWBaByaAW",
+      "embed_url": "https://clips.twitch.tv/embed?clip=VenomousAthleticAnteaterSuperVinlin-aMqyWvrZWBaByaAW",
+      "title": "欠陥",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/VenomousAthleticAnteaterSuperVinlin-aMqyWvrZWBaByaAW",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/55ce8c16-f7ef-4334-b356-30fa61a8712d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 35,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-11-16T16:39:53+09:00"
+    },
     {
       "id": 523,
       "source": "twitch",
