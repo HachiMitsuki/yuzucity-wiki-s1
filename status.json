@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:11:31+09:00",
+  "updated_at": "2026-11-16T21:16:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -686,7 +686,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75c82b09-6981-4ce5-8fe4-1c3f3370d88b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sikinodori",
       "is_live": true,
-      "title": "【VALORANT】久々フルパヴァロラント シル３ 79～",
+      "title": "【VALORANT】久々ディオヴァロラント シル1 61～",
       "game_name": "Escape from Playtime",
       "started_at": "2026-11-16T12:10:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sikinodori-{width}x{height}.jpg"
@@ -981,7 +981,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】往路おうか#46 残り僅か？ それでもイベント仕事楽しむぞー！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-16T12:12:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
