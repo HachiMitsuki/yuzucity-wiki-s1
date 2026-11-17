@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:56:27+09:00",
+  "updated_at": "2026-11-18T03:01:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -299,11 +299,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【Yuzucity】 酔っ払いが帰ってきましたぁ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-17T14:36:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -823,11 +819,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "【YuzuCitySeason1】96日目 残り1つ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-17T11:24:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1005,11 +997,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【YuzuCity】60日目 紡がれていく居場所",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-17T13:06:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
