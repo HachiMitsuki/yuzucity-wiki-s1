@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:31:25+09:00",
+  "updated_at": "2026-11-18T01:51:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -389,11 +389,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "yuzu city",
-      "game_name": "",
-      "started_at": "2026-11-17T12:10:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1059,11 +1055,7 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": true,
-      "title": "【飲酒】明日で街じまい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-17T13:04:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
