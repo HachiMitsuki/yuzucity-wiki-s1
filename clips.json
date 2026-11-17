@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-16T22:56:28+09:00",
+  "updated_at": "2026-11-17T23:46:24+09:00",
   "clips": [
+    {
+      "id": 527,
+      "source": "discord",
+      "source_id": "1572261630153195580",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1572261630153195580/screen-20261117-231001-1794924577037.mp43.mp4?ex=6afdba3f&is=6afc68bf&hm=1e1c2287fa6b6cd9f658eec3aff9a5b45ba62ff3c6bf950273c309d974117e07&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "イカ焼き太郎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/916707298221654036/618415463490d79cf32d9bdb418747e8.png?size=128",
+      "posted_at": "2026-11-17T23:46:23+09:00"
+    },
     {
       "id": 526,
       "source": "twitch",
