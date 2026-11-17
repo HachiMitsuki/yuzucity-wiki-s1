@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T21:41:35+09:00",
+  "updated_at": "2026-11-17T21:51:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -266,7 +266,7 @@
       "is_live": true,
       "title": "【ROB RUN】",
       "game_name": "Minecraft",
-      "started_at": "2026-11-17T12:38:06Z",
+      "started_at": "2026-11-17T12:47:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
@@ -515,11 +515,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "手厚いヒールで世界を癒すヒーラー配信",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-17T10:21:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
