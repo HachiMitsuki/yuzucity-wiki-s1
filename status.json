@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:56:29+09:00",
+  "updated_at": "2026-11-18T00:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -175,7 +175,11 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "犯罪の記録",
+      "game_name": "",
+      "started_at": "2026-11-17T15:05:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -273,11 +277,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【和GTA】今日こそ捕まえます",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-17T11:54:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
