@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T00:22:16+09:00",
+  "updated_at": "2026-11-18T01:08:04+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1596,6 +1596,13 @@
       "display_name": "けだま。",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2108183567176212480/CSswpFLV_400x400.jpg",
       "profile_url": "https://x.com/kedamauru"
+    },
+    {
+      "platform": "x",
+      "handle": "ayayadreams",
+      "display_name": "ayayadreams",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2035108895342174208/_zr2Tvrb_400x400.jpg",
+      "profile_url": "https://x.com/ayayadreams"
     }
   ]
 }
