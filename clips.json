@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-18T23:33:31+09:00",
+  "updated_at": "2026-11-19T03:29:46+09:00",
   "clips": [
+    {
+      "id": 531,
+      "source": "twitch",
+      "source_id": "WanderingGloriousSangPunchTrees-DnFr2EJjRZbqi73w",
+      "url": "https://www.twitch.tv/ayayadreams/clip/WanderingGloriousSangPunchTrees-DnFr2EJjRZbqi73w",
+      "embed_url": "https://clips.twitch.tv/embed?clip=WanderingGloriousSangPunchTrees-DnFr2EJjRZbqi73w",
+      "title": "~新しい人生への道~",
+      "description": "https://www.twitch.tv/ayayadreams/clip/WanderingGloriousSangPunchTrees-DnFr2EJjRZbqi73w?range=30d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bf6b70a2-204d-4963-8128-42e68c5e6198/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 14,
+      "broadcaster_name": "ayayadreams",
+      "author_name": "綾",
+      "author_avatar": "https://cdn.discordapp.com/avatars/731409506315010109/ffde01f098ac8c2e07c33735d8e13f64.png?size=128",
+      "posted_at": "2026-11-19T03:29:45+09:00"
+    },
     {
       "id": 530,
       "source": "twitch",
