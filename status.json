@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:31:27+09:00",
+  "updated_at": "2026-11-18T18:36:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -395,7 +395,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Rust】まったりヒンの島",
+      "game_name": "Rust",
+      "started_at": "2026-11-18T09:32:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -797,7 +801,11 @@
       "display_name": "リートです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76f284fa-1445-4319-b289-adb3ddf9ed65-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lied0307",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA RP】ありがとう、すべてのYuzuCity市民",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-18T09:33:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lied0307-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
