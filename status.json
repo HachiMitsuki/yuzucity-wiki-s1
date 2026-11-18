@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T22:51:30+09:00",
+  "updated_at": "2026-11-18T23:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -571,11 +571,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 #YuzuCity 】#63 YuzuCity最終日のメカニック | エドマンド・ウェインライト：たくるす（GTARPスト鯖） 【 初見さん・コメント・ROM専大歓迎・JP/EN 】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-18T12:34:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -809,11 +805,7 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": true,
-      "title": "なんかする予定",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-18T11:49:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
