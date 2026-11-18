@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:08:41+09:00",
+  "updated_at": "2026-11-19T00:08:47+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1631,6 +1631,13 @@
       "display_name": "@kashuker_vrchat",
       "profile_image_url": "https://unavatar.io/x/kashuker_vrchat",
       "profile_url": "https://x.com/kashuker_vrchat"
+    },
+    {
+      "platform": "x",
+      "handle": "rand_vtuber",
+      "display_name": "ランド_Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1774664406171103232/iqM5-9fx_400x400.jpg",
+      "profile_url": "https://x.com/rand_vtuber"
     }
   ]
 }
