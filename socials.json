@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:08:04+09:00",
+  "updated_at": "2026-11-18T10:40:34+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1603,6 +1603,13 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2035108895342174208/_zr2Tvrb_400x400.jpg",
       "profile_url": "https://x.com/ayayadreams"
+    },
+    {
+      "platform": "x",
+      "handle": "les_i7",
+      "display_name": "Les_i7",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1631206909729730560/MacL-9Fy_400x400.jpg",
+      "profile_url": "https://x.com/les_i7"
     }
   ]
 }
