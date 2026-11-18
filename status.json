@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:06:27+09:00",
+  "updated_at": "2026-11-18T19:11:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -483,7 +483,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "なんか会社で色々あったヒーラー配信",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-11-18T10:06:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1037,7 +1041,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "最終日【YuzuCity】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-18T10:08:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
