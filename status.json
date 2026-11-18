@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:26:27+09:00",
+  "updated_at": "2026-11-18T20:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -295,7 +295,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】PD 十月トーカ ラスト",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-18T10:57:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -973,7 +977,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】92日目最終日ありがとうございましたあああああ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-18T10:57:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
