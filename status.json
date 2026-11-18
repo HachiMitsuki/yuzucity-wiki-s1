@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:41:31+09:00",
+  "updated_at": "2026-11-18T23:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,7 +259,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA6】遂に発売！",
+      "game_name": "Grand Theft Auto VI",
+      "started_at": "2026-11-18T14:52:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,11 +463,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【実写誕生日配信】ばーすでーぼーいだぜ。",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-18T12:31:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
