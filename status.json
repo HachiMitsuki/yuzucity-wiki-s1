@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:56:28+09:00",
+  "updated_at": "2026-11-19T00:01:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -521,11 +521,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#YuzuCity】最後の犯罪。最後のギャング。忘却の彼方へ Oblivionの大魔王より。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-18T09:00:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -535,11 +531,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【yuzucity】寂しいな。最終日",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-18T08:34:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -825,11 +817,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【GTA】Yuzucity最終日だったらしい!!警察行くぞ!",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-18T09:24:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
