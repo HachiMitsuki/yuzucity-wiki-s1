@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:04:34+09:00",
+  "updated_at": "2026-11-19T00:08:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -126,6 +126,13 @@
       "display_name": "しろみそ@眠い",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2006394605747785728/AmB29Pxx_400x400.jpg",
       "profile_url": "https://x.com/shiro46_ny"
+    },
+    {
+      "platform": "x",
+      "handle": "u2gi2u",
+      "display_name": "虚戯ツウ@ゲームの情報屋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2107016361339953152/MC-CPY4R_400x400.jpg",
+      "profile_url": "https://x.com/u2gi2u"
     },
     {
       "platform": "x",
