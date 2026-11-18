@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:46:30+09:00",
+  "updated_at": "2026-11-18T20:51:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -781,7 +781,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "なんかする予定",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-18T11:49:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
