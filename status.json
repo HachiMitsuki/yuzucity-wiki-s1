@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:11:29+09:00",
+  "updated_at": "2026-11-19T21:16:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -456,7 +456,7 @@
       "is_live": true,
       "title": "老兵の片方 !device !sens",
       "game_name": "Apex Legends",
-      "started_at": "2026-11-19T12:08:48Z",
+      "started_at": "2026-11-19T12:15:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
@@ -861,7 +861,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "蝶のように舞い蜂のように刺す・ミケラダ蹂躙※NoCheer&Bits/ビッツ禁止",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-11-19T12:11:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1029,7 +1033,11 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": false
+      "is_live": true,
+      "title": "【REPO】覚悟ならとっくに決めた！",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-19T12:15:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
