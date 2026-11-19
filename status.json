@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:36:31+09:00",
+  "updated_at": "2026-11-19T22:56:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -507,11 +507,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "脳みそオフチルエオルゼア",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-19T10:48:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -521,7 +517,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#和GTA】あにまるず 亀視点",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-19T13:54:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
