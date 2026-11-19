@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T18:20:46+09:00",
+  "updated_at": "2026-11-19T22:52:02+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1659,6 +1659,13 @@
       "display_name": "小鳥遊白兎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1987379873607036928/BVkFF18g_400x400.jpg",
       "profile_url": "https://x.com/takanasi_hakuto"
+    },
+    {
+      "platform": "x",
+      "handle": "minase_shinji",
+      "display_name": "水瀬しんじ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2121939805298921473/A6fMQ26u_400x400.jpg",
+      "profile_url": "https://x.com/minase_shinji"
     }
   ]
 }
