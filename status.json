@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:21:42+09:00",
+  "updated_at": "2026-11-19T22:26:41+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "VALO！【龍咲】【#VALORANT 】",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-19T13:24:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -599,7 +603,11 @@
       "display_name": "thanatos4090",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c623b59-3d18-4797-82cf-42a9bbfb836b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/thanatos4090",
-      "is_live": false
+      "is_live": true,
+      "title": "【ストグラFV Casual】 Day 141 前夜 #ストグラFV_CASUAL",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-19T13:24:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1037,7 +1045,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "久しぶり！",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-19T13:24:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
