@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:11:29+09:00",
+  "updated_at": "2026-11-19T23:26:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1005,7 +1005,11 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": false
+      "is_live": true,
+      "title": "【REPO】緊急参戦！ゆず街のEMSたちで宝集め！",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-19T14:24:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
