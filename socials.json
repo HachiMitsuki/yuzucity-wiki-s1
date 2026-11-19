@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:52:02+09:00",
+  "updated_at": "2026-11-20T07:24:29+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1666,6 +1666,13 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2121939805298921473/A6fMQ26u_400x400.jpg",
       "profile_url": "https://x.com/minase_shinji"
+    },
+    {
+      "platform": "x",
+      "handle": "i_minatoboshi",
+      "display_name": "湊星いぐれ⚓⚽Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1827364366796148736/3MUP7p7r_400x400.jpg",
+      "profile_url": "https://x.com/i_minatoboshi"
     }
   ]
 }
