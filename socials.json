@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:55:38+09:00",
+  "updated_at": "2026-11-19T18:20:46+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1652,6 +1652,13 @@
       "display_name": "レイ・パルカ＝リーパー🔱🕋 VTuber/目指せ登録者1000人",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2062750834774171649/IRhRp1b5_400x400.jpg",
       "profile_url": "https://x.com/reiparuka"
+    },
+    {
+      "platform": "x",
+      "handle": "takanasi_hakuto",
+      "display_name": "小鳥遊白兎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1987379873607036928/BVkFF18g_400x400.jpg",
+      "profile_url": "https://x.com/takanasi_hakuto"
     }
   ]
 }
