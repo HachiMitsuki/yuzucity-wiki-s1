@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:21:23+09:00",
+  "updated_at": "2026-11-20T02:01:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -253,11 +253,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【和GTA】金欠PD  Day 5",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-19T12:49:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -477,11 +473,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#和GTA】あにまるず 亀視点",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-19T13:54:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -491,11 +483,7 @@
       "display_name": "うぃんたです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/imwint4r",
-      "is_live": true,
-      "title": "【和GTA】街に平和を！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-19T11:46:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -505,11 +493,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#和V6 】 PD業務ほぼ初日！ 3日目／月城さめ 支店",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-19T11:33:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -971,11 +955,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】犯罪対応するよ~！月城よう視点 #和GTA",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-19T11:33:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
