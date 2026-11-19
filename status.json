@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:01:31+09:00",
+  "updated_at": "2026-11-19T21:06:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -683,7 +683,11 @@
       "display_name": "さみぃくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a666c86-ba60-43a7-87af-6e2fa82434b7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sammy__vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "[#VRChat]G3 あのひま-カジュアルレーサーカップ-[#VTuber]",
+      "game_name": "VRChat",
+      "started_at": "2026-11-19T12:04:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sammy__vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -853,7 +857,11 @@
       "display_name": "ユノチヤン",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef58767-d6b9-43bc-9c2e-ec234b669396-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ynym0o",
-      "is_live": false
+      "is_live": true,
+      "title": "蝶のように舞い蜂のように刺す・ミケラダ蹂躙※NoCheer&Bits/ビッツ禁止",
+      "game_name": "ELDEN RING",
+      "started_at": "2026-11-19T12:05:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ynym0o-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
