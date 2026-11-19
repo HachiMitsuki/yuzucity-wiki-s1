@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:16:29+09:00",
+  "updated_at": "2026-11-19T21:21:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Echo Mates】ゆずPD1期生のメンバーでホラゲーするらしい",
+      "game_name": "Echo Mates",
+      "started_at": "2026-11-19T12:17:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -275,11 +279,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【VALORANT】カスタムに出るのでヴァロ復帰します【湊星いぐれ】@i_minatoboshi",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-19T10:12:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -467,7 +467,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【PIPRust】今日はヘリイベント！さらなる強敵に向けて",
+      "game_name": "Rust",
+      "started_at": "2026-11-19T12:16:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -627,7 +631,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【R.E.P.O.】同窓会にしては早いし場所が悪い【コラボ】",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-19T12:16:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -989,7 +997,11 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#REPO】YuzuEMSでREPO！！！",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-19T12:16:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1023,7 +1035,11 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#REPO】EMSでお金稼ぎ！【氷見谷しろ/新人Vtuber】",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-19T12:16:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1047,7 +1063,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】ゆずロスValo",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-19T12:20:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
