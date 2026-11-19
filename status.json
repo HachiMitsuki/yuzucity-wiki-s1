@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:31:28+09:00",
+  "updated_at": "2026-11-19T19:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,7 +471,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "脳みそオフチルエオルゼア",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-11-19T10:48:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -885,7 +889,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#LOSグラ】はじめまして、ヒーローになりに来ました。#１１",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-19T10:46:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
