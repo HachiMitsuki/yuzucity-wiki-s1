@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T23:36:23+09:00",
+  "updated_at": "2026-11-21T00:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -455,11 +455,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【Rob Run】GTA6 の次に流行ってるかも...",
-      "game_name": "ROB RUN",
-      "started_at": "2026-11-20T12:08:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1120,7 +1116,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
       "is_live": true,
-      "title": "YUZUCITY振り返りその3～かけたさやん・くがなさん・らんどさん～",
+      "title": "YUZUCITY振り返りその3～かけたやさん・くがなさん・らんどさん・幸彦さん～",
       "game_name": "Just Chatting",
       "started_at": "2026-11-20T13:12:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
