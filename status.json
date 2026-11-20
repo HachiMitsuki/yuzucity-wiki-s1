@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:41:30+09:00",
+  "updated_at": "2026-11-20T22:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -353,11 +353,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "#和V6 新たな街和 紫電紫雨支店 店出せって言われました PD2日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-20T12:24:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -583,7 +579,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 Minecraft | #ねおクラ2nd 】 #36 今夜も探索して建築して | たくるす【初見さん・コメント・ROM専大歓迎・JP/EN】",
+      "game_name": "Minecraft",
+      "started_at": "2026-11-20T13:44:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
