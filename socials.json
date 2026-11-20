@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:24:29+09:00",
+  "updated_at": "2026-11-20T21:19:50+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1673,6 +1673,13 @@
       "display_name": "湊星いぐれ⚓⚽Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1827364366796148736/3MUP7p7r_400x400.jpg",
       "profile_url": "https://x.com/i_minatoboshi"
+    },
+    {
+      "platform": "x",
+      "handle": "rey_cham09",
+      "display_name": "高梨 玲蘭",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2072421971728662528/usqUWSXJ_400x400.jpg",
+      "profile_url": "https://x.com/rey_cham09"
     }
   ]
 }
