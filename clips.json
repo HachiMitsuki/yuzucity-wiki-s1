@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-19T03:41:06+09:00",
+  "updated_at": "2026-11-20T23:34:19+09:00",
   "clips": [
+    {
+      "id": 533,
+      "source": "twitch",
+      "source_id": "ChillyBadGoblinSpicyBoy-yG3JjTcAA1k0VrUW",
+      "url": "https://www.twitch.tv/kugana00/clip/ChillyBadGoblinSpicyBoy-yG3JjTcAA1k0VrUW",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ChillyBadGoblinSpicyBoy-yG3JjTcAA1k0VrUW",
+      "title": "ボーナスが終わらない",
+      "description": "https://www.twitch.tv/kugana00/clip/ChillyBadGoblinSpicyBoy-yG3JjTcAA1k0VrUW?range=30d",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e552bcb7-e968-4249-9069-d56f7b5d43f6/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 37,
+      "broadcaster_name": "還路くがな",
+      "author_name": "還路くがな/往路おうか",
+      "author_avatar": "https://cdn.discordapp.com/avatars/318430646508847107/2ae0d308df1dc107f05de3ba1649abe3.png?size=128",
+      "posted_at": "2026-11-20T23:34:18+09:00"
+    },
     {
       "id": 532,
       "source": "twitch",
