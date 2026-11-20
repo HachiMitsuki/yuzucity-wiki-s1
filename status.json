@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:36:27+09:00",
+  "updated_at": "2026-11-20T22:41:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【和GTA】金なしPD  Day 6",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-20T13:37:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1085,11 +1089,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【VALORANT】募集失敗ソロコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-20T13:08:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
