@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-20T23:34:19+09:00",
+  "updated_at": "2026-11-21T01:41:33+09:00",
   "clips": [
+    {
+      "id": 534,
+      "source": "twitch",
+      "source_id": "ExuberantRudeMochaBuddhaBar-RoSkbPm0C4-RHRvh",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/ExuberantRudeMochaBuddhaBar-RoSkbPm0C4-RHRvh",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ExuberantRudeMochaBuddhaBar-RoSkbPm0C4-RHRvh",
+      "title": "オネエをすると〇〇が増える",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/ExuberantRudeMochaBuddhaBar-RoSkbPm0C4-RHRvh",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/42ce5258-0fe2-410c-bc28-4f4a370bebdf/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 33,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-11-21T01:41:32+09:00"
+    },
     {
       "id": 533,
       "source": "twitch",
