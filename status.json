@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:16:27+09:00",
+  "updated_at": "2026-11-20T22:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -315,7 +315,11 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": false
+      "is_live": true,
+      "title": "【ROBRUN】頑張って稼ぐってことよ",
+      "game_name": "ROB RUN",
+      "started_at": "2026-11-20T13:21:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -468,7 +472,7 @@
       "is_live": true,
       "title": "【デルラス】目指せ飲食店開店！！",
       "game_name": "Rust",
-      "started_at": "2026-11-20T12:35:39Z",
+      "started_at": "2026-11-20T13:25:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
