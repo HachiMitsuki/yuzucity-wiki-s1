@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:01:20+09:00",
+  "updated_at": "2026-11-21T02:06:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -505,11 +505,7 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": true,
-      "title": "【#和V6 】 PD業務頑張るぞい 4日目／月城さめ 支店",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-20T11:30:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -999,11 +995,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#和V6】警察出勤！【氷見谷しろ/新人Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-20T16:26:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
