@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:31:26+09:00",
+  "updated_at": "2026-11-20T21:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -448,7 +448,7 @@
       "is_live": true,
       "title": "【デルラス】目指せ飲食店開店！！",
       "game_name": "Rust",
-      "started_at": "2026-11-20T11:02:27Z",
+      "started_at": "2026-11-20T12:35:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
@@ -763,11 +763,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【ふわもこらんどMinecraft】冒険の身支度 ＃４ 【占い師系vtuber/御神オルム】",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-20T12:06:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -969,7 +965,11 @@
       "display_name": "架空らの",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f9cf77-f041-4085-8b62-9a83ad781ef1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ranokaku_u",
-      "is_live": false
+      "is_live": true,
+      "title": "【#リアプロRP】飲食店オーナー会議終了まで",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-20T12:34:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ranokaku_u-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
