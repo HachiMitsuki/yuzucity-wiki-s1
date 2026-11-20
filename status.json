@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:26:29+09:00",
+  "updated_at": "2026-11-20T21:31:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -330,7 +330,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
       "is_live": true,
-      "title": "#和V6 新たな街和 紫電紫雨 PD2日目",
+      "title": "#和V6 新たな街和 紫電紫雨支店 店出せって言われました PD2日目",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-11-20T12:24:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
@@ -837,7 +837,11 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#WARDOGS】負け犬だってやってやる！【自由に遊ぶ】",
+      "game_name": "WARDOGS",
+      "started_at": "2026-11-20T12:28:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
