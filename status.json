@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:51:31+09:00",
+  "updated_at": "2026-11-20T21:56:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "【#雑談配信 】突発雑談配信 ～隙あらば自語りおｋ～【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "game_name": "ARKNIGHTS: ENDFIELD",
       "started_at": "2026-11-20T11:56:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -723,11 +723,7 @@
       "display_name": "瑠花",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9e289aa-795b-46cd-8e20-9d11645f80b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ruka0123",
-      "is_live": true,
-      "title": "Apex w/きょんでれ、なめごん",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-20T11:01:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruka0123-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
