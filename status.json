@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:16:27+09:00",
+  "updated_at": "2026-11-21T22:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２ 挑戦を挑戦する ６９話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-21T13:23:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -206,9 +210,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
       "is_live": true,
-      "title": "そう言えばやってなかったDevil May Cryをやってみる",
-      "game_name": "Devil May Cry",
-      "started_at": "2026-11-21T12:10:19Z",
+      "title": "アビスの宝石職人やってみる",
+      "game_name": "Abyssal Lapidary",
+      "started_at": "2026-11-21T13:22:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
@@ -279,7 +283,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】Yuzuフルパ【湊星いぐれ】@i_minatoboshi",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-21T13:24:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -625,7 +633,11 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": false
+      "is_live": true,
+      "title": "【Goose Goose Duck】 Oblivionほろ酔いあひる人狼 【紅茶猫/Koucyaneco】",
+      "game_name": "Goose Goose Duck",
+      "started_at": "2026-11-21T13:25:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
