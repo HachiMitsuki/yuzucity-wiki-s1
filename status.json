@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T02:01:21+09:00",
+  "updated_at": "2026-11-22T02:16:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -267,11 +267,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【VALORANT】Yuzuフルパ【湊星いぐれ】@i_minatoboshi",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-21T13:24:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1017,11 +1013,7 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": true,
-      "title": "【#VALORANT】ゆず組でフルパVALOコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-21T13:26:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
