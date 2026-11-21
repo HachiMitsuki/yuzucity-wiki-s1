@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:19:50+09:00",
+  "updated_at": "2026-11-21T15:20:00+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -322,6 +322,13 @@
       "display_name": "omchang（おむちゃん）🦾⚡",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2025168288196763648/XFqWcWu8_400x400.jpg",
       "profile_url": "https://x.com/omchang1217"
+    },
+    {
+      "platform": "x",
+      "handle": "kyondere",
+      "display_name": "きょんでれ🌠/🍮💎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1953287542226468864/qIsDA4lu_400x400.jpg",
+      "profile_url": "https://x.com/kyondere"
     },
     {
       "platform": "x",
