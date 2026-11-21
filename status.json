@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:31:28+09:00",
+  "updated_at": "2026-11-21T22:36:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -195,11 +195,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "turtle抗争記録",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T11:37:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1067,7 +1063,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】エイムがぁ...",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-21T13:33:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
