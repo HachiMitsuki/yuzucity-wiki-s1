@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:46:22+09:00",
+  "updated_at": "2026-11-22T01:21:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -285,11 +285,7 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": true,
-      "title": "【ラフシティS7】DAY2 職もらえるかなぁ/豚平 智",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T13:36:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
