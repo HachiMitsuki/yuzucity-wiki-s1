@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:41:28+09:00",
+  "updated_at": "2026-11-21T22:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -105,7 +105,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "【#雑談配信 】やりたい放題配信 ～隙あらば自語りおｋ～【#vtuber /雷音雅】",
-      "game_name": "Slay the Spire II",
+      "game_name": "StarWard",
       "started_at": "2026-11-21T10:48:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -1091,7 +1091,11 @@
       "display_name": "六識ムイカ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
-      "is_live": false
+      "is_live": true,
+      "title": "YUZUCITY振り返りその4～誰か来てくれるかな？～",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-21T13:44:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
