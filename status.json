@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:51:26+09:00",
+  "updated_at": "2026-11-21T23:21:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -377,11 +377,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【ストグラFVCasual】#37 酔っ払いでメイドを追っかけます！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T12:14:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -787,11 +783,7 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": true,
-      "title": "【Apex】ごんちゃんとうるふくんと！ 【神薙るい】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-21T12:29:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
