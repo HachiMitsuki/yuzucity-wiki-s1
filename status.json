@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:46:21+09:00",
+  "updated_at": "2026-11-22T02:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -113,11 +113,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 挑戦を挑戦する ６９話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T13:23:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -459,11 +455,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【PIPRust】レイド超イベント！",
-      "game_name": "Rust",
-      "started_at": "2026-11-21T11:57:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -827,11 +819,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "まだギルド名を決めてないひさびさぱるわ w/蒼井ゆきな",
-      "game_name": "Palworld",
-      "started_at": "2026-11-21T11:59:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -977,7 +965,7 @@
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
       "is_live": true,
       "title": "【 #GooseGooseDuck 】飲酒あひる人狼 with Oblivion ※R成人注意",
-      "game_name": "Goose Goose Duck",
+      "game_name": "VALORANT",
       "started_at": "2026-11-21T12:01:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
     },
@@ -1019,11 +1007,7 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": true,
-      "title": "【飲酒】エイムがぁ...",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-21T13:33:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
