@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:06:23+09:00",
+  "updated_at": "2026-11-22T00:11:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -262,7 +262,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
       "is_live": true,
-      "title": "【パルハードコア】パリが死んだら終わりの世界 ＃１",
+      "title": "【パルハードコア】パルが死んだら終わりの世界 ＃１",
       "game_name": "Palworld",
       "started_at": "2026-11-21T15:05:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
@@ -441,11 +441,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】顔合わせ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-21T12:42:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
