@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:56:21+09:00",
+  "updated_at": "2026-11-21T16:16:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -953,11 +953,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#Katacity】復帰した狼が警察を頑張るお話 捜査一課編 #1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T03:52:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
