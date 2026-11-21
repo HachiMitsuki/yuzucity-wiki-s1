@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:36:24+09:00",
+  "updated_at": "2026-11-21T23:41:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -177,11 +177,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "謎解き /w suiちゃん",
-      "game_name": "Solvimus",
-      "started_at": "2026-11-21T12:41:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1017,7 +1013,11 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": false
+      "is_live": true,
+      "title": "寝坊ダック",
+      "game_name": "Goose Goose Duck",
+      "started_at": "2026-11-21T14:36:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1076,7 +1076,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
       "is_live": true,
-      "title": "YUZUCITY振り返りその4～誰か来てくれるかな？～",
+      "title": "YUZUCITY振り返りその4～karehaさん～",
       "game_name": "Just Chatting",
       "started_at": "2026-11-21T13:44:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
