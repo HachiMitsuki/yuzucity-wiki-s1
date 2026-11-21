@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:41:25+09:00",
+  "updated_at": "2026-11-22T00:06:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -261,7 +261,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【パルハードコア】パリが死んだら終わりの世界 ＃１",
+      "game_name": "Palworld",
+      "started_at": "2026-11-21T15:05:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -403,7 +407,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【RUST】ひたすら頑張りたい3日目 #デルラス",
+      "game_name": "Rust",
+      "started_at": "2026-11-21T15:02:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1076,7 +1084,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
       "is_live": true,
-      "title": "YUZUCITY振り返りその4～karehaさん～",
+      "title": "YUZUCITY振り返りその4～kurehaさん・yo4piさん～",
       "game_name": "Just Chatting",
       "started_at": "2026-11-21T13:44:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
