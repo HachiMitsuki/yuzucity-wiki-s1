@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-21T14:06:03+09:00",
+  "updated_at": "2026-11-21T14:36:03+09:00",
   "clips": [
+    {
+      "id": 537,
+      "source": "twitch",
+      "source_id": "AltruisticAbnegateAlmondCharlietheUnicorn-d-KpXLJqyhoLXrbz",
+      "url": "https://www.twitch.tv/toka_ruki/clip/AltruisticAbnegateAlmondCharlietheUnicorn-d-KpXLJqyhoLXrbz",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AltruisticAbnegateAlmondCharlietheUnicorn-d-KpXLJqyhoLXrbz",
+      "title": "嚙み過ぎてわかんなくなっちゃった。",
+      "description": "同期ズレと言われてもおこです！🐺💢\nhttps://www.twitch.tv/toka_ruki/clip/EvilDepressedHawkBrokeBack-3ypVD0nj-T39lSbG\n店長とのコントは電話１本でもできちゃう！ｗｗ\nhttps://www.twitch.tv/toka_ruki/clip/SlipperySpineyAnteaterLitty-kEv5EKEzfgjJuaPa\n嚙み過ぎてわかんなくなっちゃった。\nhttps://www.twitch.tv/toka_ruki/clip/AltruisticAbnegateAlmondCharlietheUnicorn-d-KpXLJqyhoLXrbz",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/868c5daf-d199-4851-b9bb-07688e21defd/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 24,
+      "broadcaster_name": "燈華るき",
+      "author_name": "燈華るき@VTuber",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1200252392973799527/ceaaab43c5f80c3ba6c112dea7b02a07.png?size=128",
+      "posted_at": "2026-11-21T14:00:01+09:00"
+    },
     {
       "id": 536,
       "source": "twitch",
