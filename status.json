@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:21:24+09:00",
+  "updated_at": "2026-11-21T23:36:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -495,11 +495,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "ついに賢者完結編、そして新たなジョブへ",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-21T09:36:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -759,11 +755,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【LostRoseCity】チェイスイベント【占い師系vtuber/御神オルム】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-21T11:43:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
