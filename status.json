@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:41:24+09:00",
+  "updated_at": "2026-11-21T21:46:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -181,7 +181,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "謎解き /w suiちゃん",
+      "game_name": "Solvimus",
+      "started_at": "2026-11-21T12:41:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -437,7 +441,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】顔合わせ",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-21T12:42:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
