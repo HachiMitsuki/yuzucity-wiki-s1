@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:30:10+09:00",
+  "updated_at": "2026-11-21T21:25:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1694,6 +1694,13 @@
       "display_name": "-NAL- @不定期配信",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1727076114911334400/iF5OJ_Zc_400x400.jpg",
       "profile_url": "https://x.com/zz_nalw"
+    },
+    {
+      "platform": "x",
+      "handle": "010_hakumai",
+      "display_name": "天野 澪都🦅🍼@鷲系VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1942115694687997953/2R_r6KIO_400x400.jpg",
+      "profile_url": "https://x.com/010_hakumai"
     }
   ]
 }
