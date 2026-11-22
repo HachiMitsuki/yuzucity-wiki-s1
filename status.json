@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T23:11:26+09:00",
+  "updated_at": "2026-11-22T23:16:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -995,11 +995,7 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": true,
-      "title": "KSL 三銃士 振り返り配信",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-22T11:20:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
