@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:06:28+09:00",
+  "updated_at": "2026-11-22T22:11:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -451,7 +451,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【BOMBANANA】もりログから配信！！誰がサルやねん。 #居酒屋3401",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-22T13:09:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
