@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:56:30+09:00",
+  "updated_at": "2026-11-22T22:06:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -200,7 +200,7 @@
       "is_live": true,
       "title": "アビスの宝石職人やってみる",
       "game_name": "Abyssal Lapidary",
-      "started_at": "2026-11-22T10:31:33Z",
+      "started_at": "2026-11-22T13:00:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
@@ -627,7 +627,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【Arknights:Endfiled】新シーズンへの布石をする管理人【ゲーム雑談】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-11-22T13:05:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -955,11 +959,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "Rust配信 ついに始まったデルラス Day3",
-      "game_name": "Rust",
-      "started_at": "2026-11-22T09:16:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
