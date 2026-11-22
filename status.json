@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T01:26:25+09:00",
+  "updated_at": "2026-11-23T01:31:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,7 +459,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【デルラス】そうだ！城作ってみるか！？",
+      "game_name": "Rust",
+      "started_at": "2026-11-22T16:28:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1039,11 +1043,7 @@
       "display_name": "六識ムイカ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
-      "is_live": true,
-      "title": "YUZUCITY振り返りその5～新しい人くるかな？～",
-      "game_name": "Just Chatting",
-      "started_at": "2026-11-22T12:30:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
