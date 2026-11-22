@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T23:16:27+09:00",
+  "updated_at": "2026-11-22T23:21:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "【#雑談配信 】やりたい放題配信 ～隙あらば自語りおｋ～【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "game_name": "ARKNIGHTS: ENDFIELD",
       "started_at": "2026-11-22T12:32:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -733,11 +733,7 @@
       "display_name": "戎_ヱビス",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb13cf37-92dc-45d8-a109-38cf3b339312-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebis77",
-      "is_live": true,
-      "title": "【LOL】はるCUP｜スクリム/ばぶろる",
-      "game_name": "League of Legends",
-      "started_at": "2026-11-22T12:26:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ousaka_ebis-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
