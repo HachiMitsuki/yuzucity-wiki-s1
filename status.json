@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:51:25+09:00",
+  "updated_at": "2026-11-22T21:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【スタバㇾ】スタバレ初心者です！！二年目の秋の終わりごろ、一日があっという間すぎるこの世界… ー10回目ｗななし【初見歓迎】",
+      "game_name": "Stardew Valley",
+      "started_at": "2026-11-22T12:04:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -375,7 +379,11 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": false
+      "is_live": true,
+      "title": "LoLカスタム 代打でやるぞ～～",
+      "game_name": "League of Legends",
+      "started_at": "2026-11-22T12:03:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
