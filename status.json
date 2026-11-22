@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T01:21:24+09:00",
+  "updated_at": "2026-11-23T01:26:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】yuzuの人達とコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-22T13:55:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -463,11 +459,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【PIPRust】もう最終日。早かったなぁ。",
-      "game_name": "Rust",
-      "started_at": "2026-11-22T10:26:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1037,11 +1029,7 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": true,
-      "title": "【#VALORANT】ゆずでフルパVALOコンペ",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-22T13:53:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
