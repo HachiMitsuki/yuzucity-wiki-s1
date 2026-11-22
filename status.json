@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:46:27+09:00",
+  "updated_at": "2026-11-22T22:56:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1057,11 +1057,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【APEX】のんびりしながらやる",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-22T12:26:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1071,7 +1067,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】美味い飯食べて酒飲んだし、後は勝つだけ",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-22T13:52:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1081,7 +1081,11 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": false
+      "is_live": true,
+      "title": "【#VALORANT】ゆずでフルパVALOコンペ",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-22T13:53:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
