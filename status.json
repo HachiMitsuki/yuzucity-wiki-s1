@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:16:25+09:00",
+  "updated_at": "2026-11-22T20:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】本拠点造りのために素材班を集めよう😇【RAGNAROK】",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-11-22T11:20:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -891,11 +895,7 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": true,
-      "title": "radiant in one stream (I AM LYING)",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-22T08:24:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -905,7 +905,11 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": false
+      "is_live": true,
+      "title": "【#LOSグラ】はじめまして、ヒーローになりに来ました。#13",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-22T11:16:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -959,7 +963,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "KSL 三銃士 振り返り配信",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-22T11:20:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
