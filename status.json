@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:51:25+09:00",
+  "updated_at": "2026-11-22T17:26:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -503,11 +503,7 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": true,
-      "title": "【 Minecraft | #ねおクラ2nd 】 #39 日曜午後のゆったりマイクラ | たくるす【初見さん・コメント・ROM専大歓迎・JP/EN】",
-      "game_name": "Minecraft",
-      "started_at": "2026-11-22T06:02:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -871,7 +867,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "radiant in one stream (I AM LYING)",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-22T08:24:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
