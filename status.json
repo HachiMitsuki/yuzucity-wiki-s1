@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:21:28+09:00",
+  "updated_at": "2026-11-23T21:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -399,7 +399,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【RUST】ひたすら頑張りたい4日目 #デルラス",
+      "game_name": "Rust",
+      "started_at": "2026-11-23T12:43:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1015,7 +1019,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】ブラックフライデーで買うもの精査",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-23T12:41:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
