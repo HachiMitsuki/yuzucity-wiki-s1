@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T01:01:25+09:00",
+  "updated_at": "2026-11-24T01:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,11 +303,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【おぱ鯖ARK】 ARKやりたすぎて仕事爆速で終わらせてきた男",
-      "game_name": "ARK: Survival Ascended",
-      "started_at": "2026-11-23T10:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
