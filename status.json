@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T23:11:29+09:00",
+  "updated_at": "2026-11-23T23:16:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -269,11 +269,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【和GTA】久しぶりの出勤",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-23T12:01:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -594,8 +590,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
       "is_live": true,
-      "title": "【 #鳴潮 】ストーリーやらなきゃ… 【#個人V #Vtuber 】",
-      "game_name": "Wuthering Waves",
+      "title": "【 #VALORANT 】デート♡ @may9ch 【#個人V #Vtuber 】",
+      "game_name": "VALORANT",
       "started_at": "2026-11-23T13:10:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
     },
