@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:56:31+09:00",
+  "updated_at": "2026-11-23T22:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "いろんなことの振り返り配信",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-23T12:59:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -527,7 +531,11 @@
       "display_name": "たくるす",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28ee9b13-57e0-4828-9b2c-e7b126775c20-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/takurusu8",
-      "is_live": false
+      "is_live": true,
+      "title": "【 Minecraft | #ねおクラ2nd 】 #42 祝日夜の探索&ちょっとだけ建築 | たくるす【初見さん・コメント・ROM専大歓迎・JP/EN】",
+      "game_name": "Minecraft",
+      "started_at": "2026-11-23T12:56:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1033,7 +1041,11 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": false
+      "is_live": true,
+      "title": "【ストグラFV_Casual】96日目💧水瀬悠里のお散歩日記💧ぼちぼちいこうか！！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-23T12:58:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
