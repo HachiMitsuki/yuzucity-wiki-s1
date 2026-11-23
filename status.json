@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:26:26+09:00",
+  "updated_at": "2026-11-23T20:01:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,11 +79,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】  12月4日～  ほうんとうに少しだけプレイ！！ Pat44【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-11-23T10:01:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -105,7 +101,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "【#雑談配信 】やりたい放題配信 ～隙あらば自語りおｋ～ #3【#vtuber /雷音雅】",
-      "game_name": "StarWard",
+      "game_name": "ARKNIGHTS: ENDFIELD",
       "started_at": "2026-11-23T08:25:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -605,7 +601,7 @@
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
       "is_live": true,
       "title": "【Arknights&Endflied】本日はガチャと危機契約【ゲーム雑談】",
-      "game_name": "Arknights",
+      "game_name": "ARKNIGHTS: ENDFIELD",
       "started_at": "2026-11-23T10:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
