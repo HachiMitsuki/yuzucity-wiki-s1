@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:16:26+09:00",
+  "updated_at": "2026-11-23T19:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -101,7 +101,7 @@
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
       "title": "【#雑談配信 】やりたい放題配信 ～隙あらば自語りおｋ～ #3【#vtuber /雷音雅】",
-      "game_name": "",
+      "game_name": "StarWard",
       "started_at": "2026-11-23T08:25:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -889,11 +889,7 @@
       "display_name": "甘兎さく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dee1218-6d1d-4d62-82b3-1f4eb7e00527-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/amausaku",
-      "is_live": true,
-      "title": "【#valo】めちゃねむい",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-23T09:13:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amausaku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
