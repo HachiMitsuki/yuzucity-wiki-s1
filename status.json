@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:36:29+09:00",
+  "updated_at": "2026-11-25T03:06:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -443,11 +443,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【デルラス】色んなところ回りたいな！",
-      "game_name": "Rust",
-      "started_at": "2026-11-24T12:59:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -599,11 +595,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【Arknights:Endfiled】最後の大詰めをする管理人【ゲーム雑談】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-11-24T16:02:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
