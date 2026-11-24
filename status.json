@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:16:38+09:00",
+  "updated_at": "2026-11-24T22:21:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -1045,7 +1045,11 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆずEMS猿バナナ】人力メガシャウト3人組の爆弾解除 ガヤ視点w/ゆずEMS(誰が来るかは分からない)",
+      "game_name": "BOMBANANA!",
+      "started_at": "2026-11-24T13:17:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
