@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:21:38+09:00",
+  "updated_at": "2026-11-24T22:26:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -491,11 +491,7 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": true,
-      "title": "新たに始まるジョブ100チャレンジ【暗黒騎士】",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-11-24T10:18:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1079,7 +1075,11 @@
       "display_name": "六識ムイカ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/06c68d5b-931d-4919-b653-707df220edf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/muishiki_jp",
-      "is_live": false
+      "is_live": true,
+      "title": "YUZUCITY振り返りその6～今日でラスト～",
+      "game_name": "Just Chatting",
+      "started_at": "2026-11-24T13:24:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_muishiki_jp-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
