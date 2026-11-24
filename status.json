@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:01:43+09:00",
+  "updated_at": "2026-11-24T22:06:40+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -80,7 +80,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
       "is_live": true,
-      "title": "【REPO→OW→妹に運営運転を教える予定】誕生日な男は色んなゲームをやるよーまずはREPO→OW【初見歓迎】",
+      "title": "【REPO→OW→妹に運営運転を教える予定】誕生日な男は色んなゲームをやるよーまずはREPO→OW参加◎【初見歓迎】",
       "game_name": "Overwatch",
       "started_at": "2026-11-24T11:38:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
@@ -847,7 +847,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "地底組のvalheim #41 極北編",
+      "game_name": "Valheim",
+      "started_at": "2026-11-24T13:05:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
