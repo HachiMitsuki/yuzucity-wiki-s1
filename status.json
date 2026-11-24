@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T21:46:38+09:00",
+  "updated_at": "2026-11-24T22:01:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -80,8 +80,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
       "is_live": true,
-      "title": "【REPO→OW→妹に運営運転を教える予定】誕生日な男は色んなゲームをやるよーまずはREPO【初見歓迎】",
-      "game_name": "R.E.P.O.",
+      "title": "【REPO→OW→妹に運営運転を教える予定】誕生日な男は色んなゲームをやるよーまずはREPO→OW【初見歓迎】",
+      "game_name": "Overwatch",
       "started_at": "2026-11-24T11:38:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -399,11 +399,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【RUST】ひたすら頑張りたい5日目 #デルラス",
-      "game_name": "Rust",
-      "started_at": "2026-11-24T07:52:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -467,7 +463,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【デルラス】色んなところ回りたいな！",
+      "game_name": "Rust",
+      "started_at": "2026-11-24T12:59:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
