@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:01:33+09:00",
+  "updated_at": "2026-11-24T20:16:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -607,11 +607,7 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": true,
-      "title": "【ROB RUN】コラボ前に少しだけ【ゲーム雑談】",
-      "game_name": "ROB RUN",
-      "started_at": "2026-11-24T09:25:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -641,7 +637,11 @@
       "display_name": "shoo_go",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7befca59-e7dd-4df5-9b76-5f96a3c3f5b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shoo_go",
-      "is_live": false
+      "is_live": true,
+      "title": "【ボクたちはここにいた】なんか友情試されるらしい",
+      "game_name": "We Were Here Expeditions: The FriendShip",
+      "started_at": "2026-11-24T11:15:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shoo_go-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -961,11 +961,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#Katacity】復帰した狼が警察を頑張るお話 捜査一課編 #2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-24T10:12:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
