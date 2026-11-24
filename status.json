@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:11:34+09:00",
+  "updated_at": "2026-11-25T00:16:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -245,11 +245,7 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": true,
-      "title": "【R.E.P.O.】終わる早かったのでREPOする【w/ @himiya_shiro】",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-24T12:14:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1031,11 +1027,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#REPO】お宝集め～【氷見谷しろ/新人Vtuber】",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-24T12:14:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
