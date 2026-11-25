@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:46:22+09:00",
+  "updated_at": "2026-11-25T17:51:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -421,7 +421,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【#デルラス】 #5 目指せ飲食店開店！！",
+      "game_name": "Rust",
+      "started_at": "2026-11-25T08:49:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
