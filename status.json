@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:06:27+09:00",
+  "updated_at": "2026-11-25T21:17:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -773,7 +773,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】3次会?? いや2次会です!!",
+      "game_name": "Overwatch",
+      "started_at": "2026-11-25T12:13:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
