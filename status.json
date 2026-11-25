@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T23:16:27+09:00",
+  "updated_at": "2026-11-25T23:21:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,11 +63,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #第五人格 】鯖行きまっしょい夜の部",
-      "game_name": "Identity V",
-      "started_at": "2026-11-25T11:02:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -374,7 +370,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": true,
-      "title": "【Overwatch】久しぶりですやん！",
+      "title": "【Overwatch → LoL】久しぶりですやん！",
       "game_name": "League of Legends",
       "started_at": "2026-11-25T12:33:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
