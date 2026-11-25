@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:56:29+09:00",
+  "updated_at": "2026-11-25T21:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -267,7 +267,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】チェンバーOTP/ふるぱっぱ【湊星いぐれ】@i_minatoboshi",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-25T12:02:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,7 +463,11 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【デルラス】必要ないかもしれないけど作るヘリ拠点",
+      "game_name": "Rust",
+      "started_at": "2026-11-25T12:03:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -751,7 +759,11 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": false
+      "is_live": true,
+      "title": "【Apex】雅とみはしとランク 【神薙るい】",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-25T12:03:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1021,7 +1033,11 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": false
+      "is_live": true,
+      "title": "【#VALORANT】Yuzu勢 フルパコンペ🔷",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-25T12:02:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
