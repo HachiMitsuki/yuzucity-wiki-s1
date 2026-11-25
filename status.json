@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T22:06:34+09:00",
+  "updated_at": "2026-11-25T22:11:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -88,8 +88,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
       "is_live": true,
-      "title": "【REPO→OW→妹に運営運転を教える予定】誕生日な男は色んなゲームをやるよーまずはREPO→OW参加◎→妹に運営運転を教える【初見歓迎】",
-      "game_name": "Overwatch",
+      "title": "【ペルソナ５R】  12月7日～  今日もコツコツとコープをこなす！ Pat45【初見歓迎】©ATLUS ©SEGA",
+      "game_name": "Persona 5 Royal",
       "started_at": "2026-11-25T13:05:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -1067,7 +1067,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】メイヘムっていいチルゲームですよね",
+      "game_name": "League of Legends",
+      "started_at": "2026-11-25T13:09:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
