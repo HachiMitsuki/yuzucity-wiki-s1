@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:26:22+09:00",
+  "updated_at": "2026-11-26T01:46:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -941,11 +941,7 @@
       "display_name": "還路くがな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d942085-c1a9-41e8-a2d0-58387befded2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kugana00",
-      "is_live": true,
-      "title": "【REPO】EMSのメンバーで次の犯罪です",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-25T13:00:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kugana00-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -965,11 +961,7 @@
       "display_name": "せつかだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2e1ab5d-9204-492d-953a-52e3fa071177-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/setukaimaboku",
-      "is_live": true,
-      "title": "【#REPO】YuzuEMSでREPO!!",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-25T13:44:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_setukaimaboku-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -999,11 +991,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#REPO】今回もみんなでお宝集めるよー！【氷見谷しろ/新人Vtuber】",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-25T13:00:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1013,11 +1001,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【R.E.P.O】宝探し！ w/ゆずEMS",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-11-25T13:02:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
