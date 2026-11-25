@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T22:56:28+09:00",
+  "updated_at": "2026-11-25T23:11:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -795,11 +795,7 @@
       "display_name": "かんなぎるい",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d5e7aa-d112-48ad-b2e9-71dc79e34291-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kannagirui_",
-      "is_live": true,
-      "title": "【Apex】雅とみはしとランク 【神薙るい】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-25T12:03:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kannagirui_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -810,8 +806,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
       "is_live": true,
-      "title": "【OW】3次会?? いや2次会です!!",
-      "game_name": "Overwatch",
+      "title": "【OW】3次会?? いや2次会です!!ガーティックフォン",
+      "game_name": "Just Chatting",
       "started_at": "2026-11-25T12:13:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
