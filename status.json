@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T02:36:22+09:00",
+  "updated_at": "2026-11-26T03:01:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -383,11 +383,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【RUST】ひたすら頑張りたい6日目 #デルラス",
-      "game_name": "Rust",
-      "started_at": "2026-11-25T14:25:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -417,11 +413,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【#デルラス】 #5 目指せ飲食店開店！！",
-      "game_name": "Rust",
-      "started_at": "2026-11-25T08:49:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -451,11 +443,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【デルラス】必要ないかもしれないけど作るヘリ拠点",
-      "game_name": "Rust",
-      "started_at": "2026-11-25T12:03:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
