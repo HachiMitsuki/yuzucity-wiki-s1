@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:51:23+09:00",
+  "updated_at": "2026-11-26T20:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -729,7 +729,11 @@
       "display_name": "べりぃぷる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6470347a-82af-4be9-b831-934bddd4cb11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/veryiplu",
-      "is_live": false
+      "is_live": true,
+      "title": "〖 顔出し 〗ストレートネック不回避職",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-26T10:59:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veryiplu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -979,7 +983,11 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#和V6】警察出勤！【氷見谷しろ/新人Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-26T10:59:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
