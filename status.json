@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:31:25+09:00",
+  "updated_at": "2026-11-27T00:46:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -465,11 +465,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【ラフシティ】ついにこの時がやってきた！【ここここしここし/ももたろう】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-26T13:38:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -577,11 +573,7 @@
       "display_name": "伊貫隈怜",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/315a84fd-90c1-4dd8-8a98-7362cf5de213-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/inukuma_ryou",
-      "is_live": true,
-      "title": "【 #VALORANT 】飼い主と行きますよ～ 【#個人V #Vtuber 】",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-26T13:19:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inukuma_ryou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -919,11 +911,7 @@
       "display_name": "エスカブイ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd0b99e8-df1f-4ff6-a221-5f5c43ab932a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/esukanoo",
-      "is_live": true,
-      "title": "VALO配信 今日はVALOします。 いろんな方から俺はシル2じゃないといわれるのでさっさとぬけたい 疲れているので短めです。",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-26T14:06:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esukanoo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
