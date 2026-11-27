@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T01:31:25+09:00",
+  "updated_at": "2026-11-28T01:41:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -341,11 +341,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "Novill town1日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-27T14:51:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
