@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:06:25+09:00",
+  "updated_at": "2026-11-28T02:21:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -759,11 +759,7 @@
       "display_name": "御神オルム",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7a9283-a65e-473f-b501-70a6fd3d6b81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/murasaki_orumu",
-      "is_live": true,
-      "title": "【LostRoseCity】警察しまくる【占い師vtuber/御神オルム】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-27T12:32:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikami_orumu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1061,11 +1057,7 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": true,
-      "title": "【NovillTown β】1日目 さぁ行こう、どこまでも【宇品 凛】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-27T12:58:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
