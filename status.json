@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T01:56:25+09:00",
+  "updated_at": "2026-11-28T02:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -125,11 +125,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 新人の面倒みる、新人か？？ ７１話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-27T13:29:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1083,7 +1079,11 @@
       "display_name": "酒白ﾚｲ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0944bc5c-b13d-4b0c-b353-015692e9d252-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakeshiro_rei",
-      "is_live": false
+      "is_live": true,
+      "title": "【飲酒】ほろ酔い",
+      "game_name": "Apex Legends",
+      "started_at": "2026-11-27T16:59:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakeshiro_rei-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
