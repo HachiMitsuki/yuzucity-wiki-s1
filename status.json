@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T20:01:25+09:00",
+  "updated_at": "2026-11-27T20:06:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,7 +263,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #NOVILLTOWN  】1日目 俺が警察志望…！？【湊星いぐれ視点】 #Fivem #スト鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-27T11:03:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -501,7 +505,11 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38396cb4-476d-4114-8213-9397dba03f9a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/samebxs",
-      "is_live": false
+      "is_live": true,
+      "title": "【#NOVILLTOWN 】個人医になりたいんだ／月城さめ 支店",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-27T11:04:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samebxs-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -745,7 +753,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【NOVILLTWON】Day1 何になるかなぁ～？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-27T11:03:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
