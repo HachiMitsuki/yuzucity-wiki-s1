@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T18:56:22+09:00",
+  "updated_at": "2026-11-27T19:26:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -993,11 +993,7 @@
       "display_name": "水瀬しんじ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
-      "is_live": true,
-      "title": "【PHASMOPHOBIA】怖いよ....FVC救急隊コラボ",
-      "game_name": "Phasmophobia",
-      "started_at": "2026-11-27T04:08:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
