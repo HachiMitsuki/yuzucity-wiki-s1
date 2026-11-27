@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T07:01:18+09:00",
+  "updated_at": "2026-11-28T08:16:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -70,7 +70,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
-      "title": "【LoL】眠れないからSoroQする",
+      "title": "【LoL】眠れないからSoloQする",
       "game_name": "League of Legends",
       "started_at": "2026-11-27T19:07:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
@@ -963,11 +963,7 @@
       "display_name": "氷見谷シロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/073b3472-5277-43a9-b46f-133944f47007-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himiya_shiro",
-      "is_live": true,
-      "title": "【#apex】寝れないから少しだけ！【氷見谷しろ/新人Vtuber】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-11-27T21:56:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himiya_shiro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
