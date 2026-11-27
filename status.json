@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T04:11:17+09:00",
+  "updated_at": "2026-11-28T04:16:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -387,11 +387,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【RUST】ひたすら頑張りたい8日目 #デルラス",
-      "game_name": "Rust",
-      "started_at": "2026-11-27T14:54:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crazypanda_0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
