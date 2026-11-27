@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:11:21+09:00",
+  "updated_at": "2026-11-27T13:31:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -289,7 +289,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【ARK】打合せまで仕事さぼる😇【RAGNAROK】",
+      "game_name": "ARK: Survival Ascended",
+      "started_at": "2026-11-27T04:30:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -990,8 +994,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28aa02ec-5a88-40a5-82e3-4ea0ab6abe57-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/minaseshinji",
       "is_live": true,
-      "title": "【ストグラFV_Casual】98日目💧水瀬悠里のお散歩日記💧ぼちぼちいこうか！！！",
-      "game_name": "Grand Theft Auto V",
+      "title": "【PHASMOPHOBIA】怖いよ....FVC救急隊コラボ",
+      "game_name": "Phasmophobia",
       "started_at": "2026-11-27T04:08:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minaseshinji-{width}x{height}.jpg"
     },
