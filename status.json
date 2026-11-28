@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T21:11:28+09:00",
+  "updated_at": "2026-11-28T21:16:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,7 +39,11 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "【NOVILL TOWN】DAY2 ～まじのんびり～",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T12:13:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -153,7 +157,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "#Losグラ 明日で最終日らしい… #32",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T12:15:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -329,7 +337,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "Novill town2日目！PD空凪紫雨",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T12:15:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
