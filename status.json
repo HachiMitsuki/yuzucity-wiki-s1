@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T01:26:24+09:00",
+  "updated_at": "2026-11-29T01:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "フルパVA2【龍咲】【#VALORANT 】",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-28T13:28:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -73,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】フルパコンペするよ～",
-      "game_name": "VALORANT",
-      "started_at": "2026-11-28T13:28:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -586,7 +578,7 @@
       "is_live": true,
       "title": "【デジモンワールド2】ファイル島 #19-2",
       "game_name": "Digimon World 2",
-      "started_at": "2026-11-28T13:59:20Z",
+      "started_at": "2026-11-28T16:31:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanatos4090-{width}x{height}.jpg"
     },
     {
