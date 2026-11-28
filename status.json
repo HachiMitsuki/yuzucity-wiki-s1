@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T03:01:23+09:00",
+  "updated_at": "2026-11-29T03:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -267,11 +267,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "戻ってきての【 #NOVILLTOWN 】2日目 サムネ作ってない【湊星いぐれ視点】 #Fivem #スト鯖",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T11:57:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -545,11 +541,7 @@
       "display_name": "しょこらんらん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/syokoraaan_channel",
-      "is_live": true,
-      "title": "クリスマスプレゼント待ってます♡ 初見さん◎ROM◎Drops◎",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T07:59:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -589,11 +581,7 @@
       "display_name": "紅茶猫",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d065b3d8-f88b-4f67-8688-ced4fd35599f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koucyanec0319",
-      "is_live": true,
-      "title": "【NOVILLTOWN】 悪亥眠子、NOVILLTOWNに参上!!【紅茶猫/Koucyaneco】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T13:52:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koucyanec0319-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -797,11 +785,7 @@
       "display_name": "もみじるな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1421fa9-f6b6-4e86-b9c4-b7b7978db81b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lunamomizi",
-      "is_live": true,
-      "title": "【2VILLTOWN】Beta Day2【GTARP】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T16:23:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunamomizi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
