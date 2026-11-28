@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T00:41:28+09:00",
+  "updated_at": "2026-11-29T00:51:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -631,7 +631,11 @@
       "display_name": "nabisco_ritz",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff891d94-6a27-4f6e-9792-168a596d7a4a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nabisco_ritz",
-      "is_live": false
+      "is_live": true,
+      "title": "【Arknights:Endfield】選ばれたのはエンフィでした【ゲーム雑談】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-11-28T15:46:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nabisco_ritz-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -863,11 +867,7 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": true,
-      "title": "ゆずしてぃーLSC打ち上げ会!!あ、俺メカニックじゃないです",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-11-28T12:08:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
