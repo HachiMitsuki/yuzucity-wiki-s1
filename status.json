@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T20:56:29+09:00",
+  "updated_at": "2026-11-28T21:01:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -193,7 +193,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【クトゥルフ神話TRPG】かいぶつたちとマホラカルトpart2【＃かりらふとマホラカルト】",
+      "game_name": "Tabletop RPGs",
+      "started_at": "2026-11-28T11:59:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -263,7 +267,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #ADDONZERO 】1日目 こっちでは悪い人😀【湊星いぐれ視点】 #Fivem #スト鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T11:57:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
