@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T17:01:25+09:00",
+  "updated_at": "2026-11-28T17:06:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,7 +263,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #NOVILLTOWN 】2日目 サムネ作ってない【湊星いぐれ視点】 #Fivem #スト鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T08:05:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -879,7 +883,11 @@
       "display_name": "DMist",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0201d41-ab75-4616-bceb-008327d13471-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/dmist",
-      "is_live": false
+      "is_live": true,
+      "title": "Aion 2と雑談",
+      "game_name": "AION 2",
+      "started_at": "2026-11-28T08:04:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmist-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
