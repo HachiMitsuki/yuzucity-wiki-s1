@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T20:46:29+09:00",
+  "updated_at": "2026-11-28T20:56:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -429,11 +429,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【#デルラス】 #8 飲食店開店！！",
-      "game_name": "Rust",
-      "started_at": "2026-11-28T06:59:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -483,7 +479,11 @@
       "display_name": "黒夏クロ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da704d4c-c97d-4a2b-bd3a-91dbbfd451d7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuronatu_3367",
-      "is_live": false
+      "is_live": true,
+      "title": "【BorderTowns】初めましての街は色々できるらしいぜ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T11:51:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuronatu_3367-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
