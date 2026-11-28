@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T21:06:30+09:00",
+  "updated_at": "2026-11-28T21:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -839,7 +839,11 @@
       "display_name": "月下時雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/282516fb-e378-4fab-9a01-46e0efb955ed-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gekka_shigure",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずしてぃーLSC打ち上げ会!!あ、俺メカニックじゃないです",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-11-28T12:08:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gekka_shigure-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
