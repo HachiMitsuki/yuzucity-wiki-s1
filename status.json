@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T02:56:23+09:00",
+  "updated_at": "2026-11-29T03:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -301,11 +301,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【NOVILLTOWN 】わんわんお（∪＾ω＾）😇【2日目】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T11:11:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -485,11 +481,7 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": true,
-      "title": "【#NOVILLTOWN】Metalina",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T13:28:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -765,11 +757,7 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": true,
-      "title": "【NOVILLTWON】Day2 俺はポリだ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T08:40:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -971,11 +959,7 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": true,
-      "title": "GTA5 NOVILLTOWN 2日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T08:38:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -995,11 +979,7 @@
       "display_name": "夢ヶ咲よう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e22c5c8-b2cb-4f21-8c8d-bbd0a70875af-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yumegasaki_vt",
-      "is_live": true,
-      "title": "【 #GTA 】個人医になりました！day2 月城よう視点 #NOVILLTOWN",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T08:26:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumegasaki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -1009,11 +989,7 @@
       "display_name": "ayayadreams",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc11c8e6-34fb-48bd-8e93-1adadf833ae3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ayayadreams",
-      "is_live": true,
-      "title": "本日は少々人々を救助していく【NOVILLTOWN】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-11-28T12:39:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayayadreams-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
