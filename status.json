@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T23:31:31+09:00",
+  "updated_at": "2026-11-28T23:36:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -71,11 +71,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #第五人格 】【 #IdentityV 】さくなつ🌸🌻",
-      "game_name": "Identity V",
-      "started_at": "2026-11-28T11:06:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
