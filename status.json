@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T02:46:23+09:00",
+  "updated_at": "2026-11-29T02:51:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -257,11 +257,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【OW】エイムはもう捨ててきました",
-      "game_name": "Overwatch",
-      "started_at": "2026-11-28T16:23:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -547,11 +543,7 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": true,
-      "title": "今日から個人医生活! #NOVILLTOWN",
-      "game_name": "Grand Theft Auto VI",
-      "started_at": "2026-11-28T15:25:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
