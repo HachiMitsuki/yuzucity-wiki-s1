@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T17:36:27+09:00",
+  "updated_at": "2026-11-28T17:41:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -761,7 +761,11 @@
       "display_name": "Les_i7",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51588f68-3aee-40b5-8ee6-fcf0d4cf23ea-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/les_i7",
-      "is_live": false
+      "is_live": true,
+      "title": "【NOVILLTWON】Day2 俺はポリだ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T08:40:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_les_i7-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -955,7 +959,11 @@
       "display_name": "テキーラのカイさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57578e-4f83-40f3-b286-65f016ea6538-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/gryokan",
-      "is_live": false
+      "is_live": true,
+      "title": "GTA5 NOVILLTOWN 2日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T08:38:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gryokan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
