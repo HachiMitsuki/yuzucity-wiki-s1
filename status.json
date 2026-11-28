@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29T00:21:27+09:00",
+  "updated_at": "2026-11-29T00:26:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,11 +87,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ペルソナ５R】  12月13日～そろそろシドウの結末みれる？？   Pat46【初見歓迎】©ATLUS ©SEGA",
-      "game_name": "Persona 5 Royal",
-      "started_at": "2026-11-28T12:37:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -563,7 +559,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "今日から個人医生活! #NOVILLTOWN",
+      "game_name": "Grand Theft Auto VI",
+      "started_at": "2026-11-28T15:25:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -921,7 +921,11 @@
       "display_name": "よしぴっ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b9c5af6-d883-4dc7-ab8a-43d850e3af51-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/arx_yo4pi",
-      "is_live": false
+      "is_live": true,
+      "title": "【REPO】みんなでお宝集め",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-11-28T15:21:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arx_yo4pi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
