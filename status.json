@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T21:56:30+09:00",
+  "updated_at": "2026-11-28T22:31:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "フルパVA2【龍咲】【#VALORANT 】",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-28T13:28:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -81,7 +85,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】フルパコンペするよ～",
+      "game_name": "VALORANT",
+      "started_at": "2026-11-28T13:28:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -517,7 +525,11 @@
       "display_name": "睦月舞綺",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a723b58a-7e04-4613-a45e-d294299efa80-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mutsukimaki",
-      "is_live": false
+      "is_live": true,
+      "title": "【#NOVILLTOWN】Metalina",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T13:28:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -1057,7 +1069,11 @@
       "display_name": "かけたやん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b767c7-a93c-4adc-8285-6ba12768b0be-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tayannn17",
-      "is_live": false
+      "is_live": true,
+      "title": "【NovillTown β】2日目 常識なんて吹き飛ばせ！！【宇品 凛】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T13:29:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tayannn17-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
