@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T20:01:28+09:00",
+  "updated_at": "2026-11-28T20:11:28+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,7 +59,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #第五人格 】【 #IdentityV 】さくなつ🌸🌻",
+      "game_name": "Identity V",
+      "started_at": "2026-11-28T11:06:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -783,7 +787,11 @@
       "display_name": "みどりはら",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0c1c88a-ecc6-46c1-95e4-52efe6cedd0c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/midorihara_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "【NOVILL TOWN】#1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-11-28T11:06:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midorihara_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
