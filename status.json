@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T15:51:23+09:00",
+  "updated_at": "2026-11-28T16:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -197,7 +197,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【クトゥルフ神話TRPG】かいぶつたちとマホラカルトpart1【＃かりらふとマホラカルト】",
+      "game_name": "Tabletop RPGs",
+      "started_at": "2026-11-28T06:59:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -425,7 +429,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【#デルラス】 #8 飲食店開店！！",
+      "game_name": "Rust",
+      "started_at": "2026-11-28T06:59:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
